@@ -1,0 +1,342 @@
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+Starting ground truth scrape for years 1956-2025, force=True
+[1956] Fetching https://en.wikipedia.org/wiki/1956_Ballon_d%27Or
+[1956] Collected 24 rows from table 1 (total now 24) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1957] Fetching https://en.wikipedia.org/wiki/1957_Ballon_d%27Or
+[1957] Collected 23 rows from table 1 (total now 23) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1958] Fetching https://en.wikipedia.org/wiki/1958_Ballon_d%27Or
+[1958] Collected 26 rows from table 2 (total now 26) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1959] Fetching https://en.wikipedia.org/wiki/1959_Ballon_d%27Or
+[1959] Collected 26 rows from table 1 (total now 26) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1960] Fetching https://en.wikipedia.org/wiki/1960_Ballon_d%27Or
+[1960] Collected 26 rows from table 1 (total now 26) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1961] Fetching https://en.wikipedia.org/wiki/1961_Ballon_d%27Or
+[1961] Collected 43 rows from table 1 (total now 43) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1962] Fetching https://en.wikipedia.org/wiki/1962_Ballon_d%27Or
+[1962] Collected 27 rows from table 1 (total now 27) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1963] Fetching https://en.wikipedia.org/wiki/1963_Ballon_d%27Or
+[1963] Collected 25 rows from table 1 (total now 25) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1964] Fetching https://en.wikipedia.org/wiki/1964_Ballon_d%27Or
+[1964] Collected 26 rows from table 1 (total now 26) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1965] Fetching https://en.wikipedia.org/wiki/1965_Ballon_d%27Or
+[1965] Collected 27 rows from table 1 (total now 27) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1966] Fetching https://en.wikipedia.org/wiki/1966_Ballon_d%27Or
+[1966] Collected 23 rows from table 1 (total now 23) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1967] Fetching https://en.wikipedia.org/wiki/1967_Ballon_d%27Or
+[1967] Collected 34 rows from table 1 (total now 34) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1968] Fetching https://en.wikipedia.org/wiki/1968_Ballon_d%27Or
+[1968] Collected 32 rows from table 1 (total now 32) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1969] Fetching https://en.wikipedia.org/wiki/1969_Ballon_d%27Or
+[1969] Collected 31 rows from table 1 (total now 31) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1970] Fetching https://en.wikipedia.org/wiki/1970_Ballon_d%27Or
+[1970] Collected 29 rows from table 1 (total now 29) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1971] Fetching https://en.wikipedia.org/wiki/1971_Ballon_d%27Or
+[1971] Collected 23 rows from table 1 (total now 23) cols ['Rank', 'Player', 'Club(s)', 'Nationality', 'Points']
+[1972] Fetching https://en.wikipedia.org/wiki/1972_Ballon_d%27Or
+[1972] Collected 27 rows from table 1 (total now 27) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1973] Fetching https://en.wikipedia.org/wiki/1973_Ballon_d%27Or
+[1973] Collected 27 rows from table 1 (total now 27) cols ['Rank', 'Player', 'Club(s)', 'Nationality', 'Points']
+[1974] Fetching https://en.wikipedia.org/wiki/1974_Ballon_d%27Or
+[1974] Collected 23 rows from table 1 (total now 23) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1975] Fetching https://en.wikipedia.org/wiki/1975_Ballon_d%27Or
+[1975] Collected 32 rows from table 1 (total now 32) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1976] Fetching https://en.wikipedia.org/wiki/1976_Ballon_d%27Or
+[1976] Collected 29 rows from table 1 (total now 29) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1977] Fetching https://en.wikipedia.org/wiki/1977_Ballon_d%27Or
+[1977] Collected 32 rows from table 1 (total now 32) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1978] Fetching https://en.wikipedia.org/wiki/1978_Ballon_d%27Or
+[1978] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1979] Fetching https://en.wikipedia.org/wiki/1979_Ballon_d%27Or
+[1979] Collected 32 rows from table 1 (total now 32) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1980] Fetching https://en.wikipedia.org/wiki/1980_Ballon_d%27Or
+[1980] Collected 32 rows from table 1 (total now 32) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1981] Fetching https://en.wikipedia.org/wiki/1981_Ballon_d%27Or
+[1981] Collected 34 rows from table 1 (total now 34) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1982] Fetching https://en.wikipedia.org/wiki/1982_Ballon_d%27Or
+[1982] Collected 19 rows from table 1 (total now 19) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1983] Fetching https://en.wikipedia.org/wiki/1983_Ballon_d%27Or
+[1983] Collected 36 rows from table 1 (total now 36) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1984] Fetching https://en.wikipedia.org/wiki/1984_Ballon_d%27Or
+[1984] Collected 26 rows from table 1 (total now 26) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1985] Fetching https://en.wikipedia.org/wiki/1985_Ballon_d%27Or
+[1985] Collected 38 rows from table 1 (total now 38) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1986] Fetching https://en.wikipedia.org/wiki/1986_Ballon_d%27Or
+[1986] Collected 27 rows from table 1 (total now 27) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1987] Fetching https://en.wikipedia.org/wiki/1987_Ballon_d%27Or
+[1987] Collected 34 rows from table 1 (total now 34) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1988] Fetching https://en.wikipedia.org/wiki/1988_Ballon_d%27Or
+[1988] Collected 24 rows from table 1 (total now 24) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1989] Fetching https://en.wikipedia.org/wiki/1989_Ballon_d%27Or
+[1989] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1990] Fetching https://en.wikipedia.org/wiki/1990_Ballon_d%27Or
+[1990] Collected 23 rows from table 1 (total now 23) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1991] Fetching https://en.wikipedia.org/wiki/1991_Ballon_d%27Or
+[1991] Collected 31 rows from table 1 (total now 31) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1992] Fetching https://en.wikipedia.org/wiki/1992_Ballon_d%27Or
+[1992] Collected 22 rows from table 1 (total now 22) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1993] Fetching https://en.wikipedia.org/wiki/1993_Ballon_d%27Or
+[1993] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1994] Fetching https://en.wikipedia.org/wiki/1994_Ballon_d%27Or
+[1994] Collected 28 rows from table 1 (total now 28) cols ['Rank', 'Name', 'Club(s)', 'Nationality', 'Points']
+[1995] Fetching https://en.wikipedia.org/wiki/1995_Ballon_d%27Or
+[1995] Collected 34 rows from table 1 (total now 34) cols ['Rank[2][3]', 'Player', 'Club(s)', 'Nationality', 'Points']
+[1996] Fetching https://en.wikipedia.org/wiki/1996_Ballon_d%27Or
+[1996] Collected 32 rows from table 1 (total now 32) cols ['Rank', 'Player', 'Club(s)', 'Nationality', 'Points']
+[1997] Fetching https://en.wikipedia.org/wiki/1997_Ballon_d%27Or
+[1997] Collected 36 rows from table 1 (total now 36) cols ['Rank', 'Player', 'Club(s)', 'Nationality', 'Points']
+[1998] Fetching https://en.wikipedia.org/wiki/1998_Ballon_d%27Or
+[1998] Collected 31 rows from table 1 (total now 31) cols ['Rank', 'Player', 'Club(s)', 'Nationality', 'Points']
+[1999] Fetching https://en.wikipedia.org/wiki/1999_Ballon_d%27Or
+[1999] Collected 31 rows from table 1 (total now 31) cols ['Rank', 'Player', 'Club(s)', 'Nationality', 'Points']
+[2000] Fetching https://en.wikipedia.org/wiki/2000_Ballon_d%27Or
+[2000] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Player', 'Club(s)', 'Nationality', 'Points']
+[2001] Fetching https://en.wikipedia.org/wiki/2001_Ballon_d%27Or
+[2001] Collected 50 rows from table 1 (total now 50) cols ['Rank[3]', 'Player', 'Club(s)', 'Nationality', 'Points']
+[2002] Fetching https://en.wikipedia.org/wiki/2002_Ballon_d%27Or/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+/home/user/scrapers/ground_truth_scraper.py:155: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables = pd.read_html(html)
+
+[2002] Collected 26 rows from table 1 (total now 26) cols ['Rank', 'Player', 'Nationality', 'Club(s)', 'Points']
+[2003] Fetching https://en.wikipedia.org/wiki/2003_Ballon_d%27Or
+[2003] Collected 26 rows from table 1 (total now 26) cols [('Rank[6]', 'Rank[6]'), ('Player', 'Player'), ('Nationality', 'Nationality'), ('Club(s)', 'Club(s)'), ('Total', 'Total'), ('Votes by place', '1st')]
+[2004] Fetching https://en.wikipedia.org/wiki/2004_Ballon_d%27Or
+[2004] Collected 29 rows from table 1 (total now 29) cols [('Rank[6]', 'Rank[6]'), ('Player', 'Player'), ('Nationality', 'Nationality'), ('Club(s)', 'Club(s)'), ('Total', 'Total'), ('Votes by place', '1st')]
+[2005] Fetching https://en.wikipedia.org/wiki/2005_Ballon_d%27Or
+[2005] Collected 24 rows from table 1 (total now 24) cols [('Rank', 'Rank'), ('Player', 'Player'), ('Nationality', 'Nationality'), ('Club(s)', 'Club(s)'), ('Total', 'Total'), ('Votes by place', '1st')]
+[2006] Fetching https://en.wikipedia.org/wiki/2006_Ballon_d%27Or
+[2006] Collected 26 rows from table 1 (total now 26) cols [('Rank', 'Rank'), ('Player', 'Player'), ('Nationality', 'Nationality'), ('Club(s)', 'Club(s)'), ('Total', 'Total'), ('Votes by place', '1st')]
+[2007] Fetching https://en.wikipedia.org/wiki/2007_Ballon_d%27Or
+[2007] Collected 50 rows from table 1 (total now 50) cols ['Rank', 'Player', 'Nationality', 'Club(s)', 'Points']
+[2008] Fetching https://en.wikipedia.org/wiki/2008_Ballon_d%27Or
+[2008] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Player', 'Nationality', 'Club(s)', 'Points']
+[2009] Fetching https://en.wikipedia.org/wiki/2009_Ballon_d%27Or
+[2009] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Player', 'Nationality', 'Club(s)', 'Points']
+[2010] Fetching https://en.wikipedia.org/wiki/2010_FIFA_Ballon_d%27Or
+[2010] Collected 3 rows from table 1 (total now 3) cols ['Rank', 'Player', 'National team', 'Club(s)', 'Percent']
+[2010] Collected 20 rows from table 2 (total now 23) cols ['Rank', 'Player', 'National team', 'Club(s)', 'Percent']
+[2011] Fetching https://en.wikipedia.org/wiki/2011_FIFA_Ballon_d%27Or
+[2011] Collected 3 rows from table 1 (total now 3) cols ['Rank', 'Player[2]', 'National team', 'Club(s)', 'Percent']
+[2011] Collected 20 rows from table 2 (total now 23) cols ['Rank', 'Player[3]', 'National team', 'Club(s)', 'Percent']
+[2012] Fetching https://en.wikipedia.org/wiki/2012_FIFA_Ballon_d%27Or
+[2012] Collected 3 rows from table 1 (total now 3) cols ['Rank', 'Player[11]', 'National team', 'Club(s)', 'Percent']
+[2012] Collected 20 rows from table 2 (total now 23) cols ['Rank', 'Player[11]', 'National team', 'Club(s)', 'Percent']
+[2013] Fetching https://en.wikipedia.org/wiki/2013_FIFA_Ballon_d%27Or
+[2013] Collected 3 rows from table 1 (total now 3) cols ['Rank', 'Player', 'National team', 'Club(s)', 'Percent', 'Votes']
+[2013] Collected 20 rows from table 2 (total now 23) cols ['Rank', 'Player', 'National team', 'Club(s)', 'Percent', 'Votes']
+[2014] Fetching https://en.wikipedia.org/wiki/2014_FIFA_Ballon_d%27Or
+[2014] Collected 3 rows from table 1 (total now 3) cols ['Rank', 'Player', 'National team', 'Club(s)', 'Percent']
+[2014] Collected 20 rows from table 2 (total now 23) cols ['Rank', 'Player', 'National team', 'Club(s)', 'Percent']
+[2015] Fetching https://en.wikipedia.org/wiki/2015_FIFA_Ballon_d%27Or
+[2015] Collected 3 rows from table 1 (total now 3) cols ['Rank', 'Player', 'National team', 'Club(s)', 'Percent']
+[2015] Collected 20 rows from table 2 (total now 23) cols ['Rank', 'Player', 'National team', 'Club(s)', 'Percent']
+[2016] Fetching https://en.wikipedia.org/wiki/2016_Ballon_d%27Or
+[2016] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Player', 'Club(s)', 'Points']
+[2017] Fetching https://en.wikipedia.org/wiki/2017_Ballon_d%27Or
+[2017] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Player', 'Club(s)', 'Points']
+[2018] Fetching https://en.wikipedia.org/wiki/2018_Ballon_d%27Or
+[2018] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Player', 'Club(s)', 'Points']
+[2019] Fetching https://en.wikipedia.org/wiki/2019_Ballon_d%27Or
+[2019] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Player', 'Club(s)', 'Points']
+[2020] Cancelled year, no data
+[2021] Fetching https://en.wikipedia.org/wiki/2021_Ballon_d%27Or
+[2021] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Player', 'Club(s)', 'Points']
+[2022] Fetching https://en.wikipedia.org/wiki/2022_Ballon_d%27Or
+[2022] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Player', 'Nationality', 'Position', 'Club', 'Points']
+[2023] Fetching https://en.wikipedia.org/wiki/2023_Ballon_d%27Or
+[2023] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Player', 'Nationality', 'Position', 'Club', 'Points']
+[2024] Fetching https://en.wikipedia.org/wiki/2024_Ballon_d%27Or
+[2024] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Player', 'Nationality', 'Position', 'Club', 'Points']
+[2025] Fetching https://en.wikipedia.org/wiki/2025_Ballon_d%27Or
+[2025] Collected 30 rows from table 1 (total now 30) cols ['Rank', 'Player', 'Nationality', 'Position', 'Club', 'Points']
+Total scraped rows across all years: 2004
+Saved eval window metadata to /home/user/data/processed/eval_window_metadata.csv with 70 rows
+Saved ground truth parquet to /home/user/data/processed/ground_truth.parquet shape (2004, 12)
+Saved ground truth csv to /home/user/data/processed/ground_truth.csv
+
+=== QA Pass ===
+PASS: 2020 correctly excluded (cancelled)
+PASS: Every year has rank 1 winner
+PASS: No duplicate players within same year detected
+
+Row counts per year (sample):
+award_year
+1956    24
+1957    23
+1958    26
+1959    26
+1960    26
+1961    43
+1962    27
+1963    25
+1964    26
+1965    27
+1966    23
+1967    34
+1968    32
+1969    31
+1970    29
+1971    23
+1972    27
+1973    27
+1974    23
+1975    32
+dtype: int64
+award_year
+2005    24
+2006    26
+2007    50
+2008    30
+2009    30
+2010    23
+2011    23
+2012    23
+2013    23
+2014    23
+2015    23
+2016    30
+2017    30
+2018    30
+2019    30
+2021    30
+2022    30
+2023    30
+2024    30
+2025    30
+dtype: int64
+
+Total seasons: 69, total rows: 2004
+Average rows per year: 29.0
