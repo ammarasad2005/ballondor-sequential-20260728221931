@@ -1,0 +1,33 @@
+{
+  "features": [
+    "goals_percentile_in_year",
+    "xG_percentile_in_year",
+    "xA_percentile_in_year",
+    "ucl_winner",
+    "league_winner",
+    "nation_won_any_international",
+    "club_prestige_score",
+    "signature_moment_flag",
+    "is_forward",
+    "is_defender",
+    "is_goalkeeper",
+    "is_missing_stats",
+    "is_world_cup_year"
+  ],
+  "coefficients": {
+    "goals_percentile_in_year": 0.5030379218487572,
+    "xG_percentile_in_year": 0.0384059603563482,
+    "xA_percentile_in_year": 0.11112965061558727,
+    "ucl_winner": 0.27998748661411965,
+    "league_winner": 0.10444457434774211,
+    "nation_won_any_international": 0.20728793287354605,
+    "club_prestige_score": 0.27064547029879565,
+    "signature_moment_flag": 0.10588435339632,
+    "is_forward": -0.05868163163674785,
+    "is_defender": 0.042369175217057554,
+    "is_goalkeeper": 0.2114756561947573,
+    "is_missing_stats": -0.23967170786584366,
+    "is_world_cup_year": 0.0
+  },
+  "intercept": -0.17997096651135308
+}
