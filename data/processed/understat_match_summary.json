@@ -1,0 +1,289 @@
+{
+  "matched": 269,
+  "total": 316,
+  "match_rate": 0.8512658227848101,
+  "unmatched_sample": [
+    [
+      2014,
+      "Cristiano Ronaldo",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Lionel Messi",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Manuel Neuer",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Arjen Robben",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Thomas M\u00fcller",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Philipp Lahm",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Neymar",
+      0,
+      null
+    ],
+    [
+      2014,
+      "James Rodr\u00edguez",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Toni Kroos",
+      0,
+      null
+    ],
+    [
+      2014,
+      "\u00c1ngel Di Mar\u00eda",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Diego Costa",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Gareth Bale",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Zlatan Ibrahimovi\u0107",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Yaya Tour\u00e9",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Mario G\u00f6tze",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Karim Benzema",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Andr\u00e9s Iniesta",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Bastian Schweinsteiger",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Javier Mascherano",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Thibaut Courtois",
+      0,
+      null
+    ],
+    [
+      2014,
+      "David Luiz",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Paul Pogba",
+      0,
+      null
+    ],
+    [
+      2014,
+      "Sergio Ramos",
+      0,
+      null
+    ],
+    [
+      2016,
+      "Rui Patr\u00edcio",
+      66.66666666666667,
+      "M\u00e1rio Rui"
+    ],
+    [
+      2017,
+      "Kylian Mbapp\u00e9",
+      72.72727272727273,
+      "Kylian Mbappe-Lottin"
+    ],
+    [
+      2017,
+      "N'Golo Kant\u00e9",
+      75.86206896551724,
+      "N&#039;Golo Kant\u00e9"
+    ],
+    [
+      2017,
+      "Radamel Falcao",
+      62.5,
+      "Raffaele Palladino"
+    ],
+    [
+      2018,
+      "Kylian Mbapp\u00e9",
+      72.72727272727273,
+      "Kylian Mbappe-Lottin"
+    ],
+    [
+      2018,
+      "N'Golo Kant\u00e9",
+      75.86206896551724,
+      "N&#039;Golo Kant\u00e9"
+    ],
+    [
+      2019,
+      "Kylian Mbapp\u00e9",
+      72.72727272727273,
+      "Kylian Mbappe-Lottin"
+    ],
+    [
+      2019,
+      "Frenkie de Jong",
+      62.06896551724138,
+      "Marten de Roon"
+    ],
+    [
+      2019,
+      "Matthijs de Ligt",
+      64.51612903225806,
+      "Matthias Ginter"
+    ],
+    [
+      2019,
+      "Du\u0161an Tadi\u0107",
+      57.14285714285714,
+      "Sadio Man\u00e9"
+    ],
+    [
+      2019,
+      "Jo\u00e3o F\u00e9lix",
+      54.54545454545454,
+      "Jo\u00e3o Cancelo"
+    ],
+    [
+      2019,
+      "Donny van de Beek",
+      57.14285714285714,
+      "Sven Bender"
+    ],
+    [
+      2021,
+      "N'Golo Kant\u00e9",
+      75.86206896551724,
+      "N&#039;Golo Kant\u00e9"
+    ],
+    [
+      2021,
+      "Kylian Mbapp\u00e9",
+      72.72727272727273,
+      "Kylian Mbappe-Lottin"
+    ],
+    [
+      2022,
+      "Kylian Mbapp\u00e9",
+      72.72727272727273,
+      "Kylian Mbappe-Lottin"
+    ],
+    [
+      2022,
+      "S\u00e9bastien Haller",
+      68.75,
+      "Sebastian Polter"
+    ],
+    [
+      2022,
+      "Darwin N\u00fa\u00f1ez",
+      57.14285714285714,
+      "Dan Ndoye"
+    ],
+    [
+      2023,
+      "Kylian Mbapp\u00e9",
+      72.72727272727273,
+      "Kylian Mbappe-Lottin"
+    ],
+    [
+      2023,
+      "Yassine Bounou",
+      61.53846153846154,
+      "Gavin Bazunu"
+    ],
+    [
+      2024,
+      "Kylian Mbapp\u00e9",
+      72.72727272727273,
+      "Kylian Mbappe-Lottin"
+    ],
+    [
+      2024,
+      "Hakan \u00c7alhano\u011flu",
+      53.333333333333336,
+      "Atakan Karazor"
+    ],
+    [
+      2025,
+      "Kylian Mbapp\u00e9",
+      72.72727272727273,
+      "Kylian Mbappe-Lottin"
+    ],
+    [
+      2025,
+      "Viktor Gy\u00f6keres",
+      64.0,
+      "Vitor Reis"
+    ],
+    [
+      2025,
+      "Fabi\u00e1n Ruiz",
+      72.72727272727273,
+      "Ferr\u00e1n Ruiz"
+    ]
+  ]
+}
