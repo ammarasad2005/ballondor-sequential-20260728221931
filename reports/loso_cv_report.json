@@ -1,0 +1,10 @@
+{
+  "tier_a": [
+    {
+      "top1": 0,
+      "top3": 0,
+      "top5": 0,
+      "spearman": 0.37584694674523345,
+      "kendall": 0.2692935615825549,
+      "n_players": 24,
+      "left_out_year": 
