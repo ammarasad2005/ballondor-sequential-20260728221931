@@ -1,0 +1,291 @@
+# Feature Registry — Ballon d'Or Prediction Engine
+# Per Architecture Blueprint §4.4 and Requirements
+# Era availability: modern_only, all_eras, classical_proxy_available
+# Imputation policy: none, median_for_era_position, missing_documented, etc.
+
+features:
+  # Family 1: Individual production (position-adjusted, per-90 normalized)
+  - name: position_raw
+    family: individual_production
+    era_availability: all_eras
+    description: "Raw position string from Wikipedia infobox (e.g., Forward, Midfielder)"
+    source: "stats_combined Wikipedia infobox"
+    imputation_policy: "missing_documented"
+    type: categorical
+
+  - name: position_group
+    family: individual_production
+    era_availability: all_eras
+    description: "Simplified position group: forward, midfielder, defender, goalkeeper, unknown"
+    source: "derived from position_raw"
+    imputation_policy: "none"
+    type: categorical
+
+  - name: is_forward
+    family: individual_production
+    era_availability: all_eras
+    description: "Binary flag for forward position"
+    source: "derived from position_group"
+    imputation_policy: "none"
+    type: binary
+
+  - name: is_midfielder
+    family: individual_production
+    era_availability: all_eras
+    description: "Binary flag for midfielder"
+    source: "derived"
+    imputation_policy: "none"
+    type: binary
+
+  - name: is_defender
+    family: individual_production
+    era_availability: all_eras
+    description: "Binary flag for defender"
+    source: "derived"
+    imputation_policy: "none"
+    type: binary
+
+  - name: is_goalkeeper
+    family: individual_production
+    era_availability: all_eras
+    description: "Binary flag for goalkeeper"
+    source: "derived"
+    imputation_policy: "none"
+    type: binary
+
+  - name: league_goals
+    family: individual_production
+    era_availability: all_eras
+    description: "League goals in season associated with award year (from Wikipedia career stats table)"
+    source: "stats_combined career_stats league_goals"
+    imputation_policy: "missing_documented"
+    type: numeric
+    leakage_check: "Would this value have been knowable before ceremony? Yes, season goals are known before voting"
+
+  - name: league_apps
+    family: individual_production
+    era_availability: all_eras
+    description: "League appearances in season associated with award year"
+    source: "stats_combined career_stats league_apps"
+    imputation_policy: "missing_documented"
+    type: numeric
+
+  - name: goals_per_app
+    family: individual_production
+    era_availability: all_eras
+    description: "Goals per appearance (league_goals / league_apps) - position-adjusted proxy"
+    source: "derived"
+    imputation_policy: "missing_documented"
+    type: numeric
+
+  # Family 2: Trophy/team success
+  - name: ucl_winner
+    family: trophy_team_success
+    era_availability: all_eras
+    description: "1 if player's club won UCL/European Cup in award year"
+    source: "trophy_ucl.parquet"
+    imputation_policy: "none"
+    type: binary
+
+  - name: league_winner
+    family: trophy_team_success
+    era_availability: all_eras
+    description: "1 if player's club won domestic league (top 5 leagues) in award year"
+    source: "trophy_domestic.parquet"
+    imputation_policy: "missing_documented (not all leagues covered early)"
+    type: binary
+
+  - name: domestic_and_ucl_double
+    family: trophy_team_success
+    era_availability: all_eras
+    description: "1 if both ucl_winner and league_winner"
+    source: "derived from ucl_winner + league_winner"
+    imputation_policy: "none"
+    type: binary
+
+  # Family 3: International tournament boost
+  - name: is_world_cup_year
+    family: international_boost
+    era_availability: all_eras
+    description: "1 if award year is a World Cup year"
+    source: "trophy_worldcup.parquet year list"
+    imputation_policy: "none"
+    type: binary
+
+  - name: is_euro_year
+    family: international_boost
+    era_availability: all_eras
+    description: "1 if award year is a Euro year"
+    source: "trophy_euros.parquet"
+    imputation_policy: "none"
+    type: binary
+
+  - name: is_copa_year
+    family: international_boost
+    era_availability: all_eras
+    description: "1 if award year is a Copa America year"
+    source: "trophy_copa.parquet"
+    imputation_policy: "none"
+    type: binary
+
+  - name: nation_won_world_cup
+    family: international_boost
+    era_availability: all_eras
+    description: "1 if player's national team won World Cup in award year (or previous year for season-based awards 2022+)"
+    source: "trophy_worldcup + ground_truth nation_team + eval_window_metadata"
+    imputation_policy: "none"
+    type: binary
+
+  - name: nation_won_euro
+    family: international_boost
+    era_availability: all_eras
+    description: "1 if player's nation won Euro in award year (or previous for season-based)"
+    source: "trophy_euros"
+    imputation_policy: "none"
+    type: binary
+
+  - name: nation_won_copa
+    family: international_boost
+    era_availability: all_eras
+    description: "1 if player's nation won Copa America in relevant period"
+    source: "trophy_copa"
+    imputation_policy: "none"
+    type: binary
+
+  - name: nation_won_any_international
+    family: international_boost
+    era_availability: all_eras
+    description: "1 if nation won any of World Cup, Euro, Copa in relevant period"
+    source: "derived"
+    imputation_policy: "none"
+    type: binary
+
+  # Family 4: Availability/durability
+  - name: durability_apps
+    family: availability_durability
+    era_availability: all_eras
+    description: "League appearances as proxy for availability/durability (minutes unavailable pre-1990s per Requirements)"
+    source: "league_apps"
+    imputation_policy: "missing_documented"
+    type: numeric
+
+  - name: is_missing_stats
+    family: availability_durability
+    era_availability: all_eras
+    description: "1 if league_goals and league_apps both missing for that season (explicit gap flag per Key Focus §9)"
+    source: "derived"
+    imputation_policy: "none"
+    type: binary
+
+  # Family 5: Peer-relative standing (critical for cross-era per Key Focus §7)
+  - name: goals_percentile_in_year
+    family: peer_relative
+    era_availability: all_eras
+    description: "Percentile of player's league_goals within that year's candidate pool (peer-relative for cross-era comparability)"
+    source: "derived from league_goals per award_year"
+    imputation_policy: "missing_documented"
+    type: numeric
+
+  - name: apps_percentile_in_year
+    family: peer_relative
+    era_availability: all_eras
+    description: "Percentile of league_apps within that year's pool"
+    source: "derived"
+    imputation_policy: "missing_documented"
+    type: numeric
+
+  - name: goals_per_app_percentile_in_year
+    family: peer_relative
+    era_availability: all_eras
+    description: "Percentile of goals_per_app within year"
+    source: "derived"
+    imputation_policy: "missing_documented"
+    type: numeric
+
+  # Family 6: Recency-weighted form (proxy for jury recency bias per Key Focus §6)
+  - name: signature_moment_flag
+    family: recency_weighted
+    era_availability: all_eras
+    description: "1 if player had iconic final performance proxy: club won UCL or nation won major international in relevant period (recency proxy, since finals occur late season)"
+    source: "narrative_flags.parquet heuristic (agent-inferred)"
+    imputation_policy: "none"
+    type: binary
+    note: "Explicit recency-weighted intra-season half/quarter split not available from Wikipedia stats; using trophy timing as proxy"
+
+  - name: recency_boost_proxy
+    family: recency_weighted
+    era_availability: all_eras
+    description: "Same as signature_moment_flag for now, but reserved for future intra-season split"
+    source: "derived"
+    imputation_policy: "none"
+    type: binary
+
+  # Family 7: Narrative/media signal (best-effort, per Requirements A.4)
+  - name: club_prestige_tier
+    family: narrative_media
+    era_availability: all_eras
+    description: "Club prestige tier 1-3 (1 high, 3 low) operationalized from UEFA coefficient / revenue"
+    source: "narrative_flags.parquet club_prestige_tier (agent-inferred proxy)"
+    imputation_policy: "none"
+    type: categorical
+    bias_note: "Models big-club/media-market bias explicitly per P5, surfaced in explanation layer"
+
+  - name: club_prestige_score
+    family: narrative_media
+    era_availability: all_eras
+    description: "Numeric prestige score 3=Tier1,2=Tier2,1=Tier3"
+    source: "derived"
+    imputation_policy: "none"
+    type: numeric
+
+  - name: market_size_proxy
+    family: narrative_media
+    era_availability: all_eras
+    description: "Market size proxy same as prestige_score for now"
+    source: "narrative_flags"
+    imputation_policy: "none"
+    type: numeric
+
+  # Advanced metrics (modern_only) — documented as missing due to FBRef block
+  - name: xG
+    family: individual_production
+    era_availability: modern_only
+    description: "Expected goals — target per Requirements A.2 modern era, but not available due to FBRef Cloudflare WAF block (documented gap)"
+    source: "FBRef (blocked)"
+    imputation_policy: "missing_documented"
+    type: numeric
+    status: "missing_due_to_source_block"
+
+  - name: xA
+    family: individual_production
+    era_availability: modern_only
+    description: "Expected assists — same as xG gap"
+    source: "FBRef blocked"
+    imputation_policy: "missing_documented"
+    type: numeric
+    status: "missing"
+
+  - name: progressive_passes
+    family: individual_production
+    era_availability: modern_only
+    description: "Progressive passes — gap"
+    source: "FBRef blocked"
+    imputation_policy: "missing_documented"
+    type: numeric
+    status: "missing"
+
+  - name: shot_creating_actions
+    family: individual_production
+    era_availability: modern_only
+    description: "SCA — gap"
+    source: "FBRef blocked"
+    imputation_policy: "missing_documented"
+    type: numeric
+    status: "missing"
+
+# Global metadata
+metadata:
+  total_features_declared: 30
+  modern_only_count: 4
+  all_eras_count: 26
+  note: "Peer-relative features are critical for cross-era comparability per Key Focus §7. Advanced metrics flagged as missing per §9 transparency requirement."
