@@ -1,0 +1,15 @@
+# Sensitive
+*.token
+.github_pat
+# Raw data that is large but we can include processed
+data/raw/stats_combined/*.html
+data/raw/ground_truth/*.html
+# Cache
+.cache/
+.mcache/
+__pycache__/
+*.pyc
+# Large raw stats that are many files - we can include summary but not all 2000 files? User wants preserve version history sequentially, so include processed
+# Exclude node_modules etc
+node_modules/
+.venv/

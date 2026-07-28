@@ -1,0 +1,56 @@
+# Ballon d'Or Prediction Engine — Run Configuration
+# Single source of truth for a pipeline run (Phase 0 initial version)
+
+# Era boundary: modern era starts 2014-15 season onward per P4
+era_boundary_year: 2014
+modern_era_start: "2014-08-01"  # season-based threshold
+classical_era_end: "2014-07-31"
+
+# Evaluation window handling
+eval_window_mode: "explicit_per_year"  # must be verified per year, not assumed uniform
+eval_window_metadata_path: "data/processed/eval_window_metadata.csv"
+
+# Held-out test seasons: strictly untouched until final evaluation (Phase 6 Task 4)
+# Reserve most recent 6-8 complete seasons. As of 2026-07-28, these are:
+# 2018, 2019, 2021, 2022, 2023, 2024 (2020 cancelled, 2025 becomes part of holdout if available)
+# Using 6 seasons initially; adjust to 7-8 if 2025 data available and verified.
+held_out_test_seasons: [2018, 2019, 2021, 2022, 2023, 2024]
+validation_protocol:
+  loso_cv: true
+  expanding_window: true
+  held_out_final: true
+
+# Feature registry
+feature_registry_path: "features/feature_registry.yaml"
+
+# Modeling
+model_tiers:
+  enabled: ["A", "B", "C"]
+  selection_rule: "prefer_B_unless_C_consistent_improvement"
+  primary_metric: "top1_accuracy_and_kendall_tau"
+
+# Ground truth
+ground_truth_path: "data/processed/ground_truth.parquet"
+ground_truth_raw_dir: "data/raw/ground_truth"
+
+# Features
+features_path: "data/processed/features.parquet"
+interim_path: "data/interim"
+
+# Raw data dirs
+raw_dirs:
+  stats_modern: "data/raw/stats_modern"
+  stats_classical: "data/raw/stats_classical"
+  trophies: "data/raw/trophies"
+  narrative: "data/raw/narrative"
+
+# Entity resolution
+alias_table_path: "entity_resolution/alias_table.yaml"
+confidence_threshold: 0.85
+
+# Inference
+inference_output_schema_version: "v0.1"
+
+# General
+random_seed: 42
+log_path: "PROJECT_LOG.md"

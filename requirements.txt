@@ -1,0 +1,18 @@
+# Ballon d'Or Prediction Engine — dependencies
+# Generated Phase 0, verified in sandbox
+requests==2.33.0
+httpx==0.28.1
+beautifulsoup4==4.15.0
+pandas==2.2.3
+pyarrow==25.0.0
+pyyaml==6.0.3
+rapidfuzz==3.14.5
+scikit-learn==1.6.1
+xgboost==3.3.0
+lightgbm==4.7.0
+shap==0.52.0
+scipy==1.17.1
+matplotlib==3.10.9
+playwright==1.57.0
+lxml
+openpyxl==3.1.5
