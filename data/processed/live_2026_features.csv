@@ -1,0 +1,21 @@
+player,club,nation,position,position_group,league_goals,league_apps,ucl_winner,nation_won_world_cup,nation_won_any,club_prestige_score,club_prestige_tier,signature_moment_flag,is_forward,is_defender,is_midfielder,is_goalkeeper,is_missing_stats,rank_givemesport,goals_percentile,goals_per_app,goals_per_app_percentile
+Lamine Yamal,Barcelona,Spain,Forward,forward,16.0,28.0,0,1,1,3,1,1,1,0,0,0,0,1,82.5,0.5714285714285714,80.0
+Harry Kane,Bayern Munich,England,Forward,forward,36.0,31.0,0,0,0,3,1,0,1,0,0,0,0,2,100.0,1.1612903225806452,100.0
+Lionel Messi,Inter Miami,Argentina,Forward,forward,12.0,14.0,0,0,0,1,3,0,1,0,0,0,0,3,70.0,0.8571428571428571,95.0
+Rodri,Manchester City,Spain,Midfielder,midfielder,9.0,28.5,0,1,1,3,1,1,0,0,1,0,1,4,52.5,0.3157894736842105,52.5
+Ousmane Dembélé,Paris Saint-Germain,France,Forward,forward,10.0,22.0,1,0,0,3,1,1,1,0,0,0,0,5,65.0,0.45454545454545453,70.0
+Kylian Mbappé,Real Madrid,France,Forward,forward,25.0,31.0,0,0,0,3,1,0,1,0,0,0,0,6,90.0,0.8064516129032258,90.0
+Michael Olise,Bayern Munich,France,Forward,forward,15.0,32.0,0,0,0,3,1,0,1,0,0,0,0,7,75.0,0.46875,75.0
+Jude Bellingham,Real Madrid,England,Midfielder,midfielder,6.0,28.0,0,0,0,3,1,0,0,0,1,0,0,8,30.0,0.21428571428571427,30.0
+Declan Rice,Arsenal,England,Midfielder,midfielder,4.0,36.0,0,0,0,2,2,0,0,0,1,0,0,9,25.0,0.1111111111111111,22.5
+Erling Haaland,Manchester City,Norway,Forward,forward,27.0,35.0,0,0,0,3,1,0,1,0,0,0,0,10,95.0,0.7714285714285715,85.0
+Fabian Ruiz,Paris Saint-Germain,Spain,Midfielder,midfielder,9.0,28.5,1,1,1,3,1,1,0,0,1,0,1,11,52.5,0.3157894736842105,52.5
+Pau Cubarsi,Barcelona,Spain,Defender,defender,9.0,28.5,0,1,1,3,1,1,0,1,0,0,1,12,52.5,0.3157894736842105,52.5
+Pedri,Barcelona,Spain,Midfielder,midfielder,2.0,29.0,0,1,1,3,1,1,0,0,1,0,0,13,17.5,0.06896551724137931,15.0
+Khvicha Kvaratskhelia,Paris Saint-Germain,Georgia,Forward,forward,8.0,28.0,1,0,0,3,1,1,1,0,0,0,0,14,40.0,0.2857142857142857,35.0
+Desire Doue,Paris Saint-Germain,France,Forward,forward,7.0,23.0,1,0,0,3,1,1,1,0,0,0,0,15,35.0,0.30434782608695654,40.0
+Vinicius Jr,Real Madrid,Brazil,Forward,forward,16.0,36.0,0,0,0,3,1,0,1,0,0,0,0,16,82.5,0.4444444444444444,65.0
+Vitinha,Paris Saint-Germain,Portugal,Midfielder,midfielder,1.0,29.0,1,0,0,3,1,1,0,0,1,0,0,17,7.5,0.034482758620689655,5.0
+Martin Odegaard,Arsenal,Norway,Midfielder,midfielder,1.0,24.0,0,0,0,2,2,0,0,0,1,0,0,18,7.5,0.041666666666666664,10.0
+Unai Simon,Athletic Club,Spain,Goalkeeper,goalkeeper,9.0,28.5,0,1,1,1,3,1,0,0,0,1,1,19,52.5,0.3157894736842105,52.5
+Achraf Hakimi,Paris Saint-Germain,Morocco,Defender,defender,2.0,18.0,1,0,0,3,1,1,0,1,0,0,0,20,17.5,0.1111111111111111,22.5

@@ -1,0 +1,1269 @@
+{
+  "season_id": "2019",
+  "generated_at": "2026-07-28T20:59:11.881172+00:00",
+  "model_version": "tier_b_linear_ranker_v1",
+  "model_description": "Pairwise linear ranker trained on 63 seasons (1956-2025 excluding held-out), 11 features, L2 C=0.5",
+  "feature_registry": "/home/user/features/feature_registry.yaml",
+  "rankings": [
+    {
+      "rank": 1,
+      "player": "Mohamed Salah",
+      "canonical_id": "mohamed-salah-1992",
+      "club": "Liverpool",
+      "nation": null,
+      "position": "forward",
+      "score": 3.8477163592968524,
+      "actual_rank": 5,
+      "top_contributing_features": [
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 1.0373983154442608,
+          "scaled_value": 2.0595679552557193,
+          "raw_value": 85.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.9791578778535587,
+          "scaled_value": 9.000385155088708,
+          "raw_value": 87.5
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "ucl_winner",
+          "contribution": 0.612268339204571,
+          "scaled_value": 2.1870339162006496,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.3213728773477121,
+          "scaled_value": 8.5734110974342,
+          "raw_value": 83.33333333333334
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "player": "Lionel Messi",
+      "canonical_id": "lionel-messi-1987",
+      "club": "Barcelona",
+      "nation": null,
+      "position": "forward",
+      "score": 3.3714235863971718,
+      "actual_rank": 1,
+      "top_contributing_features": [
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 1.2204686064050128,
+          "scaled_value": 2.4230211238302584,
+          "raw_value": 100.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 1.1190375746897814,
+          "scaled_value": 10.286154462958523,
+          "raw_value": 100.0
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.3695788089498689,
+          "scaled_value": 9.859422762049329,
+          "raw_value": 95.83333333333334
+        },
+        {
+          "feature": "is_forward",
+          "contribution": -0.08496285065585774,
+          "scaled_value": 1.4143998549610861,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "player": "Sadio Man\u00e9",
+      "canonical_id": "sadio-mane-1992",
+      "club": "Liverpool",
+      "nation": null,
+      "position": "forward",
+      "score": 3.3332447715739533,
+      "actual_rank": 4,
+      "top_contributing_features": [
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 1.0373983154442608,
+          "scaled_value": 2.0595679552557193,
+          "raw_value": 85.0
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "ucl_winner",
+          "contribution": 0.612268339204571,
+          "scaled_value": 2.1870339162006496,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.5128922217328163,
+          "scaled_value": 4.7144874621893225,
+          "raw_value": 45.83333333333333
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.2731669457455553,
+          "scaled_value": 7.28739943281907,
+          "raw_value": 70.83333333333334
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "player": "Robert Lewandowski",
+      "canonical_id": "robert-lewandowski-1988",
+      "club": "Bayern Munich",
+      "nation": null,
+      "position": "forward",
+      "score": 3.2460786384277798,
+      "actual_rank": 8,
+      "top_contributing_features": [
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 1.0373983154442608,
+          "scaled_value": 2.0595679552557193,
+          "raw_value": 85.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.9325313122414844,
+          "scaled_value": 8.571795385798769,
+          "raw_value": 83.33333333333334
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.3856474528172545,
+          "scaled_value": 10.288093316921039,
+          "raw_value": 100.0
+        },
+        {
+          "feature": "signature_moment_flag",
+          "contribution": 0.228162961572271,
+          "scaled_value": 2.0428435571513974,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "player": "Roberto Firmino",
+      "canonical_id": "roberto-firmino-1991",
+      "club": "Liverpool",
+      "nation": null,
+      "position": "forward",
+      "score": 3.0647222336184226,
+      "actual_rank": 17,
+      "top_contributing_features": [
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.6993984841811133,
+          "scaled_value": 6.428846539349077,
+          "raw_value": 62.5
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.63057544664259,
+          "scaled_value": 1.2518942473123003,
+          "raw_value": 51.66666666666667
+        },
+        {
+          "feature": "ucl_winner",
+          "contribution": 0.612268339204571,
+          "scaled_value": 2.1870339162006496,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "league_winner",
+          "contribution": 0.235180353094241,
+          "scaled_value": 2.2312454707389646,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "player": "Kylian Mbapp\u00e9",
+      "canonical_id": "kylian-mbappe-1998",
+      "club": "Paris Saint-Germain",
+      "nation": null,
+      "position": "forward",
+      "score": 2.85751232027154,
+      "actual_rank": 6,
+      "top_contributing_features": [
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 1.1797863195248455,
+          "scaled_value": 2.342253753035916,
+          "raw_value": 96.66666666666667
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.5802417053947013,
+          "scaled_value": 5.3335615733859,
+          "raw_value": 51.85185185185185
+        },
+        {
+          "feature": "league_winner",
+          "contribution": 0.235180353094241,
+          "scaled_value": 2.2312454707389646,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.19996534590524304,
+          "scaled_value": 5.334566905070168,
+          "raw_value": 51.85185185185185
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "player": "Raheem Sterling",
+      "canonical_id": "raheem-sterling-1994",
+      "club": "Manchester City",
+      "nation": null,
+      "position": "forward",
+      "score": 2.758867079299653,
+      "actual_rank": 12,
+      "top_contributing_features": [
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 1.0257844434656327,
+          "scaled_value": 9.428974924378645,
+          "raw_value": 91.66666666666666
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.8136457376033417,
+          "scaled_value": 1.6153474158868386,
+          "raw_value": 66.66666666666666
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.25709830187816957,
+          "scaled_value": 6.858728877947358,
+          "raw_value": 66.66666666666666
+        },
+        {
+          "feature": "is_forward",
+          "contribution": -0.08496285065585774,
+          "scaled_value": 1.4143998549610861,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "player": "Karim Benzema",
+      "canonical_id": "karim-benzema-1987",
+      "club": "Real Madrid",
+      "nation": null,
+      "position": "forward",
+      "score": 2.734536768992406,
+      "actual_rank": 26,
+      "top_contributing_features": [
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.8950103113636759,
+          "scaled_value": 1.7768821574755227,
+          "raw_value": 73.33333333333333
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.6527719185690392,
+          "scaled_value": 6.0002567700591385,
+          "raw_value": 58.333333333333336
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.2892355896129409,
+          "scaled_value": 7.716069987690779,
+          "raw_value": 75.0
+        },
+        {
+          "feature": "league_winner",
+          "contribution": 0.235180353094241,
+          "scaled_value": 2.2312454707389646,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "player": "Eden Hazard",
+      "canonical_id": "eden-hazard-1991",
+      "club": "Chelsea Real Madrid",
+      "nation": null,
+      "position": "forward",
+      "score": 2.7166054264294033,
+      "actual_rank": 13,
+      "top_contributing_features": [
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 1.072411009077707,
+          "scaled_value": 9.857564693668584,
+          "raw_value": 95.83333333333334
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.7729634507231746,
+          "scaled_value": 1.5345800450924967,
+          "raw_value": 63.33333333333333
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.20889237027601285,
+          "scaled_value": 5.572717213332229,
+          "raw_value": 54.166666666666664
+        },
+        {
+          "feature": "is_forward",
+          "contribution": -0.08496285065585774,
+          "scaled_value": 1.4143998549610861,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "player": "Trent Alexander-Arnold",
+      "canonical_id": "trent-alexander-arnold-1998",
+      "club": "Liverpool",
+      "nation": null,
+      "position": "defender",
+      "score": 2.7129896711827275,
+      "actual_rank": 19,
+      "top_contributing_features": [
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.7926516154052619,
+          "scaled_value": 7.2860260779289545,
+          "raw_value": 70.83333333333334
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "ucl_winner",
+          "contribution": 0.612268339204571,
+          "scaled_value": 2.1870339162006496,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "league_winner",
+          "contribution": 0.235180353094241,
+          "scaled_value": 2.2312454707389646,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.16272914752066836,
+          "scaled_value": 0.3230694831773678,
+          "raw_value": 13.333333333333334
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "player": "Virgil van Dijk",
+      "canonical_id": "virgil-van-dijk-1991",
+      "club": "Liverpool",
+      "nation": null,
+      "position": "defender",
+      "score": 2.5025214674685485,
+      "actual_rank": 2,
+      "top_contributing_features": [
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "ucl_winner",
+          "contribution": 0.612268339204571,
+          "scaled_value": 2.1870339162006496,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.44750515568183796,
+          "scaled_value": 0.8884410787377613,
+          "raw_value": 36.666666666666664
+        },
+        {
+          "feature": "league_winner",
+          "contribution": 0.235180353094241,
+          "scaled_value": 2.2312454707389646,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.2331328280603711,
+          "scaled_value": 2.142948846449692,
+          "raw_value": 20.833333333333336
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "player": "Antoine Griezmann",
+      "canonical_id": "antoine-griezmann-1991",
+      "club": "Atl\u00e9tico Madrid Barcelona",
+      "nation": null,
+      "position": "forward",
+      "score": 2.5012130213956274,
+      "actual_rank": 18,
+      "top_contributing_features": [
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.8859047466294101,
+          "scaled_value": 8.14320561650883,
+          "raw_value": 79.16666666666666
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.7119400204029241,
+          "scaled_value": 1.4134289889009841,
+          "raw_value": 58.333333333333336
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.24102965801078402,
+          "scaled_value": 6.430058323075649,
+          "raw_value": 62.5
+        },
+        {
+          "feature": "is_forward",
+          "contribution": -0.08496285065585774,
+          "scaled_value": 1.4143998549610861,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "player": "Sergio Ag\u00fcero",
+      "canonical_id": "sergio-aguero-1988",
+      "club": "Manchester City",
+      "nation": null,
+      "position": "forward",
+      "score": 2.4687984941534764,
+      "actual_rank": 16,
+      "top_contributing_features": [
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.8950103113636759,
+          "scaled_value": 1.7768821574755227,
+          "raw_value": 73.33333333333333
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.6061453529569648,
+          "scaled_value": 5.5716670007691995,
+          "raw_value": 54.166666666666664
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.3053042334803264,
+          "scaled_value": 8.144740542562488,
+          "raw_value": 79.16666666666666
+        },
+        {
+          "feature": "is_forward",
+          "contribution": -0.08496285065585774,
+          "scaled_value": 1.4143998549610861,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "player": "Cristiano Ronaldo",
+      "canonical_id": "cristiano-ronaldo-1985",
+      "club": "Juventus",
+      "nation": null,
+      "position": "forward",
+      "score": 2.4543092162761733,
+      "actual_rank": 3,
+      "top_contributing_features": [
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.8950103113636759,
+          "scaled_value": 1.7768821574755227,
+          "raw_value": 73.33333333333333
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.5595187873448907,
+          "scaled_value": 5.143077231479261,
+          "raw_value": 50.0
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.3374415212150977,
+          "scaled_value": 9.00208165230591,
+          "raw_value": 87.5
+        },
+        {
+          "feature": "is_forward",
+          "contribution": -0.08496285065585774,
+          "scaled_value": 1.4143998549610861,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "player": "Alisson",
+      "canonical_id": "alisson-1992",
+      "club": "Liverpool",
+      "nation": null,
+      "position": "goalkeeper",
+      "score": 2.367130140575015,
+      "actual_rank": 7,
+      "top_contributing_features": [
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "ucl_winner",
+          "contribution": 0.612268339204571,
+          "scaled_value": 2.1870339162006496,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "is_goalkeeper",
+          "contribution": 0.5656250085485826,
+          "scaled_value": 2.683998748443848,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "league_winner",
+          "contribution": 0.235180353094241,
+          "scaled_value": 2.2312454707389646,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.09325313122414843,
+          "scaled_value": 0.8571795385798767,
+          "raw_value": 8.333333333333332
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "player": "Georginio Wijnaldum",
+      "canonical_id": "georginio-wijnaldum-1990",
+      "club": "Liverpool",
+      "nation": null,
+      "position": "midfielder",
+      "score": 2.348858122400129,
+      "actual_rank": 26,
+      "top_contributing_features": [
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "ucl_winner",
+          "contribution": 0.612268339204571,
+          "scaled_value": 2.1870339162006496,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.34579943848142025,
+          "scaled_value": 0.6865226517519065,
+          "raw_value": 28.333333333333332
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.27975939367244534,
+          "scaled_value": 2.5715386157396307,
+          "raw_value": 25.0
+        },
+        {
+          "feature": "league_winner",
+          "contribution": 0.235180353094241,
+          "scaled_value": 2.2312454707389646,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "player": "Du\u0161an Tadi\u0107",
+      "canonical_id": "dusan-tadic-1988",
+      "club": "Ajax",
+      "nation": null,
+      "position": "forward",
+      "score": 2.3325491979610096,
+      "actual_rank": 20,
+      "top_contributing_features": [
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 1.1391040326446784,
+          "scaled_value": 2.261486382241574,
+          "raw_value": 93.33333333333333
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.5802417053947013,
+          "scaled_value": 5.3335615733859,
+          "raw_value": 51.85185185185185
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.4982009646722444,
+          "scaled_value": 1.8433107362008674,
+          "raw_value": 2.0
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.19996534590524304,
+          "scaled_value": 5.334566905070168,
+          "raw_value": 51.85185185185185
+        },
+        {
+          "feature": "is_forward",
+          "contribution": -0.08496285065585774,
+          "scaled_value": 1.4143998549610861,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "player": "Bernardo Silva",
+      "canonical_id": "bernardo-silva-1994",
+      "club": "Manchester City",
+      "nation": null,
+      "position": "midfielder",
+      "score": 2.271863296569033,
+      "actual_rank": 9,
+      "top_contributing_features": [
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.839278181017336,
+          "scaled_value": 7.714615847218892,
+          "raw_value": 75.0
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.5085285860020887,
+          "scaled_value": 1.0095921349292745,
+          "raw_value": 41.66666666666667
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.17675508254124161,
+          "scaled_value": 4.715376103588809,
+          "raw_value": 45.83333333333333
+        },
+        {
+          "feature": "ucl_winner",
+          "contribution": 0.0,
+          "scaled_value": 0.0,
+          "raw_value": 0.0
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "player": "Pierre-Emerick Aubameyang",
+      "canonical_id": "pierre-emerick-aubameyang-1989",
+      "club": "Arsenal",
+      "nation": null,
+      "position": "forward",
+      "score": 2.2237856850517987,
+      "actual_rank": 20,
+      "top_contributing_features": [
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 1.0373983154442608,
+          "scaled_value": 2.0595679552557193,
+          "raw_value": 85.0
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.4982009646722444,
+          "scaled_value": 1.8433107362008674,
+          "raw_value": 2.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.419639090508668,
+          "scaled_value": 3.857307923609446,
+          "raw_value": 37.5
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.35351016508248323,
+          "scaled_value": 9.430752207177617,
+          "raw_value": 91.66666666666666
+        },
+        {
+          "feature": "is_forward",
+          "contribution": -0.08496285065585774,
+          "scaled_value": 1.4143998549610861,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "player": "Matthijs de Ligt",
+      "canonical_id": "matthijs-de-ligt-1999",
+      "club": "Ajax Juventus",
+      "nation": null,
+      "position": "defender",
+      "score": 1.9558234864024215,
+      "actual_rank": 15,
+      "top_contributing_features": [
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.5802417053947013,
+          "scaled_value": 5.3335615733859,
+          "raw_value": 51.85185185185185
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.34579943848142025,
+          "scaled_value": 0.6865226517519065,
+          "raw_value": 28.333333333333332
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.19996534590524304,
+          "scaled_value": 5.334566905070168,
+          "raw_value": 51.85185185185185
+        },
+        {
+          "feature": "is_defender",
+          "contribution": 0.08251554961269036,
+          "scaled_value": 1.9709556018604757,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "player": "Jo\u00e3o F\u00e9lix",
+      "canonical_id": "joao-felix-1999",
+      "club": "Benfica Atl\u00e9tico Madrid",
+      "nation": null,
+      "position": "forward",
+      "score": 1.9053851857192554,
+      "actual_rank": 28,
+      "top_contributing_features": [
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.7119400204029241,
+          "scaled_value": 1.4134289889009841,
+          "raw_value": 58.333333333333336
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.5802417053947013,
+          "scaled_value": 5.3335615733859,
+          "raw_value": 51.85185185185185
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.4982009646722444,
+          "scaled_value": 1.8433107362008674,
+          "raw_value": 2.0
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.19996534590524304,
+          "scaled_value": 5.334566905070168,
+          "raw_value": 51.85185185185185
+        },
+        {
+          "feature": "is_forward",
+          "contribution": -0.08496285065585774,
+          "scaled_value": 1.4143998549610861,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "player": "Frenkie de Jong",
+      "canonical_id": "frenkie-de-jong-1997",
+      "club": "Ajax Barcelona",
+      "nation": null,
+      "position": "midfielder",
+      "score": 1.8733079367897312,
+      "actual_rank": 11,
+      "top_contributing_features": [
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.5802417053947013,
+          "scaled_value": 5.3335615733859,
+          "raw_value": 51.85185185185185
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.34579943848142025,
+          "scaled_value": 0.6865226517519065,
+          "raw_value": 28.333333333333332
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.19996534590524304,
+          "scaled_value": 5.334566905070168,
+          "raw_value": 51.85185185185185
+        },
+        {
+          "feature": "ucl_winner",
+          "contribution": 0.0,
+          "scaled_value": 0.0,
+          "raw_value": 0.0
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "player": "Donny van de Beek",
+      "canonical_id": "donny-van-de-beek-1997",
+      "club": "Ajax",
+      "nation": null,
+      "position": "midfielder",
+      "score": 1.8479600322945282,
+      "actual_rank": 28,
+      "top_contributing_features": [
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.5802417053947013,
+          "scaled_value": 5.3335615733859,
+          "raw_value": 51.85185185185185
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.5695520163223392,
+          "scaled_value": 1.130743191120787,
+          "raw_value": 46.666666666666664
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.4982009646722444,
+          "scaled_value": 1.8433107362008674,
+          "raw_value": 2.0
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.19996534590524304,
+          "scaled_value": 5.334566905070168,
+          "raw_value": 51.85185185185185
+        },
+        {
+          "feature": "ucl_winner",
+          "contribution": 0.0,
+          "scaled_value": 0.0,
+          "raw_value": 0.0
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "player": "Marquinhos",
+      "canonical_id": "marquinhos-1994",
+      "club": "Paris Saint-Germain",
+      "nation": null,
+      "position": "defender",
+      "score": 1.8335946106855514,
+      "actual_rank": 28,
+      "top_contributing_features": [
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.34579943848142025,
+          "scaled_value": 0.6865226517519065,
+          "raw_value": 28.333333333333332
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.3263859592845196,
+          "scaled_value": 3.0001283850295692,
+          "raw_value": 29.166666666666668
+        },
+        {
+          "feature": "league_winner",
+          "contribution": 0.235180353094241,
+          "scaled_value": 2.2312454707389646,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.09641186320431362,
+          "scaled_value": 2.5720233292302597,
+          "raw_value": 25.0
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "player": "Riyad Mahrez",
+      "canonical_id": "riyad-mahrez-1991",
+      "club": "Manchester City",
+      "nation": null,
+      "position": "forward",
+      "score": 1.7978192771491956,
+      "actual_rank": 10,
+      "top_contributing_features": [
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.5085285860020887,
+          "scaled_value": 1.0095921349292745,
+          "raw_value": 41.66666666666667
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.4662656561207422,
+          "scaled_value": 4.285897692899384,
+          "raw_value": 41.66666666666667
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.16068643867385604,
+          "scaled_value": 4.2867055487171,
+          "raw_value": 41.66666666666667
+        },
+        {
+          "feature": "is_forward",
+          "contribution": -0.08496285065585774,
+          "scaled_value": 1.4143998549610861,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "player": "Kevin De Bruyne",
+      "canonical_id": "kevin-de-bruyne-1991",
+      "club": "Manchester City",
+      "nation": null,
+      "position": "midfielder",
+      "score": 1.7813536501120155,
+      "actual_rank": 14,
+      "top_contributing_features": [
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.7460250497931874,
+          "scaled_value": 6.857436308639014,
+          "raw_value": 66.66666666666666
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.22375257784091898,
+          "scaled_value": 0.4442205393688807,
+          "raw_value": 18.333333333333332
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.06427457546954239,
+          "scaled_value": 1.7146822194868394,
+          "raw_value": 16.666666666666664
+        },
+        {
+          "feature": "ucl_winner",
+          "contribution": 0.0,
+          "scaled_value": 0.0,
+          "raw_value": 0.0
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "player": "Son Heung-min",
+      "canonical_id": "son-heung-min-1992",
+      "club": "Tottenham Hotspur",
+      "nation": null,
+      "position": "forward",
+      "score": 1.6096498119641978,
+      "actual_rank": 22,
+      "top_contributing_features": [
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.63057544664259,
+          "scaled_value": 1.2518942473123003,
+          "raw_value": 51.66666666666667
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.4982009646722444,
+          "scaled_value": 1.8433107362008674,
+          "raw_value": 2.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.3730125248965937,
+          "scaled_value": 3.428718154319507,
+          "raw_value": 33.33333333333333
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.19282372640862724,
+          "scaled_value": 5.144046658460519,
+          "raw_value": 50.0
+        },
+        {
+          "feature": "is_forward",
+          "contribution": -0.08496285065585774,
+          "scaled_value": 1.4143998549610861,
+          "raw_value": 1.0
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "player": "Marc-Andr\u00e9 ter Stegen",
+      "canonical_id": "marc-andre-ter-stegen-1992",
+      "club": "Barcelona",
+      "nation": null,
+      "position": "goalkeeper",
+      "score": 1.519681448276203,
+      "actual_rank": 24,
+      "top_contributing_features": [
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.7473014470083666,
+          "scaled_value": 2.764966104301301,
+          "raw_value": 3.0
+        },
+        {
+          "feature": "is_goalkeeper",
+          "contribution": 0.5656250085485826,
+          "scaled_value": 2.683998748443848,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.09325313122414843,
+          "scaled_value": 0.8571795385798767,
+          "raw_value": 8.333333333333332
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.08136457376033418,
+          "scaled_value": 0.1615347415886839,
+          "raw_value": 6.666666666666667
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.032137287734771196,
+          "scaled_value": 0.8573411097434197,
+          "raw_value": 8.333333333333332
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "player": "Hugo Lloris",
+      "canonical_id": "hugo-lloris-1986",
+      "club": "Tottenham Hotspur",
+      "nation": null,
+      "position": "goalkeeper",
+      "score": 1.2705809659400806,
+      "actual_rank": 23,
+      "top_contributing_features": [
+        {
+          "feature": "is_goalkeeper",
+          "contribution": 0.5656250085485826,
+          "scaled_value": 2.683998748443848,
+          "raw_value": 1.0
+        },
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.4982009646722444,
+          "scaled_value": 1.8433107362008674,
+          "raw_value": 2.0
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.09325313122414843,
+          "scaled_value": 0.8571795385798767,
+          "raw_value": 8.333333333333332
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.08136457376033418,
+          "scaled_value": 0.1615347415886839,
+          "raw_value": 6.666666666666667
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.032137287734771196,
+          "scaled_value": 0.8573411097434197,
+          "raw_value": 8.333333333333332
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "player": "Kalidou Koulibaly",
+      "canonical_id": "kalidou-koulibaly-1991",
+      "club": "Napoli",
+      "nation": null,
+      "position": "defender",
+      "score": 1.1034558616458499,
+      "actual_rank": 24,
+      "top_contributing_features": [
+        {
+          "feature": "club_prestige_score",
+          "contribution": 0.4982009646722444,
+          "scaled_value": 1.8433107362008674,
+          "raw_value": 2.0
+        },
+        {
+          "feature": "goals_percentile_in_year",
+          "contribution": 0.22375257784091898,
+          "scaled_value": 0.4442205393688807,
+          "raw_value": 18.333333333333332
+        },
+        {
+          "feature": "xA_percentile_in_year",
+          "contribution": 0.18650626244829685,
+          "scaled_value": 1.7143590771597534,
+          "raw_value": 16.666666666666664
+        },
+        {
+          "feature": "xG_percentile_in_year",
+          "contribution": 0.11248050707169921,
+          "scaled_value": 3.0006938841019695,
+          "raw_value": 29.166666666666668
+        },
+        {
+          "feature": "is_defender",
+          "contribution": 0.08251554961269036,
+          "scaled_value": 1.9709556018604757,
+          "raw_value": 1.0
+        }
+      ]
+    }
+  ]
+}
