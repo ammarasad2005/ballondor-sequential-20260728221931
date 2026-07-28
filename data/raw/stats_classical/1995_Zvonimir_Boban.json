@@ -1,0 +1,154 @@
+{
+  "player_name_raw": "Zvonimir Boban",
+  "fetch_status": "ok",
+  "wikipedia_title": "Zvonimir_Boban",
+  "url": "https://en.wikipedia.org/wiki/Zvonimir_Boban",
+  "position": "Midfielder",
+  "birth_year": 1968,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1985\u201386",
+      "club": "Dinamo Zagreb",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '1985\u201386', 'League Division': 'Yugoslav First League', 'League Apps': 2, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Dinamo Zagreb",
+      "league_apps": 28,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '1986\u201387', 'League Division': 'Yugoslav First League', 'League Apps': 28, 'League Goals': 8, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 8}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Dinamo Zagreb",
+      "league_apps": 30,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '1987\u201388', 'League Division': 'Yugoslav First League', 'League Apps': 30, 'League Goals': 13, 'National cup[a] Apps': 1, 'National cup[a] Goals': 1, 'Continental Apps': 0, 'Continental Goals': 0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 14}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Dinamo Zagreb",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '1988\u201389', 'League Division': 'Yugoslav First League', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Dinamo Zagreb",
+      "league_apps": 26,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '1989\u201390', 'League Division': 'Yugoslav First League', 'League Apps': 26, 'League Goals': 9, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'Continental Apps': 2, 'Continental Goals': 0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 10}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Dinamo Zagreb",
+      "league_apps": 26,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '1990\u201391', 'League Division': 'Yugoslav First League', 'League Apps': 26, 'League Goals': 15, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Continental Apps': 2, 'Continental Goals': 1, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Dinamo Zagreb",
+      "league_apps": 112,
+      "league_goals": 45,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 112, 'League Goals': 45, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'Continental Apps': 4, 'Continental Goals': 1, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 121, 'Total Goals': 48}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Bari",
+      "league_apps": 17,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bari', 'Season Season': '1991\u201392', 'League Division': 'Serie A', 'League Apps': 17, 'League Goals': 2, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 17, 'Total Goals': 2}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "AC Milan",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1992\u201393', 'League Division': 'Serie A', 'League Apps': 13, 'League Goals': 0, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Continental Apps': 6, 'Continental Goals': 1, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 1}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "AC Milan",
+      "league_apps": 20,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1993\u201394', 'League Division': 'Serie A', 'League Apps': 20, 'League Goals': 4, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Continental Apps': 8, 'Continental Goals': 0, 'Other Apps': '1[b]', 'Other Goals': '0', 'Total Apps': 31, 'Total Goals': 4}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "AC Milan",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': 21, 'League Goals': 1, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Continental Apps': 11, 'Continental Goals': 2, 'Other Apps': '2[c]', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 3}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "AC Milan",
+      "league_apps": 13,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': 13, 'League Goals': 3, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Continental Apps': 5, 'Continental Goals': 3, 'Other Apps': '1[b]', 'Other Goals': '0', 'Total Apps': 21, 'Total Goals': 7}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "AC Milan",
+      "league_apps": 28,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1996\u201397', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 1, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Continental Apps': 5, 'Continental Goals': 1, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 2}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "AC Milan",
+      "league_apps": 23,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 23, 'League Goals': 2, 'National cup[a] Apps': 6, 'National cup[a] Goals': 1, 'Continental Apps': 0, 'Continental Goals': 0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 29, 'Total Goals': 3}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "AC Milan",
+      "league_apps": 27,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 2, 'National cup[a] Apps': 4, 'National cup[a] Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 2}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "AC Milan",
+      "league_apps": 17,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 17, 'League Goals': 6, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Continental Apps': 2, 'Continental Goals': 0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 6}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "AC Milan",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2000\u201301', 'League Division': 'Serie A', 'League Apps': 16, 'League Goals': 2, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'Continental Apps': 7, 'Continental Goals': 0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 26, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 178,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 178, 'League Goals': 21, 'National cup[a] Apps': 29, 'National cup[a] Goals': 2, 'Continental Apps': 44, 'Continental Goals': 7, 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 255, 'Total Goals': 31}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Celta Vigo",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Celta Vigo', 'Season Season': '2001\u201302', 'League Division': 'La Liga', 'League Apps': 4, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Continental Apps': 2, 'Continental Goals': 0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 311,
+      "league_goals": 68,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 311, 'League Goals': 68, 'National cup[a] Apps': 34, 'National cup[a] Goals': 4, 'Continental Apps': 50, 'Continental Goals': 8, 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 399, 'Total Goals': 81}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Zvonimir Boban - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d95f091e-8a48-4366-a100-91b2552fefef\",",
+  "season_id": "1995",
+  "award_year": 1995
+}

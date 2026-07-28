@@ -1,0 +1,161 @@
+{
+  "player_name_raw": "Didier Deschamps",
+  "fetch_status": "ok",
+  "wikipedia_title": "Didier_Deschamps",
+  "url": "https://en.wikipedia.org/wiki/Didier_Deschamps",
+  "position": "Defensive midfielder",
+  "birth_year": 1968,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1985\u201386",
+      "club": "Nantes",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1985\u201386', 'League Division': 'Division 1', 'League Apps': 7, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '1', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Nantes",
+      "league_apps": 19,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1986\u201387', 'League Division': 'Division 1', 'League Apps': 19, 'League Goals': 0, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '2[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Nantes",
+      "league_apps": 30,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1987\u201388', 'League Division': 'Division 1', 'League Apps': 30, 'League Goals': 2, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 2}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Nantes",
+      "league_apps": 36,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1988\u201389', 'League Division': 'Division 1', 'League Apps': 36, 'League Goals': 1, 'National cup[a] Apps': 5, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 1}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Nantes",
+      "league_apps": 19,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1989\u201390', 'League Division': 'Division 1', 'League Apps': 19, 'League Goals': 1, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Nantes",
+      "league_apps": 111,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 111, 'League Goals': 4, 'National cup[a] Apps': 9, 'National cup[a] Goals': 0, 'Europe Apps': '!3', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 123, 'Total Goals': 4}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Marseille",
+      "league_apps": 17,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1989\u201390', 'League Division': 'Division 1', 'League Apps': 17, 'League Goals': 1, 'National cup[a] Apps': 5, 'National cup[a] Goals': 3, 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 4}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Marseille",
+      "league_apps": 36,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1991\u201392', 'League Division': 'Division 1', 'League Apps': 36, 'League Goals': 4, 'National cup[a] Apps': 4, 'National cup[a] Goals': 0, 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 4}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Marseille",
+      "league_apps": 36,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1992\u201393', 'League Division': 'Division 1', 'League Apps': 36, 'League Goals': 1, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Europe Apps': '11[d]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 1}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Marseille",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1993\u201394', 'League Division': 'Division 1', 'League Apps': 34, 'League Goals': 0, 'National cup[a] Apps': 4, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Marseille",
+      "league_apps": 123,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 123, 'League Goals': 6, 'National cup[a] Apps': 16, 'National cup[a] Goals': 3, 'Europe Apps': '19', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 158, 'Total Goals': 9}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Bordeaux (loan)",
+      "league_apps": 29,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bordeaux (loan)', 'Season Season': '1990\u201391', 'League Division': 'Division 1', 'League Apps': 29, 'League Goals': 3, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '4[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 3}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Juventus",
+      "league_apps": 14,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': 14, 'League Goals': 1, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Europe Apps': '6[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 1}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 2, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '8[d]', 'Europe Goals': '0', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 2}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Juventus",
+      "league_apps": 26,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1996\u201397', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 1, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Europe Apps': '10[d]', 'Europe Goals': '0', 'Other Apps': '2[f]', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 1}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Juventus",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 25, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '8[d]', 'Europe Goals': '0', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Juventus",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 0, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '9[d]', 'Europe Goals': '0', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 124,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 124, 'League Goals': 4, 'National cup[a] Apps': 8, 'National cup[a] Goals': 0, 'Europe Apps': '41', 'Europe Goals': '0', 'Other Apps': '5', 'Other Goals': '0', 'Total Apps': 178, 'Total Goals': 4}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Chelsea",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '1999\u20132000[93]', 'League Division': 'Premier League', 'League Apps': 27, 'League Goals': 0, 'National cup[a] Apps': 6, 'National cup[a] Goals': 0, 'Europe Apps': '14[d]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 1}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Valencia",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '2000\u201301', 'League Division': 'La Liga', 'League Apps': 13, 'League Goals': 0, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '7[d]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 21, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 427,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 427, 'League Goals': 17, 'National cup[a] Apps': 41, 'National cup[a] Goals': 3, 'Europe Apps': '88', 'Europe Goals': '1', 'Other Apps': '5', 'Other Goals': '0', 'Total Apps': 561, 'Total Goals': 21}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Didier Deschamps - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"cc883b9a-3ec7-407f-a0b6-366a9a90d622",
+  "season_id": "1996",
+  "award_year": 1996
+}

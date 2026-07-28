@@ -1,0 +1,147 @@
+{
+  "player_name_raw": "Jamie Carragher",
+  "fetch_status": "ok",
+  "wikipedia_title": "Jamie_Carragher",
+  "url": "https://en.wikipedia.org/wiki/Jamie_Carragher",
+  "position": "Defender",
+  "birth_year": 1978,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "nan",
+      "club": "nan",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': nan, 'Season Season': nan, 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Liverpool",
+      "league_apps": 2,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1996\u201397[107]', 'League Division': 'Premier League', 'League Apps': 2.0, 'League Goals': 1.0, 'FA Cup Apps': 0.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 1.0, 'League Cup Goals': 0.0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 3.0, 'Total Goals': 1.0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Liverpool",
+      "league_apps": 20,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1997\u201398[108]', 'League Division': 'Premier League', 'League Apps': 20.0, 'League Goals': 0.0, 'FA Cup Apps': 0.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 2.0, 'League Cup Goals': 0.0, 'Europe Apps': '1[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Liverpool",
+      "league_apps": 34,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1998\u201399[109]', 'League Division': 'Premier League', 'League Apps': 34.0, 'League Goals': 1.0, 'FA Cup Apps': 2.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 2.0, 'League Cup Goals': 0.0, 'Europe Apps': '6[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44.0, 'Total Goals': 1.0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Liverpool",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1999\u20132000[110]', 'League Division': 'Premier League', 'League Apps': 36.0, 'League Goals': 0.0, 'FA Cup Apps': 2.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 2.0, 'League Cup Goals': 0.0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Liverpool",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2000\u201301[111]', 'League Division': 'Premier League', 'League Apps': 34.0, 'League Goals': 0.0, 'FA Cup Apps': 6.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 6.0, 'League Cup Goals': 0.0, 'Europe Apps': '12[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 58.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Liverpool",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2001\u201302[112]', 'League Division': 'Premier League', 'League Apps': 33.0, 'League Goals': 0.0, 'FA Cup Apps': 2.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 1.0, 'League Cup Goals': 0.0, 'Europe Apps': '15[b]', 'Europe Goals': '0', 'Other Apps': '2[c]', 'Other Goals': '0', 'Total Apps': 53.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Liverpool",
+      "league_apps": 35,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2002\u201303[113]', 'League Division': 'Premier League', 'League Apps': 35.0, 'League Goals': 0.0, 'FA Cup Apps': 3.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 5.0, 'League Cup Goals': 0.0, 'Europe Apps': '11[d]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 54.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Liverpool",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2003\u201304[114]', 'League Division': 'Premier League', 'League Apps': 22.0, 'League Goals': 0.0, 'FA Cup Apps': 3.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 0.0, 'League Cup Goals': 0.0, 'Europe Apps': '4[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Liverpool",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2004\u201305[115]', 'League Division': 'Premier League', 'League Apps': 38.0, 'League Goals': 0.0, 'FA Cup Apps': 0.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 3.0, 'League Cup Goals': 0.0, 'Europe Apps': '15[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 56.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Liverpool",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2005\u201306[116]', 'League Division': 'Premier League', 'League Apps': 36.0, 'League Goals': 0.0, 'FA Cup Apps': 6.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 0.0, 'League Cup Goals': 0.0, 'Europe Apps': '12[b]', 'Europe Goals': '1', 'Other Apps': '3[e]', 'Other Goals': '0', 'Total Apps': 57.0, 'Total Goals': 1.0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Liverpool",
+      "league_apps": 35,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2006\u201307[117]', 'League Division': 'Premier League', 'League Apps': 35.0, 'League Goals': 1.0, 'FA Cup Apps': 1.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 1.0, 'League Cup Goals': 0.0, 'Europe Apps': '13[b]', 'Europe Goals': '0', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 51.0, 'Total Goals': 1.0}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Liverpool",
+      "league_apps": 35,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2007\u201308[118]', 'League Division': 'Premier League', 'League Apps': 35.0, 'League Goals': 0.0, 'FA Cup Apps': 4.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 3.0, 'League Cup Goals': 0.0, 'Europe Apps': '13[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 55.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Liverpool",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2008\u201309[119]', 'League Division': 'Premier League', 'League Apps': 38.0, 'League Goals': 0.0, 'FA Cup Apps': 3.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 1.0, 'League Cup Goals': 0.0, 'Europe Apps': '12[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 54.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Liverpool",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2009\u201310[120]', 'League Division': 'Premier League', 'League Apps': 37.0, 'League Goals': 0.0, 'FA Cup Apps': 2.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 1.0, 'League Cup Goals': 0.0, 'Europe Apps': '13[g]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 53.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Liverpool",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2010\u201311[121]', 'League Division': 'Premier League', 'League Apps': 28.0, 'League Goals': 0.0, 'FA Cup Apps': 0.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 0.0, 'League Cup Goals': 0.0, 'Europe Apps': '10[h]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Liverpool",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2011\u201312[122]', 'League Division': 'Premier League', 'League Apps': 21.0, 'League Goals': 0.0, 'FA Cup Apps': 5.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 5.0, 'League Cup Goals': 0.0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Liverpool",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2012\u201313[123]', 'League Division': 'Premier League', 'League Apps': 24.0, 'League Goals': 0.0, 'FA Cup Apps': 1.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 2.0, 'League Cup Goals': 0.0, 'Europe Apps': '11[h]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 508,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 508.0, 'League Goals': 3.0, 'FA Cup Apps': 40.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 35.0, 'League Cup Goals': 0.0, 'Europe Apps': '148', 'Europe Goals': '1', 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': 737.0, 'Total Goals': 4.0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jamie Carragher - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"6bb18c79-893c-48ac-83f9-8119efb9e4e1\"",
+  "season_id": "2005",
+  "award_year": 2005
+}

@@ -1,0 +1,173 @@
+{
+  "player_name_raw": "Kak\u00e1",
+  "fetch_status": "ok",
+  "wikipedia_title": "Kak\u00e1",
+  "url": "https://en.wikipedia.org/wiki/Kak\u00e1",
+  "position": "Attacking midfielder",
+  "birth_year": 1982,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2001",
+      "club": "S\u00e3o Paulo",
+      "league_apps": 27,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'S\u00e3o Paulo', 'Season Season': '2001', 'League Division': 'S\u00e9rie A', 'League Apps': 27, 'League Goals': 12, 'National cup[a] Apps': 7, 'National cup[a] Goals': 1, 'Continental Apps': '5[b]', 'Continental Goals': '0', 'Other Apps': '16', 'Other Goals': '4', 'Total Apps': 55, 'Total Goals': 17}"
+    },
+    {
+      "season": "2002",
+      "club": "S\u00e3o Paulo",
+      "league_apps": 22,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'S\u00e3o Paulo', 'Season Season': '2002', 'League Division': 'S\u00e9rie A', 'League Apps': 22, 'League Goals': 9, 'National cup[a] Apps': 9, 'National cup[a] Goals': 6, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '17', 'Other Goals': '8', 'Total Apps': 48, 'Total Goals': 23}"
+    },
+    {
+      "season": "2003",
+      "club": "S\u00e3o Paulo",
+      "league_apps": 10,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'S\u00e3o Paulo', 'Season Season': '2003', 'League Division': 'S\u00e9rie A', 'League Apps': 10, 'League Goals': 2, 'National cup[a] Apps': 5, 'National cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '7', 'Other Goals': '5', 'Total Apps': 22, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "S\u00e3o Paulo",
+      "league_apps": 59,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'S\u00e3o Paulo', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 59, 'League Goals': 23, 'National cup[a] Apps': 21, 'National cup[a] Goals': 7, 'Continental Apps': '5', 'Continental Goals': '0', 'Other Apps': '40', 'Other Goals': '17', 'Total Apps': 125, 'Total Goals': 47}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2003\u201304[257]', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 10, 'National cup[a] Apps': 4, 'National cup[a] Goals': 0, 'Continental Apps': '10[c]', 'Continental Goals': '4', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 14}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "AC Milan",
+      "league_apps": 36,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2004\u201305[257]', 'League Division': 'Serie A', 'League Apps': 36, 'League Goals': 7, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Continental Apps': '13[c]', 'Continental Goals': '2', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 9}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "AC Milan",
+      "league_apps": 35,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2005\u201306[257]', 'League Division': 'Serie A', 'League Apps': 35, 'League Goals': 14, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Continental Apps': '12[c]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 19}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2006\u201307[257]', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 8, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Continental Apps': '15[c]', 'Continental Goals': '10', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 18}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2007\u201308[257]', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 15, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Continental Apps': '8[c]', 'Continental Goals': '2', 'Other Apps': '3[f]', 'Other Goals': '2', 'Total Apps': 41, 'Total Goals': 19}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2008\u201309[257]', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 16, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Continental Apps': '4[g]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 193,
+      "league_goals": 70,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 193, 'League Goals': 70, 'National cup[a] Apps': 10, 'National cup[a] Goals': 0, 'Continental Apps': '62', 'Continental Goals': '23', 'Other Apps': '5', 'Other Goals': '2', 'Total Apps': 270, 'Total Goals': 95}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Real Madrid",
+      "league_apps": 25,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2009\u201310[257]', 'League Division': 'La Liga', 'League Apps': 25, 'League Goals': 8, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Continental Apps': '7[c]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 9}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Real Madrid",
+      "league_apps": 14,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2010\u201311[258]', 'League Division': 'La Liga', 'League Apps': 14, 'League Goals': 7, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Continental Apps': '3[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 7}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Real Madrid",
+      "league_apps": 27,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2011\u201312[259]', 'League Division': 'La Liga', 'League Apps': 27, 'League Goals': 5, 'National cup[a] Apps': 4, 'National cup[a] Goals': 0, 'Continental Apps': '8[c]', 'Continental Goals': '3', 'Other Apps': '1[h]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 8}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Real Madrid",
+      "league_apps": 19,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2012\u201313[260]', 'League Division': 'La Liga', 'League Apps': 19, 'League Goals': 3, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'Continental Apps': '6[c]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 85,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 85, 'League Goals': 23, 'National cup[a] Apps': 10, 'National cup[a] Goals': 1, 'Continental Apps': '24', 'Continental Goals': '5', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 120, 'Total Goals': 29}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2013\u201314[261]', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 7, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Continental Apps': '6[c]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 9}"
+    },
+    {
+      "season": "2015",
+      "club": "Orlando City SC",
+      "league_apps": 28,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Orlando City SC', 'Season Season': '2015[262][263]', 'League Division': 'MLS', 'League Apps': 28, 'League Goals': 9, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 10}"
+    },
+    {
+      "season": "2016",
+      "club": "Orlando City SC",
+      "league_apps": 24,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Orlando City SC', 'Season Season': '2016[262][263]', 'League Division': 'MLS', 'League Apps': 24, 'League Goals': 9, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 9}"
+    },
+    {
+      "season": "2017",
+      "club": "Orlando City SC",
+      "league_apps": 23,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Orlando City SC', 'Season Season': '2017[262][263]', 'League Division': 'MLS', 'League Apps': 23, 'League Goals': 6, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Orlando City SC",
+      "league_apps": 75,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Orlando City SC', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 75, 'League Goals': 24, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 78, 'Total Goals': 25}"
+    },
+    {
+      "season": "2014",
+      "club": "S\u00e3o Paulo (loan)",
+      "league_apps": 19,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'S\u00e3o Paulo (loan)', 'Season Season': '2014[257]', 'League Division': 'S\u00e9rie A', 'League Apps': 19, 'League Goals': 2, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Continental Apps': '5[i]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 3}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 461,
+      "league_goals": 149,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 461, 'League Goals': 149, 'National cup[a] Apps': 44, 'National cup[a] Goals': 9, 'Continental Apps': '102', 'Continental Goals': '31', 'Other Apps': '46', 'Other Goals': '19', 'Total Apps': 654, 'Total Goals': 208}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Kak\u00e1 - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"5ddce136-bfb4-4b90-a6ce-bd5b7e0e4b51\",\"wgCanonic"
+}

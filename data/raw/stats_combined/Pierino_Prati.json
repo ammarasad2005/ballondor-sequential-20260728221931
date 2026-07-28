@@ -1,0 +1,180 @@
+{
+  "player_name_raw": "Pierino Prati",
+  "fetch_status": "ok",
+  "wikipedia_title": "Pierino_Prati",
+  "url": "https://en.wikipedia.org/wiki/Pierino_Prati",
+  "position": "Striker",
+  "birth_year": 1946,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1965\u201366",
+      "club": "Salernitana",
+      "league_apps": 19,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Salernitana', 'Season Season': '1965\u201366', 'League Apps': 19.0, 'League Goals': 10.0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 19.0, 'Total Goals': 10.0}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "AC Milan",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1965\u201366', 'League Apps': 2.0, 'League Goals': 0.0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 2.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "AC Milan",
+      "league_apps": 23,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1967\u201368', 'League Apps': 23.0, 'League Goals': 15.0, 'Cup Apps': 7.0, 'Cup Goals': 3.0, 'Europe Apps': 8.0, 'Europe Goals': 4.0, 'Total Apps': 38.0, 'Total Goals': 22.0}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1968\u201369', 'League Apps': 30.0, 'League Goals': 14.0, 'Cup Apps': 3.0, 'Cup Goals': 1.0, 'Europe Apps': 7.0, 'Europe Goals': 6.0, 'Total Apps': 40.0, 'Total Goals': 21.0}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "AC Milan",
+      "league_apps": 21,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1969\u201370', 'League Apps': 21.0, 'League Goals': 12.0, 'Cup Apps': 3.0, 'Cup Goals': 3.0, 'Europe Apps': 4.0, 'Europe Goals': 2.0, 'Total Apps': 28.0, 'Total Goals': 17.0}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "AC Milan",
+      "league_apps": 29,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1970\u201371', 'League Apps': 29.0, 'League Goals': 19.0, 'Cup Apps': 10.0, 'Cup Goals': 3.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 39.0, 'Total Goals': 22.0}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "AC Milan",
+      "league_apps": 21,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1971\u201372', 'League Apps': 21.0, 'League Goals': 6.0, 'Cup Apps': 11.0, 'Cup Goals': 4.0, 'Europe Apps': 7.0, 'Europe Goals': 2.0, 'Total Apps': 39.0, 'Total Goals': 12.0}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "AC Milan",
+      "league_apps": 17,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1972\u201373', 'League Apps': 17.0, 'League Goals': 6.0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Europe Apps': 4.0, 'Europe Goals': 2.0, 'Total Apps': 21.0, 'Total Goals': 8.0}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 143,
+      "league_goals": 72,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Apps': 143.0, 'League Goals': 72.0, 'Cup Apps': 34.0, 'Cup Goals': 14.0, 'Europe Apps': 30.0, 'Europe Goals': 16.0, 'Total Apps': 207.0, 'Total Goals': 102.0}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Savona (loan)",
+      "league_apps": 29,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Savona (loan)', 'Season Season': '1966\u201367', 'League Apps': 29.0, 'League Goals': 15.0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 29.0, 'Total Goals': 15.0}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Roma",
+      "league_apps": 23,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '1973\u201374', 'League Apps': 23.0, 'League Goals': 8.0, 'Cup Apps': 3.0, 'Cup Goals': 0.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 26.0, 'Total Goals': 8.0}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Roma",
+      "league_apps": 29,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '1974\u201375', 'League Apps': 29.0, 'League Goals': 14.0, 'Cup Apps': 10.0, 'Cup Goals': 8.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 39.0, 'Total Goals': 22.0}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Roma",
+      "league_apps": 10,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '1975\u201376', 'League Apps': 10.0, 'League Goals': 2.0, 'Cup Apps': 3.0, 'Cup Goals': 3.0, 'Europe Apps': 6.0, 'Europe Goals': 0.0, 'Total Apps': 19.0, 'Total Goals': 5.0}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Roma",
+      "league_apps": 20,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '1976\u201377', 'League Apps': 20.0, 'League Goals': 4.0, 'Cup Apps': 2.0, 'Cup Goals': 1.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 22.0, 'Total Goals': 5.0}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Roma",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '1977\u201378', 'League Apps': 0.0, 'League Goals': 0.0, 'Cup Apps': 4.0, 'Cup Goals': 1.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 4.0, 'Total Goals': 1.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Roma",
+      "league_apps": 82,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Roma', 'Season Season': 'Total', 'League Apps': 82.0, 'League Goals': 28.0, 'Cup Apps': 22.0, 'Cup Goals': 13.0, 'Europe Apps': 6.0, 'Europe Goals': 0.0, 'Total Apps': 110.0, 'Total Goals': 41.0}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Fiorentina",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1977\u201378', 'League Apps': 8.0, 'League Goals': 0.0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 8.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Savona",
+      "league_apps": 25,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Savona', 'Season Season': '1978\u201379', 'League Apps': 25.0, 'League Goals': 10.0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 25.0, 'Total Goals': 10.0}"
+    },
+    {
+      "season": "1979",
+      "club": "Rochester Lancers",
+      "league_apps": 6,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Rochester Lancers', 'Season Season': '1979', 'League Apps': 6.0, 'League Goals': 3.0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 6.0, 'Total Goals': 3.0}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Savona",
+      "league_apps": 27,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Savona', 'Season Season': '1979\u201380', 'League Apps': 27.0, 'League Goals': 12.0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 27.0, 'Total Goals': 12.0}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Savona",
+      "league_apps": 27,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Savona', 'Season Season': '1980\u201381', 'League Apps': 27.0, 'League Goals': 12.0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 27.0, 'Total Goals': 12.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Savona",
+      "league_apps": 54,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Savona', 'Season Season': 'Total', 'League Apps': 54.0, 'League Goals': 24.0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 54.0, 'Total Goals': 24.0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 366,
+      "league_goals": 162,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Apps': 366.0, 'League Goals': 162.0, 'Cup Apps': 56.0, 'Cup Goals': 27.0, 'Europe Apps': 36.0, 'Europe Goals': 16.0, 'Total Apps': 458.0, 'Total Goals': 205.0}"
+    },
+    {
+      "season": "nan",
+      "club": "nan",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': nan, 'Season Season': nan, 'League Apps': nan, 'League Goals': nan, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Pierino Prati - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"3e7cbc74-5a74-4dae-befc-ef26c7889b88\",\""
+}

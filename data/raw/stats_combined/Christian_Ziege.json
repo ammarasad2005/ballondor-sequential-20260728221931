@@ -1,0 +1,145 @@
+{
+  "player_name_raw": "Christian Ziege",
+  "fetch_status": "ok",
+  "wikipedia_title": "Christian_Ziege",
+  "url": "https://en.wikipedia.org/wiki/Christian_Ziege",
+  "position": "Left midfielder left-back",
+  "birth_year": 1972,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1990\u201391",
+      "club": "Bayern Munich",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1990\u201391', 'League Division': 'Bundesliga', 'League Apps': 13, 'League Goals': 1, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': 0.0, 'League Cup Goals': 0.0, 'Europe Apps': 3.0, 'Europe Goals': 1.0, 'Total Apps': 16, 'Total Goals': 2}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Bayern Munich",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1991\u201392', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 2, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': 3.0, 'Europe Goals': 1.0, 'Total Apps': 29, 'Total Goals': 3}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Bayern Munich",
+      "league_apps": 28,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1992\u201393', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 10, 'National Cup Apps': 2, 'National Cup Goals': 2, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 30, 'Total Goals': 12}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Bayern Munich",
+      "league_apps": 29,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1993\u201394', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 3, 'National Cup Apps': 4, 'National Cup Goals': 1, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': 4.0, 'Europe Goals': 3.0, 'Total Apps': 37, 'Total Goals': 8}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Bayern Munich",
+      "league_apps": 29,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1994\u201395', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 12, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': 0.0, 'League Cup Goals': 0.0, 'Europe Apps': 9.0, 'Europe Goals': 0.0, 'Total Apps': 38, 'Total Goals': 12}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Bayern Munich",
+      "league_apps": 33,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1995\u201396', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 3, 'National Cup Apps': 1, 'National Cup Goals': 0, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': 10.0, 'Europe Goals': 1.0, 'Total Apps': 44, 'Total Goals': 4}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Bayern Munich",
+      "league_apps": 27,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1996\u201397', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 7, 'National Cup Apps': 4, 'National Cup Goals': 1, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': 2.0, 'Europe Goals': 0.0, 'Total Apps': 35, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 185,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 185, 'League Goals': 38, 'National Cup Apps': 11, 'National Cup Goals': 4, 'League Cup Apps': 0.0, 'League Cup Goals': 0.0, 'Europe Apps': 31.0, 'Europe Goals': 6.0, 'Total Apps': 227, 'Total Goals': 48}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Milan",
+      "league_apps": 22,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Milan', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 22, 'League Goals': 2, 'National Cup Apps': 5, 'National Cup Goals': 0, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 27, 'Total Goals': 2}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Milan",
+      "league_apps": 17,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Milan', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': 17, 'League Goals': 2, 'National Cup Apps': 3, 'National Cup Goals': 0, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 20, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Milan",
+      "league_apps": 39,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 39, 'League Goals': 4, 'National Cup Apps': 8, 'National Cup Goals': 0, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 47, 'Total Goals': 4}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Middlesbrough",
+      "league_apps": 29,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Middlesbrough', 'Season Season': '1999\u20132000', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 6, 'National Cup Apps': 1, 'National Cup Goals': 0, 'League Cup Apps': 3.0, 'League Cup Goals': 1.0, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 33, 'Total Goals': 7}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Liverpool",
+      "league_apps": 16,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2000\u201301', 'League Division': 'Premier League', 'League Apps': 16, 'League Goals': 1, 'National Cup Apps': 3, 'National Cup Goals': 0, 'League Cup Apps': 4.0, 'League Cup Goals': 1.0, 'Europe Apps': 9.0, 'Europe Goals': 0.0, 'Total Apps': 32, 'Total Goals': 2}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Tottenham Hotspur",
+      "league_apps": 27,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2001\u201302', 'League Division': 'Premier League', 'League Apps': 27, 'League Goals': 5, 'National Cup Apps': 2, 'National Cup Goals': 2, 'League Cup Apps': 4.0, 'League Cup Goals': 0.0, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 33, 'Total Goals': 7}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Tottenham Hotspur",
+      "league_apps": 12,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2002\u201303', 'League Division': 'Premier League', 'League Apps': 12, 'League Goals': 2, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': 0.0, 'League Cup Goals': 0.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 12, 'Total Goals': 2}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Tottenham Hotspur",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2003\u201304', 'League Division': 'Premier League', 'League Apps': 8, 'League Goals': 0, 'National Cup Apps': 1, 'National Cup Goals': 0, 'League Cup Apps': 1.0, 'League Cup Goals': 1.0, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 10, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Tottenham Hotspur",
+      "league_apps": 47,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 47, 'League Goals': 7, 'National Cup Apps': 3, 'National Cup Goals': 2, 'League Cup Apps': 5.0, 'League Cup Goals': 1.0, 'Europe Apps': 0.0, 'Europe Goals': 0.0, 'Total Apps': 55, 'Total Goals': 10}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '2004\u201305', 'League Division': 'Bundesliga', 'League Apps': 13, 'League Goals': 0, 'National Cup Apps': 1, 'National Cup Goals': 0, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 14, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 329,
+      "league_goals": 56,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 329, 'League Goals': 56, 'National Cup Apps': 27, 'National Cup Goals': 6, 'League Cup Apps': 12.0, 'League Cup Goals': 3.0, 'Europe Apps': 40.0, 'Europe Goals': 6.0, 'Total Apps': 396, 'Total Goals': 68}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Christian Ziege - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ac5be450-ce83-4f87-a187-992d4ea0295c\""
+}

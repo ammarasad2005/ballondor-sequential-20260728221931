@@ -1,0 +1,126 @@
+{
+  "player_name_raw": "Khvicha Kvaratskhelia",
+  "fetch_status": "ok",
+  "wikipedia_title": "Khvicha_Kvaratskhelia",
+  "url": "https://en.wikipedia.org/wiki/Khvicha_Kvaratskhelia",
+  "position": "Left winger",
+  "birth_year": 2001,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2017",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 4,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': '2017', 'League Division': 'Erovnuli Liga', 'League Apps': 4, 'League Goals': 1, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 1}"
+    },
+    {
+      "season": "2018",
+      "club": "Rustavi",
+      "league_apps": 18,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Rustavi', 'Season Season': '2018', 'League Division': 'Erovnuli Liga', 'League Apps': 18, 'League Goals': 3, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 3}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Lokomotiv Moscow (loan)",
+      "league_apps": 7,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Lokomotiv Moscow (loan)', 'Season Season': '2018\u201319', 'League Division': 'Russian Premier League', 'League Apps': 7, 'League Goals': 1, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 10, 'Total Goals': 1}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Rubin Kazan",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Rubin Kazan', 'Season Season': '2019\u201320', 'League Division': 'Russian Premier League', 'League Apps': 27, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 3}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Rubin Kazan",
+      "league_apps": 23,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Rubin Kazan', 'Season Season': '2020\u201321', 'League Division': 'Russian Premier League', 'League Apps': 23, 'League Goals': 4, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 4}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Rubin Kazan",
+      "league_apps": 19,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Rubin Kazan', 'Season Season': '2021\u201322', 'League Division': 'Russian Premier League', 'League Apps': 19, 'League Goals': 2, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe Apps': '2[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Rubin Kazan",
+      "league_apps": 69,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Rubin Kazan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 69, 'League Goals': 9, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 73, 'Total Goals': 9}"
+    },
+    {
+      "season": "2022",
+      "club": "Dinamo Batumi",
+      "league_apps": 11,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Dinamo Batumi', 'Season Season': '2022', 'League Division': 'Erovnuli Liga', 'League Apps': 11, 'League Goals': 8, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 8}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Napoli",
+      "league_apps": 34,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '2022\u201323', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 12, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Europe Apps': '9[c]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 14}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Napoli",
+      "league_apps": 34,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '2023\u201324', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 11, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe Apps': '8[c]', 'Europe Goals': '0', 'Other Apps': '2[d]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 11}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Napoli",
+      "league_apps": 17,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '2024\u201325', 'League Division': 'Serie A', 'League Apps': 17, 'League Goals': 5, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Napoli",
+      "league_apps": 85,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 85, 'League Goals': 28, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'Europe Apps': '17', 'Europe Goals': '2', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 107, 'Total Goals': 30}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Paris Saint-Germain",
+      "league_apps": 14,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2024\u201325', 'League Division': 'Ligue 1', 'League Apps': 14, 'League Goals': 4, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Europe Apps': '9[c]', 'Europe Goals': '3', 'Other Apps': '7[e]', 'Other Goals': '1', 'Total Apps': 32, 'Total Goals': 8}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Paris Saint-Germain",
+      "league_apps": 28,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2025\u201326', 'League Division': 'Ligue 1', 'League Apps': 28, 'League Goals': 8, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe Apps': '16[c]', 'Europe Goals': '10', 'Other Apps': '3[f]', 'Other Goals': '1', 'Total Apps': 48, 'Total Goals': 19}"
+    },
+    {
+      "season": "Total",
+      "club": "Paris Saint-Germain",
+      "league_apps": 42,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 42, 'League Goals': 12, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'Europe Apps': '25', 'Europe Goals': '13', 'Other Apps': '10', 'Other Goals': '2', 'Total Apps': 80, 'Total Goals': 27}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 236,
+      "league_goals": 62,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 236, 'League Goals': 62, 'National cup[a] Apps': '12', 'National cup[a] Goals': '0', 'Europe Apps': '44', 'Europe Goals': '15', 'Other Apps': '12', 'Other Goals': '2', 'Total Apps': 304, 'Total Goals': 79}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Khvicha Kvaratskhelia - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"2ed2b00d-9bbe-44ec-87e4-1b98d1f",
+  "season_id": "2023",
+  "award_year": 2023
+}

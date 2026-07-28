@@ -1,0 +1,175 @@
+{
+  "player_name_raw": "Gennaro Gattuso",
+  "fetch_status": "ok",
+  "wikipedia_title": "Gennaro_Gattuso",
+  "url": "https://en.wikipedia.org/wiki/Gennaro_Gattuso",
+  "position": "Midfielder",
+  "birth_year": 1978,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1995\u201396",
+      "club": "Perugia",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Perugia', 'Season Season': '1995\u201396', 'League Division': 'Serie B', 'League Apps': 2, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Perugia",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Perugia', 'Season Season': '1996\u201397', 'League Division': 'Serie A', 'League Apps': 8, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Perugia",
+      "league_apps": 10,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Perugia', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 10, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Rangers",
+      "league_apps": 29,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1997\u201398', 'League Division': 'Scottish Premier Division', 'League Apps': 29, 'League Goals': 3, 'National cup[a] Apps': 6, 'National cup[a] Goals': 0, 'Europe Apps': '2', 'Europe Goals': '1', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 4}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Rangers",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1998\u201399', 'League Division': 'Scottish Premier League', 'League Apps': 5, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '5', 'Europe Goals': '1', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 11, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Rangers",
+      "league_apps": 34,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 34, 'League Goals': 3, 'National cup[a] Apps': 4, 'National cup[a] Goals': 0, 'Europe Apps': '7', 'Europe Goals': '2', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 5}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Salernitana",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Salernitana', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': 25, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 25, 'Total Goals': 0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "AC Milan",
+      "league_apps": 22,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 22, 'League Goals': 1, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '5[b]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 1}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "AC Milan",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2000\u201301', 'League Division': 'Serie A', 'League Apps': 24, 'League Goals': 0, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '10[b]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "AC Milan",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2001\u201302', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 0, 'National cup[a] Apps': 5, 'National cup[a] Goals': 0, 'Europe Apps': '10[c]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "AC Milan",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2002\u201303', 'League Division': 'Serie A', 'League Apps': 25, 'League Goals': 0, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Europe Apps': '14[b]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "AC Milan",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2003\u201304', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 1, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '7[b]', 'Europe Goals': '1', 'Other Apps': '3[d]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 2}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "AC Milan",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2004\u201305', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 0, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '11[b]', 'Europe Goals': '0', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "AC Milan",
+      "league_apps": 35,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2005\u201306', 'League Division': 'Serie A', 'League Apps': 35, 'League Goals': 3, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Europe Apps': '11[b]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 49, 'Total Goals': 3}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2006\u201307', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 1, 'National cup[a] Apps': 4, 'National cup[a] Goals': 0, 'Europe Apps': '13[b]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 47, 'Total Goals': 1}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2007\u201308', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 1, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '8[b]', 'Europe Goals': '0', 'Other Apps': '3[f]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 1}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "AC Milan",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2008\u201309', 'League Division': 'Serie A', 'League Apps': 12, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '4[c]', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 16, 'Total Goals': 1}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "AC Milan",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2009\u201310', 'League Division': 'Serie A', 'League Apps': 22, 'League Goals': 0, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '1[b]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 24, 'Total Goals': 0}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2010\u201311', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 2, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '5[b]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 2}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "AC Milan",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2011\u201312', 'League Division': 'Serie A', 'League Apps': 6, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 335,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 335, 'League Goals': 9, 'National cup[a] Apps': 26, 'National cup[a] Goals': 0, 'Europe Apps': '99', 'Europe Goals': '2', 'Other Apps': '8', 'Other Goals': '0', 'Total Apps': 468, 'Total Goals': 11}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Sion",
+      "league_apps": 27,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Sion', 'Season Season': '2012\u201313', 'League Division': 'Swiss Super League', 'League Apps': 27, 'League Goals': 1, 'National cup[a] Apps': 5, 'National cup[a] Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 431,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 431, 'League Goals': 13, 'National cup[a] Apps': 37, 'National cup[a] Goals': 0, 'Europe Apps': '106', 'Europe Goals': '4', 'Other Apps': '12', 'Other Goals': '0', 'Total Apps': 586, 'Total Goals': 17}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Gennaro Gattuso - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"33231388-bd24-4172-afed-8d66c0549444\"",
+  "season_id": "2007",
+  "award_year": 2007
+}

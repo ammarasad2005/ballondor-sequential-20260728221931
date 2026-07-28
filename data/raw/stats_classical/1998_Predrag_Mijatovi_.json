@@ -1,0 +1,182 @@
+{
+  "player_name_raw": "Predrag Mijatovi\u0107",
+  "fetch_status": "ok",
+  "wikipedia_title": "Predrag_Mijatovi\u0107",
+  "url": "https://en.wikipedia.org/wiki/Predrag_Mijatovi\u0107",
+  "position": "Striker",
+  "birth_year": 1969,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1986\u201387",
+      "club": "Budu\u0107nost Titograd",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Budu\u0107nost Titograd', 'Season Season': '1986\u201387', 'League Division': 'Yugoslav First League', 'League Apps': 1, 'League Goals': 0, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Budu\u0107nost Titograd",
+      "league_apps": 31,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Budu\u0107nost Titograd', 'Season Season': '1987\u201388', 'League Division': 'Yugoslav First League', 'League Apps': 31, 'League Goals': 4, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 4}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Budu\u0107nost Titograd",
+      "league_apps": 28,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Budu\u0107nost Titograd', 'Season Season': '1988\u201389', 'League Division': 'Yugoslav First League', 'League Apps': 28, 'League Goals': 2, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 2}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Budu\u0107nost Titograd",
+      "league_apps": 13,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Budu\u0107nost Titograd', 'Season Season': '1989\u201390', 'League Division': 'Yugoslav First League', 'League Apps': 13, 'League Goals': 4, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Budu\u0107nost Titograd",
+      "league_apps": 73,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Budu\u0107nost Titograd', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 73, 'League Goals': 10, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 73, 'Total Goals': 10}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Partizan",
+      "league_apps": 15,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1989\u201390', 'League Division': 'Yugoslav First League', 'League Apps': 15, 'League Goals': 1, 'Cup Apps': 2.0, 'Cup Goals': 0.0, 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 1}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Partizan",
+      "league_apps": 33,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1990\u201391', 'League Division': 'Yugoslav First League', 'League Apps': 33, 'League Goals': 14, 'Cup Apps': 3.0, 'Cup Goals': 1.0, 'Continental Apps': '6', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 16}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Partizan",
+      "league_apps": 25,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1991\u201392', 'League Division': 'Yugoslav First League', 'League Apps': 25, 'League Goals': 12, 'Cup Apps': 6.0, 'Cup Goals': 2.0, 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 14}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Partizan",
+      "league_apps": 31,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1992\u201393', 'League Division': 'Yugoslav First League', 'League Apps': 31, 'League Goals': 17, 'Cup Apps': 8.0, 'Cup Goals': 2.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 19}"
+    },
+    {
+      "season": "Total",
+      "club": "Partizan",
+      "league_apps": 104,
+      "league_goals": 44,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 104, 'League Goals': 44, 'Cup Apps': 19.0, 'Cup Goals': 5.0, 'Continental Apps': '10', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 133, 'Total Goals': 50}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Valencia",
+      "league_apps": 35,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '1993\u201394', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 16, 'Cup Apps': 2.0, 'Cup Goals': 1.0, 'Continental Apps': '4', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 19}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Valencia",
+      "league_apps": 29,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '1994\u201395', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 12, 'Cup Apps': 9.0, 'Cup Goals': 3.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 15}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Valencia",
+      "league_apps": 40,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '1995\u201396', 'League Division': 'La Liga', 'League Apps': 40, 'League Goals': 28, 'Cup Apps': 9.0, 'Cup Goals': 6.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 34}"
+    },
+    {
+      "season": "Total",
+      "club": "Valencia",
+      "league_apps": 104,
+      "league_goals": 56,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 104, 'League Goals': 56, 'Cup Apps': 20.0, 'Cup Goals': 10.0, 'Continental Apps': '4', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 128, 'Total Goals': 68}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Real Madrid",
+      "league_apps": 38,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1996\u201397', 'League Division': 'La Liga', 'League Apps': 38, 'League Goals': 14, 'Cup Apps': 5.0, 'Cup Goals': 1.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 15}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Real Madrid",
+      "league_apps": 24,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1997\u201398', 'League Division': 'La Liga', 'League Apps': 24, 'League Goals': 10, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': '8', 'Continental Goals': '1', 'Other Apps': '2[a]', 'Other Goals': '1', 'Total Apps': 34, 'Total Goals': 12}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Real Madrid",
+      "league_apps": 28,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1998\u201399', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 5, 'Cup Apps': 4.0, 'Cup Goals': 2.0, 'Continental Apps': '7', 'Continental Goals': '2', 'Other Apps': '2[b]', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 90,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 90, 'League Goals': 29, 'Cup Apps': 9.0, 'Cup Goals': 3.0, 'Continental Apps': '15', 'Continental Goals': '3', 'Other Apps': '4', 'Other Goals': '1', 'Total Apps': 118, 'Total Goals': 36}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Fiorentina",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 16, 'League Goals': 2, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': '9', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 3}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Fiorentina",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '2000\u201301', 'League Division': 'Serie A', 'League Apps': 13, 'League Goals': 1, 'Cup Apps': 4.0, 'Cup Goals': 2.0, 'Continental Apps': '2', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 5}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Fiorentina",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '2001\u201302', 'League Division': 'Serie A', 'League Apps': 13, 'League Goals': 1, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': '4', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Fiorentina",
+      "league_apps": 42,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 42, 'League Goals': 4, 'Cup Apps': 4.0, 'Cup Goals': 2.0, 'Continental Apps': '15', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 61, 'Total Goals': 9}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Levante",
+      "league_apps": 21,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Levante', 'Season Season': '2002\u201303', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 21, 'League Goals': 3, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 21, 'Total Goals': 3}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 434,
+      "league_goals": 146,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 434, 'League Goals': 146, 'Cup Apps': 52.0, 'Cup Goals': 20.0, 'Continental Apps': '44', 'Continental Goals': '9', 'Other Apps': '4', 'Other Goals': '1', 'Total Apps': 534, 'Total Goals': 176}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Predrag Mijatovi\u0107 - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"a59c8a52-2a94-4483-97c8-5c538f36025",
+  "season_id": "1998",
+  "award_year": 1998
+}

@@ -1,0 +1,140 @@
+{
+  "player_name_raw": "Matthias Sammer",
+  "fetch_status": "ok",
+  "wikipedia_title": "Matthias_Sammer",
+  "url": "https://en.wikipedia.org/wiki/Matthias_Sammer",
+  "position": "Defensive midfielder sweeper",
+  "birth_year": 1967,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1985\u201386",
+      "club": "Dynamo Dresden",
+      "league_apps": 18,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Dynamo Dresden', 'Season Season': '1985\u201386', 'League Division': 'DDR-Oberliga', 'League Apps': 18, 'League Goals': 8, 'National cup[b] Apps': '4', 'National cup[b] Goals': '6', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '6[d]', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 16}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Dynamo Dresden",
+      "league_apps": 20,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Dynamo Dresden', 'Season Season': '1986\u201387', 'League Division': 'DDR-Oberliga', 'League Apps': 20, 'League Goals': 7, 'National cup[b] Apps': '3', 'National cup[b] Goals': '2', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 23, 'Total Goals': 9}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Dynamo Dresden",
+      "league_apps": 19,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Dynamo Dresden', 'Season Season': '1987\u201388', 'League Division': 'DDR-Oberliga', 'League Apps': 19, 'League Goals': 8, 'National cup[b] Apps': '3', 'National cup[b] Goals': '1', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '2[e]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 24, 'Total Goals': 9}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Dynamo Dresden",
+      "league_apps": 25,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Dynamo Dresden', 'Season Season': '1988\u201389', 'League Division': 'DDR-Oberliga', 'League Apps': 25, 'League Goals': 6, 'National cup[b] Apps': '3', 'National cup[b] Goals': '1', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '10[e]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 7}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Dynamo Dresden",
+      "league_apps": 20,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Dynamo Dresden', 'Season Season': '1989\u201390', 'League Division': 'DDR-Oberliga', 'League Apps': 20, 'League Goals': 9, 'National cup[b] Apps': '5', 'National cup[b] Goals': '4', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '2[f]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 27, 'Total Goals': 13}"
+    },
+    {
+      "season": "Total",
+      "club": "Dynamo Dresden",
+      "league_apps": 102,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Dynamo Dresden', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 102, 'League Goals': 38, 'National cup[b] Apps': '18', 'National cup[b] Goals': '14', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '20', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 140, 'Total Goals': 54}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "VfB Stuttgart",
+      "league_apps": 30,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'VfB Stuttgart', 'Season Season': '1990\u201391', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 11, 'National cup[b] Apps': '3', 'National cup[b] Goals': '1', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 12}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "VfB Stuttgart",
+      "league_apps": 33,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'VfB Stuttgart', 'Season Season': '1991\u201392', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 9, 'National cup[b] Apps': '3', 'National cup[b] Goals': '1', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '3[e]', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "VfB Stuttgart",
+      "league_apps": 63,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'VfB Stuttgart', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 63, 'League Goals': 20, 'National cup[b] Apps': '6', 'National cup[b] Goals': '2', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '3', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 72, 'Total Goals': 23}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Inter Milan",
+      "league_apps": 11,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1992\u201393', 'League Division': 'Serie A', 'League Apps': 11, 'League Goals': 4, 'National cup[b] Apps': '1', 'National cup[b] Goals': '0', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 12, 'Total Goals': 4}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Borussia Dortmund",
+      "league_apps": 17,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1992\u201393', 'League Division': 'Bundesliga', 'League Apps': 17, 'League Goals': 10, 'National cup[b] Apps': '\u2013', 'National cup[b] Goals': '\u2013', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 17, 'Total Goals': 10}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Borussia Dortmund",
+      "league_apps": 29,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1993\u201394', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 4, 'National cup[b] Apps': '2', 'National cup[b] Goals': '0', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '8[e]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 4}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Borussia Dortmund",
+      "league_apps": 28,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1994\u201395', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 4, 'National cup[b] Apps': '1', 'National cup[b] Goals': '1', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '7[e]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 5}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Borussia Dortmund",
+      "league_apps": 22,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1995\u201396', 'League Division': 'Bundesliga', 'League Apps': 22, 'League Goals': 3, 'National cup[b] Apps': '3', 'National cup[b] Goals': '1', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '6[g]', 'Europe Goals': '0', 'Other Apps': '1[h]', 'Other Goals': '0', 'Total Apps': 32, 'Total Goals': 4}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Borussia Dortmund",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1996\u201397', 'League Division': 'Bundesliga', 'League Apps': 21, 'League Goals': 0, 'National cup[b] Apps': '1', 'National cup[b] Goals': '0', 'League cup[c] Apps': '\u2013', 'League cup[c] Goals': '\u2013', 'Europe Apps': '5[g]', 'Europe Goals': '0', 'Other Apps': '1[h]', 'Other Goals': '0', 'Total Apps': 28, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Borussia Dortmund",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1997\u201398', 'League Division': 'Bundesliga', 'League Apps': 3, 'League Goals': 0, 'National cup[b] Apps': '1', 'National cup[b] Goals': '0', 'League cup[c] Apps': '1', 'League cup[c] Goals': '0', 'Europe Apps': '1[g]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Borussia Dortmund",
+      "league_apps": 120,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 120, 'League Goals': 21, 'National cup[b] Apps': '8', 'National cup[b] Goals': '2', 'League cup[c] Apps': '1', 'League cup[c] Goals': '0', 'Europe Apps': '27', 'Europe Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 158, 'Total Goals': 23}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 296,
+      "league_goals": 83,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 296, 'League Goals': 83, 'National cup[b] Apps': '33', 'National cup[b] Goals': '18', 'League cup[c] Apps': '1', 'League cup[c] Goals': '0', 'Europe Apps': '50', 'Europe Goals': '3', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 382, 'Total Goals': 104}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Matthias Sammer - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"caab9655-d7aa-48f1-a978-d87782c93142\"",
+  "season_id": "1996",
+  "award_year": 1996
+}

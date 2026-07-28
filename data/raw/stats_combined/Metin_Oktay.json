@@ -1,0 +1,159 @@
+{
+  "player_name_raw": "Metin Oktay",
+  "fetch_status": "ok",
+  "wikipedia_title": "Metin_Oktay",
+  "url": "https://en.wikipedia.org/wiki/Metin_Oktay",
+  "position": "Striker",
+  "birth_year": 1936,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1954\u201355",
+      "club": "Izmirspor",
+      "league_apps": 18,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Izmirspor', 'Season Season': '1954\u201355', 'League[7] Apps': 18, 'League[7] Goals': 17, 'Cup[8] Apps': '-', 'Cup[8] Goals': '-', 'Minor Cup[9] Apps': '-', 'Minor Cup[9] Goals': '-', 'Europe[10] Apps': '-', 'Europe[10] Goals': '-', 'Total Apps': 18, 'Total Goals': 17}"
+    },
+    {
+      "season": "Total",
+      "club": "Izmirspor",
+      "league_apps": 18,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Izmirspor', 'Season Season': 'Total', 'League[7] Apps': 18, 'League[7] Goals': 17, 'Cup[8] Apps': '0', 'Cup[8] Goals': '0', 'Minor Cup[9] Apps': '0', 'Minor Cup[9] Goals': '0', 'Europe[10] Apps': '0', 'Europe[10] Goals': '0', 'Total Apps': 18, 'Total Goals': 17}"
+    },
+    {
+      "season": "1955\u201356",
+      "club": "Galatasaray",
+      "league_apps": 17,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1955\u201356', 'League[7] Apps': 17, 'League[7] Goals': 19, 'Cup[8] Apps': '-', 'Cup[8] Goals': '-', 'Minor Cup[9] Apps': '-', 'Minor Cup[9] Goals': '-', 'Europe[10] Apps': '-', 'Europe[10] Goals': '-', 'Total Apps': 17, 'Total Goals': 19}"
+    },
+    {
+      "season": "1956\u201357",
+      "club": "Galatasaray",
+      "league_apps": 27,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1956\u201357', 'League[7] Apps': 27, 'League[7] Goals': 24, 'Cup[8] Apps': '-', 'Cup[8] Goals': '-', 'Minor Cup[9] Apps': '-', 'Minor Cup[9] Goals': '-', 'Europe[10] Apps': '2', 'Europe[10] Goals': '2', 'Total Apps': 29, 'Total Goals': 26}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "Galatasaray",
+      "league_apps": 26,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1957\u201358', 'League[7] Apps': 26, 'League[7] Goals': 29, 'Cup[8] Apps': '-', 'Cup[8] Goals': '-', 'Minor Cup[9] Apps': '-', 'Minor Cup[9] Goals': '-', 'Europe[10] Apps': '-', 'Europe[10] Goals': '-', 'Total Apps': 26, 'Total Goals': 29}"
+    },
+    {
+      "season": "1958\u201359",
+      "club": "Galatasaray",
+      "league_apps": 16,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1958\u201359', 'League[7] Apps': 16, 'League[7] Goals': 22, 'Cup[8] Apps': '-', 'Cup[8] Goals': '-', 'Minor Cup[9] Apps': '-', 'Minor Cup[9] Goals': '-', 'Europe[10] Apps': '-', 'Europe[10] Goals': '-', 'Total Apps': 16, 'Total Goals': 22}"
+    },
+    {
+      "season": "1959",
+      "club": "Galatasaray",
+      "league_apps": 15,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1959', 'League[7] Apps': 15, 'League[7] Goals': 11, 'Cup[8] Apps': '-', 'Cup[8] Goals': '-', 'Minor Cup[9] Apps': '-', 'Minor Cup[9] Goals': '-', 'Europe[10] Apps': '-', 'Europe[10] Goals': '-', 'Total Apps': 15, 'Total Goals': 11}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "Galatasaray",
+      "league_apps": 33,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1959\u201360', 'League[7] Apps': 33, 'League[7] Goals': 33, 'Cup[8] Apps': '-', 'Cup[8] Goals': '-', 'Minor Cup[9] Apps': '-', 'Minor Cup[9] Goals': '-', 'Europe[10] Apps': '-', 'Europe[10] Goals': '-', 'Total Apps': 33, 'Total Goals': 33}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Galatasaray",
+      "league_apps": 30,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1960\u201361', 'League[7] Apps': 30, 'League[7] Goals': 36, 'Cup[8] Apps': '-', 'Cup[8] Goals': '-', 'Minor Cup[9] Apps': '-', 'Minor Cup[9] Goals': '-', 'Europe[10] Apps': '-', 'Europe[10] Goals': '-', 'Total Apps': 30, 'Total Goals': 36}"
+    },
+    {
+      "season": "Total",
+      "club": "Galatasaray",
+      "league_apps": 164,
+      "league_goals": 174,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': 'Total', 'League[7] Apps': 164, 'League[7] Goals': 174, 'Cup[8] Apps': '0', 'Cup[8] Goals': '0', 'Minor Cup[9] Apps': '0', 'Minor Cup[9] Goals': '0', 'Europe[10] Apps': '2', 'Europe[10] Goals': '2', 'Total Apps': 166, 'Total Goals': 176}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Palermo",
+      "league_apps": 12,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Palermo', 'Season Season': '1961\u201362', 'League[7] Apps': 12, 'League[7] Goals': 3, 'Cup[8] Apps': '-', 'Cup[8] Goals': '-', 'Minor Cup[9] Apps': '-', 'Minor Cup[9] Goals': '-', 'Europe[10] Apps': '-', 'Europe[10] Goals': '-', 'Total Apps': 12, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Palermo",
+      "league_apps": 12,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Palermo', 'Season Season': 'Total', 'League[7] Apps': 12, 'League[7] Goals': 3, 'Cup[8] Apps': '0', 'Cup[8] Goals': '0', 'Minor Cup[9] Apps': '0', 'Minor Cup[9] Goals': '0', 'Europe[10] Apps': '0', 'Europe[10] Goals': '0', 'Total Apps': 12, 'Total Goals': 3}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Galatasaray",
+      "league_apps": 26,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1962\u201363', 'League[7] Apps': 26, 'League[7] Goals': 38, 'Cup[8] Apps': '7', 'Cup[8] Goals': '4', 'Minor Cup[9] Apps': '0', 'Minor Cup[9] Goals': '0', 'Europe[10] Apps': '6', 'Europe[10] Goals': '5', 'Total Apps': 39, 'Total Goals': 47}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Galatasaray",
+      "league_apps": 32,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1963\u201364', 'League[7] Apps': 32, 'League[7] Goals': 18, 'Cup[8] Apps': '6', 'Cup[8] Goals': '7', 'Minor Cup[9] Apps': '2', 'Minor Cup[9] Goals': '3', 'Europe[10] Apps': '5', 'Europe[10] Goals': '6', 'Total Apps': 45, 'Total Goals': 34}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Galatasaray",
+      "league_apps": 22,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1964\u201365', 'League[7] Apps': 22, 'League[7] Goals': 17, 'Cup[8] Apps': '6', 'Cup[8] Goals': '3', 'Minor Cup[9] Apps': '0', 'Minor Cup[9] Goals': '0', 'Europe[10] Apps': '6', 'Europe[10] Goals': '3', 'Total Apps': 34, 'Total Goals': 23}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Galatasaray",
+      "league_apps": 26,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1965\u201366', 'League[7] Apps': 26, 'League[7] Goals': 19, 'Cup[8] Apps': '5', 'Cup[8] Goals': '1', 'Minor Cup[9] Apps': '1', 'Minor Cup[9] Goals': '0', 'Europe[10] Apps': '1', 'Europe[10] Goals': '0', 'Total Apps': 33, 'Total Goals': 20}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Galatasaray",
+      "league_apps": 17,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1966\u201367', 'League[7] Apps': 17, 'League[7] Goals': 10, 'Cup[8] Apps': '1', 'Cup[8] Goals': '0', 'Minor Cup[9] Apps': '0', 'Minor Cup[9] Goals': '0', 'Europe[10] Apps': '-', 'Europe[10] Goals': '-', 'Total Apps': 18, 'Total Goals': 10}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Galatasaray",
+      "league_apps": 27,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1967\u201368', 'League[7] Apps': 27, 'League[7] Goals': 18, 'Cup[8] Apps': '6', 'Cup[8] Goals': '3', 'Minor Cup[9] Apps': '2', 'Minor Cup[9] Goals': '0', 'Europe[10] Apps': '-', 'Europe[10] Goals': '-', 'Total Apps': 35, 'Total Goals': 21}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Galatasaray",
+      "league_apps": 30,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1968\u201369', 'League[7] Apps': 30, 'League[7] Goals': 17, 'Cup[8] Apps': '8', 'Cup[8] Goals': '4', 'Minor Cup[9] Apps': '1', 'Minor Cup[9] Goals': '0', 'Europe[10] Apps': '-', 'Europe[10] Goals': '-', 'Total Apps': 39, 'Total Goals': 21}"
+    },
+    {
+      "season": "Total",
+      "club": "Galatasaray",
+      "league_apps": 180,
+      "league_goals": 137,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': 'Total', 'League[7] Apps': 180, 'League[7] Goals': 137, 'Cup[8] Apps': '39', 'Cup[8] Goals': '22', 'Minor Cup[9] Apps': '6', 'Minor Cup[9] Goals': '3', 'Europe[10] Apps': '18', 'Europe[10] Goals': '14', 'Total Apps': 243, 'Total Goals': 176}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 374,
+      "league_goals": 331,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League[7] Apps': 374, 'League[7] Goals': 331, 'Cup[8] Apps': '39', 'Cup[8] Goals': '22', 'Minor Cup[9] Apps': '6', 'Minor Cup[9] Goals': '3', 'Europe[10] Apps': '20', 'Europe[10] Goals': '16', 'Total Apps': 437, 'Total Goals': 372}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Metin Oktay - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"22cc2f59-dbb1-46ac-9bb0-c941cb060082\",\"wg"
+}

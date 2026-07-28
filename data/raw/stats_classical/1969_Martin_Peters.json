@@ -1,0 +1,203 @@
+{
+  "player_name_raw": "Martin Peters",
+  "fetch_status": "ok",
+  "wikipedia_title": "Martin_Peters",
+  "url": "https://en.wikipedia.org/wiki/Martin_Peters",
+  "position": "Midfielder",
+  "birth_year": 1943,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1961\u201362",
+      "club": "West Ham United",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '1961\u201362', 'League Division': 'First Division', 'League Apps': 5, 'League Goals': 0, 'FA Cup Apps': '0', 'FA Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "West Ham United",
+      "league_apps": 36,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '1962\u201363', 'League Division': 'First Division', 'League Apps': 36, 'League Goals': 8, 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'League Cup Apps': '2', 'League Cup Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 9}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "West Ham United",
+      "league_apps": 32,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '1963\u201364', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 3, 'FA Cup Apps': '0', 'FA Cup Goals': '0', 'League Cup Apps': '4', 'League Cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 3}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "West Ham United",
+      "league_apps": 35,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '1964\u201365', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 5, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Other Apps': '9[a]', 'Other Goals': '1', 'Total Apps': 47, 'Total Goals': 6}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "West Ham United",
+      "league_apps": 40,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '1965\u201366', 'League Division': 'First Division', 'League Apps': 40, 'League Goals': 11, 'FA Cup Apps': '4', 'FA Cup Goals': '0', 'League Cup Apps': '10', 'League Cup Goals': '3', 'Other Apps': '6[a]', 'Other Goals': '3', 'Total Apps': 60, 'Total Goals': 17}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "West Ham United",
+      "league_apps": 41,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '1966\u201367', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 14, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': '6', 'League Cup Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 16}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "West Ham United",
+      "league_apps": 40,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '1967\u201368', 'League Division': 'First Division', 'League Apps': 40, 'League Goals': 14, 'FA Cup Apps': '3', 'FA Cup Goals': '2', 'League Cup Apps': '3', 'League Cup Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 18}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "West Ham United",
+      "league_apps": 42,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '1968\u201369', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 19, 'FA Cup Apps': '3', 'FA Cup Goals': '3', 'League Cup Apps': '3', 'League Cup Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 24}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "West Ham United",
+      "league_apps": 31,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '1969\u201370', 'League Division': 'First Division', 'League Apps': 31, 'League Goals': 7, 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "West Ham United",
+      "league_apps": 302,
+      "league_goals": 81,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 302, 'League Goals': 81, 'FA Cup Apps': '16', 'FA Cup Goals': '5', 'League Cup Apps': '31', 'League Cup Goals': '10', 'Other Apps': '15', 'Other Goals': '4', 'Total Apps': 364, 'Total Goals': 100}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Tottenham Hotspur",
+      "league_apps": 7,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1969\u201370', 'League Division': 'First Division', 'League Apps': 7, 'League Goals': 2, 'FA Cup Apps': '\u2014', 'FA Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 7, 'Total Goals': 2}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Tottenham Hotspur",
+      "league_apps": 42,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1970\u201371', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 9, 'FA Cup Apps': '5', 'FA Cup Goals': '2', 'League Cup Apps': '7', 'League Cup Goals': '4', 'Other Apps': '4[b]', 'Other Goals': '4', 'Total Apps': 58, 'Total Goals': 19}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Tottenham Hotspur",
+      "league_apps": 35,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1971\u201372', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 10, 'FA Cup Apps': '5', 'FA Cup Goals': '2', 'League Cup Apps': '7', 'League Cup Goals': '3', 'Other Apps': '14[c]', 'Other Goals': '2', 'Total Apps': 61, 'Total Goals': 17}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Tottenham Hotspur",
+      "league_apps": 41,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1972\u201373', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 15, 'FA Cup Apps': '3', 'FA Cup Goals': '1', 'League Cup Apps': '8', 'League Cup Goals': '5', 'Other Apps': '8[d]', 'Other Goals': '3', 'Total Apps': 60, 'Total Goals': 24}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Tottenham Hotspur",
+      "league_apps": 35,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1973\u201374', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 6, 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Other Apps': '12[d]', 'Other Goals': '8', 'Total Apps': 49, 'Total Goals': 14}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Tottenham Hotspur",
+      "league_apps": 29,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1974\u201375', 'League Division': 'First Division', 'League Apps': 29, 'League Goals': 4, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Tottenham Hotspur",
+      "league_apps": 189,
+      "league_goals": 46,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 189, 'League Goals': 46, 'FA Cup Apps': '16', 'FA Cup Goals': '5', 'League Cup Apps': '23', 'League Cup Goals': '12', 'Other Apps': '38', 'Other Goals': '17', 'Total Apps': 266, 'Total Goals': 80}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Norwich City",
+      "league_apps": 10,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Norwich City', 'Season Season': '1974\u201375', 'League Division': 'Second Division', 'League Apps': 10, 'League Goals': 2, 'FA Cup Apps': '\u2014', 'FA Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 10, 'Total Goals': 2}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Norwich City",
+      "league_apps": 42,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Norwich City', 'Season Season': '1975\u201376', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 10, 'FA Cup Apps': '5', 'FA Cup Goals': '2', 'League Cup Apps': '3', 'League Cup Goals': '1', 'Other Apps': '3[e]', 'Other Goals': '1', 'Total Apps': 53, 'Total Goals': 14}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Norwich City",
+      "league_apps": 42,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Norwich City', 'Season Season': '1976\u201377', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 7, 'FA Cup Apps': '1', 'FA Cup Goals': '1', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Other Apps': '3[e]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 8}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Norwich City",
+      "league_apps": 34,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Norwich City', 'Season Season': '1977\u201378', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 7, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 7}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Norwich City",
+      "league_apps": 39,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Norwich City', 'Season Season': '1978\u201379', 'League Division': 'First Division', 'League Apps': 39, 'League Goals': 10, 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'League Cup Apps': '3', 'League Cup Goals': '2', 'Other Apps': '3[e]', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 12}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Norwich City",
+      "league_apps": 40,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Norwich City', 'Season Season': '1979\u201380', 'League Division': 'First Division', 'League Apps': 40, 'League Goals': 8, 'FA Cup Apps': '3', 'FA Cup Goals': '0', 'League Cup Apps': '5', 'League Cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Norwich City",
+      "league_apps": 207,
+      "league_goals": 44,
+      "raw": "{'Club Club': 'Norwich City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 207, 'League Goals': 44, 'FA Cup Apps': '12', 'FA Cup Goals': '3', 'League Cup Apps': '13', 'League Cup Goals': '3', 'Other Apps': '9', 'Other Goals': '1', 'Total Apps': 241, 'Total Goals': 51}"
+    },
+    {
+      "season": "1979",
+      "club": "Frankston City (guest)",
+      "league_apps": 5,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Frankston City (guest)', 'Season Season': '1979[33]', 'League Division': 'Victorian State League', 'League Apps': 5, 'League Goals': 3, 'FA Cup Apps': '\u2014', 'FA Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 3}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Sheffield United",
+      "league_apps": 24,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Sheffield United', 'Season Season': '1980\u201381', 'League Division': 'Third Division', 'League Apps': 24, 'League Goals': 4, 'FA Cup Apps': '0', 'FA Cup Goals': '0', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Other Apps': '2[e]', 'Other Goals': '0', 'Total Apps': 28, 'Total Goals': 4}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 727,
+      "league_goals": 178,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 727, 'League Goals': 178, 'FA Cup Apps': '44', 'FA Cup Goals': '13', 'League Cup Apps': '69', 'League Cup Goals': '25', 'Other Apps': '64', 'Other Goals': '22', 'Total Apps': 904, 'Total Goals': 238}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Martin Peters - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ca3ff8a2-b07f-4f7b-847f-1ca1b5b8ca88\",\"",
+  "season_id": "1969",
+  "award_year": 1969
+}

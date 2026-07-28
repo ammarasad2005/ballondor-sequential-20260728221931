@@ -1,0 +1,159 @@
+{
+  "player_name_raw": "Donny van de Beek",
+  "fetch_status": "ok",
+  "wikipedia_title": "Donny_van_de_Beek",
+  "url": "https://en.wikipedia.org/wiki/Donny_van_de_Beek",
+  "position": "Midfielder",
+  "birth_year": 1997,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2014\u201315",
+      "club": "Jong Ajax",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Jong Ajax', 'Season Season': '2014\u201315[14]', 'League Division': 'Eerste Divisie', 'League Apps': 6, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Jong Ajax",
+      "league_apps": 13,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Jong Ajax', 'Season Season': '2015\u201316[14]', 'League Division': 'Eerste Divisie', 'League Apps': 13, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 2}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Jong Ajax",
+      "league_apps": 16,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Jong Ajax', 'Season Season': '2016\u201317[14]', 'League Division': 'Eerste Divisie', 'League Apps': 16, 'League Goals': 6, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 16, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Jong Ajax",
+      "league_apps": 35,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Jong Ajax', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 35, 'League Goals': 8, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 35, 'Total Goals': 8}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Ajax",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '2015\u201316[14]', 'League Division': 'Eredivisie', 'League Apps': 8, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '2[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 10, 'Total Goals': 1}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Ajax",
+      "league_apps": 19,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '2016\u201317[14]', 'League Division': 'Eredivisie', 'League Apps': 19, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '11[d]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 0}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Ajax",
+      "league_apps": 34,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '2017\u201318[14]', 'League Division': 'Eredivisie', 'League Apps': 34, 'League Goals': 11, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '4[e]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 13}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Ajax",
+      "league_apps": 34,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '2018\u201319[14]', 'League Division': 'Eredivisie', 'League Apps': 34, 'League Goals': 9, 'National cup[a] Apps': '5', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '18[f]', 'Europe Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 57, 'Total Goals': 17}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Ajax",
+      "league_apps": 23,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '2019\u201320[14]', 'League Division': 'Eredivisie', 'League Apps': 23, 'League Goals': 8, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '10[g]', 'Europe Goals': '2', 'Other Apps': '1[h]', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Ajax",
+      "league_apps": 118,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 118, 'League Goals': 28, 'National cup[a] Apps': '11', 'National cup[a] Goals': '4', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '45', 'Europe Goals': '9', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 175, 'Total Goals': 41}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Manchester United",
+      "league_apps": 19,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2020\u201321[77]', 'League Division': 'Premier League', 'League Apps': 19, 'League Goals': 1, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Europe Apps': '9[i]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 1}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Manchester United",
+      "league_apps": 8,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2021\u201322[78]', 'League Division': 'Premier League', 'League Apps': 8, 'League Goals': 1, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '4[f]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 14, 'Total Goals': 1}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Manchester United",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2022\u201323[79]', 'League Division': 'Premier League', 'League Apps': 7, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '2[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Manchester United",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2023\u201324[80]', 'League Division': 'Premier League', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester United",
+      "league_apps": 35,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 35, 'League Goals': 2, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '7', 'League cup[b] Goals': '0', 'Europe Apps': '15', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 62, 'Total Goals': 2}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Everton (loan)",
+      "league_apps": 7,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Everton (loan)', 'Season Season': '2021\u201322[78]', 'League Division': 'Premier League', 'League Apps': 7, 'League Goals': 1, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 7, 'Total Goals': 1}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Eintracht Frankfurt (loan)",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Eintracht Frankfurt (loan)', 'Season Season': '2023\u201324[80]', 'League Division': 'Bundesliga', 'League Apps': 8, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Girona",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Girona', 'Season Season': '2024\u201325[81]', 'League Division': 'La Liga', 'League Apps': 26, 'League Goals': 2, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '7[f]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 3}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Girona",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Girona', 'Season Season': '2025\u201326[82]', 'League Division': 'La Liga', 'League Apps': 2, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Girona",
+      "league_apps": 28,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Girona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 28, 'League Goals': 2, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '7', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 3}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 231,
+      "league_goals": 41,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 231, 'League Goals': 41, 'National cup[a] Apps': '18', 'National cup[a] Goals': '4', 'League cup[b] Apps': '7', 'League cup[b] Goals': '0', 'Europe Apps': '67', 'Europe Goals': '10', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 324, 'Total Goals': 55}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Donny van de Beek - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"8d184cf8-4711-4c4c-a144-86c48c9897a"
+}

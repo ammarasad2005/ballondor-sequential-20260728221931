@@ -1,0 +1,187 @@
+{
+  "player_name_raw": "Gianluca Pagliuca",
+  "fetch_status": "ok",
+  "wikipedia_title": "Gianluca_Pagliuca",
+  "url": "https://en.wikipedia.org/wiki/Gianluca_Pagliuca",
+  "position": "Goalkeeper",
+  "birth_year": 1966,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1986\u201387",
+      "club": "Sampdoria",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1986\u201387', 'League Division': 'Serie A', 'League Apps': '0', 'League Goals': '0', 'Coppa Italia Apps': '\u2014', 'Coppa Italia Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Sampdoria",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1987\u201388', 'League Division': 'Serie A', 'League Apps': '2', 'League Goals': '0', 'Coppa Italia Apps': '5', 'Coppa Italia Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Sampdoria",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1988\u201389', 'League Division': 'Serie A', 'League Apps': '33', 'League Goals': '0', 'Coppa Italia Apps': '12', 'Coppa Italia Goals': '0', 'Europe Apps': '5', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Sampdoria",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1989\u201390', 'League Division': 'Serie A', 'League Apps': '34', 'League Goals': '0', 'Coppa Italia Apps': '5', 'Coppa Italia Goals': '0', 'Europe Apps': '7', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Sampdoria",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1990\u201391', 'League Division': 'Serie A', 'League Apps': '32', 'League Goals': '0', 'Coppa Italia Apps': '10', 'Coppa Italia Goals': '0', 'Europe Apps': '8', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Sampdoria",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1991\u201392', 'League Division': 'Serie A', 'League Apps': '34', 'League Goals': '0', 'Coppa Italia Apps': '9', 'Coppa Italia Goals': '0', 'Europe Apps': '11', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 54, 'Total Goals': 0}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Sampdoria",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1992\u201393', 'League Division': 'Serie A', 'League Apps': '29', 'League Goals': '0', 'Coppa Italia Apps': '\u2014', 'Coppa Italia Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Sampdoria",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1993\u201394', 'League Division': 'Serie A', 'League Apps': '34', 'League Goals': '0', 'Coppa Italia Apps': '10', 'Coppa Italia Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Sampdoria",
+      "league_apps": 198,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '198', 'League Goals': '0', 'Coppa Italia Apps': '51', 'Coppa Italia Goals': '0', 'Europe Apps': '31', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 280, 'Total Goals': 0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Inter Milan",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': '34', 'League Goals': '0', 'Coppa Italia Apps': '7', 'Coppa Italia Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Inter Milan",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': '34', 'League Goals': '0', 'Coppa Italia Apps': '6', 'Coppa Italia Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Inter Milan",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1996\u201397', 'League Division': 'Serie A', 'League Apps': '34', 'League Goals': '0', 'Coppa Italia Apps': '7', 'Coppa Italia Goals': '0', 'Europe Apps': '12', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 53, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Inter Milan",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': '34', 'League Goals': '0', 'Coppa Italia Apps': '4', 'Coppa Italia Goals': '0', 'Europe Apps': '11', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Inter Milan",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': '29', 'League Goals': '0', 'Coppa Italia Apps': '6', 'Coppa Italia Goals': '0', 'Europe Apps': '10', 'Europe Goals': '0', 'Other Apps': '2[a]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 165,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '165', 'League Goals': '0', 'Coppa Italia Apps': '30', 'Coppa Italia Goals': '0', 'Europe Apps': '37', 'Europe Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 234, 'Total Goals': 0}"
+    },
+    {
+      "season": "1999\u201300",
+      "club": "Bologna",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bologna', 'Season Season': '1999\u201300', 'League Division': 'Serie A', 'League Apps': '32', 'League Goals': '0', 'Coppa Italia Apps': '3', 'Coppa Italia Goals': '0', 'Europe Apps': '6', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Bologna",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bologna', 'Season Season': '2000\u201301', 'League Division': 'Serie A', 'League Apps': '34', 'League Goals': '0', 'Coppa Italia Apps': '2', 'Coppa Italia Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Bologna",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bologna', 'Season Season': '2001\u201302', 'League Division': 'Serie A', 'League Apps': '34', 'League Goals': '0', 'Coppa Italia Apps': '\u2014', 'Coppa Italia Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Bologna",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bologna', 'Season Season': '2002\u201303', 'League Division': 'Serie A', 'League Apps': '34', 'League Goals': '0', 'Coppa Italia Apps': '\u2014', 'Coppa Italia Goals': '\u2014', 'Europe Apps': '4', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Bologna",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bologna', 'Season Season': '2003\u201304', 'League Division': 'Serie A', 'League Apps': '34', 'League Goals': '0', 'Coppa Italia Apps': '\u2014', 'Coppa Italia Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Bologna",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bologna', 'Season Season': '2004\u201305', 'League Division': 'Serie A', 'League Apps': '38', 'League Goals': '0', 'Coppa Italia Apps': '\u2014', 'Coppa Italia Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '2[b]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Bologna",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bologna', 'Season Season': '2005\u201306', 'League Division': 'Serie B', 'League Apps': '42', 'League Goals': '0', 'Coppa Italia Apps': '2', 'Coppa Italia Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Bologna",
+      "league_apps": 248,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bologna', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '248', 'League Goals': '0', 'Coppa Italia Apps': '7', 'Coppa Italia Goals': '0', 'Europe Apps': '10', 'Europe Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 267, 'Total Goals': 0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Ascoli",
+      "league_apps": 23,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ascoli', 'Season Season': '2006\u201307', 'League Division': 'Serie A', 'League Apps': '23', 'League Goals': '0', 'Coppa Italia Apps': '2', 'Coppa Italia Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 634,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '634[54]', 'League Goals': '0[54]', 'Coppa Italia Apps': '90', 'Coppa Italia Goals': '0', 'Europe Apps': '78', 'Europe Goals': '0', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 806, 'Total Goals': 0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Gianluca Pagliuca - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"2fa56e38-6069-401e-afb6-cf0effdbe1b"
+}

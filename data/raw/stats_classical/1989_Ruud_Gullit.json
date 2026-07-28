@@ -1,0 +1,203 @@
+{
+  "player_name_raw": "Ruud Gullit",
+  "fetch_status": "ok",
+  "wikipedia_title": "Ruud_Gullit",
+  "url": "https://en.wikipedia.org/wiki/Ruud_Gullit",
+  "position": "Midfielder",
+  "birth_year": 1962,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1979\u201380",
+      "club": "HFC Haarlem",
+      "league_apps": 24,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'HFC Haarlem', 'Season Season': '1979\u201380', 'League Division': 'Eredivisie', 'League Apps': 24, 'League Goals': 4, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 4}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "HFC Haarlem",
+      "league_apps": 36,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'HFC Haarlem', 'Season Season': '1980\u201381', 'League Division': 'Eerste Divisie', 'League Apps': 36, 'League Goals': 14, 'National cup[a] Apps': '5', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 16}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "HFC Haarlem",
+      "league_apps": 31,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'HFC Haarlem', 'Season Season': '1981\u201382', 'League Division': 'Eredivisie', 'League Apps': 31, 'League Goals': 14, 'National cup[a] Apps': '4', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "HFC Haarlem",
+      "league_apps": 91,
+      "league_goals": 32,
+      "raw": "{'Club Club': 'HFC Haarlem', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 91, 'League Goals': 32, 'National cup[a] Apps': '9', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 100, 'Total Goals': 36}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Feyenoord",
+      "league_apps": 33,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '1982\u201383', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 8, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 9}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Feyenoord",
+      "league_apps": 33,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '1983\u201384', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 15, 'National cup[a] Apps': '8', 'National cup[a] Goals': '9', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '4[c]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 25}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Feyenoord",
+      "league_apps": 19,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '1984\u201385', 'League Division': 'Eredivisie', 'League Apps': 19, 'League Goals': 7, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '2[d]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Feyenoord",
+      "league_apps": 85,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 85, 'League Goals': 30, 'National cup[a] Apps': '12', 'National cup[a] Goals': '10', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '6', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 103, 'Total Goals': 41}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "PSV",
+      "league_apps": 34,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'PSV', 'Season Season': '1985\u201386', 'League Division': 'Eredivisie', 'League Apps': 34, 'League Goals': 24, 'National cup[a] Apps': '2', 'National cup[a] Goals': '3', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '2[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 27}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "PSV",
+      "league_apps": 34,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'PSV', 'Season Season': '1986\u201387', 'League Division': 'Eredivisie', 'League Apps': 34, 'League Goals': 22, 'National cup[a] Apps': '3', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 26}"
+    },
+    {
+      "season": "Total",
+      "club": "PSV",
+      "league_apps": 68,
+      "league_goals": 46,
+      "raw": "{'Club Club': 'PSV', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 68, 'League Goals': 46, 'National cup[a] Apps': '5', 'National cup[a] Goals': '7', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 75, 'Total Goals': 53}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "AC Milan",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1987\u201388', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 9, 'National cup[a] Apps': '6', 'National cup[a] Goals': '3', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '4[c]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 13}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "AC Milan",
+      "league_apps": 19,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1988\u201389', 'League Division': 'Serie A', 'League Apps': 19, 'League Goals': 5, 'National cup[a] Apps': '1', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[d]', 'Continental Goals': '4', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 28, 'Total Goals': 11}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "AC Milan",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1989\u201390', 'League Division': 'Serie A', 'League Apps': 2, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '1[d]', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "AC Milan",
+      "league_apps": 26,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1990\u201391', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 7, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '4[d]', 'Continental Goals': '1', 'Other Apps': '3[e]', 'Other Goals': '1', 'Total Apps': 34, 'Total Goals': 9}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "AC Milan",
+      "league_apps": 26,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1991\u201392', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 7, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 8}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "AC Milan",
+      "league_apps": 15,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1992\u201393', 'League Division': 'Serie A', 'League Apps': 15, 'League Goals': 7, 'National cup[a] Apps': '6', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '4[d]', 'Continental Goals': '0', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 26, 'Total Goals': 11}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "AC Milan",
+      "league_apps": 8,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': 8, 'League Goals': 3, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '3[g]', 'Continental Goals': '0', 'Other Apps': '1[f]', 'Other Goals': '1', 'Total Apps': 14, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 125,
+      "league_goals": 39,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 125, 'League Goals': 39, 'National cup[a] Apps': '17', 'National cup[a] Goals': '10', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '24', 'Continental Goals': '6', 'Other Apps': '5', 'Other Goals': '2', 'Total Apps': 171, 'Total Goals': 56}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Sampdoria (loan)",
+      "league_apps": 31,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Sampdoria (loan)', 'Season Season': '1993\u201394', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 15, 'National cup[a] Apps': '10', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 17}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Sampdoria",
+      "league_apps": 22,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': 22, 'League Goals': 9, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "Sampdoria",
+      "league_apps": 53,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 53, 'League Goals': 24, 'National cup[a] Apps': '10', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 63, 'Total Goals': 26}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Chelsea",
+      "league_apps": 31,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '1995\u201396', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 3, 'National cup[a] Apps': '7', 'National cup[a] Goals': '3', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 6}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Chelsea",
+      "league_apps": 11,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '1996\u201397', 'League Division': 'Premier League', 'League Apps': 11, 'League Goals': 1, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 1}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Chelsea",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '1997\u201398', 'League Division': 'Premier League', 'League Apps': 6, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Chelsea",
+      "league_apps": 48,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 48, 'League Goals': 4, 'National cup[a] Apps': '8', 'National cup[a] Goals': '3', 'League cup[b] Apps': '7', 'League cup[b] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 63, 'Total Goals': 7}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 470,
+      "league_goals": 175,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 470, 'League Goals': 175, 'National cup[a] Apps': '61', 'National cup[a] Goals': '36', 'League cup[b] Apps': '7', 'League cup[b] Goals': '0', 'Continental Apps': '32', 'Continental Goals': '7', 'Other Apps': '5', 'Other Goals': '2', 'Total Apps': 575, 'Total Goals': 219}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Ruud Gullit - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"528210c2-fb37-4e42-b0ef-706c4ef8164a\",\"wg",
+  "season_id": "1989",
+  "award_year": 1989
+}

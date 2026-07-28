@@ -1,0 +1,161 @@
+{
+  "player_name_raw": "Dominique Rocheteau",
+  "fetch_status": "ok",
+  "wikipedia_title": "Dominique_Rocheteau",
+  "url": "https://en.wikipedia.org/wiki/Dominique_Rocheteau",
+  "position": "Winger",
+  "birth_year": 1955,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1972\u201373",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1972\u201373', 'League Division': 'Division 1', 'League Apps': 2, 'League Goals': 0, 'National Cup Apps': 0, 'National Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1973\u201374', 'League Division': 'Division 1', 'League Apps': 4, 'League Goals': 0, 'National Cup Apps': 2, 'National Cup Goals': 1, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 6, 'Total Goals': 1}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1974\u201375', 'League Division': 'Division 1', 'League Apps': 4, 'League Goals': 0, 'National Cup Apps': 1, 'National Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 22,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1975\u201376', 'League Division': 'Division 1', 'League Apps': 22, 'League Goals': 11, 'National Cup Apps': 1, 'National Cup Goals': 0, 'Europe Apps': '8', 'Europe Goals': '3', 'Total Apps': 31, 'Total Goals': 14}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1976\u201377', 'League Division': 'Division 1', 'League Apps': 27, 'League Goals': 3, 'National Cup Apps': 7, 'National Cup Goals': 0, 'Europe Apps': '6', 'Europe Goals': '0', 'Total Apps': 40, 'Total Goals': 3}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 26,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1977\u201378', 'League Division': 'Division 1', 'League Apps': 26, 'League Goals': 5, 'National Cup Apps': 1, 'National Cup Goals': 0, 'Europe Apps': '2', 'Europe Goals': '0', 'Total Apps': 29, 'Total Goals': 5}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 37,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1978\u201379', 'League Division': 'Division 1', 'League Apps': 37, 'League Goals': 21, 'National Cup Apps': 5, 'National Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 21}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 31,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1979\u201380', 'League Division': 'Division 1', 'League Apps': 31, 'League Goals': 11, 'National Cup Apps': 6, 'National Cup Goals': 1, 'Europe Apps': '5', 'Europe Goals': '0', 'Total Apps': 42, 'Total Goals': 12}"
+    },
+    {
+      "season": "Total",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 153,
+      "league_goals": 51,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 153, 'League Goals': 51, 'National Cup Apps': 23, 'National Cup Goals': 2, 'Europe Apps': '21', 'Europe Goals': '3', 'Total Apps': 197, 'Total Goals': 56}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Paris Saint-Germain",
+      "league_apps": 37,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1980\u201381', 'League Division': 'Division 1', 'League Apps': 37, 'League Goals': 16, 'National Cup Apps': 3, 'National Cup Goals': 2, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 18}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Paris Saint-Germain",
+      "league_apps": 22,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1981\u201382', 'League Division': 'Division 1', 'League Apps': 22, 'League Goals': 10, 'National Cup Apps': 8, 'National Cup Goals': 6, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 16}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Paris Saint-Germain",
+      "league_apps": 26,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1982\u201383', 'League Division': 'Division 1', 'League Apps': 26, 'League Goals': 11, 'National Cup Apps': 9, 'National Cup Goals': 3, 'Europe Apps': '3', 'Europe Goals': '0', 'Total Apps': 38, 'Total Goals': 14}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Paris Saint-Germain",
+      "league_apps": 30,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1983\u201384', 'League Division': 'Division 1', 'League Apps': 30, 'League Goals': 9, 'National Cup Apps': 1, 'National Cup Goals': 0, 'Europe Apps': '3', 'Europe Goals': '0', 'Total Apps': 34, 'Total Goals': 9}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Paris Saint-Germain",
+      "league_apps": 31,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1984\u201385', 'League Division': 'Division 1', 'League Apps': 31, 'League Goals': 15, 'National Cup Apps': 10, 'National Cup Goals': 2, 'Europe Apps': '3', 'Europe Goals': '3', 'Total Apps': 44, 'Total Goals': 20}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Paris Saint-Germain",
+      "league_apps": 35,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1985\u201386', 'League Division': 'Division 1', 'League Apps': 35, 'League Goals': 19, 'National Cup Apps': 7, 'National Cup Goals': 1, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 20}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Paris Saint-Germain",
+      "league_apps": 23,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1986\u201387', 'League Division': 'Division 1', 'League Apps': 23, 'League Goals': 3, 'National Cup Apps': 2, 'National Cup Goals': 0, 'Europe Apps': '2', 'Europe Goals': '0', 'Total Apps': 27, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Paris Saint-Germain",
+      "league_apps": 204,
+      "league_goals": 83,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 204, 'League Goals': 83, 'National Cup Apps': 40, 'National Cup Goals': 14, 'Europe Apps': '11', 'Europe Goals': '3', 'Total Apps': 255, 'Total Goals': 100}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Toulouse",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Toulouse', 'Season Season': '1987\u201388', 'League Division': 'Division 1', 'League Apps': 26, 'League Goals': 6, 'National Cup Apps': 4, 'National Cup Goals': 1, 'Europe Apps': '4', 'Europe Goals': '2', 'Total Apps': 34, 'Total Goals': 9}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Toulouse",
+      "league_apps": 34,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Toulouse', 'Season Season': '1988\u201389', 'League Division': 'Division 1', 'League Apps': 34, 'League Goals': 7, 'National Cup Apps': 2, 'National Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Toulouse",
+      "league_apps": 60,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Toulouse', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 60, 'League Goals': 13, 'National Cup Apps': 6, 'National Cup Goals': 1, 'Europe Apps': '4', 'Europe Goals': '2', 'Total Apps': 70, 'Total Goals': 16}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 417,
+      "league_goals": 147,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 417, 'League Goals': 147, 'National Cup Apps': 69, 'National Cup Goals': 17, 'Europe Apps': '36', 'Europe Goals': '8', 'Total Apps': 522, 'Total Goals': 172}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Dominique Rocheteau - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"6bfdd143-5f11-4e05-bc3b-6452028eb",
+  "season_id": "1976",
+  "award_year": 1976
+}

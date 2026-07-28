@@ -1,0 +1,168 @@
+{
+  "player_name_raw": "Philipp Lahm",
+  "fetch_status": "ok",
+  "wikipedia_title": "Philipp_Lahm",
+  "url": "https://en.wikipedia.org/wiki/Philipp_Lahm",
+  "position": "Right-back left-back midfielder",
+  "birth_year": 1983,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2001\u201302",
+      "club": "Bayern Munich II",
+      "league_apps": 27,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': '2001\u201302[94]', 'League League': 'Regionalliga S\u00fcd', 'League Apps': 27, 'League Goals': 2, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 2}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Bayern Munich II",
+      "league_apps": 34,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': '2002\u201303[95]', 'League League': 'Regionalliga S\u00fcd', 'League Apps': 34, 'League Goals': 1, 'DFB-Pokal Apps': '1', 'DFB-Pokal Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 1}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Bayern Munich II",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': '2005\u201306[96]', 'League League': 'Regionalliga S\u00fcd', 'League Apps': 2, 'League Goals': 0, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich II",
+      "league_apps": 63,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': 'Total', 'League League': 'Total', 'League Apps': 63, 'League Goals': 3, 'DFB-Pokal Apps': '1', 'DFB-Pokal Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 64, 'Total Goals': 3}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Bayern Munich",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2002\u201303[97]', 'League League': 'Bundesliga', 'League Apps': 0, 'League Goals': 0, 'DFB-Pokal Apps': '0', 'DFB-Pokal Goals': '0', 'Europe Apps': '1[a]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Bayern Munich",
+      "league_apps": 20,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2005\u201306[96]', 'League League': 'Bundesliga', 'League Apps': 20, 'League Goals': 0, 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '0', 'Europe Apps': '3[a]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 27, 'Total Goals': 0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2006\u201307[98]', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 1, 'DFB-Pokal Apps': '3', 'DFB-Pokal Goals': '0', 'Europe Apps': '9[a]', 'Europe Goals': '0', 'Other Apps': '2[b]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 1}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Bayern Munich",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2007\u201308[99]', 'League League': 'Bundesliga', 'League Apps': 22, 'League Goals': 0, 'DFB-Pokal Apps': '5', 'DFB-Pokal Goals': '0', 'Europe Apps': '10[c]', 'Europe Goals': '1', 'Other Apps': '3[b]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 1}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Bayern Munich",
+      "league_apps": 28,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2008\u201309[100]', 'League League': 'Bundesliga', 'League Apps': 28, 'League Goals': 3, 'DFB-Pokal Apps': '3', 'DFB-Pokal Goals': '1', 'Europe Apps': '8[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 4}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2009\u201310[101]', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '6', 'DFB-Pokal Goals': '1', 'Europe Apps': '13[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 53, 'Total Goals': 1}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2010\u201311[102]', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 3, 'DFB-Pokal Apps': '5', 'DFB-Pokal Goals': '0', 'Europe Apps': '8[a]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 3}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Bayern Munich",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2011\u201312[103]', 'League League': 'Bundesliga', 'League Apps': 31, 'League Goals': 0, 'DFB-Pokal Apps': '5', 'DFB-Pokal Goals': '0', 'Europe Apps': '14[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Bayern Munich",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2012\u201313[104]', 'League League': 'Bundesliga', 'League Apps': 29, 'League Goals': 0, 'DFB-Pokal Apps': '5', 'DFB-Pokal Goals': '0', 'Europe Apps': '12[a]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Bayern Munich",
+      "league_apps": 28,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2013\u201314[105][106]', 'League League': 'Bundesliga', 'League Apps': 28, 'League Goals': 1, 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '0', 'Europe Apps': '12[a]', 'Europe Goals': '0', 'Other Apps': '4[e]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 1}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Bayern Munich",
+      "league_apps": 20,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2014\u201315[107]', 'League League': 'Bundesliga', 'League Apps': 20, 'League Goals': 2, 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '0', 'Europe Apps': '8[a]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 33, 'Total Goals': 2}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Bayern Munich",
+      "league_apps": 26,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2015\u201316[108][109]', 'League League': 'Bundesliga', 'League Apps': 26, 'League Goals': 1, 'DFB-Pokal Apps': '6', 'DFB-Pokal Goals': '0', 'Europe Apps': '12[a]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 1}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Bayern Munich",
+      "league_apps": 26,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2016\u201317[110][111]', 'League League': 'Bundesliga', 'League Apps': 26, 'League Goals': 1, 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '1', 'Europe Apps': '7[a]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 38, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 332,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League League': 'Total', 'League Apps': 332, 'League Goals': 12, 'DFB-Pokal Apps': '54', 'DFB-Pokal Goals': '3', 'Europe Apps': '117', 'Europe Goals': '1', 'Other Apps': '14', 'Other Goals': '0', 'Total Apps': 517, 'Total Goals': 16}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Stuttgart (loan)",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Stuttgart (loan)', 'Season Season': '2003\u201304[112]', 'League League': 'Bundesliga', 'League Apps': 31, 'League Goals': 1, 'DFB-Pokal Apps': '1', 'DFB-Pokal Goals': '0', 'Europe Apps': '7[a]', 'Europe Goals': '0', 'Other Apps': '1[b]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 1}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Stuttgart (loan)",
+      "league_apps": 22,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Stuttgart (loan)', 'Season Season': '2004\u201305[113]', 'League League': 'Bundesliga', 'League Apps': 22, 'League Goals': 1, 'DFB-Pokal Apps': '2', 'DFB-Pokal Goals': '0', 'Europe Apps': '6[c]', 'Europe Goals': '1', 'Other Apps': '1[b]', 'Other Goals': '0', 'Total Apps': 31, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Stuttgart (loan)",
+      "league_apps": 53,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Stuttgart (loan)', 'Season Season': 'Total', 'League League': 'Total', 'League Apps': 53, 'League Goals': 2, 'DFB-Pokal Apps': '3', 'DFB-Pokal Goals': '0', 'Europe Apps': '13', 'Europe Goals': '1', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 71, 'Total Goals': 3}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 448,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League League': 'Career total', 'League Apps': 448, 'League Goals': 17, 'DFB-Pokal Apps': '58', 'DFB-Pokal Goals': '3', 'Europe Apps': '130', 'Europe Goals': '2', 'Other Apps': '16', 'Other Goals': '0', 'Total Apps': 652, 'Total Goals': 22}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Philipp Lahm - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"cdc18422-3195-4849-b96d-640990e1aae7\",\"w",
+  "season_id": "2013",
+  "award_year": 2013
+}

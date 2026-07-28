@@ -1,0 +1,152 @@
+{
+  "player_name_raw": "Alessandro Altobelli",
+  "fetch_status": "ok",
+  "wikipedia_title": "Alessandro_Altobelli",
+  "url": "https://en.wikipedia.org/wiki/Alessandro_Altobelli",
+  "position": "Forward",
+  "birth_year": 1955,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1973\u201374",
+      "club": "Latina",
+      "league_apps": 28,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Latina', 'Season Season': '1973\u201374', 'League Division': 'Serie C', 'League Apps': 28, 'League Goals': 7, 'Coppa Italia Apps': '\u2013', 'Coppa Italia Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 7}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Brescia",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Brescia', 'Season Season': '1974\u201375', 'League Division': 'Serie B', 'League Apps': 16, 'League Goals': 2, 'Coppa Italia Apps': '1', 'Coppa Italia Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 17, 'Total Goals': 2}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Brescia",
+      "league_apps": 26,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Brescia', 'Season Season': '1975\u201376', 'League Division': 'Serie B', 'League Apps': 26, 'League Goals': 11, 'Coppa Italia Apps': '4', 'Coppa Italia Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 11}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Brescia",
+      "league_apps": 34,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Brescia', 'Season Season': '1976\u201377', 'League Division': 'Serie B', 'League Apps': 34, 'League Goals': 13, 'Coppa Italia Apps': '3', 'Coppa Italia Goals': '3', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 37, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Brescia",
+      "league_apps": 76,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Brescia', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 76, 'League Goals': 26, 'Coppa Italia Apps': '8', 'Coppa Italia Goals': '3', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 84, 'Total Goals': 29}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Inter Milan",
+      "league_apps": 28,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1977\u201378', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 10, 'Coppa Italia Apps': '10', 'Coppa Italia Goals': '4', 'Europe Apps': '2[a]', 'Europe Goals': '0', 'Total Apps': 40, 'Total Goals': 14}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Inter Milan",
+      "league_apps": 29,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1978\u201379', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 11, 'Coppa Italia Apps': '2', 'Coppa Italia Goals': '1', 'Europe Apps': '6[b]', 'Europe Goals': '7', 'Total Apps': 37, 'Total Goals': 19}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Inter Milan",
+      "league_apps": 29,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1979\u201380', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 15, 'Coppa Italia Apps': '5', 'Coppa Italia Goals': '4', 'Europe Apps': '4[a]', 'Europe Goals': '3', 'Total Apps': 38, 'Total Goals': 22}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Inter Milan",
+      "league_apps": 29,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1980\u201381', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 12, 'Coppa Italia Apps': '4', 'Coppa Italia Goals': '1', 'Europe Apps': '8[c]', 'Europe Goals': '4', 'Total Apps': 41, 'Total Goals': 17}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Inter Milan",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1981\u201382', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 9, 'Coppa Italia Apps': '9', 'Coppa Italia Goals': '9', 'Europe Apps': '4[a]', 'Europe Goals': '3', 'Total Apps': 42, 'Total Goals': 21}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Inter Milan",
+      "league_apps": 30,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1982\u201383', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 15, 'Coppa Italia Apps': '11', 'Coppa Italia Goals': '4', 'Europe Apps': '5[b]', 'Europe Goals': '3', 'Total Apps': 46, 'Total Goals': 22}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Inter Milan",
+      "league_apps": 28,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1983\u201384', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 10, 'Coppa Italia Apps': '5', 'Coppa Italia Goals': '3', 'Europe Apps': '6[a]', 'Europe Goals': '2', 'Total Apps': 39, 'Total Goals': 15}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Inter Milan",
+      "league_apps": 30,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1984\u201385', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 17, 'Coppa Italia Apps': '11', 'Coppa Italia Goals': '6', 'Europe Apps': '10[a]', 'Europe Goals': '2', 'Total Apps': 51, 'Total Goals': 25}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Inter Milan",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1985\u201386', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 9, 'Coppa Italia Apps': '6', 'Coppa Italia Goals': '4', 'Europe Apps': '10[a]', 'Europe Goals': '6', 'Total Apps': 45, 'Total Goals': 19}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Inter Milan",
+      "league_apps": 28,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1986\u201387', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 11, 'Coppa Italia Apps': '7', 'Coppa Italia Goals': '5', 'Europe Apps': '8[a]', 'Europe Goals': '3', 'Total Apps': 43, 'Total Goals': 19}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Inter Milan",
+      "league_apps": 28,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1987\u201388', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 9, 'Coppa Italia Apps': '10', 'Coppa Italia Goals': '5', 'Europe Apps': '6[a]', 'Europe Goals': '2', 'Total Apps': 44, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 317,
+      "league_goals": 128,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 317, 'League Goals': 128, 'Coppa Italia Apps': '80', 'Coppa Italia Goals': '46', 'Europe Apps': '69', 'Europe Goals': '35', 'Total Apps': 466, 'Total Goals': 209}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Juventus",
+      "league_apps": 20,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1988\u201389', 'League Division': 'Serie A', 'League Apps': 20, 'League Goals': 4, 'Coppa Italia Apps': '6', 'Coppa Italia Goals': '7', 'Europe Apps': '8[a]', 'Europe Goals': '4', 'Total Apps': 35, 'Total Goals': 15}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Brescia",
+      "league_apps": 32,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Brescia', 'Season Season': '1989\u201390', 'League Division': 'Serie B', 'League Apps': 32, 'League Goals': 7, 'Coppa Italia Apps': '1', 'Coppa Italia Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 7}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 473,
+      "league_goals": 172,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 473, 'League Goals': 172, 'Coppa Italia Apps': '95', 'Coppa Italia Goals': '56', 'Europe Apps': '77', 'Europe Goals': '39', 'Total Apps': 645, 'Total Goals': 275}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Alessandro Altobelli - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"8c33be4d-7281-4fe1-a83b-bc4596ae"
+}

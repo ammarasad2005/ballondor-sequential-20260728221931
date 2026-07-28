@@ -1,0 +1,140 @@
+{
+  "player_name_raw": "Cesare Maldini",
+  "fetch_status": "ok",
+  "wikipedia_title": "Cesare_Maldini",
+  "url": "https://en.wikipedia.org/wiki/Cesare_Maldini",
+  "position": "Defender",
+  "birth_year": 1932,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1952\u201353",
+      "club": "Triestina",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Triestina', 'Season Season': '1952\u201353', 'League Division': 'Serie A', 'League Apps': 1, 'League Goals': 0, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe[a] Apps': '\u2013', 'Europe[a] Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1953\u201354",
+      "club": "Triestina",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Triestina', 'Season Season': '1953\u201354', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 0, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe[a] Apps': '\u2013', 'Europe[a] Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Triestina",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Triestina', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 32, 'League Goals': 0, 'Cup Apps': '0', 'Cup Goals': '0', 'Europe[a] Apps': '0', 'Europe[a] Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 32, 'Total Goals': 0}"
+    },
+    {
+      "season": "1954\u201355",
+      "club": "AC Milan",
+      "league_apps": 27,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1954\u201355', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 1, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe[a] Apps': '\u2013', 'Europe[a] Goals': '\u2013', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 28, 'Total Goals': 1}"
+    },
+    {
+      "season": "1955\u201356",
+      "club": "AC Milan",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1955\u201356', 'League Division': 'Serie A', 'League Apps': 22, 'League Goals': 0, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe[a] Apps': '6', 'Europe[a] Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 30, 'Total Goals': 0}"
+    },
+    {
+      "season": "1956\u201357",
+      "club": "AC Milan",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1956\u201357', 'League Division': 'Serie A', 'League Apps': 21, 'League Goals': 1, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe[a] Apps': '\u2013', 'Europe[a] Goals': '\u2013', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 23, 'Total Goals': 1}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "AC Milan",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1957\u201358', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 0, 'Cup Apps': '3', 'Cup Goals': '0', 'Europe[a] Apps': '8', 'Europe[a] Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1958\u201359",
+      "club": "AC Milan",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1958\u201359', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 0, 'Cup Apps': '1', 'Cup Goals': '0', 'Europe[a] Apps': '\u2013', 'Europe[a] Goals': '\u2013', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 0}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "AC Milan",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1959\u201360', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 0, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe[a] Apps': '4', 'Europe[a] Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1960\u201361', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Cup Apps': '2', 'Cup Goals': '0', 'Europe[a] Apps': '\u2013', 'Europe[a] Goals': '\u2013', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "AC Milan",
+      "league_apps": 34,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1961\u201362', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 1, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe[a] Apps': '2', 'Europe[a] Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 1}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1962\u201363', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 0, 'Cup Apps': '1', 'Cup Goals': '0', 'Europe[a] Apps': '9', 'Europe[a] Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "AC Milan",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1963\u201364', 'League Division': 'Serie A', 'League Apps': 22, 'League Goals': 0, 'Cup Apps': '1', 'Cup Goals': '0', 'Europe[a] Apps': '3', 'Europe[a] Goals': '0', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 29, 'Total Goals': 0}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "AC Milan",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1964\u201365', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 0, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe[a] Apps': '2', 'Europe[a] Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 0}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1965\u201366', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 0, 'Cup Apps': '1', 'Cup Goals': '0', 'Europe[a] Apps': '8', 'Europe[a] Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 347,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 347, 'League Goals': 3, 'Cup Apps': '9', 'Cup Goals': '0', 'Europe[a] Apps': '42', 'Europe[a] Goals': '0', 'Other Apps': '14', 'Other Goals': '0', 'Total Apps': 412, 'Total Goals': 3}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Torino",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Torino', 'Season Season': '1966\u201367', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 0, 'Cup Apps': '3', 'Cup Goals': '0', 'Europe[a] Apps': '\u2013', 'Europe[a] Goals': '\u2013', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 39, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 412,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 412, 'League Goals': 3, 'Cup Apps': '12', 'Cup Goals': '0', 'Europe[a] Apps': '42', 'Europe[a] Goals': '0', 'Other Apps': '17', 'Other Goals': '0', 'Total Apps': 483, 'Total Goals': 3}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Cesare Maldini - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"6c392cc0-641f-4282-b89f-41ca2e8ad01f\",",
+  "season_id": "1963",
+  "award_year": 1963
+}

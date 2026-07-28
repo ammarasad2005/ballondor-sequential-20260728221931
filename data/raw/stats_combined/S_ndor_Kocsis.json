@@ -1,0 +1,180 @@
+{
+  "player_name_raw": "S\u00e1ndor Kocsis",
+  "fetch_status": "ok",
+  "wikipedia_title": "S\u00e1ndor_Kocsis",
+  "url": "https://en.wikipedia.org/wiki/S\u00e1ndor_Kocsis",
+  "position": "Striker",
+  "birth_year": 1929,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1945\u201346",
+      "club": "K\u0151b\u00e1nyai TC",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'K\u0151b\u00e1nyai TC', 'Season Season': '1945\u201346', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 5, 'League Goals': 0, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "1946\u201347",
+      "club": "Ferencv\u00e1ros",
+      "league_apps": 3,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Ferencv\u00e1ros', 'Season Season': '1946\u201347', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 3, 'League Goals': 2, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 3, 'Total Goals': 2}"
+    },
+    {
+      "season": "1947\u201348",
+      "club": "Ferencv\u00e1ros",
+      "league_apps": 21,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Ferencv\u00e1ros', 'Season Season': '1947\u201348', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 21, 'League Goals': 5, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 21, 'Total Goals': 5}"
+    },
+    {
+      "season": "1948\u201349",
+      "club": "Ferencv\u00e1ros",
+      "league_apps": 30,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Ferencv\u00e1ros', 'Season Season': '1948\u201349', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 30, 'League Goals': 33, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 30, 'Total Goals': 33}"
+    },
+    {
+      "season": "1949\u201350",
+      "club": "Ferencv\u00e1ros",
+      "league_apps": 30,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Ferencv\u00e1ros', 'Season Season': '1949\u201350', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 30, 'League Goals': 30, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 30, 'Total Goals': 30}"
+    },
+    {
+      "season": "Total",
+      "club": "Ferencv\u00e1ros",
+      "league_apps": 84,
+      "league_goals": 67,
+      "raw": "{'Club Club': 'Ferencv\u00e1ros', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 84, 'League Goals': 67, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 84, 'Total Goals': 67}"
+    },
+    {
+      "season": "1950",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 15,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1950', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 15, 'League Goals': 24, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 15, 'Total Goals': 24}"
+    },
+    {
+      "season": "1951",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 26,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1951', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 26, 'League Goals': 30, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 3.0, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 27, 'Total Goals': 33}"
+    },
+    {
+      "season": "1952",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 26,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1952', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 26, 'League Goals': 36, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 13.0, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 29, 'Total Goals': 49}"
+    },
+    {
+      "season": "1953",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 25,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1953', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 25, 'League Goals': 24, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 25, 'Total Goals': 24}"
+    },
+    {
+      "season": "1954",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 26,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1954', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 26, 'League Goals': 33, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 13.0, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 31, 'Total Goals': 46}"
+    },
+    {
+      "season": "1955",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 21,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1955', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 21, 'League Goals': 17, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 3.0, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': 4.0, 'Continental Goals': 6.0, 'Total Apps': 26, 'Total Goals': 26}"
+    },
+    {
+      "season": "1956",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 21,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1956', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 21, 'League Goals': 13, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': 2.0, 'Continental Goals': 2.0, 'Total Apps': 23, 'Total Goals': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 160,
+      "league_goals": 177,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 160, 'League Goals': 177, 'National cup[a] Apps': 10.0, 'National cup[a] Goals': 32.0, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': 6.0, 'Continental Goals': 8.0, 'Total Apps': 176, 'Total Goals': 217}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "Young Fellows Juventus",
+      "league_apps": 11,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Young Fellows Juventus', 'Season Season': '1957\u201358', 'League Division': 'Nationalliga A', 'League Apps': 11, 'League Goals': 7, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 11, 'Total Goals': 7}"
+    },
+    {
+      "season": "1958\u201359",
+      "club": "Barcelona",
+      "league_apps": 4,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1958\u201359', 'League Division': 'La Liga', 'League Apps': 4, 'League Goals': 4, 'National cup[a] Apps': 6.0, 'National cup[a] Goals': 11.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Total Apps': 10, 'Total Goals': 15}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "Barcelona",
+      "league_apps": 9,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1959\u201360', 'League Division': 'La Liga', 'League Apps': 9, 'League Goals': 3, 'National cup[a] Apps': 0.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': 4.0, 'Continental Goals': 5.0, 'Total Apps': 13, 'Total Goals': 8}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Barcelona",
+      "league_apps": 10,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1960\u201361', 'League Division': 'La Liga', 'League Apps': 10, 'League Goals': 4, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': 9.0, 'Continental Goals': 6.0, 'Total Apps': 20, 'Total Goals': 11}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Barcelona",
+      "league_apps": 20,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1961\u201362', 'League Division': 'La Liga', 'League Apps': 20, 'League Goals': 17, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': 6.0, 'Continental Goals': 3.0, 'Total Apps': 28, 'Total Goals': 20}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Barcelona",
+      "league_apps": 9,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1962\u201363', 'League Division': 'La Liga', 'League Apps': 9, 'League Goals': 2, 'National cup[a] Apps': 7.0, 'National cup[a] Goals': 3.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': 3.0, 'Continental Goals': 4.0, 'Total Apps': 19, 'Total Goals': 9}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Barcelona",
+      "league_apps": 19,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1963\u201364', 'League Division': 'La Liga', 'League Apps': 19, 'League Goals': 12, 'National cup[a] Apps': 6.0, 'National cup[a] Goals': 4.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': 4.0, 'Continental Goals': 3.0, 'Total Apps': 29, 'Total Goals': 19}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Barcelona",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1964\u201365', 'League Division': 'La Liga', 'League Apps': 4, 'League Goals': 0, 'National cup[a] Apps': 0.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': 3.0, 'Continental Goals': 0.0, 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 75,
+      "league_goals": 42,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 75, 'League Goals': 42, 'National cup[a] Apps': 22.0, 'National cup[a] Goals': 19.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': 29.0, 'Continental Goals': 21.0, 'Total Apps': 126, 'Total Goals': 82}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 335,
+      "league_goals": 293,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 335, 'League Goals': 293, 'National cup[a] Apps': 32.0, 'National cup[a] Goals': 51.0, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': 35.0, 'Continental Goals': 29.0, 'Total Apps': 402, 'Total Goals': 373}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>S\u00e1ndor Kocsis - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d3f9f33b-8210-4387-8fae-9686ce04131e\",\""
+}

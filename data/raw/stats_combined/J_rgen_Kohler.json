@@ -1,0 +1,187 @@
+{
+  "player_name_raw": "J\u00fcrgen Kohler",
+  "fetch_status": "ok",
+  "wikipedia_title": "J\u00fcrgen_Kohler",
+  "url": "https://en.wikipedia.org/wiki/J\u00fcrgen_Kohler",
+  "position": "Centre-back",
+  "birth_year": 1965,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1983\u201384",
+      "club": "Waldhof Mannheim",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Waldhof Mannheim', 'Season Season': '1983\u201384', 'League Division': 'Bundesliga', 'League Apps': 5, 'League Goals': 0, 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Waldhof Mannheim",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Waldhof Mannheim', 'Season Season': '1984\u201385', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 2, 'Cup Apps': '1', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 2}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Waldhof Mannheim",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Waldhof Mannheim', 'Season Season': '1985\u201386', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 1, 'Cup Apps': '5', 'Cup Goals': '2', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 3}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Waldhof Mannheim",
+      "league_apps": 32,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Waldhof Mannheim', 'Season Season': '1986\u201387', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 3, 'Cup Apps': '2', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Waldhof Mannheim",
+      "league_apps": 95,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Waldhof Mannheim', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 95, 'League Goals': 6, 'Cup Apps': '8', 'Cup Goals': '2', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 103, 'Total Goals': 8}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 30,
+      "league_goals": 2,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1987\u201388', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 2, 'Cup Apps': '2', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 2}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1988\u201389', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 0, 'Cup Apps': '2', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '6', 'Continental Goals': '0', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 57,
+      "league_goals": 2,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 57, 'League Goals': 2, 'Cup Apps': '4', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '6', 'Continental Goals': '0', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 67, 'Total Goals': 2}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Bayern Munich",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1989\u201390', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 2, 'Cup Apps': '2', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '6', 'Continental Goals': '0', 'SuperCup1 Apps': '1', 'SuperCup1 Goals': '0', 'Total Apps': 35, 'Total Goals': 2}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Bayern Munich",
+      "league_apps": 29,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1990\u201391', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 4, 'Cup Apps': '1', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '7', 'Continental Goals': '0', 'SuperCup1 Apps': '1', 'SuperCup1 Goals': '1', 'Total Apps': 38, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 55,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 55, 'League Goals': 6, 'Cup Apps': '3', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '13', 'Continental Goals': '0', 'SuperCup1 Apps': '2', 'SuperCup1 Goals': '1', 'Total Apps': 73, 'Total Goals': 7}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Juventus",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1991\u201392', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 3, 'Cup Apps': '7', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 3}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Juventus",
+      "league_apps": 29,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1992\u201393', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 1, 'Cup Apps': '7', 'Cup Goals': '1', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '11', 'Continental Goals': '2', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 4}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Juventus",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1993\u201394', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 3, 'Cup Apps': '1', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '7', 'Continental Goals': '1', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 4}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Juventus",
+      "league_apps": 19,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': 19, 'League Goals': 1, 'Cup Apps': '5', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '5', 'Continental Goals': '1', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 102,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 102, 'League Goals': 8, 'Cup Apps': '20', 'Cup Goals': '1', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '23', 'Continental Goals': '4', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 145, 'Total Goals': 13}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Borussia Dortmund",
+      "league_apps": 29,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1995\u201396', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 5, 'Cup Apps': '3', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '7', 'Continental Goals': '0', 'SuperCup1 Apps': '1', 'SuperCup1 Goals': '0', 'Total Apps': 40, 'Total Goals': 5}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Borussia Dortmund",
+      "league_apps": 30,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1996\u201397', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 2, 'Cup Apps': '1', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '8', 'Continental Goals': '1', 'SuperCup1 Apps': '1', 'SuperCup1 Goals': '0', 'Total Apps': 40, 'Total Goals': 3}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Borussia Dortmund",
+      "league_apps": 23,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1997\u201398', 'League Division': 'Bundesliga', 'League Apps': 23, 'League Goals': 3, 'Cup Apps': '3', 'Cup Goals': '1', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Continental Apps': '5', 'Continental Goals': '0', 'SuperCup1 Apps': '1', 'SuperCup1 Goals': '0', 'Total Apps': 34, 'Total Goals': 4}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Borussia Dortmund",
+      "league_apps": 29,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1998\u201399', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 2, 'Cup Apps': '3', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 2}"
+    },
+    {
+      "season": "1999\u201300",
+      "club": "Borussia Dortmund",
+      "league_apps": 30,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1999\u201300', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 2, 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Continental Apps': '10', 'Continental Goals': '1', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 3}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Borussia Dortmund",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '2000\u201301', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 0, 'Cup Apps': '2', 'Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Borussia Dortmund",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '2001\u201302', 'League Division': 'Bundesliga', 'League Apps': 22, 'League Goals': 0, 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'League Cup Apps': '1', 'League Cup Goals': '1', 'Continental Apps': '10', 'Continental Goals': '0', 'SuperCup1 Apps': '\u2014', 'SuperCup1 Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Borussia Dortmund",
+      "league_apps": 191,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 191, 'League Goals': 14, 'Cup Apps': '12', 'Cup Goals': '1', 'League Cup Apps': '4', 'League Cup Goals': '1', 'Continental Apps': '40', 'Continental Goals': '2', 'SuperCup1 Apps': '3', 'SuperCup1 Goals': '0', 'Total Apps': 250, 'Total Goals': 18}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 500,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 500, 'League Goals': 36, 'Cup Apps': '44', 'Cup Goals': '4', 'League Cup Apps': '4', 'League Cup Goals': '1', 'Continental Apps': '82', 'Continental Goals': '6', 'SuperCup1 Apps': '5', 'SuperCup1 Goals': '1', 'Total Apps': 635, 'Total Goals': 48}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>J\u00fcrgen Kohler - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"3a9097b5-9ce9-4591-90f1-b4d58568f38c\",\""
+}

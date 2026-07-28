@@ -1,0 +1,175 @@
+{
+  "player_name_raw": "Giancarlo Antognoni",
+  "fetch_status": "ok",
+  "wikipedia_title": "Giancarlo_Antognoni",
+  "url": "https://en.wikipedia.org/wiki/Giancarlo_Antognoni",
+  "position": "Attacking midfielder",
+  "birth_year": 1954,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1970\u201371",
+      "club": "Astimacobi",
+      "league_apps": 5,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Astimacobi', 'Season Season': '1970\u201371', 'League Division': 'Serie D', 'League Apps': 5, 'League Goals': 1, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 5, 'Total Goals': 1}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Astimacobi",
+      "league_apps": 22,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Astimacobi', 'Season Season': '1971\u201372', 'League Division': 'Serie D', 'League Apps': 22, 'League Goals': 3, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Astimacobi",
+      "league_apps": 27,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Astimacobi', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 27, 'League Goals': 4, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 27, 'Total Goals': 4}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Fiorentina",
+      "league_apps": 20,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1972\u201373', 'League Division': 'Serie A', 'League Apps': 20, 'League Goals': 2, 'Cup Apps': 8, 'Cup Goals': 0, 'Continental Apps': '1', 'Continental Goals': '0', 'Total Apps': 29, 'Total Goals': 2}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Fiorentina",
+      "league_apps": 25,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1973\u201374', 'League Division': 'Serie A', 'League Apps': 25, 'League Goals': 1, 'Cup Apps': 4, 'Cup Goals': 1, 'Continental Apps': '2', 'Continental Goals': '0', 'Total Apps': 31, 'Total Goals': 2}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Fiorentina",
+      "league_apps": 29,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1974\u201375', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 4, 'Cup Apps': 9, 'Cup Goals': 1, 'Continental Apps': '4', 'Continental Goals': '0', 'Total Apps': 42, 'Total Goals': 5}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Fiorentina",
+      "league_apps": 30,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1975\u201376', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 5, 'Cup Apps': 8, 'Cup Goals': 2, 'Continental Apps': '4', 'Continental Goals': '0', 'Total Apps': 42, 'Total Goals': 7}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Fiorentina",
+      "league_apps": 28,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1976\u201377', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 4, 'Cup Apps': 4, 'Cup Goals': 0, 'Continental Apps': '4', 'Continental Goals': '0', 'Total Apps': 36, 'Total Goals': 4}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Fiorentina",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1977\u201378', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 6, 'Cup Apps': 4, 'Cup Goals': 1, 'Continental Apps': '2', 'Continental Goals': '0', 'Total Apps': 32, 'Total Goals': 7}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Fiorentina",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1978\u201379', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 0, 'Cup Apps': 4, 'Cup Goals': 0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 0}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Fiorentina",
+      "league_apps": 30,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1979\u201380', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 8, 'Cup Apps': 4, 'Cup Goals': 1, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 9}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Fiorentina",
+      "league_apps": 27,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1980\u201381', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 9, 'Cup Apps': 6, 'Cup Goals': 0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 9}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Fiorentina",
+      "league_apps": 16,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1981\u201382', 'League Division': 'Serie A', 'League Apps': 16, 'League Goals': 3, 'Cup Apps': 5, 'Cup Goals': 2, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 21, 'Total Goals': 5}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Fiorentina",
+      "league_apps": 27,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1982\u201383', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 9, 'Cup Apps': 5, 'Cup Goals': 0, 'Continental Apps': '2', 'Continental Goals': '1', 'Total Apps': 34, 'Total Goals': 10}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Fiorentina",
+      "league_apps": 18,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1983\u201384', 'League Division': 'Serie A', 'League Apps': 18, 'League Goals': 5, 'Cup Apps': 5, 'Cup Goals': 2, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 23, 'Total Goals': 7}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Fiorentina",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1984\u201385', 'League Division': 'Serie A', 'League Apps': 0, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Fiorentina",
+      "league_apps": 19,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1985\u201386', 'League Division': 'Serie A', 'League Apps': 19, 'League Goals': 1, 'Cup Apps': 3, 'Cup Goals': 0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 1}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Fiorentina",
+      "league_apps": 19,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1986\u201387', 'League Division': 'Serie A', 'League Apps': 19, 'League Goals': 4, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 19, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Fiorentina",
+      "league_apps": 341,
+      "league_goals": 61,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 341, 'League Goals': 61, 'Cup Apps': 69, 'Cup Goals': 10, 'Continental Apps': '19', 'Continental Goals': '1', 'Total Apps': 429, 'Total Goals': 72}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Lausanne-Sport",
+      "league_apps": 33,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Lausanne-Sport', 'Season Season': '1987\u201388', 'League Division': 'Nationalliga A', 'League Apps': 33, 'League Goals': 5, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 5}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Lausanne-Sport",
+      "league_apps": 18,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Lausanne-Sport', 'Season Season': '1988\u201389', 'League Division': 'Nationalliga A', 'League Apps': 18, 'League Goals': 2, 'Cup Apps': 1, 'Cup Goals': 1, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 19, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Lausanne-Sport",
+      "league_apps": 51,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Lausanne-Sport', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 51, 'League Goals': 7, 'Cup Apps': 3, 'Cup Goals': 1, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 54, 'Total Goals': 8}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 419,
+      "league_goals": 72,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 419, 'League Goals': 72, 'Cup Apps': 72, 'Cup Goals': 11, 'Continental Apps': '19', 'Continental Goals': '1', 'Total Apps': 510, 'Total Goals': 84}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Giancarlo Antognoni - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ac723c9c-e83f-45e0-9205-c8f90e57c",
+  "season_id": "1982",
+  "award_year": 1982
+}

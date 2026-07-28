@@ -1,0 +1,196 @@
+{
+  "player_name_raw": "Pierre Littbarski",
+  "fetch_status": "ok",
+  "wikipedia_title": "Pierre_Littbarski",
+  "url": "https://en.wikipedia.org/wiki/Pierre_Littbarski",
+  "position": "Attacking midfielder winger",
+  "birth_year": 1960,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1978\u201379",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 16,
+      "league_goals": 4,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1978\u201379', 'League Division': 'Bundesliga', 'League Apps': 16, 'League Goals': 4, 'National Cup Apps': '2', 'National Cup Goals': '1', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'International Apps': '3', 'International Goals': '1', 'Total Apps': 21, 'Total Goals': 6, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 34,
+      "league_goals": 7,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1979\u201380', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 7, 'National Cup Apps': '8', 'National Cup Goals': '2', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'International Apps': '\u2013', 'International Goals': '\u2013', 'Total Apps': 42, 'Total Goals': 9, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 32,
+      "league_goals": 6,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1980\u201381', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 6, 'National Cup Apps': '3', 'National Cup Goals': '0', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'International Apps': '9', 'International Goals': '3', 'Total Apps': 44, 'Total Goals': 9, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 33,
+      "league_goals": 15,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1981\u201382', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 15, 'National Cup Apps': '1', 'National Cup Goals': '0', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'International Apps': '\u2013', 'International Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 15, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 34,
+      "league_goals": 16,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1982\u201383', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 16, 'National Cup Apps': '6', 'National Cup Goals': '6', 'League Cup Apps': '2', 'League Cup Goals': '\u2013', 'International Apps': '\u2013', 'International Goals': '5', 'Total Apps': 1, 'Total Goals': 45, 'Total Unnamed: 13_level_1': 19.0}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 33,
+      "league_goals": 17,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1983\u201384', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 17, 'National Cup Apps': '3', 'National Cup Goals': '1', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'International Apps': '4', 'International Goals': '1', 'Total Apps': 40, 'Total Goals': 19, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 28,
+      "league_goals": 16,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1984\u201385', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 16, 'National Cup Apps': '2', 'National Cup Goals': '1', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'International Apps': '8', 'International Goals': '3', 'Total Apps': 38, 'Total Goals': 20, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 24,
+      "league_goals": 8,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1985\u201386', 'League Division': 'Bundesliga', 'League Apps': 24, 'League Goals': 8, 'National Cup Apps': '2', 'National Cup Goals': '0', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'International Apps': '9', 'International Goals': '4', 'Total Apps': 35, 'Total Goals': 12, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 234,
+      "league_goals": 89,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 234, 'League Goals': 89, 'National Cup Apps': '27', 'National Cup Goals': '7', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'International Apps': '38', 'International Goals': '12', 'Total Apps': 299, 'Total Goals': 109, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "RCF Paris",
+      "league_apps": 32,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'RCF Paris', 'Season Season': '1986\u201387', 'League Division': 'Division 1', 'League Apps': 32, 'League Goals': 4, 'National Cup Apps': '1', 'National Cup Goals': '1', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'International Apps': '\u2013', 'International Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 5, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "RCF Paris",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'RCF Paris', 'Season Season': '1987\u201388', 'League Division': 'Division 1', 'League Apps': 2, 'League Goals': 0, 'National Cup Apps': '\u2013', 'National Cup Goals': '\u2013', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'International Apps': '\u2013', 'International Goals': '\u2013', 'Total Apps': 2, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "RCF Paris",
+      "league_apps": 34,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'RCF Paris', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 34, 'League Goals': 4, 'National Cup Apps': '1', 'National Cup Goals': '1', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'International Apps': '\u2013', 'International Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 5, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 31,
+      "league_goals": 8,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1987\u201388', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 8, 'National Cup Apps': '2', 'National Cup Goals': '2', 'League Cup Apps': nan, 'League Cup Goals': nan, 'International Apps': nan, 'International Goals': nan, 'Total Apps': 33, 'Total Goals': 10, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 30,
+      "league_goals": 5,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1988\u201389', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 5, 'National Cup Apps': '2', 'National Cup Goals': '0', 'League Cup Apps': nan, 'League Cup Goals': nan, 'International Apps': '6', 'International Goals': '1', 'Total Apps': 38, 'Total Goals': 6, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 34,
+      "league_goals": 8,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1989\u201390', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 8, 'National Cup Apps': '3', 'National Cup Goals': '1', 'League Cup Apps': nan, 'League Cup Goals': nan, 'International Apps': '9', 'International Goals': '2', 'Total Apps': 46, 'Total Goals': 11, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 15,
+      "league_goals": 2,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1990\u201391', 'League Division': 'Bundesliga', 'League Apps': 15, 'League Goals': 2, 'National Cup Apps': '5', 'National Cup Goals': '0', 'League Cup Apps': nan, 'League Cup Goals': nan, 'International Apps': nan, 'International Goals': nan, 'Total Apps': 25, 'Total Goals': 2, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 36,
+      "league_goals": 1,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1991\u201392', 'League Division': 'Bundesliga', 'League Apps': 36, 'League Goals': 1, 'National Cup Apps': '2', 'National Cup Goals': '1', 'League Cup Apps': nan, 'League Cup Goals': nan, 'International Apps': nan, 'International Goals': nan, 'Total Apps': 38, 'Total Goals': 2, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1992\u201393', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 3, 'National Cup Apps': '2', 'National Cup Goals': '1', 'League Cup Apps': nan, 'League Cup Goals': nan, 'International Apps': '2', 'International Goals': '0', 'Total Apps': 30, 'Total Goals': 4, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 172,
+      "league_goals": 27,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 172, 'League Goals': 27, 'National Cup Apps': '16', 'National Cup Goals': '5', 'League Cup Apps': '0', 'League Cup Goals': '0', 'International Apps': '17', 'International Goals': '3', 'Total Apps': 240, 'Total Goals': 35, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1993",
+      "club": "JEF United Ichihara",
+      "league_apps": 35,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'JEF United Ichihara', 'Season Season': '1993', 'League Division': 'J1 League', 'League Apps': 35, 'League Goals': 9, 'National Cup Apps': '3', 'National Cup Goals': '2', 'League Cup Apps': '6', 'League Cup Goals': '0', 'International Apps': nan, 'International Goals': nan, 'Total Apps': 44, 'Total Goals': 11, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1994",
+      "club": "JEF United Ichihara",
+      "league_apps": 28,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'JEF United Ichihara', 'Season Season': '1994', 'League Division': 'J1 League', 'League Apps': 28, 'League Goals': 1, 'National Cup Apps': '0', 'National Cup Goals': '0', 'League Cup Apps': '2', 'League Cup Goals': '0', 'International Apps': nan, 'International Goals': nan, 'Total Apps': 30, 'Total Goals': 1, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "JEF United Ichihara",
+      "league_apps": 63,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'JEF United Ichihara', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 63, 'League Goals': 10, 'National Cup Apps': '3', 'National Cup Goals': '2', 'League Cup Apps': '8', 'League Cup Goals': '0', 'International Apps': nan, 'International Goals': nan, 'Total Apps': 74, 'Total Goals': 12, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1996",
+      "club": "Brummell Sendai",
+      "league_apps": 27,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Brummell Sendai', 'Season Season': '1996', 'League Division': 'Football League', 'League Apps': 27, 'League Goals': 5, 'National Cup Apps': '3', 'National Cup Goals': '1', 'League Cup Apps': '-', 'League Cup Goals': '-', 'International Apps': nan, 'International Goals': nan, 'Total Apps': 30, 'Total Goals': 6, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1997",
+      "club": "Brummell Sendai",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Brummell Sendai', 'Season Season': '1997', 'League Division': 'Football League', 'League Apps': 2, 'League Goals': 0, 'National Cup Apps': '0', 'National Cup Goals': '0', 'League Cup Apps': '5', 'League Cup Goals': '0', 'International Apps': nan, 'International Goals': nan, 'Total Apps': 7, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Brummell Sendai",
+      "league_apps": 29,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Brummell Sendai', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 29, 'League Goals': 5, 'National Cup Apps': '3', 'National Cup Goals': '1', 'League Cup Apps': '5', 'League Cup Goals': '0', 'International Apps': nan, 'International Goals': nan, 'Total Apps': 37, 'Total Goals': 6, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 532,
+      "league_goals": 135,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 532, 'League Goals': 135, 'National Cup Apps': '49', 'National Cup Goals': '15', 'League Cup Apps': '13', 'League Cup Goals': '0', 'International Apps': '55', 'International Goals': '15', 'Total Apps': 658, 'Total Goals': 166, 'Total Unnamed: 13_level_1': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Pierre Littbarski - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"3dc77d9f-e1b7-4ed9-b597-6293dc60e90",
+  "season_id": "1982",
+  "award_year": 1982
+}

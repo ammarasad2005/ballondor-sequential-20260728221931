@@ -1,0 +1,161 @@
+{
+  "player_name_raw": "Erling Haaland",
+  "fetch_status": "ok",
+  "wikipedia_title": "Erling_Haaland",
+  "url": "https://en.wikipedia.org/wiki/Erling_Haaland",
+  "position": "Striker",
+  "birth_year": 2000,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2015",
+      "club": "Bryne 2",
+      "league_apps": 5,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bryne 2', 'Season Season': '2015[14]', 'League Division': '3. divisjon', 'League Apps': 5, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 2}"
+    },
+    {
+      "season": "2016",
+      "club": "Bryne 2",
+      "league_apps": 13,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Bryne 2', 'Season Season': '2016[14]', 'League Division': '3. divisjon', 'League Apps': 13, 'League Goals': 16, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Bryne 2",
+      "league_apps": 18,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Bryne 2', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 18, 'League Goals': 18, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 18}"
+    },
+    {
+      "season": "2016",
+      "club": "Bryne",
+      "league_apps": 16,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bryne', 'Season Season': '2016[14]', 'League Division': '1. divisjon', 'League Apps': 16, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 16, 'Total Goals': 0}"
+    },
+    {
+      "season": "2017",
+      "club": "Molde 2",
+      "league_apps": 4,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Molde 2', 'Season Season': '2017[14]', 'League Division': '3. divisjon', 'League Apps': 4, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 2}"
+    },
+    {
+      "season": "2017",
+      "club": "Molde",
+      "league_apps": 14,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Molde', 'Season Season': '2017[14]', 'League Division': 'Eliteserien', 'League Apps': 14, 'League Goals': 2, 'National cup[a] Apps': '6', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 4}"
+    },
+    {
+      "season": "2018",
+      "club": "Molde",
+      "league_apps": 25,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Molde', 'Season Season': '2018[266]', 'League Division': 'Eliteserien', 'League Apps': 25, 'League Goals': 12, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '5[c]', 'Europe Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Molde",
+      "league_apps": 39,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Molde', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 39, 'League Goals': 14, 'National cup[a] Apps': '6', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '5', 'Europe Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 20}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Red Bull Salzburg",
+      "league_apps": 2,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Red Bull Salzburg', 'Season Season': '2018\u201319[267]', 'League Division': 'Austrian Bundesliga', 'League Apps': 2, 'League Goals': 1, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '1[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 1}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Red Bull Salzburg",
+      "league_apps": 14,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Red Bull Salzburg', 'Season Season': '2019\u201320[267]', 'League Division': 'Austrian Bundesliga', 'League Apps': 14, 'League Goals': 16, 'National cup[a] Apps': '2', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '6[d]', 'Europe Goals': '8', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 28}"
+    },
+    {
+      "season": "Total",
+      "club": "Red Bull Salzburg",
+      "league_apps": 16,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Red Bull Salzburg', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 16, 'League Goals': 17, 'National cup[a] Apps': '4', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '7', 'Europe Goals': '8', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 29}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Borussia Dortmund",
+      "league_apps": 15,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '2019\u201320[267]', 'League Division': 'Bundesliga', 'League Apps': 15, 'League Goals': 13, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '2[d]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 16}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Borussia Dortmund",
+      "league_apps": 28,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '2020\u201321[267]', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 27, 'National cup[a] Apps': '4', 'National cup[a] Goals': '3', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '8[d]', 'Europe Goals': '10', 'Other Apps': '1[e]', 'Other Goals': '1', 'Total Apps': 41, 'Total Goals': 41}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Borussia Dortmund",
+      "league_apps": 24,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '2021\u201322[267]', 'League Division': 'Bundesliga', 'League Apps': 24, 'League Goals': 22, 'National cup[a] Apps': '2', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '3[d]', 'Europe Goals': '3', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 30, 'Total Goals': 29}"
+    },
+    {
+      "season": "Total",
+      "club": "Borussia Dortmund",
+      "league_apps": 67,
+      "league_goals": 62,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 67, 'League Goals': 62, 'National cup[a] Apps': '7', 'National cup[a] Goals': '8', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '13', 'Europe Goals': '15', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': 89, 'Total Goals': 86}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Manchester City",
+      "league_apps": 35,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2022\u201323[268]', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 36, 'National cup[a] Apps': '4', 'National cup[a] Goals': '3', 'League cup[b] Apps': '2', 'League cup[b] Goals': '1', 'Europe Apps': '11[d]', 'Europe Goals': '12', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 53, 'Total Goals': 52}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Manchester City",
+      "league_apps": 31,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2023\u201324[269]', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 27, 'National cup[a] Apps': '3', 'National cup[a] Goals': '5', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '9[d]', 'Europe Goals': '6', 'Other Apps': '2[g]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 38}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Manchester City",
+      "league_apps": 31,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2024\u201325[270]', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 22, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '9[d]', 'Europe Goals': '8', 'Other Apps': '5[h]', 'Other Goals': '3', 'Total Apps': 48, 'Total Goals': 34}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Manchester City",
+      "league_apps": 35,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2025\u201326[271]', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 27, 'National cup[a] Apps': '4', 'National cup[a] Goals': '3', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '10[d]', 'Europe Goals': '8', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 52, 'Total Goals': 38}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester City",
+      "league_apps": 132,
+      "league_goals": 112,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 132, 'League Goals': 112, 'National cup[a] Apps': '14', 'National cup[a] Goals': '12', 'League cup[b] Apps': '5', 'League cup[b] Goals': '1', 'Europe Apps': '39', 'Europe Goals': '34', 'Other Apps': '8', 'Other Goals': '3', 'Total Apps': 198, 'Total Goals': 162}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 292,
+      "league_goals": 225,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 292, 'League Goals': 225, 'National cup[a] Apps': '31', 'National cup[a] Goals': '26', 'League cup[b] Apps': '5', 'League cup[b] Goals': '1', 'Europe Apps': '64', 'Europe Goals': '61', 'Other Apps': '10', 'Other Goals': '4', 'Total Apps': 402, 'Total Goals': 317}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Erling Haaland - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"b4c54505-6f92-44bc-acd3-55083770de45\",",
+  "season_id": "2023",
+  "award_year": 2023
+}

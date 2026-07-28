@@ -1,0 +1,187 @@
+{
+  "player_name_raw": "Pep Guardiola",
+  "fetch_status": "ok",
+  "wikipedia_title": "Pep_Guardiola",
+  "url": "https://en.wikipedia.org/wiki/Pep_Guardiola",
+  "position": "Defensive midfielder",
+  "birth_year": 1971,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1988\u201389",
+      "club": "Barcelona C",
+      "league_apps": 8,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Barcelona C', 'Season Season': '1988\u201389[260]', 'League Division': 'Segunda Divisi\u00f3n B', 'League Apps': 8, 'League Goals': 1, 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '8', 'Total Goals': '1'}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Barcelona B",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona B', 'Season Season': '1989\u201390[261]', 'League Division': 'Segunda Divisi\u00f3n B', 'League Apps': 11, 'League Goals': 0, 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '11', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Barcelona B",
+      "league_apps": 33,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Barcelona B', 'Season Season': '1990\u201391[262]', 'League Division': 'Segunda Divisi\u00f3n B', 'League Apps': 33, 'League Goals': 3, 'National cup[b] Apps': '\u2014', 'National cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '6[c]', 'Other Goals': '0', 'Total Apps': '39', 'Total Goals': '3'}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Barcelona B",
+      "league_apps": 9,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Barcelona B', 'Season Season': '1991\u201392[263]', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 9, 'League Goals': 2, 'National cup[b] Apps': '\u2014', 'National cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '9', 'Total Goals': '2'}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona B",
+      "league_apps": 53,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Barcelona B', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 53, 'League Goals': 5, 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': '59', 'Total Goals': '5'}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Barcelona",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1990\u201391[262]', 'League Division': 'La Liga', 'League Apps': 4, 'League Goals': 0, 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '4', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Barcelona",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1991\u201392[263]', 'League Division': 'La Liga', 'League Apps': 26, 'League Goals': 0, 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'Continental Apps': '11[d]', 'Continental Goals': '0', 'Other Apps': '2[e]', 'Other Goals': '0', 'Total Apps': '39', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Barcelona",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1992\u201393[264]', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 0, 'National cup[b] Apps': '3', 'National cup[b] Goals': '1', 'Continental Apps': '5[f]', 'Continental Goals': '0', 'Other Apps': '3[g]', 'Other Goals': '0', 'Total Apps': '39', 'Total Goals': '1'}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Barcelona",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1993\u201394[265]', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 0, 'National cup[b] Apps': '3', 'National cup[b] Goals': '0', 'Continental Apps': '9[h]', 'Continental Goals': '0', 'Other Apps': '2[e]', 'Other Goals': '0', 'Total Apps': '48', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Barcelona",
+      "league_apps": 24,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1994\u201395[266]', 'League Division': 'La Liga', 'League Apps': 24, 'League Goals': 2, 'National cup[b] Apps': '2', 'National cup[b] Goals': '0', 'Continental Apps': '6[h]', 'Continental Goals': '0', 'Other Apps': '2[e]', 'Other Goals': '0', 'Total Apps': '34', 'Total Goals': '2'}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Barcelona",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1995\u201396[267]', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 1, 'National cup[b] Apps': '7', 'National cup[b] Goals': '0', 'Continental Apps': '8[i]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '47', 'Total Goals': '2'}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Barcelona",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1996\u201397[268]', 'League Division': 'La Liga', 'League Apps': 38, 'League Goals': 0, 'National cup[b] Apps': '6', 'National cup[b] Goals': '0', 'Continental Apps': '7[j]', 'Continental Goals': '1', 'Other Apps': '2[e]', 'Other Goals': '0', 'Total Apps': '53', 'Total Goals': '1'}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Barcelona",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1997\u201398[269]', 'League Division': 'La Liga', 'League Apps': 6, 'League Goals': 0, 'National cup[b] Apps': '1', 'National cup[b] Goals': '0', 'Continental Apps': '5[h]', 'Continental Goals': '0', 'Other Apps': '2[e]', 'Other Goals': '0', 'Total Apps': '14', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Barcelona",
+      "league_apps": 22,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1998\u201399[270]', 'League Division': 'La Liga', 'League Apps': 22, 'League Goals': 1, 'National cup[b] Apps': '3', 'National cup[b] Goals': '0', 'Continental Apps': '1[h]', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '26', 'Total Goals': '1'}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Barcelona",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1999\u20132000[271]', 'League Division': 'La Liga', 'League Apps': 25, 'League Goals': 0, 'National cup[b] Apps': '2', 'National cup[b] Goals': '0', 'Continental Apps': '12[h]', 'Continental Goals': '1', 'Other Apps': '2[e]', 'Other Goals': '0', 'Total Apps': '41', 'Total Goals': '1'}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Barcelona",
+      "league_apps": 24,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2000\u201301[272]', 'League Division': 'La Liga', 'League Apps': 24, 'League Goals': 2, 'National cup[b] Apps': '6', 'National cup[b] Goals': '1', 'Continental Apps': '7[i]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '37', 'Total Goals': '3'}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 263,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 263, 'League Goals': 6, 'National cup[b] Apps': '33', 'National cup[b] Goals': '2', 'Continental Apps': '71', 'Continental Goals': '3', 'Other Apps': '15', 'Other Goals': '0', 'Total Apps': '382', 'Total Goals': '11'}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Brescia",
+      "league_apps": 11,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Brescia', 'Season Season': '2001\u201302[273]', 'League Division': 'Serie A', 'League Apps': 11, 'League Goals': 2, 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '11', 'Total Goals': '2'}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Roma",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '2002\u201303[274]', 'League Division': 'Serie A', 'League Apps': 4, 'League Goals': 0, 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'Continental Apps': '1[h]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '5', 'Total Goals': '0'}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Brescia",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Brescia', 'Season Season': '2002\u201303[274]', 'League Division': 'Serie A', 'League Apps': 13, 'League Goals': 1, 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '13', 'Total Goals': '1'}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Al-Ahli",
+      "league_apps": 18,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Al-Ahli[275]', 'Season Season': '2003\u201304[276]', 'League Division': 'Qatar Stars League', 'League Apps': 18, 'League Goals': 2, 'National cup[b] Apps': '?', 'National cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '?', 'Other Goals': '?', 'Total Apps': '18+', 'Total Goals': '2'}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Al-Ahli",
+      "league_apps": 18,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Al-Ahli[275]', 'Season Season': '2004\u201305[276]', 'League Division': 'Qatar Stars League', 'League Apps': 18, 'League Goals': 3, 'National cup[b] Apps': '?', 'National cup[b] Goals': '1', 'Continental Apps': '?[k]', 'Continental Goals': '1', 'Other Apps': '?', 'Other Goals': '?', 'Total Apps': '18+', 'Total Goals': '5'}"
+    },
+    {
+      "season": "Total",
+      "club": "Al-Ahli",
+      "league_apps": 36,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Al-Ahli[275]', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 36, 'League Goals': 5, 'National cup[b] Apps': '?', 'National cup[b] Goals': '1', 'Continental Apps': '?', 'Continental Goals': '1', 'Other Apps': '?', 'Other Goals': '?', 'Total Apps': '36+', 'Total Goals': '7'}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Dorados",
+      "league_apps": 10,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Dorados', 'Season Season': '2005\u201306[276]', 'League Division': 'Mexican Primera Divisi\u00f3n', 'League Apps': 10, 'League Goals': 1, 'National cup[b] Apps': '?', 'National cup[b] Goals': '?', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '10+', 'Total Goals': '1+'}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 398,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 398, 'League Goals': 21, 'National cup[b] Apps': '33+', 'National cup[b] Goals': '3+', 'Continental Apps': '72+', 'Continental Goals': '4', 'Other Apps': '21+', 'Other Goals': '0', 'Total Apps': '524+', 'Total Goals': '28+'}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Pep Guardiola - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d5308521-fd44-4ca3-a404-9abad05cde0b\",\""
+}

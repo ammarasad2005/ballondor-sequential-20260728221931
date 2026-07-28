@@ -1,0 +1,196 @@
+{
+  "player_name_raw": "Klaus Fischer",
+  "fetch_status": "ok",
+  "wikipedia_title": "Klaus_Fischer",
+  "url": "https://en.wikipedia.org/wiki/Klaus_Fischer",
+  "position": "Forward",
+  "birth_year": 1949,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1968\u201369",
+      "club": "1860 Munich",
+      "league_apps": 26,
+      "league_goals": 9,
+      "raw": "{'Club Club': '1860 Munich', 'Season Season': '1968\u201369', 'League League': 'Bundesliga', 'League Apps': 26, 'League Goals': 9, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': '2', 'Europe Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 9}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "1860 Munich",
+      "league_apps": 34,
+      "league_goals": 19,
+      "raw": "{'Club Club': '1860 Munich', 'Season Season': '1969\u201370', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 19, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': '2', 'Europe Goals': '2', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 21}"
+    },
+    {
+      "season": "Total",
+      "club": "1860 Munich",
+      "league_apps": 60,
+      "league_goals": 28,
+      "raw": "{'Club Club': '1860 Munich', 'Season Season': 'Total', 'League League': 'Total', 'League Apps': 60, 'League Goals': 28, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': '4', 'Europe Goals': '2', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 65, 'Total Goals': 30}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Schalke 04",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1969\u201370', 'League League': 'Bundesliga', 'League Apps': 0, 'League Goals': 0, 'Cup Apps': 2, 'Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Schalke 04",
+      "league_apps": 34,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1970\u201371', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 15, 'Cup Apps': 5, 'Cup Goals': 1, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 16}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Schalke 04",
+      "league_apps": 29,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1971\u201372', 'League League': 'Bundesliga', 'League Apps': 29, 'League Goals': 22, 'Cup Apps': 9, 'Cup Goals': 7, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 29}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Schalke 04",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1972\u201373', 'League League': 'Bundesliga', 'League Apps': 0, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': '1', 'Europe Goals': '1', 'League Cup Apps': '6', 'League Cup Goals': '3', 'Total Apps': 7, 'Total Goals': 4}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Schalke 04",
+      "league_apps": 25,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1973\u201374', 'League League': 'Bundesliga', 'League Apps': 25, 'League Goals': 21, 'Cup Apps': 1, 'Cup Goals': 1, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 22}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Schalke 04",
+      "league_apps": 33,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1974\u201375', 'League League': 'Bundesliga', 'League Apps': 33, 'League Goals': 17, 'Cup Apps': 3, 'Cup Goals': 3, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 20}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Schalke 04",
+      "league_apps": 34,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1975\u201376', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 29, 'Cup Apps': 3, 'Cup Goals': 3, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 32}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Schalke 04",
+      "league_apps": 31,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1976\u201377', 'League League': 'Bundesliga', 'League Apps': 31, 'League Goals': 24, 'Cup Apps': 3, 'Cup Goals': 4, 'Europe Apps': '5', 'Europe Goals': '6', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 34}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Schalke 04",
+      "league_apps": 32,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1977\u201378', 'League League': 'Bundesliga', 'League Apps': 32, 'League Goals': 20, 'Cup Apps': 6, 'Cup Goals': 7, 'Europe Apps': '3', 'Europe Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 27}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Schalke 04",
+      "league_apps": 34,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1978\u201379', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 21, 'Cup Apps': 3, 'Cup Goals': 4, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 25}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Schalke 04",
+      "league_apps": 26,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1979\u201380', 'League League': 'Bundesliga', 'League Apps': 26, 'League Goals': 7, 'Cup Apps': 4, 'Cup Goals': 4, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 11}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Schalke 04",
+      "league_apps": 17,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1980\u201381', 'League League': 'Bundesliga', 'League Apps': 17, 'League Goals': 6, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Schalke 04",
+      "league_apps": 295,
+      "league_goals": 182,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': 'Total', 'League League': 'Total', 'League Apps': 295, 'League Goals': 182, 'Cup Apps': 39, 'Cup Goals': 34, 'Europe Apps': '9', 'Europe Goals': '7', 'League Cup Apps': '6', 'League Cup Goals': '3', 'Total Apps': 349, 'Total Goals': 226}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 31,
+      "league_goals": 7,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1981\u201382', 'League League': 'Bundesliga', 'League Apps': 31, 'League Goals': 7, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 7}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 32,
+      "league_goals": 12,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1982\u201383', 'League League': 'Bundesliga', 'League Apps': 32, 'League Goals': 12, 'Cup Apps': 6, 'Cup Goals': 5, 'Europe Apps': '5', 'Europe Goals': '3', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 20}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 33,
+      "league_goals": 12,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1983\u201384', 'League League': 'Bundesliga', 'League Apps': 33, 'League Goals': 12, 'Cup Apps': 3, 'Cup Goals': 5, 'Europe Apps': '4', 'Europe Goals': '2', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 19}"
+    },
+    {
+      "season": "Total",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 96,
+      "league_goals": 31,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': 'Total', 'League League': 'Total', 'League Apps': 96, 'League Goals': 31, 'Cup Apps': 10, 'Cup Goals': 10, 'Europe Apps': '9', 'Europe Goals': '5', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 115, 'Total Goals': 46}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "VfL Bochum",
+      "league_apps": 34,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'VfL Bochum', 'Season Season': '1984\u201385', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 16, 'Cup Apps': 3, 'Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 16}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "VfL Bochum",
+      "league_apps": 27,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'VfL Bochum', 'Season Season': '1985\u201386', 'League League': 'Bundesliga', 'League Apps': 27, 'League Goals': 8, 'Cup Apps': 4, 'Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 8}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "VfL Bochum",
+      "league_apps": 11,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'VfL Bochum', 'Season Season': '1986\u201387', 'League League': 'Bundesliga', 'League Apps': 11, 'League Goals': 3, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 3}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "VfL Bochum",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'VfL Bochum', 'Season Season': '1987\u201388', 'League League': 'Bundesliga', 'League Apps': 12, 'League Goals': 0, 'Cup Apps': 3, 'Cup Goals': 2, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 15, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "VfL Bochum",
+      "league_apps": 84,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'VfL Bochum', 'Season Season': 'Total', 'League League': 'Total', 'League Apps': 84, 'League Goals': 27, 'Cup Apps': 10, 'Cup Goals': 2, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Total Apps': 94, 'Total Goals': 29}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 535,
+      "league_goals": 268,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League League': 'Career total', 'League Apps': 535, 'League Goals': 268, 'Cup Apps': 60, 'Cup Goals': 46, 'Europe Apps': '22', 'Europe Goals': '14', 'League Cup Apps': '6', 'League Cup Goals': '3', 'Total Apps': 623, 'Total Goals': 331}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Klaus Fischer - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ce92eb33-e2b1-4ba8-8bb1-3df22e2b83c8\",\"",
+  "season_id": "1977",
+  "award_year": 1977
+}

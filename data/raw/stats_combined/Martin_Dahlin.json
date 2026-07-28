@@ -1,0 +1,194 @@
+{
+  "player_name_raw": "Martin Dahlin",
+  "fetch_status": "ok",
+  "wikipedia_title": "Martin_Dahlin",
+  "url": "https://en.wikipedia.org/wiki/Martin_Dahlin",
+  "position": "Striker",
+  "birth_year": 1968,
+  "career_stats_raw_tables_count": 2,
+  "career_stats": [
+    {
+      "season": "1988",
+      "club": "Malm\u00f6 FF",
+      "league_apps": 21,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Malm\u00f6 FF', 'Season Season': '1988', 'League Division': 'Allsvenskan', 'League Apps': 21, 'League Goals': 17, 'National Cup Apps': nan, 'National Cup Goals': nan, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 21, 'Total Goals': 17}"
+    },
+    {
+      "season": "1989",
+      "club": "Malm\u00f6 FF",
+      "league_apps": 17,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Malm\u00f6 FF', 'Season Season': '1989', 'League Division': 'Allsvenskan', 'League Apps': 17, 'League Goals': 4, 'National Cup Apps': nan, 'National Cup Goals': nan, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 17, 'Total Goals': 4}"
+    },
+    {
+      "season": "1990",
+      "club": "Malm\u00f6 FF",
+      "league_apps": 19,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Malm\u00f6 FF', 'Season Season': '1990', 'League Division': 'Allsvenskan', 'League Apps': 19, 'League Goals': 7, 'National Cup Apps': nan, 'National Cup Goals': nan, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 19, 'Total Goals': 7}"
+    },
+    {
+      "season": "1991",
+      "club": "Malm\u00f6 FF",
+      "league_apps": 22,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Malm\u00f6 FF', 'Season Season': '1991', 'League Division': 'Allsvenskan', 'League Apps': 22, 'League Goals': 11, 'National Cup Apps': nan, 'National Cup Goals': nan, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 22, 'Total Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "Malm\u00f6 FF",
+      "league_apps": 79,
+      "league_goals": 39,
+      "raw": "{'Club Club': 'Malm\u00f6 FF', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 79, 'League Goals': 39, 'National Cup Apps': nan, 'National Cup Goals': nan, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 79, 'Total Goals': 39}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 12,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1991\u201392[19]', 'League Division': 'Bundesliga', 'League Apps': 12, 'League Goals': 2, 'National Cup Apps': 2.0, 'National Cup Goals': 0.0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 14, 'Total Goals': 2}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 20,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1992\u201393[19]', 'League Division': 'Bundesliga', 'League Apps': 20, 'League Goals': 10, 'National Cup Apps': 3.0, 'National Cup Goals': 1.0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 23, 'Total Goals': 11}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 27,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1993\u201394[19]', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 12, 'National Cup Apps': 4.0, 'National Cup Goals': 2.0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 14}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 24,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1994\u201395[19]', 'League Division': 'Bundesliga', 'League Apps': 24, 'League Goals': 11, 'National Cup Apps': 5.0, 'National Cup Goals': 2.0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 29, 'Total Goals': 13}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 23,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1995\u201396[19]', 'League Division': 'Bundesliga', 'League Apps': 23, 'League Goals': 15, 'National Cup Apps': 1.0, 'National Cup Goals': 0.0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': 5.0, 'Continental Goals': 3.0, 'Other Apps': '1[a]', 'Other Goals': '0', 'Total Apps': 30, 'Total Goals': 18}"
+    },
+    {
+      "season": "Total",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 106,
+      "league_goals": 50,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 106, 'League Goals': 50, 'National Cup Apps': 15.0, 'National Cup Goals': 5.0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Continental Apps': 5.0, 'Continental Goals': 3.0, 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 127, 'Total Goals': 58}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Roma",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '1996\u201397[19]', 'League Division': 'Serie A', 'League Apps': 3, 'League Goals': 0, 'National Cup Apps': 1.0, 'National Cup Goals': 0.0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Borussia M\u00f6nchengladbach (loan)",
+      "league_apps": 19,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach (loan)', 'Season Season': '1996\u201397[19]', 'League Division': 'Bundesliga', 'League Apps': 19, 'League Goals': 10, 'National Cup Apps': 0.0, 'National Cup Goals': 0.0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 19, 'Total Goals': 10}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Blackburn Rovers",
+      "league_apps": 21,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Blackburn Rovers', 'Season Season': '1997\u201398[19]', 'League Division': 'Premier League', 'League Apps': 21, 'League Goals': 4, 'National Cup Apps': 1.0, 'National Cup Goals': 0.0, 'League Cup Apps': '2', 'League Cup Goals': '2', 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 24, 'Total Goals': 6}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Blackburn Rovers",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Blackburn Rovers', 'Season Season': '1998\u201399[19]', 'League Division': 'Premier League', 'League Apps': 5, 'League Goals': 0, 'National Cup Apps': 0.0, 'National Cup Goals': 0.0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Continental Apps': 1.0, 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Hamburger SV (loan)",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Hamburger SV (loan)', 'Season Season': '1998\u201399[19]', 'League Division': 'Bundesliga', 'League Apps': 8, 'League Goals': 0, 'National Cup Apps': 0.0, 'National Cup Goals': 0.0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 241,
+      "league_goals": 103,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 241, 'League Goals': 103, 'National Cup Apps': 17.0, 'National Cup Goals': 5.0, 'League Cup Apps': '2', 'League Cup Goals': '2', 'Continental Apps': 6.0, 'Continental Goals': 3.0, 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 267, 'Total Goals': 113}"
+    },
+    {
+      "season": "nan",
+      "club": null,
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'National team': 'Sweden', 'Season': nan, 'Apps': nan, 'Goals': nan}"
+    },
+    {
+      "season": "1991",
+      "club": null,
+      "league_apps": 7,
+      "league_goals": 6,
+      "raw": "{'National team': 'Sweden', 'Season': '1991', 'Apps': 7.0, 'Goals': 6.0}"
+    },
+    {
+      "season": "1992",
+      "club": null,
+      "league_apps": 10,
+      "league_goals": 4,
+      "raw": "{'National team': 'Sweden', 'Season': '1992', 'Apps': 10.0, 'Goals': 4.0}"
+    },
+    {
+      "season": "1993",
+      "club": null,
+      "league_apps": 8,
+      "league_goals": 6,
+      "raw": "{'National team': 'Sweden', 'Season': '1993', 'Apps': 8.0, 'Goals': 6.0}"
+    },
+    {
+      "season": "1994",
+      "club": null,
+      "league_apps": 12,
+      "league_goals": 6,
+      "raw": "{'National team': 'Sweden', 'Season': '1994', 'Apps': 12.0, 'Goals': 6.0}"
+    },
+    {
+      "season": "1995",
+      "club": null,
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'National team': 'Sweden', 'Season': '1995', 'Apps': 6.0, 'Goals': 0.0}"
+    },
+    {
+      "season": "1996",
+      "club": null,
+      "league_apps": 8,
+      "league_goals": 5,
+      "raw": "{'National team': 'Sweden', 'Season': '1996', 'Apps': 8.0, 'Goals': 5.0}"
+    },
+    {
+      "season": "1997",
+      "club": null,
+      "league_apps": 9,
+      "league_goals": 2,
+      "raw": "{'National team': 'Sweden', 'Season': '1997', 'Apps': 9.0, 'Goals': 2.0}"
+    },
+    {
+      "season": "Total",
+      "club": null,
+      "league_apps": 60,
+      "league_goals": 29,
+      "raw": "{'National team': 'Total', 'Season': 'Total', 'Apps': 60.0, 'Goals': 29.0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Martin Dahlin - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"fd49b146-5b08-4ea4-bdcd-d6f14de9b6cd\",\""
+}

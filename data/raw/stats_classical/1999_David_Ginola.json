@@ -1,0 +1,203 @@
+{
+  "player_name_raw": "David Ginola",
+  "fetch_status": "ok",
+  "wikipedia_title": "David_Ginola",
+  "url": "https://en.wikipedia.org/wiki/David_Ginola",
+  "position": "Winger",
+  "birth_year": 1967,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1985\u201386",
+      "club": "Toulon",
+      "league_apps": 14,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Toulon', 'Season Season': '1985\u201386', 'League Division': 'Division 1', 'League Apps': 14, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 14, 'Total Goals': 0}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Toulon",
+      "league_apps": 35,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Toulon', 'Season Season': '1986\u201387', 'League Division': 'Division 1', 'League Apps': 35, 'League Goals': 0, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Toulon",
+      "league_apps": 33,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Toulon', 'Season Season': '1987\u201388', 'League Division': 'Division 1', 'League Apps': 33, 'League Goals': 4, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Toulon",
+      "league_apps": 82,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Toulon', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 82, 'League Goals': 4, 'National cup[a] Apps': 4, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 86, 'Total Goals': 5}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Racing Paris",
+      "league_apps": 29,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Racing Paris', 'Season Season': '1988\u201389', 'League Division': 'Division 1', 'League Apps': 29, 'League Goals': 7, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 8}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Racing Paris",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Racing Paris', 'Season Season': '1989\u201390', 'League Division': 'Division 1', 'League Apps': 32, 'League Goals': 1, 'National cup[a] Apps': 6, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Racing Paris",
+      "league_apps": 61,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Racing Paris', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 61, 'League Goals': 8, 'National cup[a] Apps': 8, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 69, 'Total Goals': 10}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Brest",
+      "league_apps": 33,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Brest', 'Season Season': '1990\u201391', 'League Division': 'Division 1', 'League Apps': 33, 'League Goals': 6, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 7}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Brest",
+      "league_apps": 17,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Brest', 'Season Season': '1991\u201392', 'League Division': 'Division 2', 'League Apps': 17, 'League Goals': 8, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 17, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Brest",
+      "league_apps": 50,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Brest', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 50, 'League Goals': 14, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 53, 'Total Goals': 15}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Paris Saint-Germain",
+      "league_apps": 15,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1991\u201392', 'League Division': 'Division 1', 'League Apps': 15, 'League Goals': 3, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 17, 'Total Goals': 4}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Paris Saint-Germain",
+      "league_apps": 34,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1992\u201393', 'League Division': 'Division 1', 'League Apps': 34, 'League Goals': 6, 'National cup[a] Apps': 6, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '9[c]', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 49, 'Total Goals': 10}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Paris Saint-Germain",
+      "league_apps": 38,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1993\u201394', 'League Division': 'Division 1', 'League Apps': 38, 'League Goals': 13, 'National cup[a] Apps': 3, 'National cup[a] Goals': 3, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '8[d]', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 49, 'Total Goals': 18}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Paris Saint-Germain",
+      "league_apps": 28,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1994\u201395', 'League Division': 'Division 1', 'League Apps': 28, 'League Goals': 11, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '10[e]', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 43, 'Total Goals': 12}"
+    },
+    {
+      "season": "Total",
+      "club": "Paris Saint-Germain",
+      "league_apps": 115,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 115, 'League Goals': 33, 'National cup[a] Apps': 13, 'National cup[a] Goals': 6, 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '27', 'Europe Goals': '5', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 158, 'Total Goals': 44}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Newcastle United",
+      "league_apps": 34,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '1995\u201396', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 5, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 5}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Newcastle United",
+      "league_apps": 24,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '1996\u201397', 'League Division': 'Premier League', 'League Apps': 24, 'League Goals': 1, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '7[c]', 'Europe Goals': '1', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Newcastle United",
+      "league_apps": 58,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 58, 'League Goals': 6, 'National cup[a] Apps': 4, 'National cup[a] Goals': 0, 'League cup[b] Apps': '6', 'League cup[b] Goals': '0', 'Europe Apps': '7', 'Europe Goals': '1', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 75, 'Total Goals': 7}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Tottenham Hotspur",
+      "league_apps": 34,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1997\u201398', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 6, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'League cup[b] Apps': '3', 'League cup[b] Goals': '2', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 9}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Tottenham Hotspur",
+      "league_apps": 30,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1998\u201399', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 3, 'National cup[a] Apps': 6, 'National cup[a] Goals': 3, 'League cup[b] Apps': '5', 'League cup[b] Goals': '1', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 41, 'Total Goals': 7}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Tottenham Hotspur",
+      "league_apps": 36,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1999\u20132000', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 4, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'League cup[b] Apps': '2', 'League cup[b] Goals': '1', 'Europe Apps': '3[c]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 43, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Tottenham Hotspur",
+      "league_apps": 100,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 100, 'League Goals': 13, 'National cup[a] Apps': 11, 'National cup[a] Goals': 5, 'League cup[b] Apps': '10', 'League cup[b] Goals': '4', 'Europe Apps': '3', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 124, 'Total Goals': 22}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Aston Villa",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Aston Villa', 'Season Season': '2000\u201301', 'League Division': 'Premier League', 'League Apps': 27, 'League Goals': 3, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 3}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Aston Villa",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Aston Villa', 'Season Season': '2001\u201302', 'League Division': 'Premier League', 'League Apps': 5, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '6[c]', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 13, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Aston Villa",
+      "league_apps": 32,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Aston Villa', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 32, 'League Goals': 3, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '6', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 41, 'Total Goals': 5}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Everton",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '2001\u201302', 'League Division': 'Premier League', 'League Apps': 5, 'League Goals': 0, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 503,
+      "league_goals": 81,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 503, 'League Goals': 81, 'National cup[a] Apps': 46, 'National cup[a] Goals': 15, 'League cup[b] Apps': '21', 'League cup[b] Goals': '4', 'Europe Apps': '43', 'Europe Goals': '8', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 614, 'Total Goals': 108}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>David Ginola - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"8804052e-348b-4437-9ffc-a9e0bd94511d\",\"w",
+  "season_id": "1999",
+  "award_year": 1999
+}

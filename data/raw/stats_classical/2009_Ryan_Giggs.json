@@ -1,0 +1,203 @@
+{
+  "player_name_raw": "Ryan Giggs",
+  "fetch_status": "ok",
+  "wikipedia_title": "Ryan_Giggs",
+  "url": "https://en.wikipedia.org/wiki/Ryan_Giggs",
+  "position": "Left midfielder left winger",
+  "birth_year": 1973,
+  "career_stats_raw_tables_count": 2,
+  "career_stats": [
+    {
+      "season": "1990\u201391",
+      "club": "Manchester United",
+      "league_apps": 2,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1990\u201391', 'League Division': 'First Division', 'League Apps': 2, 'League Goals': 1, 'FA Cup Apps': '0', 'FA Cup Goals': '0', 'League Cup Apps': 0, 'League Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 2, 'Total Goals': 1}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Manchester United",
+      "league_apps": 38,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1991\u201392', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 4, 'FA Cup Apps': '3', 'FA Cup Goals': '0', 'League Cup Apps': 8, 'League Cup Goals': 3, 'Europe Apps': 1, 'Europe Goals': 0, 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 51, 'Total Goals': 7}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Manchester United",
+      "league_apps": 41,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1992\u201393', 'League Division': 'Premier League', 'League Apps': 41, 'League Goals': 9, 'FA Cup Apps': '2', 'FA Cup Goals': '2', 'League Cup Apps': 2, 'League Cup Goals': 0, 'Europe Apps': 1, 'Europe Goals': 0, 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 46, 'Total Goals': 11}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Manchester United",
+      "league_apps": 38,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1993\u201394', 'League Division': 'Premier League', 'League Apps': 38, 'League Goals': 13, 'FA Cup Apps': '7', 'FA Cup Goals': '1', 'League Cup Apps': 8, 'League Cup Goals': 3, 'Europe Apps': 4, 'Europe Goals': 0, 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 58, 'Total Goals': 17}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Manchester United",
+      "league_apps": 29,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1994\u201395', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 1, 'FA Cup Apps': '7', 'FA Cup Goals': '1', 'League Cup Apps': 0, 'League Cup Goals': 0, 'Europe Apps': 3, 'Europe Goals': 2, 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 40, 'Total Goals': 4}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Manchester United",
+      "league_apps": 33,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1995\u201396', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 11, 'FA Cup Apps': '7', 'FA Cup Goals': '1', 'League Cup Apps': 2, 'League Cup Goals': 0, 'Europe Apps': 2, 'Europe Goals': 0, 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 44, 'Total Goals': 12}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Manchester United",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1996\u201397', 'League Division': 'Premier League', 'League Apps': 26, 'League Goals': 3, 'FA Cup Apps': '3', 'FA Cup Goals': '0', 'League Cup Apps': 0, 'League Cup Goals': 0, 'Europe Apps': 7, 'Europe Goals': 2, 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 37, 'Total Goals': 5}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Manchester United",
+      "league_apps": 29,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1997\u201398', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 8, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': 0, 'League Cup Goals': 0, 'Europe Apps': 5, 'Europe Goals': 1, 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 37, 'Total Goals': 9}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Manchester United",
+      "league_apps": 24,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1998\u201399', 'League Division': 'Premier League', 'League Apps': 24, 'League Goals': 3, 'FA Cup Apps': '6', 'FA Cup Goals': '2', 'League Cup Apps': 1, 'League Cup Goals': 0, 'Europe Apps': 9, 'Europe Goals': 5, 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 41, 'Total Goals': 10}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Manchester United",
+      "league_apps": 30,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1999\u20132000', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 6, 'FA Cup Apps': '\u2013', 'FA Cup Goals': '\u2013', 'League Cup Apps': 0, 'League Cup Goals': 0, 'Europe Apps': 11, 'Europe Goals': 1, 'Other[a] Apps': '3', 'Other[a] Goals': '0', 'Total Apps': 44, 'Total Goals': 7}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Manchester United",
+      "league_apps": 31,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2000\u201301', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 5, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': 0, 'League Cup Goals': 0, 'Europe Apps': 11, 'Europe Goals': 2, 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 45, 'Total Goals': 7}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Manchester United",
+      "league_apps": 25,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2001\u201302', 'League Division': 'Premier League', 'League Apps': 25, 'League Goals': 7, 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'League Cup Apps': 0, 'League Cup Goals': 0, 'Europe Apps': 13, 'Europe Goals': 2, 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 40, 'Total Goals': 9}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Manchester United",
+      "league_apps": 36,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2002\u201303', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 8, 'FA Cup Apps': '3', 'FA Cup Goals': '2', 'League Cup Apps': 5, 'League Cup Goals': 0, 'Europe Apps': 15, 'Europe Goals': 4, 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 59, 'Total Goals': 14}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Manchester United",
+      "league_apps": 33,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2003\u201304', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 7, 'FA Cup Apps': '5', 'FA Cup Goals': '0', 'League Cup Apps': 0, 'League Cup Goals': 0, 'Europe Apps': 8, 'Europe Goals': 1, 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 47, 'Total Goals': 8}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Manchester United",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2004\u201305', 'League Division': 'Premier League', 'League Apps': 32, 'League Goals': 5, 'FA Cup Apps': '4', 'FA Cup Goals': '0', 'League Cup Apps': 1, 'League Cup Goals': 1, 'Europe Apps': 6, 'Europe Goals': 2, 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 44, 'Total Goals': 8}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Manchester United",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2005\u201306', 'League Division': 'Premier League', 'League Apps': 27, 'League Goals': 3, 'FA Cup Apps': '2', 'FA Cup Goals': '1', 'League Cup Apps': 3, 'League Cup Goals': 0, 'Europe Apps': 5, 'Europe Goals': 1, 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 37, 'Total Goals': 5}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Manchester United",
+      "league_apps": 30,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2006\u201307', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 4, 'FA Cup Apps': '6', 'FA Cup Goals': '0', 'League Cup Apps': 0, 'League Cup Goals': 0, 'Europe Apps': 8, 'Europe Goals': 2, 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 44, 'Total Goals': 6}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Manchester United",
+      "league_apps": 31,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2007\u201308', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 3, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': 0, 'League Cup Goals': 0, 'Europe Apps': 9, 'Europe Goals': 0, 'Other[a] Apps': '1', 'Other[a] Goals': '1', 'Total Apps': 43, 'Total Goals': 4}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Manchester United",
+      "league_apps": 28,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2008\u201309', 'League Division': 'Premier League', 'League Apps': 28, 'League Goals': 2, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': 4, 'League Cup Goals': 1, 'Europe Apps': 11, 'Europe Goals': 1, 'Other[a] Apps': '2', 'Other[a] Goals': '0', 'Total Apps': 47, 'Total Goals': 4}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Manchester United",
+      "league_apps": 25,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2009\u201310', 'League Division': 'Premier League', 'League Apps': 25, 'League Goals': 5, 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'League Cup Apps': 2, 'League Cup Goals': 1, 'Europe Apps': 3, 'Europe Goals': 1, 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 32, 'Total Goals': 7}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Manchester United",
+      "league_apps": 25,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2010\u201311', 'League Division': 'Premier League', 'League Apps': 25, 'League Goals': 2, 'FA Cup Apps': '3', 'FA Cup Goals': '1', 'League Cup Apps': 1, 'League Cup Goals': 0, 'Europe Apps': 8, 'Europe Goals': 1, 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 38, 'Total Goals': 4}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Manchester United",
+      "league_apps": 25,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2011\u201312', 'League Division': 'Premier League', 'League Apps': 25, 'League Goals': 2, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': 1, 'League Cup Goals': 1, 'Europe Apps': 5, 'Europe Goals': 1, 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 33, 'Total Goals': 4}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Manchester United",
+      "league_apps": 22,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2012\u201313', 'League Division': 'Premier League', 'League Apps': 22, 'League Goals': 2, 'FA Cup Apps': '4', 'FA Cup Goals': '1', 'League Cup Apps': 1, 'League Cup Goals': 2, 'Europe Apps': 5, 'Europe Goals': 0, 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 5}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Manchester United",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2013\u201314', 'League Division': 'Premier League', 'League Apps': 12, 'League Goals': 0, 'FA Cup Apps': '0', 'FA Cup Goals': '0', 'League Cup Apps': 2, 'League Cup Goals': 0, 'Europe Apps': 7, 'Europe Goals': 0, 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 22, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 672,
+      "league_goals": 114,
+      "raw": "{'Club Club': 'Total', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 672, 'League Goals': 114, 'FA Cup Apps': '74', 'FA Cup Goals': '12', 'League Cup Apps': 41, 'League Cup Goals': 12, 'Europe Apps': 157, 'Europe Goals': 29, 'Other[a] Apps': '19', 'Other[a] Goals': '1', 'Total Apps': 963, 'Total Goals': 168}"
+    },
+    {
+      "season": "1970\u201371: Hunt 1971\u201372: Radford 1972\u201373: Osgood 1973\u201374: Mullery 1974\u201375: Walsh 1975\u201376: Francis 1976\u201377: McDermott 1977\u201378: Gemmill 1978\u201379: Kennedy 1979\u201380: Fashanu 1980\u201381: Morley 1981\u201382: Regis 1982\u201383: Dalglish 1983\u201384: D. Wallace 1984\u201385: Sharp 1985\u201386: Robson 1986\u201387: Houchen 1987\u201388: Aldridge 1988\u201389: Aldridge 1989\u201390: Wright 1990\u201391: Gascoigne 1991\u201392: Thomas 1992\u201393: Atkinson 1993\u201394: R. Wallace 1994\u201395: Le Tissier 1995\u201396: Yeboah 1996\u201397: Sinclair 1997\u201398: Bergkamp 1998\u201399: Giggs 1999\u20132000: Di Canio 2000\u201301: Bartlett 2001\u201302: Bergkamp 2002\u201303: Henry 2003\u201304: Hamann 2004\u201305: Rooney 2005\u201306: Gerrard 2006\u201307: Rooney 2007\u201308: Adebayor 2008\u201309: Johnson 2009\u201310: Figueroa 2010\u201311: Rooney 2011\u201312: Ciss\u00e9 2012\u201313: Van Persie 2013\u201314: Wilshere 2014\u201315: Wilshere 2015\u201316: Alli 2016\u201317: Can 2017\u201318: Vardy 2018\u201319: Kompany 2019\u201320: Son 2020\u201321: Lamela 2021\u201322: Salah 2022\u201323: Enciso 2023\u201324: Garnacho 2024\u201325: Mitoma 2025\u201326: Wilson",
+      "club": null,
+      "league_apps": null,
+      "league_goals": 1970,
+      "raw": "{\"vteMatch of the Day's Goal of the Season Award\": '1970\u201371: Hunt 1971\u201372: Radford 1972\u201373: Osgood 1973\u201374: Mullery 1974\u201375: Walsh 1975\u201376: Francis 1976\u201377: McDermott 1977\u201378: Gemmill 1978\u201379: Kennedy 1979\u201380: Fashanu 1980\u201381: Morley 1981\u201382: Regis 1982\u201383: Dalglish 1983\u201384: D. Wallace 1984\u201385: Sharp 1985\u201386: Robson 1986\u201387: Houchen 1987\u201388: Aldridge 1988\u201389: Aldridge 1989\u201390: Wright 1990\u201391: Gascoigne 1991\u201392: Thomas 1992\u201393: Atkinson 1993\u201394: R. Wallace 1994\u201395: Le Tissier 1995\u201396: Yeboah 1996"
+    },
+    {
+      "season": "Due to a transfer of broadcast rights, the entries for the 2001\u201302, 2002\u201303 and 2003\u201304 seasons were decided on ITV's The Premiership.",
+      "club": null,
+      "league_apps": null,
+      "league_goals": 2001,
+      "raw": "{\"vteMatch of the Day's Goal of the Season Award\": \"Due to a transfer of broadcast rights, the entries for the 2001\u201302, 2002\u201303 and 2003\u201304 seasons were decided on ITV's The Premiership.\", \"vteMatch of the Day's Goal of the Season Award.1\": \"Due to a transfer of broadcast rights, the entries for the 2001\u201302, 2002\u201303 and 2003\u201304 seasons were decided on ITV's The Premiership.\"}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Ryan Giggs - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"84358ff1-be69-416d-a001-961387797cda\",\"wgC",
+  "season_id": "2009",
+  "award_year": 2009
+}

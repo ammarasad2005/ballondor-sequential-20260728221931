@@ -1,0 +1,161 @@
+{
+  "player_name_raw": "Samuel Kuffour",
+  "fetch_status": "ok",
+  "wikipedia_title": "Samuel_Kuffour",
+  "url": "https://en.wikipedia.org/wiki/Samuel_Kuffour",
+  "position": "Centre-back",
+  "birth_year": 1976,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1994\u201395",
+      "club": "Bayern Munich",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1994\u201395', 'League Division': 'Bundesliga', 'League Apps': 9.0, 'League Goals': 0.0, 'Cup[a] Apps': '0', 'Cup[a] Goals': '0', 'Continental[b] Apps': '4', 'Continental[b] Goals': '1', 'Other[c] Apps': '\u2014', 'Other[c] Goals': '\u2014', 'Total Apps': 13.0, 'Total Goals': 1.0, 'Ref. Ref.': '[27]'}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Bayern Munich",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1996\u201397', 'League Division': 'Bundesliga', 'League Apps': 22.0, 'League Goals': 0.0, 'Cup[a] Apps': '2', 'Cup[a] Goals': '0', 'Continental[b] Apps': '1', 'Continental[b] Goals': '0', 'Other[c] Apps': '\u2014', 'Other[c] Goals': '\u2014', 'Total Apps': 25.0, 'Total Goals': 0.0, 'Ref. Ref.': '[27]'}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Bayern Munich",
+      "league_apps": 17,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1997\u201398', 'League Division': 'Bundesliga', 'League Apps': 17.0, 'League Goals': 2.0, 'Cup[a] Apps': '3', 'Cup[a] Goals': '0', 'Continental[b] Apps': '5', 'Continental[b] Goals': '0', 'Other[c] Apps': '\u2014', 'Other[c] Goals': '\u2014', 'Total Apps': 25.0, 'Total Goals': 2.0, 'Ref. Ref.': '[28]'}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Bayern Munich",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1998\u201399', 'League Division': 'Bundesliga', 'League Apps': 15.0, 'League Goals': 0.0, 'Cup[a] Apps': '3', 'Cup[a] Goals': '0', 'Continental[b] Apps': '8', 'Continental[b] Goals': '0', 'Other[c] Apps': '\u2014', 'Other[c] Goals': '\u2014', 'Total Apps': 26.0, 'Total Goals': 0.0, 'Ref. Ref.': '[29]'}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Bayern Munich",
+      "league_apps": 18,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1999\u20132000', 'League Division': 'Bundesliga', 'League Apps': 18.0, 'League Goals': 2.0, 'Cup[a] Apps': '3', 'Cup[a] Goals': '1', 'Continental[b] Apps': '13', 'Continental[b] Goals': '0', 'Other[c] Apps': '\u2014', 'Other[c] Goals': '\u2014', 'Total Apps': 34.0, 'Total Goals': 3.0, 'Ref. Ref.': '[30]'}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Bayern Munich",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2000\u201301', 'League Division': 'Bundesliga', 'League Apps': 23.0, 'League Goals': 1.0, 'Cup[a] Apps': '1', 'Cup[a] Goals': '0', 'Continental[b] Apps': '13', 'Continental[b] Goals': '0', 'Other[c] Apps': '1', 'Other[c] Goals': '0', 'Total Apps': 38.0, 'Total Goals': 1.0, 'Ref. Ref.': '[27][31]'}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Bayern Munich",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2001\u201302', 'League Division': 'Bundesliga', 'League Apps': 21.0, 'League Goals': 0.0, 'Cup[a] Apps': '3', 'Cup[a] Goals': '0', 'Continental[b] Apps': '14', 'Continental[b] Goals': '0', 'Other[c] Apps': '2', 'Other[c] Goals': '0', 'Total Apps': 40.0, 'Total Goals': 0.0, 'Ref. Ref.': '[27][32]'}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Bayern Munich",
+      "league_apps": 20,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2002\u201303', 'League Division': 'Bundesliga', 'League Apps': 20.0, 'League Goals': 1.0, 'Cup[a] Apps': '4', 'Cup[a] Goals': '0', 'Continental[b] Apps': '5', 'Continental[b] Goals': '0', 'Other[c] Apps': '1', 'Other[c] Goals': '0', 'Total Apps': 30.0, 'Total Goals': 1.0, 'Ref. Ref.': '[27][33]'}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Bayern Munich",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2003\u201304', 'League Division': 'Bundesliga', 'League Apps': 23.0, 'League Goals': 1.0, 'Cup[a] Apps': '2', 'Cup[a] Goals': '0', 'Continental[b] Apps': '7', 'Continental[b] Goals': '0', 'Other[c] Apps': '1', 'Other[c] Goals': '0', 'Total Apps': 33.0, 'Total Goals': 1.0, 'Ref. Ref.': '[27][34]'}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Bayern Munich",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2004\u201305', 'League Division': 'Bundesliga', 'League Apps': 7.0, 'League Goals': 0.0, 'Cup[a] Apps': '2', 'Cup[a] Goals': '0', 'Continental[b] Apps': '4', 'Continental[b] Goals': '0', 'Other[c] Apps': '0', 'Other[c] Goals': '0', 'Total Apps': 13.0, 'Total Goals': 0.0, 'Ref. Ref.': '[27]'}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 175,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 175.0, 'League Goals': 7.0, 'Cup[a] Apps': '23', 'Cup[a] Goals': '1', 'Continental[b] Apps': '74', 'Continental[b] Goals': '1', 'Other[c] Apps': '5', 'Other[c] Goals': '0', 'Total Apps': 277.0, 'Total Goals': 9.0, 'Ref. Ref.': '\u2014'}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Bayern Munich II",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': '1994\u201395', 'League Division': 'Regionalliga S\u00fcd', 'League Apps': nan, 'League Goals': nan, 'Cup[a] Apps': '3', 'Cup[a] Goals': '0', 'Continental[b] Apps': '\u2014', 'Continental[b] Goals': '\u2014', 'Other[c] Apps': '\u2014', 'Other[c] Goals': '\u2014', 'Total Apps': 3.0, 'Total Goals': 0.0, 'Ref. Ref.': '[27]'}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Bayern Munich II",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': '1995\u201396', 'League Division': 'Regionalliga S\u00fcd', 'League Apps': nan, 'League Goals': nan, 'Cup[a] Apps': '1', 'Cup[a] Goals': '0', 'Continental[b] Apps': '\u2014', 'Continental[b] Goals': '\u2014', 'Other[c] Apps': '\u2014', 'Other[c] Goals': '\u2014', 'Total Apps': 1.0, 'Total Goals': 0.0, 'Ref. Ref.': '[27]'}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Bayern Munich II",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': '2004\u201305', 'League Division': 'Regionalliga S\u00fcd', 'League Apps': 1.0, 'League Goals': 0.0, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Continental[b] Apps': '\u2014', 'Continental[b] Goals': '\u2014', 'Other[c] Apps': '\u2014', 'Other[c] Goals': '\u2014', 'Total Apps': 1.0, 'Total Goals': 0.0, 'Ref. Ref.': '[27]'}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich II",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 1.0, 'League Goals': 0.0, 'Cup[a] Apps': '4', 'Cup[a] Goals': '0', 'Continental[b] Apps': '0', 'Continental[b] Goals': '0', 'Other[c] Apps': '0', 'Other[c] Goals': '0', 'Total Apps': nan, 'Total Goals': nan, 'Ref. Ref.': '\u2014'}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "1. FC N\u00fcrnberg (loan)",
+      "league_apps": 12,
+      "league_goals": 1,
+      "raw": "{'Club Club': '1. FC N\u00fcrnberg (loan)', 'Season Season': '1995\u201396', 'League Division': '2. Bundesliga', 'League Apps': 12.0, 'League Goals': 1.0, 'Cup[a] Apps': '0', 'Cup[a] Goals': '0', 'Continental[b] Apps': '\u2014', 'Continental[b] Goals': '\u2014', 'Other[c] Apps': '\u2014', 'Other[c] Goals': '\u2014', 'Total Apps': 12.0, 'Total Goals': 1.0, 'Ref. Ref.': '[27]'}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Roma",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '2005\u201306', 'League Division': 'Serie A', 'League Apps': 21.0, 'League Goals': 0.0, 'Cup[a] Apps': '3', 'Cup[a] Goals': '0', 'Continental[b] Apps': '7', 'Continental[b] Goals': '1', 'Other[c] Apps': '\u2014', 'Other[c] Goals': '\u2014', 'Total Apps': 31.0, 'Total Goals': 1.0, 'Ref. Ref.': '[27]'}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Livorno (loan)",
+      "league_apps": 18,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Livorno (loan)', 'Season Season': '2006\u201307', 'League Division': 'Serie A', 'League Apps': 18.0, 'League Goals': 0.0, 'Cup[a] Apps': '0', 'Cup[a] Goals': '0', 'Continental[b] Apps': '8', 'Continental[b] Goals': '0', 'Other[c] Apps': '\u2014', 'Other[c] Goals': '\u2014', 'Total Apps': 26.0, 'Total Goals': 0.0, 'Ref. Ref.': '[27]'}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Ajax (loan)",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax (loan)', 'Season Season': '2007\u201308', 'League Division': 'Eredivisie', 'League Apps': 2.0, 'League Goals': 0.0, 'Cup[a] Apps': '0', 'Cup[a] Goals': '0', 'Continental[b] Apps': '0', 'Continental[b] Goals': '0', 'Other[c] Apps': '\u2014', 'Other[c] Goals': '\u2014', 'Total Apps': 2.0, 'Total Goals': 0.0, 'Ref. Ref.': '[27]'}"
+    },
+    {
+      "season": "2009",
+      "club": "Asante Kotoko",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Asante Kotoko', 'Season Season': '2009', 'League Division': 'Ghana Premier League', 'League Apps': nan, 'League Goals': nan, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental[b] Apps': nan, 'Continental[b] Goals': nan, 'Other[c] Apps': nan, 'Other[c] Goals': nan, 'Total Apps': nan, 'Total Goals': nan, 'Ref. Ref.': nan}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 229,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 229.0, 'League Goals': 8.0, 'Cup[a] Apps': '30', 'Cup[a] Goals': '1', 'Continental[b] Apps': '89', 'Continental[b] Goals': '2', 'Other[c] Apps': '5', 'Other[c] Goals': '0', 'Total Apps': 353.0, 'Total Goals': 11.0, 'Ref. Ref.': '\u2014'}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Samuel Kuffour - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ff6c2a40-9ec7-45cf-b88b-d4ac5ce777d7\",",
+  "season_id": "2001",
+  "award_year": 2001
+}

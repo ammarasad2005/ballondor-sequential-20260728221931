@@ -1,0 +1,182 @@
+{
+  "player_name_raw": "Jean-Marie Pfaff",
+  "fetch_status": "ok",
+  "wikipedia_title": "Jean-Marie_Pfaff",
+  "url": "https://en.wikipedia.org/wiki/Jean-Marie_Pfaff",
+  "position": "Goalkeeper",
+  "birth_year": 1953,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1971\u201372",
+      "club": "Beveren",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1971\u201372', 'League Division': 'First Division', 'League Apps': 4, 'League Goals': 0, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Beveren",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1972\u201373', 'League Division': 'Second Division', 'League Apps': 27, 'League Goals': 0, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 0}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Beveren",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1973\u201374', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 0, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Beveren",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1974\u201375', 'League Division': 'First Division', 'League Apps': 36, 'League Goals': 0, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 0}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Beveren",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1975\u201376', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 0, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Beveren",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1976\u201377', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 0, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 0}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Beveren",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1977\u201378', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 0, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 0}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Beveren",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1978\u201379', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 0, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '8[b]', 'Europe Goals': '0', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Beveren",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1979\u201380', 'League Division': 'First Division', 'League Apps': 22, 'League Goals': 0, 'National cup Apps': '8', 'National cup Goals': '0', 'League cup Apps': '1', 'League cup Goals': '0', 'Europe Apps': '2[c]', 'Europe Goals': '0', 'Total Apps': 33, 'Total Goals': 0}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Beveren",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1980\u201381', 'League Division': 'First Division', 'League Apps': 25, 'League Goals': 0, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '1', 'League cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 0}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Beveren",
+      "league_apps": 23,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1981\u201382', 'League Division': 'First Division', 'League Apps': 23, 'League Goals': 0, 'National cup Apps': '6', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '4[d]', 'Europe Goals': '0', 'Total Apps': 33, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Beveren",
+      "league_apps": 303,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 303, 'League Goals': 0, 'National cup Apps': '33', 'National cup Goals': '0', 'League cup Apps': '2', 'League cup Goals': '0', 'Europe Apps': '14', 'Europe Goals': '0', 'Total Apps': 352, 'Total Goals': 0}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Bayern Munich",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1982\u201383', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 0, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '4[e]', 'Europe Goals': '0', 'Total Apps': 33, 'Total Goals': 0}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1983\u201384', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 0, 'National cup Apps': '8', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '4[d]', 'Europe Goals': '0', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Bayern Munich",
+      "league_apps": 14,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1984\u201385', 'League Division': 'Bundesliga', 'League Apps': 14, 'League Goals': 0, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '6[f]', 'Europe Goals': '0', 'Total Apps': 24, 'Total Goals': 0}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Bayern Munich",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1985\u201386', 'League Division': 'Bundesliga', 'League Apps': 24, 'League Goals': 0, 'National cup Apps': '5', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '5[c]', 'Europe Goals': '0', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1986\u201387', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '9[c]', 'Europe Goals': '0', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Bayern Munich",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1987\u201388', 'League Division': 'Bundesliga', 'League Apps': 25, 'League Goals': 0, 'National cup Apps': '5', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '5[c]', 'Europe Goals': '0', 'Total Apps': 35, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 156,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 156, 'League Goals': 0, 'National cup Apps': '26', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '33', 'Europe Goals': '0', 'Total Apps': 215, 'Total Goals': 0}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Lierse",
+      "league_apps": 23,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': '1988\u201389', 'League Division': 'First Division', 'League Apps': 23, 'League Goals': 0, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '2', 'Europe Goals': '0', 'Total Apps': 25, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Lierse",
+      "league_apps": 23,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 23, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Total Apps': 25, 'Total Goals': 0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Trabzonspor",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Trabzonspor', 'Season Season': '1989\u201390', 'League Division': 'S\u00fcper Lig', 'League Apps': 25, 'League Goals': 0, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '4', 'Europe Goals': '0', 'Total Apps': 33, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Trabzonspor",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Trabzonspor', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 25, 'League Goals': 0, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '4', 'Europe Goals': '0', 'Total Apps': 33, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 507,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 507, 'League Goals': 0, 'National cup Apps': '63', 'National cup Goals': '0', 'League cup Apps': '2', 'League cup Goals': '0', 'Europe Apps': '53', 'Europe Goals': '0', 'Total Apps': 625, 'Total Goals': 0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jean-Marie Pfaff - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"61dce077-b839-4ef5-91d0-deed7d6b7f89",
+  "season_id": "1987",
+  "award_year": 1987
+}

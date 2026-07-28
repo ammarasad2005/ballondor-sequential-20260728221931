@@ -1,0 +1,173 @@
+{
+  "player_name_raw": "Nemanja Vidi\u0107",
+  "fetch_status": "ok",
+  "wikipedia_title": "Nemanja_Vidi\u0107",
+  "url": "https://en.wikipedia.org/wiki/Nemanja_Vidi\u0107",
+  "position": "Centre-back",
+  "birth_year": 1981,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2000\u201301",
+      "club": "Red Star Belgrade",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Red Star Belgrade', 'Season Season': '2000\u201301', 'League Division': 'First League of FR Yugoslavia', 'League Apps': 0, 'League Goals': 0, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[nb 1] Apps': '\u2014', 'Other[nb 1] Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Red Star Belgrade",
+      "league_apps": 22,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Red Star Belgrade', 'Season Season': '2001\u201302', 'League Division': 'First League of FR Yugoslavia', 'League Apps': 22, 'League Goals': 2, 'National Cup Apps': 5, 'National Cup Goals': 0, 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '2', 'Europe Goals': '0', 'Other[nb 1] Apps': '\u2014', 'Other[nb 1] Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 2}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Red Star Belgrade",
+      "league_apps": 25,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Red Star Belgrade', 'Season Season': '2002\u201303', 'League Division': 'First League of Serbia and Montenegro', 'League Apps': 25, 'League Goals': 5, 'National Cup Apps': 4, 'National Cup Goals': 1, 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '6', 'Europe Goals': '0', 'Other[nb 1] Apps': '\u2014', 'Other[nb 1] Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 6}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Red Star Belgrade",
+      "league_apps": 20,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Red Star Belgrade', 'Season Season': '2003\u201304', 'League Division': 'First League of Serbia and Montenegro', 'League Apps': 20, 'League Goals': 5, 'National Cup Apps': 5, 'National Cup Goals': 0, 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '6', 'Europe Goals': '3', 'Other[nb 1] Apps': '\u2014', 'Other[nb 1] Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Red Star Belgrade",
+      "league_apps": 67,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Red Star Belgrade', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 67, 'League Goals': 12, 'National Cup Apps': 14, 'National Cup Goals': 1, 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '14', 'Europe Goals': '3', 'Other[nb 1] Apps': '\u2014', 'Other[nb 1] Goals': '\u2014', 'Total Apps': 95, 'Total Goals': 16}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Spartak Subotica (loan)",
+      "league_apps": 27,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Spartak Subotica (loan)', 'Season Season': '2000\u201301', 'League Division': 'Second League of FR Yugoslavia', 'League Apps': 27, 'League Goals': 6, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[nb 1] Apps': '\u2014', 'Other[nb 1] Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 6}"
+    },
+    {
+      "season": "2004",
+      "club": "Spartak Moscow",
+      "league_apps": 12,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Spartak Moscow', 'Season Season': '2004', 'League Division': 'Russian Premier League', 'League Apps': 12, 'League Goals': 2, 'National Cup Apps': 1, 'National Cup Goals': 0, 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[nb 1] Apps': '\u2014', 'Other[nb 1] Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 2}"
+    },
+    {
+      "season": "2005",
+      "club": "Spartak Moscow",
+      "league_apps": 27,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Spartak Moscow', 'Season Season': '2005', 'League Division': 'Russian Premier League', 'League Apps': 27, 'League Goals': 2, 'National Cup Apps': 1, 'National Cup Goals': 0, 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[nb 1] Apps': '\u2014', 'Other[nb 1] Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Spartak Moscow",
+      "league_apps": 39,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Spartak Moscow', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 39, 'League Goals': 4, 'National Cup Apps': 2, 'National Cup Goals': 0, 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[nb 1] Apps': '\u2014', 'Other[nb 1] Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 4}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Manchester United",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2005\u201306', 'League Division': 'Premier League', 'League Apps': 11, 'League Goals': 0, 'National Cup Apps': 2, 'National Cup Goals': 0, 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[nb 1] Apps': '0', 'Other[nb 1] Goals': '0', 'Total Apps': 15, 'Total Goals': 0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Manchester United",
+      "league_apps": 25,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2006\u201307', 'League Division': 'Premier League', 'League Apps': 25, 'League Goals': 3, 'National Cup Apps': 5, 'National Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '8', 'Europe Goals': '1', 'Other[nb 1] Apps': '0', 'Other[nb 1] Goals': '0', 'Total Apps': 38, 'Total Goals': 4}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Manchester United",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2007\u201308', 'League Division': 'Premier League', 'League Apps': 32, 'League Goals': 1, 'National Cup Apps': 3, 'National Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '9', 'Europe Goals': '0', 'Other[nb 1] Apps': '1', 'Other[nb 1] Goals': '0', 'Total Apps': 45, 'Total Goals': 1}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Manchester United",
+      "league_apps": 34,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2008\u201309', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 4, 'National Cup Apps': 4, 'National Cup Goals': 0, 'League Cup Apps': '4', 'League Cup Goals': '0', 'Europe Apps': '9', 'Europe Goals': '1', 'Other[nb 1] Apps': '4', 'Other[nb 1] Goals': '2', 'Total Apps': 55, 'Total Goals': 7}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Manchester United",
+      "league_apps": 24,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2009\u201310', 'League Division': 'Premier League', 'League Apps': 24, 'League Goals': 1, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '7', 'Europe Goals': '0', 'Other[nb 1] Apps': '0', 'Other[nb 1] Goals': '0', 'Total Apps': 33, 'Total Goals': 1}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Manchester United",
+      "league_apps": 35,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2010\u201311', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 5, 'National Cup Apps': 2, 'National Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '9', 'Europe Goals': '0', 'Other[nb 1] Apps': '1', 'Other[nb 1] Goals': '0', 'Total Apps': 47, 'Total Goals': 5}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Manchester United",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2011\u201312', 'League Division': 'Premier League', 'League Apps': 6, 'League Goals': 0, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Other[nb 1] Apps': '1', 'Other[nb 1] Goals': '0', 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Manchester United",
+      "league_apps": 22,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2012\u201313', 'League Division': 'Premier League', 'League Apps': 22, 'League Goals': 1, 'National Cup Apps': 2, 'National Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Other[nb 1] Apps': '\u2014', 'Other[nb 1] Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 1}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Manchester United",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2013\u201314', 'League Division': 'Premier League', 'League Apps': 25, 'League Goals': 0, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': '2', 'League Cup Goals': '1', 'Europe Apps': '6', 'Europe Goals': '1', 'Other[nb 1] Apps': '1', 'Other[nb 1] Goals': '0', 'Total Apps': 34, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester United",
+      "league_apps": 211,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 211, 'League Goals': 15, 'National Cup Apps': 18, 'National Cup Goals': 0, 'League Cup Apps': '11', 'League Cup Goals': '1', 'Europe Apps': '52', 'Europe Goals': '3', 'Other[nb 1] Apps': '8', 'Other[nb 1] Goals': '2', 'Total Apps': 300, 'Total Goals': 21}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Inter Milan",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2014\u201315', 'League Division': 'Serie A', 'League Apps': 23, 'League Goals': 1, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '5', 'Europe Goals': '0', 'Other[nb 1] Apps': '\u2014', 'Other[nb 1] Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 1}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Inter Milan",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2015\u201316', 'League Division': 'Serie A', 'League Apps': 0, 'League Goals': 0, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[nb 1] Apps': '\u2014', 'Other[nb 1] Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 23, 'League Goals': 1, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '5', 'Europe Goals': '0', 'Other[nb 1] Apps': '\u2014', 'Other[nb 1] Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 367,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 367, 'League Goals': 38, 'National Cup Apps': 34, 'National Cup Goals': 1, 'League Cup Apps': '11', 'League Cup Goals': '1', 'Europe Apps': '71', 'Europe Goals': '6', 'Other[nb 1] Apps': '8', 'Other[nb 1] Goals': '2', 'Total Apps': 491, 'Total Goals': 48}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Nemanja Vidi\u0107 - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"68a81f56-0702-4883-9b90-f194a3799a8d\",\""
+}

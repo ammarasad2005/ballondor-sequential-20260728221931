@@ -1,0 +1,236 @@
+{
+  "player_name_raw": "Gunnar Gren",
+  "fetch_status": "ok",
+  "wikipedia_title": "Gunnar_Gren",
+  "url": "https://en.wikipedia.org/wiki/Gunnar_Gren",
+  "position": "Forward attacking midfielder",
+  "birth_year": 1920,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1936\u201337",
+      "club": "G\u00e5rda BK",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'G\u00e5rda BK', 'Season Season': '1936\u201337', 'League Division': 'Allsvenskan', 'League Apps': 1.0, 'League Goals': 0.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1937\u201338",
+      "club": "G\u00e5rda BK",
+      "league_apps": 22,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'G\u00e5rda BK', 'Season Season': '1937\u201338', 'League Division': 'Allsvenskan', 'League Apps': 22.0, 'League Goals': 4.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1938\u201339",
+      "club": "G\u00e5rda BK",
+      "league_apps": 22,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'G\u00e5rda BK', 'Season Season': '1938\u201339', 'League Division': 'Allsvenskan', 'League Apps': 22.0, 'League Goals': 8.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1939\u201340",
+      "club": "G\u00e5rda BK",
+      "league_apps": 9,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'G\u00e5rda BK', 'Season Season': '1939\u201340', 'League Division': 'Allsvenskan', 'League Apps': 9.0, 'League Goals': 4.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "G\u00e5rda BK",
+      "league_apps": 54,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'G\u00e5rda BK', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 54.0, 'League Goals': 16.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1940\u201341",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg[15]', 'Season Season': '1940\u201341', 'League Division': 'Allsvenskan', 'League Apps': 0.0, 'League Goals': 0.0, 'Cup[a] Apps': 0.0, 'Cup[a] Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 0.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "1941\u201342",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 22,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg[15]', 'Season Season': '1941\u201342', 'League Division': 'Allsvenskan', 'League Apps': 22.0, 'League Goals': 10.0, 'Cup[a] Apps': 2.0, 'Cup[a] Goals': 1.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 24.0, 'Total Goals': 11.0}"
+    },
+    {
+      "season": "1942\u201343",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 22,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg[15]', 'Season Season': '1942\u201343', 'League Division': 'Allsvenskan', 'League Apps': 22.0, 'League Goals': 9.0, 'Cup[a] Apps': 1.0, 'Cup[a] Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 23.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "1943\u201344",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 21,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg[15]', 'Season Season': '1943\u201344', 'League Division': 'Allsvenskan', 'League Apps': 21.0, 'League Goals': 11.0, 'Cup[a] Apps': 0.0, 'Cup[a] Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 21.0, 'Total Goals': 11.0}"
+    },
+    {
+      "season": "1944\u201345",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 16,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg[15]', 'Season Season': '1944\u201345', 'League Division': 'Allsvenskan', 'League Apps': 16.0, 'League Goals': 8.0, 'Cup[a] Apps': 2.0, 'Cup[a] Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 18.0, 'Total Goals': 8.0}"
+    },
+    {
+      "season": "1945\u201346",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 19,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg[15]', 'Season Season': '1945\u201346', 'League Division': 'Allsvenskan', 'League Apps': 19.0, 'League Goals': 13.0, 'Cup[a] Apps': 3.0, 'Cup[a] Goals': 3.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 22.0, 'Total Goals': 16.0}"
+    },
+    {
+      "season": "1946\u201347",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 20,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg[15]', 'Season Season': '1946\u201347', 'League Division': 'Allsvenskan', 'League Apps': 20.0, 'League Goals': 18.0, 'Cup[a] Apps': 1.0, 'Cup[a] Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 21.0, 'Total Goals': 18.0}"
+    },
+    {
+      "season": "1947\u201348",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 22,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg[15]', 'Season Season': '1947\u201348', 'League Division': 'Allsvenskan', 'League Apps': 22.0, 'League Goals': 8.0, 'Cup[a] Apps': 0.0, 'Cup[a] Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 22.0, 'Total Goals': 8.0}"
+    },
+    {
+      "season": "1948\u201349",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 22,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg[15]', 'Season Season': '1948\u201349', 'League Division': 'Allsvenskan', 'League Apps': 22.0, 'League Goals': 1.0, 'Cup[a] Apps': 0.0, 'Cup[a] Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 22.0, 'Total Goals': 1.0}"
+    },
+    {
+      "season": "Total",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 164,
+      "league_goals": 78,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg[15]', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 164.0, 'League Goals': 78.0, 'Cup[a] Apps': 9.0, 'Cup[a] Goals': 4.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 173.0, 'Total Goals': 82.0}"
+    },
+    {
+      "season": "1949\u201350",
+      "club": "AC Milan",
+      "league_apps": 37,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1949\u201350', 'League Division': 'Serie A', 'League Apps': 37.0, 'League Goals': 18.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other[b] Apps': nan, 'Other[b] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1950\u201351",
+      "club": "AC Milan",
+      "league_apps": 36,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1950\u201351', 'League Division': 'Serie A', 'League Apps': 36.0, 'League Goals': 9.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other[b] Apps': '4', 'Other[b] Goals': '0', 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1951\u201352",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1951\u201352', 'League Division': 'Serie A', 'League Apps': 31.0, 'League Goals': 7.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other[b] Apps': nan, 'Other[b] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1952\u201353",
+      "club": "AC Milan",
+      "league_apps": 29,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1952\u201353', 'League Division': 'Serie A', 'League Apps': 29.0, 'League Goals': 4.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other[b] Apps': nan, 'Other[b] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 133,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 133.0, 'League Goals': 38.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other[b] Apps': nan, 'Other[b] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1953\u201354",
+      "club": "Fiorentina",
+      "league_apps": 33,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1953\u201354', 'League Division': 'Serie A', 'League Apps': 33.0, 'League Goals': 2.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other[b] Apps': nan, 'Other[b] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1954\u201355",
+      "club": "Fiorentina",
+      "league_apps": 23,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1954\u201355', 'League Division': 'Serie A', 'League Apps': 23.0, 'League Goals': 2.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other[b] Apps': nan, 'Other[b] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Fiorentina",
+      "league_apps": 56,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 56.0, 'League Goals': 4.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other[b] Apps': nan, 'Other[b] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1955\u201356",
+      "club": "Genoa",
+      "league_apps": 32,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Genoa', 'Season Season': '1955\u201356', 'League Division': 'Serie A', 'League Apps': 32.0, 'League Goals': 23.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other[b] Apps': nan, 'Other[b] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1956\u201357",
+      "club": "\u00d6rgryte",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': '\u00d6rgryte', 'Season Season': '1956\u201357', 'League Division': 'Division 2 V\u00e4stra G\u00f6taland', 'League Apps': nan, 'League Goals': nan, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "\u00d6rgryte",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': '\u00d6rgryte', 'Season Season': '1957\u201358', 'League Division': 'Division 2 V\u00e4stra G\u00f6taland', 'League Apps': nan, 'League Goals': nan, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1959",
+      "club": "\u00d6rgryte",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': '\u00d6rgryte', 'Season Season': '1959', 'League Division': 'Allsvenskan', 'League Apps': nan, 'League Goals': nan, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "\u00d6rgryte",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': '\u00d6rgryte', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 4.0, 'League Goals': 0.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other[b] Apps': nan, 'Other[b] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1963",
+      "club": "GAIS",
+      "league_apps": 20,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'GAIS', 'Season Season': '1963', 'League Division': 'Division 2 V\u00e4stra G\u00f6taland', 'League Apps': 20.0, 'League Goals': 2.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1964",
+      "club": "GAIS",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'GAIS', 'Season Season': '1964', 'League Division': 'Allsvenskan', 'League Apps': 2.0, 'League Goals': 0.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other[b] Apps': nan, 'Other[b] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1976",
+      "club": "Oddevold",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Oddevold[16]', 'Season Season': '1976', 'League Division': 'Division 4 Bohusl\u00e4n-Dalsland', 'League Apps': 1.0, 'League Goals': 0.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Career totals",
+      "club": "Career totals",
+      "league_apps": 466,
+      "league_goals": 142,
+      "raw": "{'Club Club': 'Career totals', 'Season Season': 'Career totals', 'League Division': 'Career totals', 'League Apps': 466.0, 'League Goals': 142.0, 'Cup[a] Apps': nan, 'Cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other[b] Apps': nan, 'Other[b] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Gunnar Gren - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"21447021-7891-4c1c-af16-884050d09550\",\"wg"
+}

@@ -1,0 +1,119 @@
+{
+  "player_name_raw": "Vladimir Muntyan",
+  "fetch_status": "ok",
+  "wikipedia_title": "Vladimir_Muntyan",
+  "url": "https://en.wikipedia.org/wiki/Vladimir_Muntyan",
+  "position": "Midfielder",
+  "birth_year": 1946,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1965",
+      "club": "Dynamo Kyiv",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1965', 'League Apps': 3, 'League Goals': 0, 'Cup Apps': 4, 'Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "1966",
+      "club": "Dynamo Kyiv",
+      "league_apps": 26,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1966', 'League Apps': 26, 'League Goals': 8, 'Cup Apps': 2, 'Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 28, 'Total Goals': 8}"
+    },
+    {
+      "season": "1967",
+      "club": "Dynamo Kyiv",
+      "league_apps": 19,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1967', 'League Apps': 19, 'League Goals': 4, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 20, 'Total Goals': 4}"
+    },
+    {
+      "season": "1968",
+      "club": "Dynamo Kyiv",
+      "league_apps": 36,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1968', 'League Apps': 36, 'League Goals': 5, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 36, 'Total Goals': 5}"
+    },
+    {
+      "season": "1969",
+      "club": "Dynamo Kyiv",
+      "league_apps": 27,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1969', 'League Apps': 27, 'League Goals': 6, 'Cup Apps': 3, 'Cup Goals': 2, 'Europe Apps': 4, 'Europe Goals': 2, 'Total Apps': 34, 'Total Goals': 10}"
+    },
+    {
+      "season": "1970",
+      "club": "Dynamo Kyiv",
+      "league_apps": 25,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1970', 'League Apps': 25, 'League Goals': 3, 'Cup Apps': 2, 'Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 27, 'Total Goals': 3}"
+    },
+    {
+      "season": "1971",
+      "club": "Dynamo Kyiv",
+      "league_apps": 18,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1971', 'League Apps': 18, 'League Goals': 6, 'Cup Apps': 2, 'Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 20, 'Total Goals': 6}"
+    },
+    {
+      "season": "1972",
+      "club": "Dynamo Kyiv",
+      "league_apps": 30,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1972', 'League Apps': 30, 'League Goals': 9, 'Cup Apps': 3, 'Cup Goals': 1, 'Europe Apps': 6, 'Europe Goals': 1, 'Total Apps': 39, 'Total Goals': 11}"
+    },
+    {
+      "season": "1973",
+      "club": "Dynamo Kyiv",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1973', 'League Apps': 28, 'League Goals': 6, 'Cup Apps': 9, 'Cup Goals': 2, 'Europe Apps': 5, 'Europe Goals': 0, 'Total Apps': 42, 'Total Goals': 8}"
+    },
+    {
+      "season": "1974",
+      "club": "Dynamo Kyiv",
+      "league_apps": 22,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1974', 'League Apps': 22, 'League Goals': 2, 'Cup Apps': 4, 'Cup Goals': 2, 'Europe Apps': 8, 'Europe Goals': 2, 'Total Apps': 34, 'Total Goals': 6}"
+    },
+    {
+      "season": "1975",
+      "club": "Dynamo Kyiv",
+      "league_apps": 29,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1975', 'League Apps': 29, 'League Goals': 2, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 4, 'Europe Goals': 0, 'Total Apps': 33, 'Total Goals': 2}"
+    },
+    {
+      "season": "1976 (s)",
+      "club": "Dynamo Kyiv",
+      "league_apps": 10,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1976 (s)', 'League Apps': 10, 'League Goals': 3, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 11, 'Total Goals': 3}"
+    },
+    {
+      "season": "1976 (a)",
+      "club": "Dynamo Kyiv",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1976 (a)', 'League Apps': 13, 'League Goals': 1, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 8, 'Europe Goals': 1, 'Total Apps': 21, 'Total Goals': 2}"
+    },
+    {
+      "season": "1977",
+      "club": "Dynamo Kyiv",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1977', 'League Apps': 16, 'League Goals': 2, 'Cup Apps': 3, 'Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 19, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 302,
+      "league_goals": 57,
+      "raw": "{'Club Club': 'Total', 'Season Season': 'Total', 'League Apps': 302, 'League Goals': 57, 'Cup Apps': 34, 'Cup Goals': 7, 'Europe Apps': 35, 'Europe Goals': 6, 'Total Apps': 371, 'Total Goals': 70}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Volodymyr Muntyan - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"950fd3bc-4e84-4119-a6cb-127207aeb17",
+  "season_id": "1969",
+  "award_year": 1969
+}

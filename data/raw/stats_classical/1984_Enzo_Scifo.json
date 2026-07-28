@@ -1,0 +1,182 @@
+{
+  "player_name_raw": "Enzo Scifo",
+  "fetch_status": "ok",
+  "wikipedia_title": "Enzo_Scifo",
+  "url": "https://en.wikipedia.org/wiki/Enzo_Scifo",
+  "position": "Attacking midfielder",
+  "birth_year": 1966,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1983\u201384",
+      "club": "Anderlecht",
+      "league_apps": 25,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1983\u201384', 'League Division': 'Belgian League', 'League Apps': 25, 'League Goals': 5, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '\u2013', 'League Cup[b] Goals': '\u2013', 'Europe Apps': '8[c]', 'Europe Goals': '1', 'Total Apps': 35, 'Total Goals': 6}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Anderlecht",
+      "league_apps": 30,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1984\u201385', 'League Division': 'Belgian League', 'League Apps': 30, 'League Goals': 14, 'National cup[a] Apps': 6, 'National cup[a] Goals': 2, 'League Cup[b] Apps': '\u2013', 'League Cup[b] Goals': '\u2013', 'Europe Apps': '4[c]', 'Europe Goals': '1', 'Total Apps': 40, 'Total Goals': 17}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Anderlecht",
+      "league_apps": 31,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1985\u201386', 'League Division': 'Belgian League', 'League Apps': 31, 'League Goals': 5, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '\u2013', 'League Cup[b] Goals': '\u2013', 'Europe Apps': '5[d]', 'Europe Goals': '2', 'Total Apps': 38, 'Total Goals': 7}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Anderlecht",
+      "league_apps": 33,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1986\u201387', 'League Division': 'Belgian League', 'League Apps': 33, 'League Goals': 8, 'National cup[a] Apps': 6, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '\u2013', 'League Cup[b] Goals': '\u2013', 'Europe Apps': '5[d]', 'Europe Goals': '1', 'Total Apps': 44, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "Anderlecht",
+      "league_apps": 119,
+      "league_goals": 32,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 119, 'League Goals': 32, 'National cup[a] Apps': 16, 'National cup[a] Goals': 2, 'League Cup[b] Apps': '\u2013', 'League Cup[b] Goals': '\u2013', 'Europe Apps': '22', 'Europe Goals': '5', 'Total Apps': 157, 'Total Goals': 39}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Inter Milan",
+      "league_apps": 28,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Inter Milan[24]', 'Season Season': '1987\u201388', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 4, 'National cup[a] Apps': 10, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '\u2013', 'League Cup[b] Goals': '\u2013', 'Europe Apps': '6[c]', 'Europe Goals': '1', 'Total Apps': 44, 'Total Goals': 5}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Girondins Bordeaux",
+      "league_apps": 24,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Girondins Bordeaux', 'Season Season': '1988\u201389', 'League Division': 'Division 1', 'League Apps': 24, 'League Goals': 7, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '\u2013', 'League Cup[b] Goals': '\u2013', 'Europe Apps': '6[c]', 'Europe Goals': '1', 'Total Apps': 30, 'Total Goals': 8}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Auxerre",
+      "league_apps": 33,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Auxerre', 'Season Season': '1989\u201390', 'League Division': 'Division 1', 'League Apps': 33, 'League Goals': 11, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '\u2013', 'League Cup[b] Goals': '\u2013', 'Europe Apps': '11[c]', 'Europe Goals': '5', 'Total Apps': 46, 'Total Goals': 16}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Auxerre",
+      "league_apps": 34,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Auxerre', 'Season Season': '1990\u201391', 'League Division': 'Division 1', 'League Apps': 34, 'League Goals': 14, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '0', 'League Cup[b] Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 37, 'Total Goals': 14}"
+    },
+    {
+      "season": "Total",
+      "club": "Auxerre",
+      "league_apps": 67,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Auxerre', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 67, 'League Goals': 25, 'National cup[a] Apps': 5, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '0', 'League Cup[b] Goals': '0', 'Europe Apps': '11', 'Europe Goals': '5', 'Total Apps': 83, 'Total Goals': 30}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Torino",
+      "league_apps": 30,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Torino[25]', 'Season Season': '1991\u201392', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 9, 'National cup[a] Apps': 5, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '\u2013', 'League Cup[b] Goals': '\u2013', 'Europe Apps': '11[c]', 'Europe Goals': '2', 'Total Apps': 46, 'Total Goals': 11}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Torino",
+      "league_apps": 32,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Torino[25]', 'Season Season': '1992\u201393', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 7, 'National cup[a] Apps': 6, 'National cup[a] Goals': 2, 'League Cup[b] Apps': '\u2013', 'League Cup[b] Goals': '\u2013', 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Total Apps': 42, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "Torino",
+      "league_apps": 62,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Torino[25]', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 62, 'League Goals': 16, 'National cup[a] Apps': 11, 'National cup[a] Goals': 2, 'League Cup[b] Apps': '\u2013', 'League Cup[b] Goals': '\u2013', 'Europe Apps': '15', 'Europe Goals': '2', 'Total Apps': 88, 'Total Goals': 20}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Monaco",
+      "league_apps": 31,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': '1993\u201394', 'League Division': 'Division 1', 'League Apps': 31, 'League Goals': 6, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '0', 'League Cup[b] Goals': '0', 'Europe Apps': '11[e]', 'Europe Goals': '2', 'Total Apps': 44, 'Total Goals': 8}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Monaco",
+      "league_apps": 11,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': '1994\u201395', 'League Division': 'Division 1', 'League Apps': 11, 'League Goals': 2, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '2', 'League Cup[b] Goals': '1', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 13, 'Total Goals': 3}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Monaco",
+      "league_apps": 34,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': '1995\u201396', 'League Division': 'Division 1', 'League Apps': 34, 'League Goals': 7, 'National cup[a] Apps': 3, 'National cup[a] Goals': 3, 'League Cup[b] Apps': '3', 'League Cup[b] Goals': '0', 'Europe Apps': '2[c]', 'Europe Goals': '0', 'Total Apps': 42, 'Total Goals': 10}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Monaco",
+      "league_apps": 15,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': '1996\u201397', 'League Division': 'Division 1', 'League Apps': 15, 'League Goals': 5, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '2', 'League Cup[b] Goals': '0', 'Europe Apps': '2[c]', 'Europe Goals': '0', 'Total Apps': 20, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Monaco",
+      "league_apps": 91,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 91, 'League Goals': 20, 'National cup[a] Apps': 6, 'National cup[a] Goals': 3, 'League Cup[b] Apps': '7', 'League Cup[b] Goals': '1', 'Europe Apps': '15', 'Europe Goals': '2', 'Total Apps': 119, 'Total Goals': 26}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Anderlecht",
+      "league_apps": 30,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1997\u201398', 'League Division': 'Belgian League', 'League Apps': 30, 'League Goals': 4, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'League Cup[b] Apps': '\u2013', 'League Cup[b] Goals': '\u2013', 'Europe Apps': '7[c]', 'Europe Goals': '2', 'Total Apps': 39, 'Total Goals': 7}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Anderlecht",
+      "league_apps": 27,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1998\u201399', 'League Division': 'Belgian League', 'League Apps': 27, 'League Goals': 8, 'National cup[a] Apps': 1, 'National cup[a] Goals': 1, 'League Cup[b] Apps': '2', 'League Cup[b] Goals': '0', 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Total Apps': 34, 'Total Goals': 9}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Anderlecht",
+      "league_apps": 17,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1999\u20132000', 'League Division': 'Belgian League', 'League Apps': 17, 'League Goals': 2, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '2', 'League Cup[b] Goals': '1', 'Europe Apps': '1[c]', 'Europe Goals': '0', 'Total Apps': 21, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Anderlecht",
+      "league_apps": 74,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 74, 'League Goals': 14, 'National cup[a] Apps': 4, 'National cup[a] Goals': 2, 'League Cup[b] Apps': '4', 'League Cup[b] Goals': '1', 'Europe Apps': '12', 'Europe Goals': '2', 'Total Apps': 94, 'Total Goals': 19}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Charleroi",
+      "league_apps": 12,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Charleroi', 'Season Season': '2000\u201301', 'League Division': 'Belgian League', 'League Apps': 12, 'League Goals': 3, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League Cup[b] Apps': '\u2013', 'League Cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 13, 'Total Goals': 3}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 477,
+      "league_goals": 121,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 477, 'League Goals': 121, 'National cup[a] Apps': 53, 'National cup[a] Goals': 9, 'League Cup[b] Apps': '11', 'League Cup[b] Goals': '2', 'Europe Apps': '87', 'Europe Goals': '18', 'Total Apps': 628, 'Total Goals': 150}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Enzo Scifo - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"adc68361-2768-4359-8a75-4afda1c6a90e\",\"wgC",
+  "season_id": "1984",
+  "award_year": 1984
+}

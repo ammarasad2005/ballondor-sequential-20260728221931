@@ -1,0 +1,133 @@
+{
+  "player_name_raw": "Giovanni Trapattoni",
+  "fetch_status": "ok",
+  "wikipedia_title": "Giovanni_Trapattoni",
+  "url": "https://en.wikipedia.org/wiki/Giovanni_Trapattoni",
+  "position": "Centre back defensive midfielder",
+  "birth_year": 1939,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1957\u201358",
+      "club": "1957\u201358",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club performance Season Italy': '1957\u201358', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '\u2014', 'League Goals League': '\u2014', 'Cup Apps Coppa Italia': '2', 'Cup Goals Coppa Italia': '0', 'Continental Apps Europe': '\u2014', 'Continental Goals Europe': '\u2014', 'Total Apps Total': '2', 'Total Goals Total': '0'}"
+    },
+    {
+      "season": "1958\u201359",
+      "club": "1958\u201359",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club performance Season Italy': '1958\u201359', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '\u2014', 'League Goals League': '\u2014', 'Cup Apps Coppa Italia': '\u2014', 'Cup Goals Coppa Italia': '\u2014', 'Continental Apps Europe': '\u2014', 'Continental Goals Europe': '\u2014', 'Total Apps Total': '\u2014', 'Total Goals Total': '\u2014'}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "1959\u201360",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club performance Season Italy': '1959\u201360', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '2', 'League Goals League': '0', 'Cup Apps Coppa Italia': '1', 'Cup Goals Coppa Italia': '0', 'Continental Apps Europe': '\u2014', 'Continental Goals Europe': '\u2014', 'Total Apps Total': '3', 'Total Goals Total': '0'}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "1960\u201361",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club performance Season Italy': '1960\u201361', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '30', 'League Goals League': '1', 'Cup Apps Coppa Italia': '1', 'Cup Goals Coppa Italia': '0', 'Continental Apps Europe': '\u2014', 'Continental Goals Europe': '\u2014', 'Total Apps Total': '31', 'Total Goals Total': '1'}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "1961\u201362",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club performance Season Italy': '1961\u201362', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '32', 'League Goals League': '0', 'Cup Apps Coppa Italia': '\u2014', 'Cup Goals Coppa Italia': '\u2014', 'Continental Apps Europe': '1', 'Continental Goals Europe': '0', 'Total Apps Total': '33', 'Total Goals Total': '0'}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "1962\u201363",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club performance Season Italy': '1962\u201363', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '30', 'League Goals League': '0', 'Cup Apps Coppa Italia': '2', 'Cup Goals Coppa Italia': '0', 'Continental Apps Europe': '8', 'Continental Goals Europe': '0', 'Total Apps Total': '40', 'Total Goals Total': '0'}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "1963\u201364",
+      "league_apps": 28,
+      "league_goals": 1,
+      "raw": "{'Club performance Season Italy': '1963\u201364', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '28', 'League Goals League': '1', 'Cup Apps Coppa Italia': '\u2014', 'Cup Goals Coppa Italia': '\u2014', 'Continental Apps Europe': '2', 'Continental Goals Europe': '0', 'Total Apps Total': '31', 'Total Goals Total': '1'}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "1964\u201365",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club performance Season Italy': '1964\u201365', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '30', 'League Goals League': '0', 'Cup Apps Coppa Italia': '1', 'Cup Goals Coppa Italia': '0', 'Continental Apps Europe': '1', 'Continental Goals Europe': '0', 'Total Apps Total': '32', 'Total Goals Total': '0'}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "1965\u201366",
+      "league_apps": 18,
+      "league_goals": 1,
+      "raw": "{'Club performance Season Italy': '1965\u201366', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '18', 'League Goals League': '1', 'Cup Apps Coppa Italia': '1', 'Cup Goals Coppa Italia': '0', 'Continental Apps Europe': '2', 'Continental Goals Europe': '0', 'Total Apps Total': '21', 'Total Goals Total': '1'}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "1966\u201367",
+      "league_apps": 23,
+      "league_goals": 0,
+      "raw": "{'Club performance Season Italy': '1966\u201367', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '23', 'League Goals League': '0', 'Cup Apps Coppa Italia': '5', 'Cup Goals Coppa Italia': '0', 'Continental Apps Europe': '\u2014', 'Continental Goals Europe': '\u2014', 'Total Apps Total': '28', 'Total Goals Total': '0'}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "1967\u201368",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club performance Season Italy': '1967\u201368', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '24', 'League Goals League': '0', 'Cup Apps Coppa Italia': '9', 'Cup Goals Coppa Italia': '0', 'Continental Apps Europe': '9', 'Continental Goals Europe': '0', 'Total Apps Total': '42', 'Total Goals Total': '0'}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "1968\u201369",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club performance Season Italy': '1968\u201369', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '22', 'League Goals League': '0', 'Cup Apps Coppa Italia': '5', 'Cup Goals Coppa Italia': '0', 'Continental Apps Europe': '5', 'Continental Goals Europe': '0', 'Total Apps Total': '32', 'Total Goals Total': '0'}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "1969\u201370",
+      "league_apps": 20,
+      "league_goals": 0,
+      "raw": "{'Club performance Season Italy': '1969\u201370', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '20', 'League Goals League': '0', 'Cup Apps Coppa Italia': '\u2014', 'Cup Goals Coppa Italia': '\u2014', 'Continental Apps Europe': '2', 'Continental Goals Europe': '0', 'Total Apps Total': '22', 'Total Goals Total': '0'}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "1970\u201371",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club performance Season Italy': '1970\u201371', 'Club performance Club Italy': 'AC Milan', 'Club performance League Italy': 'Serie A', 'League Apps League': '15', 'League Goals League': '0', 'Cup Apps Coppa Italia': '7', 'Cup Goals Coppa Italia': '0', 'Continental Apps Europe': '\u2014', 'Continental Goals Europe': '\u2014', 'Total Apps Total': '22', 'Total Goals Total': '0'}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "1971\u201372",
+      "league_apps": 10,
+      "league_goals": 0,
+      "raw": "{'Club performance Season Italy': '1971\u201372', 'Club performance Club Italy': 'Varese', 'Club performance League Italy': 'Serie A', 'League Apps League': '10', 'League Goals League': '0', 'Cup Apps Coppa Italia': '3', 'Cup Goals Coppa Italia': '0', 'Continental Apps Europe': '\u2014', 'Continental Goals Europe': '\u2014', 'Total Apps Total': '13', 'Total Goals Total': '0'}"
+    },
+    {
+      "season": "Country",
+      "club": "Country",
+      "league_apps": 284,
+      "league_goals": 3,
+      "raw": "{'Club performance Season Italy': 'Country', 'Club performance Club Italy': 'Italy', 'Club performance League Italy': 'Italy', 'League Apps League': '284', 'League Goals League': '3', 'Cup Apps Coppa Italia': '37', 'Cup Goals Coppa Italia': '0', 'Continental Apps Europe': '30', 'Continental Goals Europe': '0', 'Total Apps Total': '351', 'Total Goals Total': '3'}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 284,
+      "league_goals": 3,
+      "raw": "{'Club performance Season Italy': 'Total', 'Club performance Club Italy': 'Total', 'Club performance League Italy': 'Total', 'League Apps League': '284', 'League Goals League': '3', 'Cup Apps Coppa Italia': '37', 'Cup Goals Coppa Italia': '0', 'Continental Apps Europe': '30', 'Continental Goals Europe': '0', 'Total Apps Total': '351', 'Total Goals Total': '3'}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Giovanni Trapattoni - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"1616a0fc-3e46-4e25-8589-c06b42a82",
+  "season_id": "1963",
+  "award_year": 1963
+}

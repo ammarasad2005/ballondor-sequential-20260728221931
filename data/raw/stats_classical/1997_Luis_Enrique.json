@@ -1,0 +1,154 @@
+{
+  "player_name_raw": "Luis Enrique",
+  "fetch_status": "ok",
+  "wikipedia_title": "Luis_Enrique",
+  "url": "https://en.wikipedia.org/wiki/Luis_Enrique",
+  "position": "Midfielder forward",
+  "birth_year": 1970,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1989\u201390",
+      "club": "Sporting Gij\u00f3n B",
+      "league_apps": 27,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Sporting Gij\u00f3n B', 'Season Season': '1989\u201390', 'League Division': 'Segunda Divisi\u00f3n B', 'League Apps': 27, 'League Goals': 5, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 27, 'Total Goals': 5}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Sporting Gij\u00f3n",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sporting Gij\u00f3n', 'Season Season': '1989\u201390', 'League Division': 'La Liga', 'League Apps': 1, 'League Goals': 0, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Sporting Gij\u00f3n",
+      "league_apps": 35,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Sporting Gij\u00f3n', 'Season Season': '1990\u201391', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 15, 'Cup Apps': '9', 'Cup Goals': '3', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 44, 'Total Goals': 18}"
+    },
+    {
+      "season": "Total",
+      "club": "Sporting Gij\u00f3n",
+      "league_apps": 36,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Sporting Gij\u00f3n', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 36, 'League Goals': 15, 'Cup Apps': '9', 'Cup Goals': '3', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 18}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Real Madrid",
+      "league_apps": 29,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1991\u201392', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 4, 'Cup Apps': '6', 'Cup Goals': '1', 'Europe Apps': '6', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 41, 'Total Goals': 5}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Real Madrid",
+      "league_apps": 34,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1992\u201393', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 2, 'Cup Apps': '6', 'Cup Goals': '0', 'Europe Apps': '8', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 48, 'Total Goals': 3}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Real Madrid",
+      "league_apps": 28,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1993\u201394', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 2, 'Cup Apps': '4', 'Cup Goals': '1', 'Europe Apps': '6', 'Europe Goals': '0', 'Other Apps': '2[a]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 3}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Real Madrid",
+      "league_apps": 35,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1994\u201395', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 4, 'Cup Apps': '2', 'Cup Goals': '0', 'Europe Apps': '6', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 43, 'Total Goals': 4}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Real Madrid",
+      "league_apps": 31,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1995\u201396', 'League Division': 'La Liga', 'League Apps': 31, 'League Goals': 3, 'Cup Apps': '0', 'Cup Goals': '0', 'Europe Apps': '8', 'Europe Goals': '0', 'Other Apps': '2[a]', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 157,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 157, 'League Goals': 15, 'Cup Apps': '18', 'Cup Goals': '2', 'Europe Apps': '34', 'Europe Goals': '1', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 213, 'Total Goals': 18}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Barcelona",
+      "league_apps": 35,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1996\u201397', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 17, 'Cup Apps': '7', 'Cup Goals': '1', 'Europe Apps': '7', 'Europe Goals': '0', 'Other Apps': '2[a]', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 18}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Barcelona",
+      "league_apps": 34,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1997\u201398', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 18, 'Cup Apps': '6', 'Cup Goals': '3', 'Europe Apps': '6', 'Europe Goals': '4', 'Other Apps': '1[a]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 25}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Barcelona",
+      "league_apps": 26,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1998\u201399', 'League Division': 'La Liga', 'League Apps': 26, 'League Goals': 11, 'Cup Apps': '3', 'Cup Goals': '0', 'Europe Apps': '3', 'Europe Goals': '1', 'Other Apps': '2[a]', 'Other Goals': '0', 'Total Apps': 34, 'Total Goals': 12}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Barcelona",
+      "league_apps": 19,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1999\u20132000', 'League Division': 'La Liga', 'League Apps': 19, 'League Goals': 3, 'Cup Apps': '5', 'Cup Goals': '3', 'Europe Apps': '7', 'Europe Goals': '6', 'Other Apps': '2[a]', 'Other Goals': '0', 'Total Apps': 33, 'Total Goals': 12}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Barcelona",
+      "league_apps": 28,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2000\u201301', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 9, 'Cup Apps': '4', 'Cup Goals': '1', 'Europe Apps': '9', 'Europe Goals': '6', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 41, 'Total Goals': 16}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Barcelona",
+      "league_apps": 23,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2001\u201302', 'League Division': 'La Liga', 'League Apps': 23, 'League Goals': 4, 'Cup Apps': '0', 'Cup Goals': '0', 'Europe Apps': '15', 'Europe Goals': '6', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 10}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Barcelona",
+      "league_apps": 18,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2002\u201303', 'League Division': 'La Liga', 'League Apps': 18, 'League Goals': 8, 'Cup Apps': '0', 'Cup Goals': '0', 'Europe Apps': '8', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 26, 'Total Goals': 10}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Barcelona",
+      "league_apps": 24,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2003\u201304', 'League Division': 'La Liga', 'League Apps': 24, 'League Goals': 3, 'Cup Apps': '1', 'Cup Goals': '0', 'Europe Apps': '5', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 207,
+      "league_goals": 73,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 207, 'League Goals': 73, 'Cup Apps': '26', 'Cup Goals': '8', 'Europe Apps': '60', 'Europe Goals': '27', 'Other Apps': '7', 'Other Goals': '0', 'Total Apps': 300, 'Total Goals': 108}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 427,
+      "league_goals": 108,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 427, 'League Goals': 108, 'Cup Apps': '53', 'Cup Goals': '13', 'Europe Apps': '94', 'Europe Goals': '28', 'Other Apps': '11', 'Other Goals': '0', 'Total Apps': 585, 'Total Goals': 149}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Luis Enrique - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"8b255096-deb5-4027-a798-977640ab2ea3\",\"w",
+  "season_id": "1997",
+  "award_year": 1997
+}

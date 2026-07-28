@@ -1,0 +1,187 @@
+{
+  "player_name_raw": "El Hadji Diouf",
+  "fetch_status": "ok",
+  "wikipedia_title": "El_Hadji_Diouf",
+  "url": "https://en.wikipedia.org/wiki/El_Hadji_Diouf",
+  "position": "Winger forward",
+  "birth_year": 1981,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1998\u201399",
+      "club": "Sochaux",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sochaux', 'Season Season': '1998\u201399', 'League Division': 'Division 1', 'League Apps': 15, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': 3, 'League cup[b] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 12}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Rennes",
+      "league_apps": 28,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Rennes', 'Season Season': '1999\u20132000', 'League Division': 'Division 1', 'League Apps': 28, 'League Goals': 1, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': 1, 'League cup[b] Goals': 0, 'Continental Apps': '6', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 4}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Lens",
+      "league_apps": 28,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Lens', 'Season Season': '2000\u201301', 'League Division': 'Division 1', 'League Apps': 28, 'League Goals': 8, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': 2, 'League cup[b] Goals': 1, 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 9}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Lens",
+      "league_apps": 26,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Lens', 'Season Season': '2001\u201302', 'League Division': 'Division 1', 'League Apps': 26, 'League Goals': 10, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': 1, 'League cup[b] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Lens",
+      "league_apps": 54,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Lens', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 54, 'League Goals': 18, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': 3, 'League cup[b] Goals': 1, 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 59, 'Total Goals': 19}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Liverpool",
+      "league_apps": 29,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2002\u201303', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 3, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': 5, 'League cup[b] Goals': 3, 'Continental Apps': '9', 'Continental Goals': '0', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 6}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Liverpool",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2003\u201304', 'League Division': 'Premier League', 'League Apps': 26, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': 2, 'League cup[b] Goals': 0, 'Continental Apps': '4[d]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Liverpool",
+      "league_apps": 55,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 55, 'League Goals': 3, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': 7, 'League cup[b] Goals': 3, 'Continental Apps': '13', 'Continental Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 80, 'Total Goals': 6}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Bolton Wanderers",
+      "league_apps": 27,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '2004\u201305', 'League Division': 'Premier League', 'League Apps': 27, 'League Goals': 9, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': 2, 'League cup[b] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 9}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Bolton Wanderers",
+      "league_apps": 20,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '2005\u201306', 'League Division': 'Premier League', 'League Apps': 20, 'League Goals': 3, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': 1, 'League cup[b] Goals': 0, 'Continental Apps': '6[d]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 4}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Bolton Wanderers",
+      "league_apps": 33,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '2006\u201307', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 5, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': 1, 'League cup[b] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 5}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Bolton Wanderers",
+      "league_apps": 34,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '2007\u201308', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 4, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': 1, 'League cup[b] Goals': 0, 'Continental Apps': '6[d]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Bolton Wanderers",
+      "league_apps": 114,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 114, 'League Goals': 21, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': 5, 'League cup[b] Goals': 0, 'Continental Apps': '12', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 136, 'Total Goals': 24}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Sunderland",
+      "league_apps": 14,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sunderland', 'Season Season': '2008\u201309', 'League Division': 'Premier League', 'League Apps': 14, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': 1, 'League cup[b] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 16, 'Total Goals': 0}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Blackburn Rovers",
+      "league_apps": 14,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Blackburn Rovers', 'Season Season': '2008\u201309', 'League Division': 'Premier League', 'League Apps': 14, 'League Goals': 1, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': 0, 'League cup[b] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 14, 'Total Goals': 1}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Blackburn Rovers",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Blackburn Rovers', 'Season Season': '2009\u201310', 'League Division': 'Premier League', 'League Apps': 26, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': 0, 'League cup[b] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 3}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Blackburn Rovers",
+      "league_apps": 20,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Blackburn Rovers', 'Season Season': '2010\u201311', 'League Division': 'Premier League', 'League Apps': 20, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': 0, 'League cup[b] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 21, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Blackburn Rovers",
+      "league_apps": 60,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Blackburn Rovers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 60, 'League Goals': 4, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': 0, 'League cup[b] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 62, 'Total Goals': 4}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Rangers (loan)",
+      "league_apps": 15,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Rangers (loan)', 'Season Season': '2010\u201311', 'League Division': 'Scottish Premier League', 'League Apps': 15, 'League Goals': 1, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': 1, 'League cup[b] Goals': 0, 'Continental Apps': '4[e]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 2}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Doncaster Rovers",
+      "league_apps": 22,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Doncaster Rovers', 'Season Season': '2011\u201312', 'League Division': 'Championship', 'League Apps': 22, 'League Goals': 6, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': 0, 'League cup[b] Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 6}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Leeds United",
+      "league_apps": 36,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '2012\u201313', 'League Division': 'Championship', 'League Apps': 36, 'League Goals': 5, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': 5, 'League cup[b] Goals': 1, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 7}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Leeds United",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '2013\u201314', 'League Division': 'Championship', 'League Apps': 6, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': 1, 'League cup[b] Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Leeds United",
+      "league_apps": 42,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 42, 'League Goals': 5, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': 6, 'League cup[b] Goals': 1, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 52, 'Total Goals': 7}"
+    },
+    {
+      "season": "2015",
+      "club": "Sabah",
+      "league_apps": 3,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Sabah', 'Season Season': '2015', 'League Division': 'Malaysia Premier League', 'League Apps': 3, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': 0, 'League cup[b] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 3}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 422,
+      "league_goals": 62,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 422, 'League Goals': 62, 'National cup[a] Apps': '23', 'National cup[a] Goals': '2', 'League cup[b] Apps': 27, 'League cup[b] Goals': 5, 'Continental Apps': '37', 'Continental Goals': '6', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 510, 'Total Goals': 75}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>El Hadji Diouf - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"a5266a5b-e712-44d5-a8e7-2a09dc19af21\","
+}

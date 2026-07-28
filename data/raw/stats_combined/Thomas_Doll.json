@@ -1,0 +1,215 @@
+{
+  "player_name_raw": "Thomas Doll",
+  "fetch_status": "ok",
+  "wikipedia_title": "Thomas_Doll",
+  "url": "https://en.wikipedia.org/wiki/Thomas_Doll",
+  "position": "Attacking midfielder",
+  "birth_year": 1966,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1983\u201384",
+      "club": "1983\u201384",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club performance Season East Germany': '1983\u201384', 'Club performance Club East Germany': 'Hansa Rostock', 'Club performance League East Germany': 'DDR-Oberliga', 'League Apps League': '5', 'League Goals League': '0', 'Cup Apps FDGB-Pokal': '-', 'Cup Goals FDGB-Pokal': '-', 'League Cup Apps -': '-', 'League Cup Goals -': '-', 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "1984\u201385",
+      "league_apps": 17,
+      "league_goals": 1,
+      "raw": "{'Club performance Season East Germany': '1984\u201385', 'Club performance Club East Germany': 'Hansa Rostock', 'Club performance League East Germany': 'DDR-Oberliga', 'League Apps League': '17', 'League Goals League': '1', 'Cup Apps FDGB-Pokal': '-', 'Cup Goals FDGB-Pokal': '-', 'League Cup Apps -': '-', 'League Cup Goals -': '-', 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "1985\u201386",
+      "league_apps": 25,
+      "league_goals": 3,
+      "raw": "{'Club performance Season East Germany': '1985\u201386', 'Club performance Club East Germany': 'Hansa Rostock', 'Club performance League East Germany': 'DDR-Oberliga', 'League Apps League': '25', 'League Goals League': '3', 'Cup Apps FDGB-Pokal': '-', 'Cup Goals FDGB-Pokal': '-', 'League Cup Apps -': '-', 'League Cup Goals -': '-', 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "1986\u201387",
+      "league_apps": 26,
+      "league_goals": 7,
+      "raw": "{'Club performance Season East Germany': '1986\u201387', 'Club performance Club East Germany': 'Berliner FC Dynamo', 'Club performance League East Germany': 'DDR-Oberliga', 'League Apps League': '26', 'League Goals League': '7', 'Cup Apps FDGB-Pokal': '-', 'Cup Goals FDGB-Pokal': '-', 'League Cup Apps -': '-', 'League Cup Goals -': '-', 'Continental Apps European Cup': '4', 'Continental Goals European Cup': '1', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "1987\u201388",
+      "league_apps": 23,
+      "league_goals": 11,
+      "raw": "{'Club performance Season East Germany': '1987\u201388', 'Club performance Club East Germany': 'Berliner FC Dynamo', 'Club performance League East Germany': 'DDR-Oberliga', 'League Apps League': '23', 'League Goals League': '11', 'Cup Apps FDGB-Pokal': '-', 'Cup Goals FDGB-Pokal': '-', 'League Cup Apps -': '-', 'League Cup Goals -': '-', 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "1988\u201389",
+      "league_apps": 25,
+      "league_goals": 13,
+      "raw": "{'Club performance Season East Germany': '1988\u201389', 'Club performance Club East Germany': 'Berliner FC Dynamo', 'Club performance League East Germany': 'DDR-Oberliga', 'League Apps League': '25', 'League Goals League': '13', 'Cup Apps FDGB-Pokal': '-', 'Cup Goals FDGB-Pokal': '-', 'League Cup Apps -': '-', 'League Cup Goals -': '-', 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "1989\u201390",
+      "league_apps": 25,
+      "league_goals": 8,
+      "raw": "{'Club performance Season East Germany': '1989\u201390', 'Club performance Club East Germany': 'Berliner FC Dynamo', 'Club performance League East Germany': 'DDR-Oberliga', 'League Apps League': '25', 'League Goals League': '8', 'Cup Apps FDGB-Pokal': '-', 'Cup Goals FDGB-Pokal': '-', 'League Cup Apps -': '-', 'League Cup Goals -': '-', 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "nan",
+      "club": "nan",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club performance Season East Germany': nan, 'Club performance Club East Germany': nan, 'Club performance League East Germany': nan, 'League Apps League': nan, 'League Goals League': nan, 'Cup Apps FDGB-Pokal': nan, 'Cup Goals FDGB-Pokal': nan, 'League Cup Apps -': nan, 'League Cup Goals -': nan, 'Continental Apps European Cup': nan, 'Continental Goals European Cup': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "Germany",
+      "club": "Germany",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club performance Season East Germany': 'Germany', 'Club performance Club East Germany': 'Germany', 'Club performance League East Germany': 'Germany', 'League Apps League': 'League', 'League Goals League': 'League', 'Cup Apps FDGB-Pokal': 'DFB-Pokal', 'Cup Goals FDGB-Pokal': 'DFB-Pokal', 'League Cup Apps -': 'Other', 'League Cup Goals -': 'Other', 'Continental Apps European Cup': 'Europe', 'Continental Goals European Cup': 'Europe', 'Total Apps Total': 'Total', 'Total Goals Total': 'Total'}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "1990\u201391",
+      "league_apps": 33,
+      "league_goals": 4,
+      "raw": "{'Club performance Season East Germany': '1990\u201391', 'Club performance Club East Germany': 'Hamburger SV', 'Club performance League East Germany': 'Bundesliga', 'League Apps League': '33', 'League Goals League': '4', 'Cup Apps FDGB-Pokal': '-', 'Cup Goals FDGB-Pokal': '-', 'League Cup Apps -': '-', 'League Cup Goals -': '-', 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "Italy",
+      "club": "Italy",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club performance Season East Germany': 'Italy', 'Club performance Club East Germany': 'Italy', 'Club performance League East Germany': 'Italy', 'League Apps League': 'League', 'League Goals League': 'League', 'Cup Apps FDGB-Pokal': 'Coppa Italia', 'Cup Goals FDGB-Pokal': 'Coppa Italia', 'League Cup Apps -': 'League Cup', 'League Cup Goals -': 'League Cup', 'Continental Apps European Cup': 'Europe', 'Continental Goals European Cup': 'Europe', 'Total Apps Total': 'Total', 'Total Goals Total': 'T"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "1991\u201392",
+      "league_apps": 31,
+      "league_goals": 7,
+      "raw": "{'Club performance Season East Germany': '1991\u201392', 'Club performance Club East Germany': 'Lazio', 'Club performance League East Germany': 'Serie A', 'League Apps League': '31', 'League Goals League': '7', 'Cup Apps FDGB-Pokal': '4', 'Cup Goals FDGB-Pokal': '1', 'League Cup Apps -': '-', 'League Cup Goals -': '-', 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "1992\u201393",
+      "league_apps": 20,
+      "league_goals": 2,
+      "raw": "{'Club performance Season East Germany': '1992\u201393', 'Club performance Club East Germany': 'Lazio', 'Club performance League East Germany': 'Serie A', 'League Apps League': '20', 'League Goals League': '2', 'Cup Apps FDGB-Pokal': '2', 'Cup Goals FDGB-Pokal': '0', 'League Cup Apps -': '-', 'League Cup Goals -': '-', 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "1993\u201394",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club performance Season East Germany': '1993\u201394', 'Club performance Club East Germany': 'Lazio', 'Club performance League East Germany': 'Serie A', 'League Apps League': '13', 'League Goals League': '0', 'Cup Apps FDGB-Pokal': '-', 'Cup Goals FDGB-Pokal': '-', 'League Cup Apps -': '1', 'League Cup Goals -': '0', 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "Germany",
+      "club": "Germany",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club performance Season East Germany': 'Germany', 'Club performance Club East Germany': 'Germany', 'Club performance League East Germany': 'Germany', 'League Apps League': 'League', 'League Goals League': 'League', 'Cup Apps FDGB-Pokal': 'DFB-Pokal', 'Cup Goals FDGB-Pokal': 'DFB-Pokal', 'League Cup Apps -': 'Other', 'League Cup Goals -': 'Other', 'Continental Apps European Cup': 'Europe', 'Continental Goals European Cup': 'Europe', 'Total Apps Total': 'Total', 'Total Goals Total': 'Total'}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "1993\u201394",
+      "league_apps": 6,
+      "league_goals": 1,
+      "raw": "{'Club performance Season East Germany': '1993\u201394', 'Club performance Club East Germany': 'Eintracht Frankfurt', 'Club performance League East Germany': 'Bundesliga', 'League Apps League': '6', 'League Goals League': '1', 'Cup Apps FDGB-Pokal': '-', 'Cup Goals FDGB-Pokal': '-', 'League Cup Apps -': '-', 'League Cup Goals -': '-', 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "1994\u201395",
+      "league_apps": 10,
+      "league_goals": 1,
+      "raw": "{'Club performance Season East Germany': '1994\u201395', 'Club performance Club East Germany': 'Eintracht Frankfurt', 'Club performance League East Germany': 'Bundesliga', 'League Apps League': '10', 'League Goals League': '1', 'Cup Apps FDGB-Pokal': '-', 'Cup Goals FDGB-Pokal': '-', 'League Cup Apps -': '-', 'League Cup Goals -': '-', 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "1995\u201396",
+      "league_apps": 12,
+      "league_goals": 2,
+      "raw": "{'Club performance Season East Germany': '1995\u201396', 'Club performance Club East Germany': 'Eintracht Frankfurt', 'Club performance League East Germany': 'Bundesliga', 'League Apps League': '12', 'League Goals League': '2', 'Cup Apps FDGB-Pokal': '-', 'Cup Goals FDGB-Pokal': '-', 'League Cup Apps -': '-', 'League Cup Goals -': '-', 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "Italy",
+      "club": "Italy",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club performance Season East Germany': 'Italy', 'Club performance Club East Germany': 'Italy', 'Club performance League East Germany': 'Italy', 'League Apps League': 'League', 'League Goals League': 'League', 'Cup Apps FDGB-Pokal': 'Coppa Italia', 'Cup Goals FDGB-Pokal': 'Coppa Italia', 'League Cup Apps -': 'League Cup', 'League Cup Goals -': 'League Cup', 'Continental Apps European Cup': 'Europe', 'Continental Goals European Cup': 'Europe', 'Total Apps Total': 'Total', 'Total Goals Total': 'T"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "1996\u201397",
+      "league_apps": 31,
+      "league_goals": 4,
+      "raw": "{'Club performance Season East Germany': '1996\u201397', 'Club performance Club East Germany': 'Bari', 'Club performance League East Germany': 'Serie B', 'League Apps League': '31', 'League Goals League': '4', 'Cup Apps FDGB-Pokal': nan, 'Cup Goals FDGB-Pokal': nan, 'League Cup Apps -': nan, 'League Cup Goals -': nan, 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "1997\u201398",
+      "league_apps": 14,
+      "league_goals": 0,
+      "raw": "{'Club performance Season East Germany': '1997\u201398', 'Club performance Club East Germany': 'Bari', 'Club performance League East Germany': 'Serie A', 'League Apps League': '14', 'League Goals League': '0', 'Cup Apps FDGB-Pokal': nan, 'Cup Goals FDGB-Pokal': nan, 'League Cup Apps -': nan, 'League Cup Goals -': nan, 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "Germany",
+      "club": "Germany",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club performance Season East Germany': 'Germany', 'Club performance Club East Germany': 'Germany', 'Club performance League East Germany': 'Germany', 'League Apps League': 'League', 'League Goals League': 'League', 'Cup Apps FDGB-Pokal': 'DFB-Pokal', 'Cup Goals FDGB-Pokal': 'DFB-Pokal', 'League Cup Apps -': 'Other', 'League Cup Goals -': 'Other', 'Continental Apps European Cup': 'Europe', 'Continental Goals European Cup': 'Europe', 'Total Apps Total': 'Total', 'Total Goals Total': 'Total'}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "1998\u201399",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club performance Season East Germany': '1998\u201399', 'Club performance Club East Germany': 'Hamburger SV', 'Club performance League East Germany': 'Bundesliga', 'League Apps League': '13', 'League Goals League': '0', 'Cup Apps FDGB-Pokal': nan, 'Cup Goals FDGB-Pokal': nan, 'League Cup Apps -': nan, 'League Cup Goals -': nan, 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "1999\u20132000",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club performance Season East Germany': '1999\u20132000', 'Club performance Club East Germany': 'Hamburger SV', 'Club performance League East Germany': 'Bundesliga', 'League Apps League': '21', 'League Goals League': '0', 'Cup Apps FDGB-Pokal': nan, 'Cup Goals FDGB-Pokal': nan, 'League Cup Apps -': nan, 'League Cup Goals -': nan, 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "2000\u201301",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club performance Season East Germany': '2000\u201301', 'Club performance Club East Germany': 'Hamburger SV', 'Club performance League East Germany': 'Bundesliga', 'League Apps League': '7', 'League Goals League': '0', 'Cup Apps FDGB-Pokal': nan, 'Cup Goals FDGB-Pokal': nan, 'League Cup Apps -': nan, 'League Cup Goals -': nan, 'Continental Apps European Cup': '-', 'Continental Goals European Cup': '-', 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 146,
+      "league_goals": 43,
+      "raw": "{'Club performance Season East Germany': 'Total', 'Club performance Club East Germany': 'East Germany', 'Club performance League East Germany': 'East Germany', 'League Apps League': '146', 'League Goals League': '43', 'Cup Apps FDGB-Pokal': nan, 'Cup Goals FDGB-Pokal': nan, 'League Cup Apps -': nan, 'League Cup Goals -': nan, 'Continental Apps European Cup': nan, 'Continental Goals European Cup': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 102,
+      "league_goals": 8,
+      "raw": "{'Club performance Season East Germany': 'Total', 'Club performance Club East Germany': 'Germany', 'Club performance League East Germany': 'Germany', 'League Apps League': '102', 'League Goals League': '8', 'Cup Apps FDGB-Pokal': nan, 'Cup Goals FDGB-Pokal': nan, 'League Cup Apps -': nan, 'League Cup Goals -': nan, 'Continental Apps European Cup': nan, 'Continental Goals European Cup': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 109,
+      "league_goals": 13,
+      "raw": "{'Club performance Season East Germany': 'Total', 'Club performance Club East Germany': 'Italy', 'Club performance League East Germany': 'Italy', 'League Apps League': '109', 'League Goals League': '13', 'Cup Apps FDGB-Pokal': nan, 'Cup Goals FDGB-Pokal': nan, 'League Cup Apps -': nan, 'League Cup Goals -': nan, 'Continental Apps European Cup': nan, 'Continental Goals European Cup': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 357,
+      "league_goals": 64,
+      "raw": "{'Club performance Season East Germany': 'Career total', 'Club performance Club East Germany': 'Career total', 'Club performance League East Germany': 'Career total', 'League Apps League': '357', 'League Goals League': '64', 'Cup Apps FDGB-Pokal': nan, 'Cup Goals FDGB-Pokal': nan, 'League Cup Apps -': nan, 'League Cup Goals -': nan, 'Continental Apps European Cup': nan, 'Continental Goals European Cup': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Thomas Doll - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"c36a0332-289a-429f-87ff-cceebe88a4ab\",\"wg"
+}

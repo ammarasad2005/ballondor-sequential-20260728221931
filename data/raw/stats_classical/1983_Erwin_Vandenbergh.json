@@ -1,0 +1,182 @@
+{
+  "player_name_raw": "Erwin Vandenbergh",
+  "fetch_status": "ok",
+  "wikipedia_title": "Erwin_Vandenbergh",
+  "url": "https://en.wikipedia.org/wiki/Erwin_Vandenbergh",
+  "position": "Forward",
+  "birth_year": 1959,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1976\u201377",
+      "club": "Lierse",
+      "league_apps": 14,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': '1976\u201377', 'League Division': 'First Division', 'League Apps': 14, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 14, 'Total Goals': 2}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Lierse",
+      "league_apps": 34,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': '1977\u201378', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 12, 'National cup[a] Apps': '4', 'National cup[a] Goals': '4', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 16}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Lierse",
+      "league_apps": 32,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': '1978\u201379', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 15, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe Apps': '5[b]', 'Europe Goals': '2', 'Total Apps': 38, 'Total Goals': 17}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Lierse",
+      "league_apps": 34,
+      "league_goals": 39,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': '1979\u201380', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 39, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 40}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Lierse",
+      "league_apps": 33,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': '1980\u201381', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 24, 'National cup[a] Apps': '4', 'National cup[a] Goals': '2', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 26}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Lierse",
+      "league_apps": 31,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': '1981\u201382', 'League Division': 'First Division', 'League Apps': 31, 'League Goals': 25, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 26}"
+    },
+    {
+      "season": "Total",
+      "club": "Lierse",
+      "league_apps": 178,
+      "league_goals": 117,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 178, 'League Goals': 117, 'National cup[a] Apps': '13', 'National cup[a] Goals': '8', 'Europe Apps': '5', 'Europe Goals': '2', 'Total Apps': 196, 'Total Goals': 127}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Anderlecht",
+      "league_apps": 32,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1982\u201383', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 20, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'Europe Apps': '12[c]', 'Europe Goals': '7', 'Total Apps': 47, 'Total Goals': 29}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Anderlecht",
+      "league_apps": 29,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1983\u201384', 'League Division': 'First Division', 'League Apps': 29, 'League Goals': 20, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'Europe Apps': '9[c]', 'Europe Goals': '4', 'Total Apps': 40, 'Total Goals': 25}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Anderlecht",
+      "league_apps": 29,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1984\u201385', 'League Division': 'First Division', 'League Apps': 29, 'League Goals': 20, 'National cup[a] Apps': '5', 'National cup[a] Goals': '5', 'Europe Apps': '3[c]', 'Europe Goals': '3', 'Total Apps': 37, 'Total Goals': 28}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Anderlecht",
+      "league_apps": 31,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1985\u201386', 'League Division': 'First Division', 'League Apps': 31, 'League Goals': 27, 'National cup[a] Apps': '2', 'National cup[a] Goals': '2', 'Europe Apps': '5[d]', 'Europe Goals': '1', 'Total Apps': 38, 'Total Goals': 30}"
+    },
+    {
+      "season": "Total",
+      "club": "Anderlecht",
+      "league_apps": 121,
+      "league_goals": 87,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 121, 'League Goals': 87, 'National cup[a] Apps': '12', 'National cup[a] Goals': '10', 'Europe Apps': '29', 'Europe Goals': '15', 'Total Apps': 162, 'Total Goals': 112}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Lille",
+      "league_apps": 28,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Lille', 'Season Season': '1986\u201387', 'League Division': 'Division 1', 'League Apps': 28, 'League Goals': 8, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 9}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Lille",
+      "league_apps": 30,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Lille', 'Season Season': '1987\u201388', 'League Division': 'Division 1', 'League Apps': 30, 'League Goals': 11, 'National cup[a] Apps': '6', 'National cup[a] Goals': '2', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 13}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Lille",
+      "league_apps": 31,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Lille', 'Season Season': '1988\u201389', 'League Division': 'Division 1', 'League Apps': 31, 'League Goals': 14, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 15}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Lille",
+      "league_apps": 25,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Lille', 'Season Season': '1989\u201390', 'League Division': 'Division 1', 'League Apps': 25, 'League Goals': 5, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 17}"
+    },
+    {
+      "season": "Total",
+      "club": "Lille",
+      "league_apps": 114,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Lille', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 114, 'League Goals': 38, 'National cup[a] Apps': '16', 'National cup[a] Goals': '6', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 130, 'Total Goals': 44}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "AA Gent",
+      "league_apps": 34,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'AA Gent', 'Season Season': '1990\u201391', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 23, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 23}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "AA Gent",
+      "league_apps": 33,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'AA Gent', 'Season Season': '1991\u201392', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 11, 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'Europe Apps': '7[c]', 'Europe Goals': '2', 'Total Apps': 46, 'Total Goals': 13}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "AA Gent",
+      "league_apps": 21,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'AA Gent', 'Season Season': '1992\u201393', 'League Division': 'First Division', 'League Apps': 21, 'League Goals': 9, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 9}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "AA Gent",
+      "league_apps": 22,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'AA Gent', 'Season Season': '1993\u201394', 'League Division': 'First Division', 'League Apps': 22, 'League Goals': 4, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "AA Gent",
+      "league_apps": 110,
+      "league_goals": 47,
+      "raw": "{'Club Club': 'AA Gent', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 110, 'League Goals': 47, 'National cup[a] Apps': '8', 'National cup[a] Goals': '0', 'Europe Apps': '7', 'Europe Goals': '2', 'Total Apps': 125, 'Total Goals': 49}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "RWDM",
+      "league_apps": 21,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'RWDM', 'Season Season': '1994\u201395', 'League Division': 'First Division', 'League Apps': 21, 'League Goals': 4, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 4}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 544,
+      "league_goals": 290,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 544, 'League Goals': 290, 'National cup[a] Apps': '50', 'National cup[a] Goals': '24', 'Europe Apps': '41', 'Europe Goals': '19', 'Total Apps': 635, 'Total Goals': 333}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Erwin Vandenbergh - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"07c013f5-cee8-40de-94cc-d0e7f767925",
+  "season_id": "1983",
+  "award_year": 1983
+}

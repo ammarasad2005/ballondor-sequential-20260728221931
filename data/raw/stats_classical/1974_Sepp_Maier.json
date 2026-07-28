@@ -1,0 +1,147 @@
+{
+  "player_name_raw": "Sepp Maier",
+  "fetch_status": "ok",
+  "wikipedia_title": "Sepp_Maier",
+  "url": "https://en.wikipedia.org/wiki/Sepp_Maier",
+  "position": "Goalkeeper",
+  "birth_year": 1944,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1962\u201363",
+      "club": "Bayern Munich",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1962\u201363', 'League Division': 'Oberliga S\u00fcd', 'League Apps': 4, 'League Goals': 0, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Europe Apps': '1[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Bayern Munich",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1963\u201364', 'League Division': 'Regionalliga S\u00fcd', 'League Apps': 24, 'League Goals': 0, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Europe Apps': '7[b]', 'Europe Goals': '0', 'Other Apps': '6[c]', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 0}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Bayern Munich",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1964\u201365', 'League Division': 'Regionalliga S\u00fcd', 'League Apps': 36, 'League Goals': 0, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '8[d]', 'Other Goals': '0', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Bayern Munich",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1965\u201366', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 0, 'DFB-Pokal Apps': '6', 'DFB-Pokal Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 0}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1966\u201367', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '5', 'DFB-Pokal Goals': '0', 'Europe Apps': '9[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1967\u201368', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '0', 'Europe Apps': '8[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1968\u201369', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '6', 'DFB-Pokal Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1969\u201370', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '3', 'DFB-Pokal Goals': '0', 'Europe Apps': '2[f]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 0}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1970\u201371', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '7', 'DFB-Pokal Goals': '0', 'Europe Apps': '8[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 0}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1971\u201372', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '5', 'DFB-Pokal Goals': '0', 'Europe Apps': '8[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1972\u201373', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '5', 'DFB-Pokal Goals': '0', 'Europe Apps': '5[f]', 'Europe Goals': '0', 'Other Apps': '3[g]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1973\u201374', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '0', 'Europe Apps': '10[f]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1974\u201375', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '3', 'DFB-Pokal Goals': '0', 'Europe Apps': '7[f]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1975\u201376', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '7', 'DFB-Pokal Goals': '0', 'Europe Apps': '9[f]', 'Europe Goals': '0', 'Other Apps': '2[h]', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 0}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1976\u201377', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '0', 'Europe Apps': '6[f]', 'Europe Goals': '0', 'Other Apps': '4[i]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1977\u201378', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '3', 'DFB-Pokal Goals': '0', 'Europe Apps': '6[j]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1978\u201379', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': '1', 'DFB-Pokal Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 0}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Bayern Munich",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1979\u201380', 'League Division': 'Bundesliga', 'League Apps': 0, 'League Goals': 0, 'DFB-Pokal Apps': '0', 'DFB-Pokal Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 537,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 537, 'League Goals': 0, 'DFB-Pokal Apps': '63', 'DFB-Pokal Goals': '0', 'Europe Apps': '86', 'Europe Goals': '0', 'Other Apps': '23', 'Other Goals': '0', 'Total Apps': 709, 'Total Goals': 0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Sepp Maier - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"07ca848f-810f-4eab-89c9-bc5daa8b6f39\",\"wgC",
+  "season_id": "1974",
+  "award_year": 1974
+}

@@ -1,0 +1,91 @@
+{
+  "player_name_raw": "Bukayo Saka",
+  "fetch_status": "ok",
+  "wikipedia_title": "Bukayo_Saka",
+  "url": "https://en.wikipedia.org/wiki/Bukayo_Saka",
+  "position": "Right winger",
+  "birth_year": 2001,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2018\u201319",
+      "club": "Arsenal U21",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Arsenal U21', 'Season Season': '2018\u201319[152]', 'League Division': '\u2014', 'League Apps': '\u2014', 'League Goals': '\u2014', 'FA Cup Apps': '\u2014', 'FA Cup Goals': '\u2014', 'EFL Cup Apps': '\u2014', 'EFL Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '4[a]', 'Other Goals': '1', 'Total Apps': 4, 'Total Goals': 1}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Arsenal",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2018\u201319[153]', 'League Division': 'Premier League', 'League Apps': '1', 'League Goals': '0', 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'EFL Cup Apps': '0', 'EFL Cup Goals': '0', 'Europe Apps': '2[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Arsenal",
+      "league_apps": 26,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2019\u201320[154]', 'League Division': 'Premier League', 'League Apps': '26', 'League Goals': '1', 'FA Cup Apps': '4', 'FA Cup Goals': '1', 'EFL Cup Apps': '2', 'EFL Cup Goals': '0', 'Europe Apps': '6[b]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 4}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Arsenal",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2020\u201321[155]', 'League Division': 'Premier League', 'League Apps': '32', 'League Goals': '5', 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'EFL Cup Apps': '2', 'EFL Cup Goals': '0', 'Europe Apps': '9[b]', 'Europe Goals': '2', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 7}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Arsenal",
+      "league_apps": 38,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2021\u201322[156]', 'League Division': 'Premier League', 'League Apps': '38', 'League Goals': '11', 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'EFL Cup Apps': '4', 'EFL Cup Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 12}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Arsenal",
+      "league_apps": 38,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2022\u201323[157]', 'League Division': 'Premier League', 'League Apps': '38', 'League Goals': '14', 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'EFL Cup Apps': '0', 'EFL Cup Goals': '0', 'Europe Apps': '8[b]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 15}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Arsenal",
+      "league_apps": 35,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2023\u201324[158]', 'League Division': 'Premier League', 'League Apps': '35', 'League Goals': '16', 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'EFL Cup Apps': '1', 'EFL Cup Goals': '0', 'Europe Apps': '9[d]', 'Europe Goals': '4', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 20}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Arsenal",
+      "league_apps": 25,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2024\u201325[159]', 'League Division': 'Premier League', 'League Apps': '25', 'League Goals': '6', 'FA Cup Apps': '0', 'FA Cup Goals': '0', 'EFL Cup Apps': '3', 'EFL Cup Goals': '0', 'Europe Apps': '9[d]', 'Europe Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 12}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Arsenal",
+      "league_apps": 31,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2025\u201326[160]', 'League Division': 'Premier League', 'League Apps': '31', 'League Goals': '7', 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'EFL Cup Apps': '5', 'EFL Cup Goals': '1', 'Europe Apps': '11[d]', 'Europe Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "Arsenal",
+      "league_apps": 226,
+      "league_goals": 60,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '226', 'League Goals': '60', 'FA Cup Apps': '13', 'FA Cup Goals': '1', 'EFL Cup Apps': '17', 'EFL Cup Goals': '2', 'Europe Apps': '54', 'Europe Goals': '18', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 312, 'Total Goals': 81}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 226,
+      "league_goals": 60,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '226', 'League Goals': '60', 'FA Cup Apps': '13', 'FA Cup Goals': '1', 'EFL Cup Apps': '17', 'EFL Cup Goals': '2', 'Europe Apps': '54', 'Europe Goals': '18', 'Other Apps': '6', 'Other Goals': '1', 'Total Apps': 316, 'Total Goals': 82}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Bukayo Saka - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d05ed37b-e53b-4e78-a391-8d42138114f1\",\"wg",
+  "season_id": "2024",
+  "award_year": 2024
+}

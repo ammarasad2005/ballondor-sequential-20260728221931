@@ -1,0 +1,126 @@
+{
+  "player_name_raw": "J\u00e1nos Farkas",
+  "fetch_status": "ok",
+  "wikipedia_title": "J\u00e1nos_Farkas",
+  "url": "https://en.wikipedia.org/wiki/J\u00e1nos_Farkas",
+  "position": "Striker",
+  "birth_year": 1942,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1959\u201360",
+      "club": "1959\u201360",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club performance Season Hungary': '1959\u201360', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 0, 'League Goals League': 0, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "1960\u201361",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club performance Season Hungary': '1960\u201361', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 0, 'League Goals League': 0, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "1961\u201362",
+      "league_apps": 22,
+      "league_goals": 8,
+      "raw": "{'Club performance Season Hungary': '1961\u201362', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 22, 'League Goals League': 8, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "1962\u201363",
+      "league_apps": 15,
+      "league_goals": 5,
+      "raw": "{'Club performance Season Hungary': '1962\u201363', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 15, 'League Goals League': 5, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1963",
+      "club": "1963",
+      "league_apps": 11,
+      "league_goals": 1,
+      "raw": "{'Club performance Season Hungary': '1963', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 11, 'League Goals League': 1, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1964",
+      "club": "1964",
+      "league_apps": 22,
+      "league_goals": 12,
+      "raw": "{'Club performance Season Hungary': '1964', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 22, 'League Goals League': 12, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1965",
+      "club": "1965",
+      "league_apps": 25,
+      "league_goals": 18,
+      "raw": "{'Club performance Season Hungary': '1965', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 25, 'League Goals League': 18, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1966",
+      "club": "1966",
+      "league_apps": 26,
+      "league_goals": 25,
+      "raw": "{'Club performance Season Hungary': '1966', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 26, 'League Goals League': 25, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1967",
+      "club": "1967",
+      "league_apps": 27,
+      "league_goals": 19,
+      "raw": "{'Club performance Season Hungary': '1967', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 27, 'League Goals League': 19, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1968",
+      "club": "1968",
+      "league_apps": 27,
+      "league_goals": 19,
+      "raw": "{'Club performance Season Hungary': '1968', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 27, 'League Goals League': 19, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1969",
+      "club": "1969",
+      "league_apps": 27,
+      "league_goals": 21,
+      "raw": "{'Club performance Season Hungary': '1969', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 27, 'League Goals League': 21, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1970",
+      "club": "1970",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club performance Season Hungary': '1970', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 0, 'League Goals League': 0, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "1970\u201371",
+      "league_apps": 33,
+      "league_goals": 17,
+      "raw": "{'Club performance Season Hungary': '1970\u201371', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 33, 'League Goals League': 17, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "1971\u201372",
+      "league_apps": 15,
+      "league_goals": 6,
+      "raw": "{'Club performance Season Hungary': '1971\u201372', 'Club performance Club Hungary': 'Vasas Budapest', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 15, 'League Goals League': 6, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 250,
+      "league_goals": 151,
+      "raw": "{'Club performance Season Hungary': 'Total', 'Club performance Club Hungary': 'Hungary', 'Club performance League Hungary': 'Hungary', 'League Apps League': 250, 'League Goals League': 151, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 250,
+      "league_goals": 151,
+      "raw": "{'Club performance Season Hungary': 'Career total', 'Club performance Club Hungary': 'Career total', 'Club performance League Hungary': 'Career total', 'League Apps League': 250, 'League Goals League': 151, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>J\u00e1nos Farkas - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"965ef07b-e5cc-431e-99a5-169dcd421a83\",\"w",
+  "season_id": "1967",
+  "award_year": 1967
+}

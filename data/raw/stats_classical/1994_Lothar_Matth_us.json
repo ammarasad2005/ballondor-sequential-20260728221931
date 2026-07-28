@@ -1,0 +1,203 @@
+{
+  "player_name_raw": "Lothar Matth\u00e4us",
+  "fetch_status": "ok",
+  "wikipedia_title": "Lothar_Matth\u00e4us",
+  "url": "https://en.wikipedia.org/wiki/Lothar_Matth\u00e4us",
+  "position": "Midfielder sweeper",
+  "birth_year": 1961,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1979\u201380",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 28,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1979\u201380', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 4, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental[c] Apps': '11', 'Continental[c] Goals': '2', 'Total Apps': 41, 'Total Goals': 6}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 33,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1980\u201381', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 10, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '\u2014', 'Continental[c] Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 12}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 33,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1981\u201382', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 3, 'National cup[a] Apps': 5, 'National cup[a] Goals': 4, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '4', 'Continental[c] Goals': '1', 'Total Apps': 42, 'Total Goals': 8}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 34,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1982\u201383', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 8, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '\u2014', 'Continental[c] Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 10}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 34,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1983\u201384', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 11, 'National cup[a] Apps': 6, 'National cup[a] Goals': 4, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '\u2014', 'Continental[c] Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 162,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 162, 'League Goals': 36, 'National cup[a] Apps': 23, 'National cup[a] Goals': 12, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '15', 'Continental[c] Goals': '3', 'Total Apps': 200, 'Total Goals': 51}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Bayern Munich",
+      "league_apps": 33,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1984\u201385', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 16, 'National cup[a] Apps': 6, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '5', 'Continental[c] Goals': '1', 'Total Apps': 44, 'Total Goals': 17}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Bayern Munich",
+      "league_apps": 23,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1985\u201386', 'League Division': 'Bundesliga', 'League Apps': 23, 'League Goals': 10, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '3', 'Continental[c] Goals': '0', 'Total Apps': 31, 'Total Goals': 12}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Bayern Munich",
+      "league_apps": 31,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1986\u201387', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 14, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '7', 'Continental[c] Goals': '4', 'Total Apps': 41, 'Total Goals': 19}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Bayern Munich",
+      "league_apps": 26,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1987\u201388', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 17, 'National cup[a] Apps': 4, 'National cup[a] Goals': 3, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '4', 'Continental[c] Goals': '1', 'Total Apps': 34, 'Total Goals': 21}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 113,
+      "league_goals": 57,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 113, 'League Goals': 57, 'National cup[a] Apps': 18, 'National cup[a] Goals': 6, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '19', 'Continental[c] Goals': '6', 'Total Apps': 150, 'Total Goals': 69}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Inter Milan",
+      "league_apps": 32,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1988\u201389', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 9, 'National cup[a] Apps': 7, 'National cup[a] Goals': 3, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '5', 'Continental[c] Goals': '0', 'Total Apps': 44, 'Total Goals': 12}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Inter Milan",
+      "league_apps": 25,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1989\u201390', 'League Division': 'Serie A', 'League Apps': 25, 'League Goals': 11, 'National cup[a] Apps': 2, 'National cup[a] Goals': 2, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental[c] Apps': '2', 'Continental[c] Goals': '0', 'Total Apps': 29, 'Total Goals': 13}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Inter Milan",
+      "league_apps": 31,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1990\u201391', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 16, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '12', 'Continental[c] Goals': '6', 'Total Apps': 46, 'Total Goals': 23}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Inter Milan",
+      "league_apps": 27,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1991\u201392', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 4, 'National cup[a] Apps': 5, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '2', 'Continental[c] Goals': '0', 'Total Apps': 34, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 115,
+      "league_goals": 40,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 115, 'League Goals': 40, 'National cup[a] Apps': 17, 'National cup[a] Goals': 7, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental[c] Apps': '21', 'Continental[c] Goals': '6', 'Total Apps': 153, 'Total Goals': 53}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Bayern Munich",
+      "league_apps": 28,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1992\u201393', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 8, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '\u2014', 'Continental[c] Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 8}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Bayern Munich",
+      "league_apps": 33,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1993\u201394', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 8, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '4', 'Continental[c] Goals': '1', 'Total Apps': 40, 'Total Goals': 10}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Bayern Munich",
+      "league_apps": 16,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1994\u201395', 'League Division': 'Bundesliga', 'League Apps': 16, 'League Goals': 5, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '6', 'Continental[c] Goals': '0', 'Total Apps': 24, 'Total Goals': 5}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Bayern Munich",
+      "league_apps": 19,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1995\u201396', 'League Division': 'Bundesliga', 'League Apps': 19, 'League Goals': 1, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '7', 'Continental[c] Goals': '0', 'Total Apps': 26, 'Total Goals': 1}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Bayern Munich",
+      "league_apps": 28,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1996\u201397', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 1, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental[c] Apps': '2', 'Continental[c] Goals': '0', 'Total Apps': 33, 'Total Goals': 1}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Bayern Munich",
+      "league_apps": 25,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1997\u201398', 'League Division': 'Bundesliga', 'League Apps': 25, 'League Goals': 3, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental[c] Apps': '5', 'Continental[c] Goals': '0', 'Total Apps': 35, 'Total Goals': 3}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Bayern Munich",
+      "league_apps": 25,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1998\u201399', 'League Division': 'Bundesliga', 'League Apps': 25, 'League Goals': 1, 'National cup[a] Apps': 5, 'National cup[a] Goals': 0, 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental[c] Apps': '12', 'Continental[c] Goals': '1', 'Total Apps': 44, 'Total Goals': 2}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Bayern Munich",
+      "league_apps": 15,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1999\u20132000', 'League Division': 'Bundesliga', 'League Apps': 15, 'League Goals': 1, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental[c] Apps': '9', 'Continental[c] Goals': '0', 'Total Apps': 26, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 189,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 189, 'League Goals': 28, 'National cup[a] Apps': 18, 'National cup[a] Goals': 1, 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Continental[c] Apps': '45', 'Continental[c] Goals': '2', 'Total Apps': 256, 'Total Goals': 31}"
+    },
+    {
+      "season": "2000",
+      "club": "MetroStars",
+      "league_apps": 16,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'MetroStars', 'Season Season': '2000', 'League Division': 'Major League Soccer', 'League Apps': 16, 'League Goals': 0, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '5', 'League cup[b] Goals': '0', 'Continental[c] Apps': '\u2014', 'Continental[c] Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 595,
+      "league_goals": 161,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 595, 'League Goals': 161, 'National cup[a] Apps': 78, 'National cup[a] Goals': 26, 'League cup[b] Apps': '9', 'League cup[b] Goals': '0', 'Continental[c] Apps': '100', 'Continental[c] Goals': '17', 'Total Apps': 782, 'Total Goals': 204}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Lothar Matth\u00e4us - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d0207aa3-2d51-4858-960a-32a8397ea379\"",
+  "season_id": "1994",
+  "award_year": 1994
+}

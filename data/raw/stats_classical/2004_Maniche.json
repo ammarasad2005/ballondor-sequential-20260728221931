@@ -1,0 +1,175 @@
+{
+  "player_name_raw": "Maniche",
+  "fetch_status": "ok",
+  "wikipedia_title": "Maniche",
+  "url": "https://en.wikipedia.org/wiki/Maniche",
+  "position": "Central midfielder",
+  "birth_year": 1977,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1995\u201396",
+      "club": "Benfica",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '1995\u201396', 'League Division': 'Primeira Liga', 'League Apps': 0, 'League Goals': 0, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Alverca",
+      "league_apps": 23,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Alverca', 'Season Season': '1996\u201397', 'League Division': 'Segunda Liga', 'League Apps': 23, 'League Goals': 2, 'National cup Apps': 1, 'National cup Goals': 0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 24, 'Total Goals': 2}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Alverca",
+      "league_apps": 29,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Alverca', 'Season Season': '1997\u201398', 'League Division': 'Segunda Liga', 'League Apps': 29, 'League Goals': 5, 'National cup Apps': 1, 'National cup Goals': 1, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 6}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Alverca",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Alverca', 'Season Season': '1998\u201399', 'League Division': 'Primeira Liga', 'League Apps': 26, 'League Goals': 3, 'National cup Apps': 1, 'National cup Goals': 1, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 27, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Alverca",
+      "league_apps": 78,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Alverca', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 78, 'League Goals': 10, 'National cup Apps': 3, 'National cup Goals': 2, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 81, 'Total Goals': 12}"
+    },
+    {
+      "season": "1999\u201300",
+      "club": "Benfica",
+      "league_apps": 28,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '1999\u201300', 'League Division': 'Primeira Liga', 'League Apps': 28, 'League Goals': 10, 'National cup Apps': 1, 'National cup Goals': 1, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '6', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 12}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Benfica",
+      "league_apps": 26,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '2000\u201301', 'League Division': 'Primeira Liga', 'League Apps': 26, 'League Goals': 1, 'National cup Apps': 4, 'National cup Goals': 1, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 2}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Benfica",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '2001\u201302', 'League Division': 'Primeira Liga', 'League Apps': 0, 'League Goals': 0, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Benfica",
+      "league_apps": 54,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 54, 'League Goals': 11, 'National cup Apps': 5, 'National cup Goals': 2, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '8', 'Europe Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 67, 'Total Goals': 14}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Porto",
+      "league_apps": 29,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '2002\u201303', 'League Division': 'Primeira Liga', 'League Apps': 29, 'League Goals': 6, 'National cup Apps': 3, 'National cup Goals': 1, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '12', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 44, 'Total Goals': 9}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Porto",
+      "league_apps": 31,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '2003\u201304', 'League Division': 'Primeira Liga', 'League Apps': 31, 'League Goals': 7, 'National cup Apps': 5, 'National cup Goals': 1, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '12', 'Europe Goals': '3', 'Other Apps': '2[a]', 'Other Goals': '0', 'Total Apps': 50, 'Total Goals': 11}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Porto",
+      "league_apps": 20,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '2004\u201305', 'League Division': 'Primeira Liga', 'League Apps': 20, 'League Goals': 3, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '8', 'Europe Goals': '0', 'Other Apps': '2[b]', 'Other Goals': '0', 'Total Apps': 30, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Porto",
+      "league_apps": 80,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Porto', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 80, 'League Goals': 16, 'National cup Apps': 8, 'National cup Goals': 2, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '32', 'Europe Goals': '5', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 124, 'Total Goals': 23}"
+    },
+    {
+      "season": "2005",
+      "club": "Dynamo Moscow",
+      "league_apps": 12,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Dynamo Moscow', 'Season Season': '2005', 'League Division': 'Russian Premier League', 'League Apps': 12, 'League Goals': 2, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 12, 'Total Goals': 2}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Chelsea",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2005\u201306', 'League Division': 'Premier League', 'League Apps': 8, 'League Goals': 0, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '3', 'League cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 11, 'Total Goals': 0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 28,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '2006\u201307', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 4, 'National cup Apps': 2, 'National cup Goals': 0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 4}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 15,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '2007\u201308', 'League Division': 'La Liga', 'League Apps': 15, 'League Goals': 2, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '7[c]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 43,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 43, 'League Goals': 6, 'National cup Apps': 2, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '7', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 6}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Inter Milan",
+      "league_apps": 8,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2007\u201308', 'League Division': 'Serie A', 'League Apps': 8, 'League Goals': 1, 'National cup Apps': 3, 'National cup Goals': 0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 11, 'Total Goals': 1}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '2008\u201309', 'League Division': 'La Liga', 'League Apps': 21, 'League Goals': 1, 'National cup Apps': 2, 'National cup Goals': 0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '9', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 2}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '2009\u201310', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 2, 'National cup Apps': 4, 'National cup Goals': 1, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 3}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Sporting CP",
+      "league_apps": 17,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Sporting CP', 'Season Season': '2010\u201311', 'League Division': 'Primeira Liga', 'League Apps': 17, 'League Goals': 1, 'National cup Apps': 1, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '9', 'Europe Goals': '3', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 27, 'Total Goals': 3}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 347,
+      "league_goals": 50,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 347, 'League Goals': 50, 'National cup Apps': 28, 'National cup Goals': 4, 'League cup Apps': '3', 'League cup Goals': '0', 'Europe Apps': '65', 'Europe Goals': '10', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 449, 'Total Goals': 64}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Maniche - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"a3ad23b4-2776-4fdd-b22e-d0f105c1e308\",\"wgCano",
+  "season_id": "2004",
+  "award_year": 2004
+}

@@ -1,0 +1,147 @@
+{
+  "player_name_raw": "Sandro Mazzola",
+  "fetch_status": "ok",
+  "wikipedia_title": "Sandro_Mazzola",
+  "url": "https://en.wikipedia.org/wiki/Sandro_Mazzola",
+  "position": "Forward attacking midfielder",
+  "birth_year": 1942,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1960\u201361",
+      "club": "Inter Milan",
+      "league_apps": 1,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1960\u201361', 'League Division': 'Serie A', 'League Apps': 1, 'League Goals': 1, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 1}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Inter Milan",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1961\u201362', 'League Division': 'Serie A', 'League Apps': 1, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Inter Milan",
+      "league_apps": 23,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1962\u201363', 'League Division': 'Serie A', 'League Apps': 23, 'League Goals': 10, 'Cup Apps': 1, 'Cup Goals': 1, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 11}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Inter Milan",
+      "league_apps": 30,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1963\u201364', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 9, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': '9[a]', 'Europe Goals': '7', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 16}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Inter Milan",
+      "league_apps": 33,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1964\u201365', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 17, 'Cup Apps': 2, 'Cup Goals': 0, 'Europe Apps': '6[a]', 'Europe Goals': '3', 'Other Apps': '2[b]', 'Other Goals': '1', 'Total Apps': 43, 'Total Goals': 21}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Inter Milan",
+      "league_apps": 30,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1965\u201366', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 19, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': '4[a]', 'Europe Goals': '1', 'Other Apps': '2[b]', 'Other Goals': '2', 'Total Apps': 37, 'Total Goals': 22}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Inter Milan",
+      "league_apps": 30,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1966\u201367', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 17, 'Cup Apps': 2, 'Cup Goals': 2, 'Europe Apps': '10[a]', 'Europe Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 23}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Inter Milan",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1967\u201368', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 6, 'Cup Apps': 9, 'Cup Goals': 2, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 8}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Inter Milan",
+      "league_apps": 29,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1968\u201369', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 7, 'Cup Apps': 3, 'Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 7}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Inter Milan",
+      "league_apps": 28,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1969\u201370', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 4, 'Cup Apps': 5, 'Cup Goals': 1, 'Europe Apps': '10[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 6}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Inter Milan",
+      "league_apps": 29,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1970\u201371', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 7, 'Cup Apps': 3, 'Cup Goals': 2, 'Europe Apps': '1[c]', 'Europe Goals': '0', 'Other Apps': '2[d]', 'Other Goals': '0', 'Total Apps': 35, 'Total Goals': 9}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Inter Milan",
+      "league_apps": 28,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1971\u201372', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 7, 'Cup Apps': 9, 'Cup Goals': 2, 'Europe Apps': '9[a]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 11}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Inter Milan",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1972\u201373', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 2, 'Cup Apps': 9, 'Cup Goals': 4, 'Europe Apps': '6[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 6}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Inter Milan",
+      "league_apps": 26,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1973\u201374', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 4, 'Cup Apps': 10, 'Cup Goals': 3, 'Europe Apps': '2[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 7}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Inter Milan",
+      "league_apps": 23,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1974\u201375', 'League Division': 'Serie A', 'League Apps': 23, 'League Goals': 3, 'Cup Apps': 7, 'Cup Goals': 0, 'Europe Apps': '4[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 3}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Inter Milan",
+      "league_apps": 25,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1975\u201376', 'League Division': 'Serie A', 'League Apps': 25, 'League Goals': 2, 'Cup Apps': 10, 'Cup Goals': 4, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 6}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Inter Milan",
+      "league_apps": 28,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1976\u201377', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 1, 'Cup Apps': 9, 'Cup Goals': 3, 'Europe Apps': '2[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 418,
+      "league_goals": 116,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 418, 'League Goals': 116, 'Cup Apps': 80, 'Cup Goals': 24, 'Europe Apps': '63', 'Europe Goals': '18', 'Other Apps': '6', 'Other Goals': '3', 'Total Apps': 567, 'Total Goals': 161}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 418,
+      "league_goals": 116,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 418, 'League Goals': 116, 'Cup Apps': 80, 'Cup Goals': 24, 'Europe Apps': '63', 'Europe Goals': '18', 'Other Apps': '6', 'Other Goals': '3', 'Total Apps': 567, 'Total Goals': 161}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Sandro Mazzola - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"cf819bc7-e966-4cba-aebd-669239cde7fc\",",
+  "season_id": "1968",
+  "award_year": 1968
+}

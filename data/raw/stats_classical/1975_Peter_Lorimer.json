@@ -1,0 +1,238 @@
+{
+  "player_name_raw": "Peter Lorimer",
+  "fetch_status": "ok",
+  "wikipedia_title": "Peter_Lorimer",
+  "url": "https://en.wikipedia.org/wiki/Peter_Lorimer",
+  "position": "Attacking midfielder",
+  "birth_year": 1946,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1962\u201363",
+      "club": "Leeds United",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1962\u201363', 'League Division': 'Second Division', 'League Apps': 1, 'League Goals': 0, 'FA Cup Apps': 0.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 0.0, 'League Cup Goals': 0.0, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Leeds United",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1963\u201364', 'League Division': 'Second Division', 'League Apps': 0, 'League Goals': 0, 'FA Cup Apps': 0.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 1.0, 'League Cup Goals': 0.0, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Leeds United",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1964\u201365', 'League Division': 'First Division', 'League Apps': 1, 'League Goals': 0, 'FA Cup Apps': 0.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 0.0, 'League Cup Goals': 0.0, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Leeds United",
+      "league_apps": 34,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1965\u201366', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 13, 'FA Cup Apps': 2.0, 'FA Cup Goals': 3.0, 'League Cup Apps': 0.0, 'League Cup Goals': 0.0, 'Continental[a] Apps': '9', 'Continental[a] Goals': '3', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 19}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Leeds United",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1966\u201367', 'League Division': 'First Division', 'League Apps': 29, 'League Goals': 9, 'FA Cup Apps': 6.0, 'FA Cup Goals': 2.0, 'League Cup Apps': 2.0, 'League Cup Goals': 2.0, 'Continental[a] Apps': '5', 'Continental[a] Goals': '1', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 14}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Leeds United",
+      "league_apps": 37,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1967\u201368', 'League Division': 'First Division', 'League Apps': 37, 'League Goals': 16, 'FA Cup Apps': 5.0, 'FA Cup Goals': 2.0, 'League Cup Apps': 6.0, 'League Cup Goals': 4.0, 'Continental[a] Apps': '12', 'Continental[a] Goals': '8', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 60, 'Total Goals': 30}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Leeds United",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1968\u201369', 'League Division': 'First Division', 'League Apps': 29, 'League Goals': 9, 'FA Cup Apps': 2.0, 'FA Cup Goals': 1.0, 'League Cup Apps': 3.0, 'League Cup Goals': 0.0, 'Continental[a] Apps': '7', 'Continental[a] Goals': '3', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 13}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Leeds United",
+      "league_apps": 39,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1969\u201370', 'League Division': 'First Division', 'League Apps': 39, 'League Goals': 14, 'FA Cup Apps': 8.0, 'FA Cup Goals': 2.0, 'League Cup Apps': 3.0, 'League Cup Goals': 0.0, 'Continental[a] Apps': '7', 'Continental[a] Goals': '3', 'Other[b][25][26] Apps': '1', 'Other[b][25][26] Goals': '0', 'Total Apps': 58, 'Total Goals': 19}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Leeds United",
+      "league_apps": 38,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1970\u201371', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 12, 'FA Cup Apps': 4.0, 'FA Cup Goals': 2.0, 'League Cup Apps': 1.0, 'League Cup Goals': 0.0, 'Continental[a] Apps': '10', 'Continental[a] Goals': '5', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 53, 'Total Goals': 19}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Leeds United",
+      "league_apps": 42,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1971\u201372', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 23, 'FA Cup Apps': 7.0, 'FA Cup Goals': 3.0, 'League Cup Apps': 4.0, 'League Cup Goals': 2.0, 'Continental[a] Apps': '2', 'Continental[a] Goals': '1', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 55, 'Total Goals': 29}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Leeds United",
+      "league_apps": 41,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1972\u201373', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 15, 'FA Cup Apps': 8.0, 'FA Cup Goals': 3.0, 'League Cup Apps': 5.0, 'League Cup Goals': 3.0, 'Continental[a] Apps': '9', 'Continental[a] Goals': '2', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 63, 'Total Goals': 23}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Leeds United",
+      "league_apps": 37,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1973\u201374', 'League Division': 'First Division', 'League Apps': 37, 'League Goals': 12, 'FA Cup Apps': 5.0, 'FA Cup Goals': 2.0, 'League Cup Apps': 0.0, 'League Cup Goals': 0.0, 'Continental[a] Apps': '5', 'Continental[a] Goals': '0', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 14}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Leeds United",
+      "league_apps": 36,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1974\u201375', 'League Division': 'First Division', 'League Apps': 36, 'League Goals': 9, 'FA Cup Apps': 4.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 5.0, 'League Cup Goals': 3.0, 'Continental[a] Apps': '8', 'Continental[a] Goals': '4', 'Other[b][25][26] Apps': '1', 'Other[b][25][26] Goals': '0', 'Total Apps': 53, 'Total Goals': 16}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Leeds United",
+      "league_apps": 29,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1975\u201376', 'League Division': 'First Division', 'League Apps': 29, 'League Goals': 10, 'FA Cup Apps': 2.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 2.0, 'League Cup Goals': 1.0, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 11}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Leeds United",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1976\u201377', 'League Division': 'First Division', 'League Apps': 26, 'League Goals': 3, 'FA Cup Apps': 2.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 0.0, 'League Cup Goals': 0.0, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 3}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Leeds United",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1977\u201378', 'League Division': 'First Division', 'League Apps': 28, 'League Goals': 6, 'FA Cup Apps': 0.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 4.0, 'League Cup Goals': 3.0, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 9}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Leeds United",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1978\u201379', 'League Division': 'First Division', 'League Apps': 3, 'League Goals': 0, 'FA Cup Apps': 0.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 1.0, 'League Cup Goals': 0.0, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Leeds United",
+      "league_apps": 450,
+      "league_goals": 151,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 450, 'League Goals': 151, 'FA Cup Apps': 55.0, 'FA Cup Goals': 20.0, 'League Cup Apps': 37.0, 'League Cup Goals': 18.0, 'Continental[a] Apps': '74', 'Continental[a] Goals': '30', 'Other[b][25][26] Apps': '2', 'Other[b][25][26] Goals': '0', 'Total Apps': 618, 'Total Goals': 219}"
+    },
+    {
+      "season": "1971",
+      "club": "Cape Town City (loan)",
+      "league_apps": 6,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Cape Town City (loan)', 'Season Season': '1971', 'League Division': 'National Football League', 'League Apps': 6, 'League Goals': 8, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 6, 'Total Goals': 8}"
+    },
+    {
+      "season": "1979",
+      "club": "Toronto Blizzard",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Toronto Blizzard', 'Season Season': '1979', 'League Division': 'North American Soccer League', 'League Apps': 29, 'League Goals': 9, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 9}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "York City",
+      "league_apps": 29,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'York City', 'Season Season': '1979\u201380', 'League Division': 'Fourth Division', 'League Apps': 29, 'League Goals': 8, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 8}"
+    },
+    {
+      "season": "1980",
+      "club": "Toronto Blizzard",
+      "league_apps": 18,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Toronto Blizzard', 'Season Season': '1980', 'League Division': 'North American Soccer League', 'League Apps': 18, 'League Goals': 2, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 2}"
+    },
+    {
+      "season": "1981",
+      "club": "Vancouver Whitecaps",
+      "league_apps": 27,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Vancouver Whitecaps', 'Season Season': '1981', 'League Division': 'North American Soccer League', 'League Apps': 27, 'League Goals': 8, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 8}"
+    },
+    {
+      "season": "1982",
+      "club": "Vancouver Whitecaps",
+      "league_apps": 28,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Vancouver Whitecaps', 'Season Season': '1982', 'League Division': 'North American Soccer League', 'League Apps': 28, 'League Goals': 10, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 10}"
+    },
+    {
+      "season": "1983",
+      "club": "Vancouver Whitecaps",
+      "league_apps": 25,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Vancouver Whitecaps', 'Season Season': '1983', 'League Division': 'North American Soccer League', 'League Apps': 25, 'League Goals': 4, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Vancouver Whitecaps",
+      "league_apps": 80,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Vancouver Whitecaps', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 80, 'League Goals': 22, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Continental[a] Apps': nan, 'Continental[a] Goals': nan, 'Other[b][25][26] Apps': nan, 'Other[b][25][26] Goals': nan, 'Total Apps': 80, 'Total Goals': 22}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "University College Dublin (loan)",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'University College Dublin (loan)', 'Season Season': '1982\u201383', 'League Division': 'League of Ireland', 'League Apps': 3, 'League Goals': 0, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Leeds United",
+      "league_apps": 22,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1983\u201384', 'League Division': 'Second Division', 'League Apps': 22, 'League Goals': 4, 'FA Cup Apps': 3.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 0.0, 'League Cup Goals': 0.0, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 4}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Leeds United",
+      "league_apps": 40,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1984\u201385', 'League Division': 'Second Division', 'League Apps': 40, 'League Goals': 9, 'FA Cup Apps': 1.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 3.0, 'League Cup Goals': 1.0, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '\u2014', 'Other[b][25][26] Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 10}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Leeds United",
+      "league_apps": 14,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1985\u201386', 'League Division': 'Second Division', 'League Apps': 14, 'League Goals': 4, 'FA Cup Apps': 0.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 2.0, 'League Cup Goals': 0.0, 'Continental[a] Apps': '\u2014', 'Continental[a] Goals': '\u2014', 'Other[b][25][26] Apps': '2', 'Other[b][25][26] Goals': '1', 'Total Apps': 18, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Leeds United",
+      "league_apps": 76,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 76, 'League Goals': 17, 'FA Cup Apps': 4.0, 'FA Cup Goals': 0.0, 'League Cup Apps': 5.0, 'League Cup Goals': 1.0, 'Continental[a] Apps': '0', 'Continental[a] Goals': '0', 'Other[b][25][26] Apps': '2', 'Other[b][25][26] Goals': '1', 'Total Apps': 80, 'Total Goals': 22}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 691,
+      "league_goals": 217,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 691, 'League Goals': 217, 'FA Cup Apps': 59.0, 'FA Cup Goals': 20.0, 'League Cup Apps': 42.0, 'League Cup Goals': 19.0, 'Continental[a] Apps': '74', 'Continental[a] Goals': '30', 'Other[b][25][26] Apps': '4', 'Other[b][25][26] Goals': '1', 'Total Apps': 870, 'Total Goals': 287}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Peter Lorimer - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"211f181c-1f0a-45b2-9bc8-33918b73b879\",\"",
+  "season_id": "1975",
+  "award_year": 1975
+}

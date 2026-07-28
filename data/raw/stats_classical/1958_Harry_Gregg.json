@@ -1,0 +1,154 @@
+{
+  "player_name_raw": "Harry Gregg",
+  "fetch_status": "ok",
+  "wikipedia_title": "Harry_Gregg",
+  "url": "https://en.wikipedia.org/wiki/Harry_Gregg",
+  "position": "Goalkeeper",
+  "birth_year": 1932,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1952\u201353",
+      "club": "Doncaster Rovers",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Doncaster Rovers', 'Season Season': '1952\u201353', 'League Division': 'Second Division', 'League Apps': 8, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "1953\u201354",
+      "club": "Doncaster Rovers",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Doncaster Rovers', 'Season Season': '1953\u201354', 'League Division': 'Second Division', 'League Apps': 2, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "1954\u201355",
+      "club": "Doncaster Rovers",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Doncaster Rovers', 'Season Season': '1954\u201355', 'League Division': 'Second Division', 'League Apps': 2, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "1955\u201356",
+      "club": "Doncaster Rovers",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Doncaster Rovers', 'Season Season': '1955\u201356', 'League Division': 'Second Division', 'League Apps': 21, 'League Goals': 0, 'FA Cup Apps': 3, 'FA Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 24, 'Total Goals': 0}"
+    },
+    {
+      "season": "1956\u201357",
+      "club": "Doncaster Rovers",
+      "league_apps": 40,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Doncaster Rovers', 'Season Season': '1956\u201357', 'League Division': 'Second Division', 'League Apps': 40, 'League Goals': 0, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "Doncaster Rovers",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Doncaster Rovers', 'Season Season': '1957\u201358', 'League Division': 'Second Division', 'League Apps': 21, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 21, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Doncaster Rovers",
+      "league_apps": 94,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Doncaster Rovers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 94, 'League Goals': 0, 'FA Cup Apps': 5, 'FA Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 99, 'Total Goals': 0}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "Manchester United",
+      "league_apps": 19,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1957\u201358', 'League Division': 'First Division', 'League Apps': 19, 'League Goals': 0, 'FA Cup Apps': 8, 'FA Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '4', 'Europe Goals': '0', 'Total Apps': 31, 'Total Goals': 0}"
+    },
+    {
+      "season": "1958\u201359",
+      "club": "Manchester United",
+      "league_apps": 41,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1958\u201359', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "Manchester United",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1959\u201360', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 0, 'FA Cup Apps': 3, 'FA Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 36, 'Total Goals': 0}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Manchester United",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1960\u201361', 'League Division': 'First Division', 'League Apps': 27, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 30, 'Total Goals': 0}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Manchester United",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1961\u201362', 'League Division': 'First Division', 'League Apps': 13, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 13, 'Total Goals': 0}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Manchester United",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1962\u201363', 'League Division': 'First Division', 'League Apps': 24, 'League Goals': 0, 'FA Cup Apps': 4, 'FA Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 28, 'Total Goals': 0}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Manchester United",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1963\u201364', 'League Division': 'First Division', 'League Apps': 25, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Total Apps': 27, 'Total Goals': 0}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Manchester United",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1964\u201365', 'League Division': 'First Division', 'League Apps': 0, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Manchester United",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1965\u201366', 'League Division': 'First Division', 'League Apps': 26, 'League Goals': 0, 'FA Cup Apps': 7, 'FA Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '5', 'Europe Goals': '0', 'Total Apps': 38, 'Total Goals': 0}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Manchester United",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1966\u201367', 'League Division': 'First Division', 'League Apps': 2, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester United",
+      "league_apps": 210,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 210, 'League Goals': 0, 'FA Cup Apps': 24, 'FA Cup Goals': 0, 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '13', 'Europe Goals': '0', 'Total Apps': 247, 'Total Goals': 0}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Stoke City",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1966\u201367', 'League Division': 'First Division', 'League Apps': 2, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 306,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 306, 'League Goals': 0, 'FA Cup Apps': 29, 'FA Cup Goals': 0, 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '13', 'Europe Goals': '0', 'Total Apps': 348, 'Total Goals': 0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Harry Gregg - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"c50c1e56-4827-4d86-b094-2f25e86b6de7\",\"wg",
+  "season_id": "1958",
+  "award_year": 1958
+}

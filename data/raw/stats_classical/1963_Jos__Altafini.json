@@ -1,0 +1,168 @@
+{
+  "player_name_raw": "Jos\u00e9 Altafini",
+  "fetch_status": "ok",
+  "wikipedia_title": "Jos\u00e9_Altafini",
+  "url": "https://en.wikipedia.org/wiki/Jos\u00e9_Altafini",
+  "position": "Striker",
+  "birth_year": 1938,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1958\u201359",
+      "club": "AC Milan",
+      "league_apps": 32,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1958\u201359', 'League Apps': 32, 'League Goals': 28, 'Cup Apps': 4.0, 'Cup Goals': 4.0, 'Europe[a] Apps': nan, 'Europe[a] Goals': nan, 'Other Apps': 2.0, 'Other Goals': 2.0, 'Total Apps': 38, 'Total Goals': 34}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "AC Milan",
+      "league_apps": 33,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1959\u201360', 'League Apps': 33, 'League Goals': 20, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe[a] Apps': 4.0, 'Europe[a] Goals': 2.0, 'Other Apps': 2.0, 'Other Goals': 4.0, 'Total Apps': 39, 'Total Goals': 26}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "AC Milan",
+      "league_apps": 34,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1960\u201361', 'League Apps': 34, 'League Goals': 22, 'Cup Apps': 2.0, 'Cup Goals': 4.0, 'Europe[a] Apps': nan, 'Europe[a] Goals': nan, 'Other Apps': 2.0, 'Other Goals': 0.0, 'Total Apps': 38, 'Total Goals': 26}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "AC Milan",
+      "league_apps": 33,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1961\u201362', 'League Apps': 33, 'League Goals': 22, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe[a] Apps': 2.0, 'Europe[a] Goals': 0.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 35, 'Total Goals': 22}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1962\u201363', 'League Apps': 31, 'League Goals': 11, 'Cup Apps': 2.0, 'Cup Goals': 1.0, 'Europe[a] Apps': 9.0, 'Europe[a] Goals': 14.0, 'Other Apps': 4.0, 'Other Goals': 5.0, 'Total Apps': 46, 'Total Goals': 31}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1963\u201364', 'League Apps': 30, 'League Goals': 14, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Europe[a] Apps': 4.0, 'Europe[a] Goals': 4.0, 'Other Apps': 3.0, 'Other Goals': 1.0, 'Total Apps': 38, 'Total Goals': 19}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "AC Milan",
+      "league_apps": 12,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1964\u201365', 'League Apps': 12, 'League Goals': 3, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe[a] Apps': nan, 'Europe[a] Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 12, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 205,
+      "league_goals": 120,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Apps': 205, 'League Goals': 120, 'Cup Apps': 9.0, 'Cup Goals': 9.0, 'Europe[a] Apps': 19.0, 'Europe[a] Goals': 20.0, 'Other Apps': 13.0, 'Other Goals': 12.0, 'Total Apps': 246, 'Total Goals': 161}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Napoli",
+      "league_apps": 34,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1965\u201366', 'League Apps': 34, 'League Goals': 14, 'Cup Apps': 2.0, 'Cup Goals': 1.0, 'Europe[a] Apps': nan, 'Europe[a] Goals': nan, 'Other Apps': 5.0, 'Other Goals': 7.0, 'Total Apps': 41, 'Total Goals': 22}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Napoli",
+      "league_apps": 27,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1966\u201367', 'League Apps': 27, 'League Goals': 16, 'Cup Apps': 1.0, 'Cup Goals': 1.0, 'Europe[a] Apps': 5.0, 'Europe[a] Goals': 1.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 33, 'Total Goals': 18}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Napoli",
+      "league_apps": 29,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1967\u201368', 'League Apps': 29, 'League Goals': 13, 'Cup Apps': 2.0, 'Cup Goals': 1.0, 'Europe[a] Apps': 3.0, 'Europe[a] Goals': 3.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 34, 'Total Goals': 17}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Napoli",
+      "league_apps": 21,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1968\u201369', 'League Apps': 21, 'League Goals': 5, 'Cup Apps': 4.0, 'Cup Goals': 2.0, 'Europe[a] Apps': 3.0, 'Europe[a] Goals': 1.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 28, 'Total Goals': 8}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Napoli",
+      "league_apps": 15,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1969\u201370', 'League Apps': 15, 'League Goals': 8, 'Cup Apps': 3.0, 'Cup Goals': 0.0, 'Europe[a] Apps': 3.0, 'Europe[a] Goals': 0.0, 'Other Apps': 5.0, 'Other Goals': 3.0, 'Total Apps': 26, 'Total Goals': 11}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Napoli",
+      "league_apps": 25,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1970\u201371', 'League Apps': 25, 'League Goals': 7, 'Cup Apps': 11.0, 'Cup Goals': 4.0, 'Europe[a] Apps': nan, 'Europe[a] Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 36, 'Total Goals': 11}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Napoli",
+      "league_apps": 29,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1971\u201372', 'League Apps': 29, 'League Goals': 8, 'Cup Apps': 5.0, 'Cup Goals': 2.0, 'Europe[a] Apps': 2.0, 'Europe[a] Goals': 0.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 36, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Napoli",
+      "league_apps": 180,
+      "league_goals": 71,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': 'Total', 'League Apps': 180, 'League Goals': 71, 'Cup Apps': 28.0, 'Cup Goals': 11.0, 'Europe[a] Apps': 16.0, 'Europe[a] Goals': 5.0, 'Other Apps': 10.0, 'Other Goals': 10.0, 'Total Apps': 234, 'Total Goals': 97}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Juventus",
+      "league_apps": 23,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1972\u201373', 'League Apps': 23, 'League Goals': 9, 'Cup Apps': 6.0, 'Cup Goals': 0.0, 'Europe[a] Apps': 6.0, 'Europe[a] Goals': 3.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 35, 'Total Goals': 12}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Juventus",
+      "league_apps": 21,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1973\u201374', 'League Apps': 21, 'League Goals': 7, 'Cup Apps': 8.0, 'Cup Goals': 2.0, 'Europe[a] Apps': 2.0, 'Europe[a] Goals': 1.0, 'Other Apps': 1.0, 'Other Goals': 0.0, 'Total Apps': 32, 'Total Goals': 10}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Juventus",
+      "league_apps": 20,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1974\u201375', 'League Apps': 20, 'League Goals': 8, 'Cup Apps': 6.0, 'Cup Goals': 0.0, 'Europe[a] Apps': 9.0, 'Europe[a] Goals': 5.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 35, 'Total Goals': 13}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Juventus",
+      "league_apps": 10,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1975\u201376', 'League Apps': 10, 'League Goals': 1, 'Cup Apps': 4.0, 'Cup Goals': 1.0, 'Europe[a] Apps': 3.0, 'Europe[a] Goals': 0.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 17, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 74,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Apps': 74, 'League Goals': 25, 'Cup Apps': 24.0, 'Cup Goals': 3.0, 'Europe[a] Apps': 20.0, 'Europe[a] Goals': 9.0, 'Other Apps': 1.0, 'Other Goals': 0.0, 'Total Apps': 119, 'Total Goals': 37}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 459,
+      "league_goals": 216,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Apps': 459, 'League Goals': 216, 'Cup Apps': 61.0, 'Cup Goals': 23.0, 'Europe[a] Apps': 55.0, 'Europe[a] Goals': 34.0, 'Other Apps': 24.0, 'Other Goals': 22.0, 'Total Apps': 599, 'Total Goals': 295}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jos\u00e9 Altafini - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"67b5dac7-8894-4a18-baa2-ef2b956b14df\",\"",
+  "season_id": "1963",
+  "award_year": 1963
+}

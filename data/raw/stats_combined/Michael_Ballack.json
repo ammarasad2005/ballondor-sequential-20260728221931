@@ -1,0 +1,201 @@
+{
+  "player_name_raw": "Michael Ballack",
+  "fetch_status": "ok",
+  "wikipedia_title": "Michael_Ballack",
+  "url": "https://en.wikipedia.org/wiki/Michael_Ballack",
+  "position": "Midfielder",
+  "birth_year": 1976,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1994\u201395",
+      "club": "Chemnitzer FC II",
+      "league_apps": 7,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Chemnitzer FC II', 'Season Season': '1994\u201395[16]', 'League Division': 'Oberliga Nordost S\u00fcd', 'League Apps': 7, 'League Goals': 2, 'National cup[a] Apps': '\u2013', 'National cup[a] Goals': '\u2013', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 7, 'Total Goals': 2}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Chemnitzer FC II",
+      "league_apps": 11,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Chemnitzer FC II', 'Season Season': '1995\u201396[16]', 'League Division': 'Oberliga Nordost S\u00fcd', 'League Apps': 11, 'League Goals': 3, 'National cup[a] Apps': '\u2013', 'National cup[a] Goals': '\u2013', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 11, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Chemnitzer FC II",
+      "league_apps": 18,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Chemnitzer FC II', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 18, 'League Goals': 5, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 18, 'Total Goals': 5}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Chemnitzer FC",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Chemnitzer FC', 'Season Season': '1995\u201396[81][82]', 'League Division': '2. Bundesliga', 'League Apps': 15, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 16, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Chemnitzer FC",
+      "league_apps": 34,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Chemnitzer FC', 'Season Season': '1996\u201397[16][83]', 'League Division': 'Regionalliga Nordost', 'League Apps': 34, 'League Goals': 10, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Chemnitzer FC",
+      "league_apps": 49,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Chemnitzer FC', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 49, 'League Goals': 10, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 10}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 16,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC Kaiserslautern', 'Season Season': '1997\u201398[84]', 'League Division': 'Bundesliga', 'League Apps': 16, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 18, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 30,
+      "league_goals": 4,
+      "raw": "{'Club Club': '1. FC Kaiserslautern', 'Season Season': '1998\u201399[85]', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 4, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '6[c]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 46,
+      "league_goals": 4,
+      "raw": "{'Club Club': '1. FC Kaiserslautern', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 46, 'League Goals': 4, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '6', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 57, 'Total Goals': 4}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Bayer Leverkusen",
+      "league_apps": 23,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '1999\u20132000[86]', 'League Division': 'Bundesliga', 'League Apps': 23, 'League Goals': 3, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '2[d]', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 25, 'Total Goals': 5}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Bayer Leverkusen",
+      "league_apps": 27,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '2000\u201301[87]', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 7, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '5[d]', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 9}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Bayer Leverkusen",
+      "league_apps": 29,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '2001\u201302[88]', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 17, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '16[c]', 'Europe Goals': '6', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 50, 'Total Goals': 23}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayer Leverkusen",
+      "league_apps": 79,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 79, 'League Goals': 27, 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '23', 'Europe Goals': '10', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 110, 'Total Goals': 37}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Bayern Munich",
+      "league_apps": 26,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2002\u201303[89]', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 10, 'National cup[a] Apps': '5', 'National cup[a] Goals': '4', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '7[c]', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 15}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Bayern Munich",
+      "league_apps": 28,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2003\u201304[90]', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 7, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'League cup[b] Apps': '1', 'League cup[b] Goals': '2', 'Europe Apps': '8[c]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 11}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Bayern Munich",
+      "league_apps": 27,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2004\u201305[91]', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 13, 'National cup[a] Apps': '4', 'National cup[a] Goals': '3', 'League cup[b] Apps': '2', 'League cup[b] Goals': '2', 'Europe Apps': '9[c]', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 42, 'Total Goals': 20}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Bayern Munich",
+      "league_apps": 26,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2005\u201306[92]', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 14, 'National cup[a] Apps': '5', 'National cup[a] Goals': '1', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '6[c]', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 37, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 107,
+      "league_goals": 44,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 107, 'League Goals': 44, 'National cup[a] Apps': '17', 'National cup[a] Goals': '10', 'League cup[b] Apps': '3', 'League cup[b] Goals': '4', 'Europe Apps': '30', 'Europe Goals': '4', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 157, 'Total Goals': 62}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Chelsea",
+      "league_apps": 26,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2006\u201307[93]', 'League Division': 'Premier League', 'League Apps': 26, 'League Goals': 5, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '6', 'League cup[b] Goals': '0', 'Europe Apps': '10[c]', 'Europe Goals': '2', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 8}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Chelsea",
+      "league_apps": 18,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2007\u201308[94]', 'League Division': 'Premier League', 'League Apps': 18, 'League Goals': 7, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '7[c]', 'Europe Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 30, 'Total Goals': 9}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Chelsea",
+      "league_apps": 29,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2008\u201309[95]', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 1, 'National cup[a] Apps': '6', 'National cup[a] Goals': '3', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '10[c]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 46, 'Total Goals': 4}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Chelsea",
+      "league_apps": 32,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2009\u201310[96]', 'League Division': 'Premier League', 'League Apps': 32, 'League Goals': 4, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '6[c]', 'Europe Goals': '0', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Chelsea",
+      "league_apps": 105,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 105, 'League Goals': 17, 'National cup[a] Apps': '15', 'National cup[a] Goals': '5', 'League cup[b] Apps': '12', 'League cup[b] Goals': '0', 'Europe Apps': '33', 'Europe Goals': '4', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 167, 'Total Goals': 26}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Bayer Leverkusen",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '2010\u201311[97]', 'League Division': 'Bundesliga', 'League Apps': 17, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '3[f]', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 20, 'Total Goals': 2}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Bayer Leverkusen",
+      "league_apps": 18,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '2011\u201312[98]', 'League Division': 'Bundesliga', 'League Apps': 18, 'League Goals': 2, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '6[c]', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 25, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayer Leverkusen",
+      "league_apps": 35,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 35, 'League Goals': 2, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '9', 'Europe Goals': '3', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 5}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 439,
+      "league_goals": 109,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 439, 'League Goals': 109, 'National cup[a] Apps': '45', 'National cup[a] Goals': '15', 'League cup[b] Apps': '18', 'League cup[b] Goals': '4', 'Europe Apps': '101', 'Europe Goals': '21', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 605, 'Total Goals': 149}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Michael Ballack - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"980417a6-af5d-4fe1-ba90-c7f962481b0d\""
+}

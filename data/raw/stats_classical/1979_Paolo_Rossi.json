@@ -1,0 +1,147 @@
+{
+  "player_name_raw": "Paolo Rossi",
+  "fetch_status": "ok",
+  "wikipedia_title": "Paolo_Rossi",
+  "url": "https://en.wikipedia.org/wiki/Paolo_Rossi",
+  "position": "Striker",
+  "birth_year": 1956,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1973\u201374",
+      "club": "Juventus",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1973\u201374', 'League Division': 'Serie A', 'League Apps': 0, 'League Goals': 0, 'Coppa Italia Apps': 1, 'Coppa Italia Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Juventus",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1974\u201375', 'League Division': 'Serie A', 'League Apps': 0, 'League Goals': 0, 'Coppa Italia Apps': 2, 'Coppa Italia Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 0, 'League Goals': 0, 'Coppa Italia Apps': 3, 'Coppa Italia Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Como",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Como', 'Season Season': '1975\u201376', 'League Division': 'Serie A', 'League Apps': 6, 'League Goals': 0, 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Lanerossi Vicenza",
+      "league_apps": 36,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Lanerossi Vicenza', 'Season Season': '1976\u201377', 'League Division': 'Serie B', 'League Apps': 36, 'League Goals': 21, 'Coppa Italia Apps': 6, 'Coppa Italia Goals': 2, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 42, 'Total Goals': 23}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Lanerossi Vicenza",
+      "league_apps": 30,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Lanerossi Vicenza', 'Season Season': '1977\u201378', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 24, 'Coppa Italia Apps': 4, 'Coppa Italia Goals': 2, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 26}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Lanerossi Vicenza",
+      "league_apps": 28,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Lanerossi Vicenza', 'Season Season': '1978\u201379', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 15, 'Coppa Italia Apps': 3, 'Coppa Italia Goals': 2, 'Europe Apps': '1[a]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 17}"
+    },
+    {
+      "season": "Total",
+      "club": "Lanerossi Vicenza",
+      "league_apps": 94,
+      "league_goals": 60,
+      "raw": "{'Club Club': 'Lanerossi Vicenza', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 94, 'League Goals': 60, 'Coppa Italia Apps': 13, 'Coppa Italia Goals': 6, 'Europe Apps': '1', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 108, 'Total Goals': 66}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Perugia",
+      "league_apps": 28,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Perugia', 'Season Season': '1979\u201380', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 13, 'Coppa Italia Apps': 4, 'Coppa Italia Goals': 0, 'Europe Apps': '4[a]', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 14}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Perugia",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Perugia', 'Season Season': '1980\u201381', 'League Division': 'Serie A', 'League Apps': 0, 'League Goals': 0, 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Perugia",
+      "league_apps": 28,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Perugia', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 28, 'League Goals': 13, 'Coppa Italia Apps': 4, 'Coppa Italia Goals': 0, 'Europe Apps': '4', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 14}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Juventus",
+      "league_apps": 3,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1981\u201382', 'League Division': 'Serie A', 'League Apps': 3, 'League Goals': 1, 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 3, 'Total Goals': 1}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Juventus",
+      "league_apps": 23,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1982\u201383', 'League Division': 'Serie A', 'League Apps': 23, 'League Goals': 7, 'Coppa Italia Apps': 11, 'Coppa Italia Goals': 5, 'Europe Apps': '9[b]', 'Europe Goals': '6', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 43, 'Total Goals': 18}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1983\u201384', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 13, 'Coppa Italia Apps': 7, 'Coppa Italia Goals': 0, 'Europe Apps': '9[c]', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 46, 'Total Goals': 15}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Juventus",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1984\u201385', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 3, 'Coppa Italia Apps': 6, 'Coppa Italia Goals': 2, 'Europe Apps': '9[b]', 'Europe Goals': '5', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 83,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 83, 'League Goals': 24, 'Coppa Italia Apps': 24, 'Coppa Italia Goals': 7, 'Europe Apps': '27', 'Europe Goals': '13', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 135, 'Total Goals': 44}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Milan",
+      "league_apps": 20,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Milan', 'Season Season': '1985\u201386', 'League Division': 'Serie A', 'League Apps': 20, 'League Goals': 2, 'Coppa Italia Apps': 3, 'Coppa Italia Goals': 1, 'Europe Apps': '3[a]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 26, 'Total Goals': 3}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Hellas Verona",
+      "league_apps": 20,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Hellas Verona', 'Season Season': '1986\u201387', 'League Division': 'Serie A', 'League Apps': 20, 'League Goals': 4, 'Coppa Italia Apps': 7, 'Coppa Italia Goals': 3, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 27, 'Total Goals': 7}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 251,
+      "league_goals": 103,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 251, 'League Goals': 103, 'Coppa Italia Apps': 54, 'Coppa Italia Goals': 17, 'Europe Apps': '35', 'Europe Goals': '14', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 341, 'Total Goals': 134}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Paolo Rossi - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"28be5ce6-95e3-41c8-ba7d-3ef73f5ab245\",\"wg",
+  "season_id": "1979",
+  "award_year": 1979
+}

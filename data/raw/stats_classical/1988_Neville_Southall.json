@@ -1,0 +1,238 @@
+{
+  "player_name_raw": "Neville Southall",
+  "fetch_status": "ok",
+  "wikipedia_title": "Neville_Southall",
+  "url": "https://en.wikipedia.org/wiki/Neville_Southall",
+  "position": "Goalkeeper",
+  "birth_year": 1958,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1980\u201381",
+      "club": "Bury",
+      "league_apps": 39,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bury', 'Season Season': '1980\u201381', 'League Division': 'Fourth Division', 'League Apps': 39, 'League Goals': 0, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '5', 'Other[A] Goals': '0', 'Total Apps': 49, 'Total Goals': 0}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Everton",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1981\u201382[157]', 'League Division': 'First Division', 'League Apps': 26, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 0}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Everton",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1982\u201383[157]', 'League Division': 'First Division', 'League Apps': 17, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 0}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Everton",
+      "league_apps": 35,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1983\u201384[157]', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 0, 'National cup[a] Apps': '8', 'National cup[a] Goals': '0', 'League cup[b] Apps': '11', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 54, 'Total Goals': 0}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Everton",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1984\u201385[157]', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 0, 'National cup[a] Apps': '7', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Europe Apps': '9', 'Europe Goals': '0', 'Other[A] Apps': '1', 'Other[A] Goals': '0', 'Total Apps': 63, 'Total Goals': 0}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Everton",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1985\u201386[157]', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 0, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '5', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '7', 'Other[A] Goals': '0', 'Total Apps': 49, 'Total Goals': 0}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Everton",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1986\u201387[157]', 'League Division': 'First Division', 'League Apps': 31, 'League Goals': 0, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '2', 'Other[A] Goals': '0', 'Total Apps': 39, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Everton",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1987\u201388[157]', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 0, 'National cup[a] Apps': '8', 'National cup[a] Goals': '0', 'League cup[b] Apps': '7', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '2', 'Other[A] Goals': '0', 'Total Apps': 49, 'Total Goals': 0}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Everton",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1988\u201389[157]', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 0, 'National cup[a] Apps': '8', 'National cup[a] Goals': '0', 'League cup[b] Apps': '5', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '4', 'Other[A] Goals': '0', 'Total Apps': 55, 'Total Goals': 0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Everton",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1989\u201390[157]', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 0, 'National cup[a] Apps': '7', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Everton",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1990\u201391[157]', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 0, 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '6', 'Other[A] Goals': '0', 'Total Apps': 53, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Everton",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1991\u201392[157]', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '2', 'Other[A] Goals': '0', 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Everton",
+      "league_apps": 40,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1992\u201393[157]', 'League Division': 'Premier League', 'League Apps': 40, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '6', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Everton",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1993\u201394[157]', 'League Division': 'Premier League', 'League Apps': 42, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Everton",
+      "league_apps": 41,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1994\u201395[157]', 'League Division': 'Premier League', 'League Apps': 41, 'League Goals': 0, 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Everton",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1995\u201396[157]', 'League Division': 'Premier League', 'League Apps': 38, 'League Goals': 0, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '4', 'Europe Goals': '0', 'Other[A] Apps': '1', 'Other[A] Goals': '0', 'Total Apps': 49, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Everton",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1996\u201397[158]', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Everton",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1997\u201398[90]', 'League Division': 'Premier League', 'League Apps': 12, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Everton",
+      "league_apps": 578,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 578, 'League Goals': 0, 'National cup[a] Apps': '70', 'National cup[a] Goals': '0', 'League cup[b] Apps': '65', 'League cup[b] Goals': '0', 'Europe Apps': '13', 'Europe Goals': '0', 'Other[A] Apps': '25', 'Other[A] Goals': '0', 'Total Apps': 751, 'Total Goals': 0}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Port Vale (loan)",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Port Vale (loan)', 'Season Season': '1982\u201383[1]', 'League Division': 'Fourth Division', 'League Apps': 9, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Southend United (loan)",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Southend United (loan)', 'Season Season': '1997\u201398[90]', 'League Division': 'Second Division', 'League Apps': 9, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Stoke City",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1997\u201398[90]', 'League Division': 'First Division', 'League Apps': 12, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Doncaster Rovers",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Doncaster Rovers', 'Season Season': '1998\u201399[159]', 'League Division': 'Conference', 'League Apps': 9, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '0', 'Other[A] Goals': '0', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Torquay United",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Torquay United', 'Season Season': '1998\u201399[159]', 'League Division': 'Third Division', 'League Apps': 25, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '2', 'Other[A] Goals': '0', 'Total Apps': 27, 'Total Goals': 0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Torquay United",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Torquay United', 'Season Season': '1999\u20132000[160]', 'League Division': 'Third Division', 'League Apps': 28, 'League Goals': 0, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '0', 'Other[A] Goals': '0', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Torquay United",
+      "league_apps": 53,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Torquay United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 53, 'League Goals': 0, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '2', 'Other[A] Goals': '0', 'Total Apps': 61, 'Total Goals': 0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Bradford City",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bradford City', 'Season Season': '1999\u20132000[160]', 'League Division': 'Premier League', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "York City",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'York City', 'Season Season': '2000\u201301[161]', 'League Division': 'Third Division', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Rhyl",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rhyl', 'Season Season': '2001\u201302[162]', 'League Division': 'League of Wales', 'League Apps': 3, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '0', 'Other[A] Goals': '0', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Shrewsbury Town",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Shrewsbury Town', 'Season Season': '2001\u201302[163]', 'League Division': 'Third Division', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Dagenham & Redbridge",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dagenham & Redbridge', 'Season Season': '2001\u201302[163]', 'League Division': 'Conference', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[A] Apps': '\u2014', 'Other[A] Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 713,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 713, 'League Goals': 0, 'National cup[a] Apps': '79', 'National cup[a] Goals': '0', 'League cup[b] Apps': '67', 'League cup[b] Goals': '0', 'Europe Apps': '13', 'Europe Goals': '0', 'Other[A] Apps': '32', 'Other[A] Goals': '0', 'Total Apps': 904, 'Total Goals': 0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Neville Southall - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"e343b3ac-42b3-4a24-8947-3f656d57efa7",
+  "season_id": "1988",
+  "award_year": 1988
+}

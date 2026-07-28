@@ -1,0 +1,175 @@
+{
+  "player_name_raw": "Txiki Begiristain",
+  "fetch_status": "ok",
+  "wikipedia_title": "Txiki_Begiristain",
+  "url": "https://en.wikipedia.org/wiki/Txiki_Begiristain",
+  "position": "Winger forward",
+  "birth_year": 1964,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1982\u201383",
+      "club": "Real Sociedad",
+      "league_apps": 16,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '1982\u201383', 'League Division': 'La Liga', 'League Apps': 16, 'League Goals': 0, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 21, 'Total Goals': 0}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Real Sociedad",
+      "league_apps": 33,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '1983\u201384', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 3, 'National cup[a] Apps': 7.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '4', 'League cup[b] Goals': '1', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 44, 'Total Goals': 4}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Real Sociedad",
+      "league_apps": 31,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '1984\u201385', 'League Division': 'La Liga', 'League Apps': 31, 'League Goals': 5, 'National cup[a] Apps': 9.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 42, 'Total Goals': 6}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Real Sociedad",
+      "league_apps": 29,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '1985\u201386', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 1, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': '6', 'League cup[b] Goals': '1', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 2}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Real Sociedad",
+      "league_apps": 42,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '1986\u201387', 'League Division': 'La Liga', 'League Apps': 42, 'League Goals': 9, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 42, 'Total Goals': 9}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Real Sociedad",
+      "league_apps": 36,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '1987\u201388', 'League Division': 'La Liga', 'League Apps': 36, 'League Goals': 5, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': '4', 'Continental Goals': '0', 'Total Apps': 40, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Sociedad",
+      "league_apps": 187,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 187, 'League Goals': 23, 'National cup[a] Apps': 18.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '15', 'League cup[b] Goals': '2', 'Continental Apps': '4', 'Continental Goals': '0', 'Total Apps': 224, 'Total Goals': 26}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Barcelona",
+      "league_apps": 38,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1988\u201389', 'League Division': 'La Liga', 'League Apps': 38, 'League Goals': 12, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '9', 'Continental Goals': '2', 'Total Apps': 52, 'Total Goals': 14}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Barcelona",
+      "league_apps": 37,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1989\u201390', 'League Division': 'La Liga', 'League Apps': 37, 'League Goals': 10, 'National cup[a] Apps': 7.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '6', 'Continental Goals': '1', 'Total Apps': 50, 'Total Goals': 11}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Barcelona",
+      "league_apps": 33,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1990\u201391', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 6, 'National cup[a] Apps': 7.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '8', 'Continental Goals': '2', 'Total Apps': 48, 'Total Goals': 8}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Barcelona",
+      "league_apps": 34,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1991\u201392', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 7, 'National cup[a] Apps': 4.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '8', 'Continental Goals': '2', 'Total Apps': 46, 'Total Goals': 9}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Barcelona",
+      "league_apps": 37,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1992\u201393', 'League Division': 'La Liga', 'League Apps': 37, 'League Goals': 15, 'National cup[a] Apps': 7.0, 'National cup[a] Goals': 5.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '7', 'Continental Goals': '2', 'Total Apps': 51, 'Total Goals': 22}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Barcelona",
+      "league_apps": 20,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1993\u201394', 'League Division': 'La Liga', 'League Apps': 20, 'League Goals': 7, 'National cup[a] Apps': 4.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '10', 'Continental Goals': '2', 'Total Apps': 34, 'Total Goals': 9}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Barcelona",
+      "league_apps": 24,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1994\u201395', 'League Division': 'La Liga', 'League Apps': 24, 'League Goals': 6, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 2.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '6', 'Continental Goals': '0', 'Total Apps': 32, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 223,
+      "league_goals": 63,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 223, 'League Goals': 63, 'National cup[a] Apps': 36.0, 'National cup[a] Goals': 7.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '54', 'Continental Goals': '11', 'Total Apps': 313, 'Total Goals': 81}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Deportivo",
+      "league_apps": 33,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Deportivo', 'Season Season': '1995\u201396', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 2, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '7', 'Continental Goals': '1', 'Total Apps': 42, 'Total Goals': 3}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Deportivo",
+      "league_apps": 10,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Deportivo', 'Season Season': '1996\u201397', 'League Division': 'La Liga', 'League Apps': 10, 'League Goals': 2, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 13, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Deportivo",
+      "league_apps": 43,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Deportivo', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 43, 'League Goals': 4, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '7', 'Continental Goals': '1', 'Total Apps': 55, 'Total Goals': 5}"
+    },
+    {
+      "season": "1997",
+      "club": "Urawa Red Diamonds",
+      "league_apps": 15,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Urawa Red Diamonds', 'Season Season': '1997', 'League Division': 'J1 League', 'League Apps': 15, 'League Goals': 4, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 19, 'Total Goals': 4}"
+    },
+    {
+      "season": "1998",
+      "club": "Urawa Red Diamonds",
+      "league_apps": 30,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Urawa Red Diamonds', 'Season Season': '1998', 'League Division': 'J1 League', 'League Apps': 30, 'League Goals': 9, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '4', 'League cup[b] Goals': '2', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 37, 'Total Goals': 11}"
+    },
+    {
+      "season": "1999",
+      "club": "Urawa Red Diamonds",
+      "league_apps": 16,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Urawa Red Diamonds', 'Season Season': '1999', 'League Division': 'J1 League', 'League Apps': 16, 'League Goals': 3, 'National cup[a] Apps': 0.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '4', 'League cup[b] Goals': '1', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 20, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Urawa Red Diamonds",
+      "league_apps": 61,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Urawa Red Diamonds', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 61, 'League Goals': 16, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '10', 'League cup[b] Goals': '3', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 76, 'Total Goals': 19}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 514,
+      "league_goals": 106,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 514, 'League Goals': 106, 'National cup[a] Apps': 64.0, 'National cup[a] Goals': 8.0, 'League cup[b] Apps': '25', 'League cup[b] Goals': '5', 'Continental Apps': '65', 'Continental Goals': '12', 'Total Apps': 668, 'Total Goals': 131}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Txiki Begiristain - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d34b42e1-1d79-4ec9-a59b-53093e83d9f",
+  "season_id": "1991",
+  "award_year": 1991
+}

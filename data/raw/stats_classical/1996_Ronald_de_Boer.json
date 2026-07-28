@@ -1,0 +1,224 @@
+{
+  "player_name_raw": "Ronald de Boer",
+  "fetch_status": "ok",
+  "wikipedia_title": "Ronald_de_Boer",
+  "url": "https://en.wikipedia.org/wiki/Ronald_de_Boer",
+  "position": "Midfielder winger",
+  "birth_year": 1970,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1987\u201388",
+      "club": "Ajax",
+      "league_apps": 1,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1987\u201388', 'League Division': 'Eredivisie', 'League Apps': 1, 'League Goals': 1, 'National cup Apps': 0.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 1, 'Total Goals': 1}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Ajax",
+      "league_apps": 17,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1988\u201389', 'League Division': 'Eredivisie', 'League Apps': 17, 'League Goals': 5, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 18, 'Total Goals': 5}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Ajax",
+      "league_apps": 20,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1989\u201390', 'League Division': 'Eredivisie', 'League Apps': 20, 'League Goals': 7, 'National cup Apps': 3.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': 2.0, 'Continental Goals': 0.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 25, 'Total Goals': 7}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Ajax",
+      "league_apps": 14,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1990\u201391', 'League Division': 'Eredivisie', 'League Apps': 14, 'League Goals': 1, 'National cup Apps': 3.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 17, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Ajax",
+      "league_apps": 52,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 52, 'League Goals': 14, 'National cup Apps': 7.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': 2.0, 'Continental Goals': 0.0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 61, 'Total Goals': 14}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Twente",
+      "league_apps": 33,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Twente', 'Season Season': '1991\u201392', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 11, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 34, 'Total Goals': 11}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Twente",
+      "league_apps": 16,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Twente', 'Season Season': '1992\u201393', 'League Division': 'Eredivisie', 'League Apps': 16, 'League Goals': 11, 'National cup Apps': 2.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 18, 'Total Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "Twente",
+      "league_apps": 49,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Twente', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 49, 'League Goals': 22, 'National cup Apps': 3.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 22}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Ajax",
+      "league_apps": 15,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1992\u201393', 'League Division': 'Eredivisie', 'League Apps': 15, 'League Goals': 5, 'National cup Apps': 3.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 18, 'Total Goals': 5}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Ajax",
+      "league_apps": 28,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1993\u201394', 'League Division': 'Eredivisie', 'League Apps': 28, 'League Goals': 5, 'National cup Apps': 4.0, 'National cup Goals': 2.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': 6.0, 'Continental Goals': 2.0, 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 39, 'Total Goals': 9}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Ajax",
+      "league_apps": 25,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1994\u201395[15]', 'League Division': 'Eredivisie', 'League Apps': 25, 'League Goals': 5, 'National cup Apps': 3.0, 'National cup Goals': 4.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': 10.0, 'Continental Goals': 2.0, 'Other Apps': '1[a]', 'Other Goals': '0', 'Total Apps': 39, 'Total Goals': 11}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Ajax",
+      "league_apps": 31,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1995\u201396[15]', 'League Division': 'Eredivisie', 'League Apps': 31, 'League Goals': 7, 'National cup Apps': 1.0, 'National cup Goals': 1.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': 11.0, 'Continental Goals': 1.0, 'Other Apps': '3[b]', 'Other Goals': '1', 'Total Apps': 46, 'Total Goals': 10}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Ajax",
+      "league_apps": 28,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1996\u201397[15]', 'League Division': 'Eredivisie', 'League Apps': 28, 'League Goals': 5, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': 10.0, 'Continental Goals': 1.0, 'Other Apps': '1[a]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 6}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Ajax",
+      "league_apps": 31,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1997\u201398[15]', 'League Division': 'Eredivisie', 'League Apps': 31, 'League Goals': 7, 'National cup Apps': 4.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': 8.0, 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 43, 'Total Goals': 7}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Ajax",
+      "league_apps": 15,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1998\u201399[15]', 'League Division': 'Eredivisie', 'League Apps': 15, 'League Goals': 2, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': 6.0, 'Continental Goals': 0.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 22, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Ajax",
+      "league_apps": 173,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 173, 'League Goals': 36, 'National cup Apps': 17.0, 'National cup Goals': 7.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': 51.0, 'Continental Goals': 6.0, 'Other Apps': '6', 'Other Goals': '1', 'Total Apps': 247, 'Total Goals': 50}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Barcelona",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1998\u201399[16]', 'League Division': 'La Liga', 'League Apps': 13, 'League Goals': 0, 'National cup Apps': 4.0, 'National cup Goals': 1.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 17, 'Total Goals': 1}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Barcelona",
+      "league_apps": 20,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1999\u20132000[16]', 'League Division': 'La Liga', 'League Apps': 20, 'League Goals': 1, 'National cup Apps': 6.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': 11.0, 'Continental Goals': 0.0, 'Other Apps': '1[c]', 'Other Goals': '1', 'Total Apps': 38, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 33, 'League Goals': 1, 'National cup Apps': 10.0, 'National cup Goals': 1.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': 11.0, 'Continental Goals': 0.0, 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': 55, 'Total Goals': 3}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Rangers",
+      "league_apps": 17,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '2000\u201301[17]', 'League Division': 'Scottish Premier League', 'League Apps': 17, 'League Goals': 6, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '1', 'League cup Goals': '0', 'Continental Apps': 7.0, 'Continental Goals': 1.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 26, 'Total Goals': 7}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Rangers",
+      "league_apps": 25,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '2001\u201302[18]', 'League Division': 'Scottish Premier League', 'League Apps': 25, 'League Goals': 8, 'National cup Apps': 4.0, 'National cup Goals': 0.0, 'League cup Apps': '3', 'League cup Goals': '0', 'Continental Apps': 7.0, 'Continental Goals': 2.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 10}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Rangers",
+      "league_apps": 33,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '2002\u201303[19]', 'League Division': 'Scottish Premier League', 'League Apps': 33, 'League Goals': 16, 'National cup Apps': 5.0, 'National cup Goals': 1.0, 'League cup Apps': '3', 'League cup Goals': '1', 'Continental Apps': 2.0, 'Continental Goals': 2.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 43, 'Total Goals': 20}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Rangers",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '2003\u201304[20]', 'League Division': 'Scottish Premier League', 'League Apps': 16, 'League Goals': 2, 'National cup Apps': 2.0, 'National cup Goals': 1.0, 'League cup Apps': '1', 'League cup Goals': '0', 'Continental Apps': 2.0, 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 21, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Rangers",
+      "league_apps": 91,
+      "league_goals": 32,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 91, 'League Goals': 32, 'National cup Apps': 12.0, 'National cup Goals': 2.0, 'League cup Apps': '8', 'League cup Goals': '1', 'Continental Apps': 18.0, 'Continental Goals': 5.0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 129, 'Total Goals': 40}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Al-Rayyan",
+      "league_apps": 22,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Al-Rayyan', 'Season Season': '2004\u201305[21]', 'League Division': 'Qatar Stars League', 'League Apps': 22, 'League Goals': 3, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 3}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Al-Shamal",
+      "league_apps": 17,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Al-Shamal', 'Season Season': '2005\u201306[21]', 'League Division': 'Qatar Stars League', 'League Apps': 17, 'League Goals': 5, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 3}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Al-Shamal",
+      "league_apps": 24,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Al-Shamal', 'Season Season': '2006\u201307[21]', 'League Division': 'Qatar Stars League', 'League Apps': 24, 'League Goals': 3, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 3}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Al-Shamal",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Al-Shamal', 'Season Season': '2007\u201308[21]', 'League Division': 'Qatar Stars League', 'League Apps': 15, 'League Goals': 0, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Al-Shamal",
+      "league_apps": 56,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Al-Shamal', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 56, 'League Goals': 8, 'National cup Apps': 0.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 56, 'Total Goals': 8}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 476,
+      "league_goals": 116,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 476, 'League Goals': 116, 'National cup Apps': 49.0, 'National cup Goals': 10.0, 'League cup Apps': '8', 'League cup Goals': '1', 'Continental Apps': 82.0, 'Continental Goals': 11.0, 'Other Apps': '7', 'Other Goals': '2', 'Total Apps': 622, 'Total Goals': 140}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Ronald de Boer - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ddf83fa7-590f-483e-a690-0568636b2a3d\",",
+  "season_id": "1996",
+  "award_year": 1996
+}

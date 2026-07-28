@@ -1,0 +1,159 @@
+{
+  "player_name_raw": "Jean Tigana",
+  "fetch_status": "ok",
+  "wikipedia_title": "Jean_Tigana",
+  "url": "https://en.wikipedia.org/wiki/Jean_Tigana",
+  "position": "Central midfielder",
+  "birth_year": 1955,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1975\u201376",
+      "club": "Toulon",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Toulon', 'Season Season': '1975\u201376', 'League Division': 'Division 2', 'League Apps': 23, 'League Goals': 1, 'National Cup Apps': nan, 'National Cup Goals': nan, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 23, 'Total Goals': 1}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Toulon",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Toulon', 'Season Season': '1976\u201377', 'League Division': 'Division 2', 'League Apps': 27, 'League Goals': 3, 'National Cup Apps': nan, 'National Cup Goals': nan, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 27, 'Total Goals': 3}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Toulon",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Toulon', 'Season Season': '1977\u201378', 'League Division': 'Division 2', 'League Apps': 26, 'League Goals': 6, 'National Cup Apps': nan, 'National Cup Goals': nan, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 26, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Toulon",
+      "league_apps": 76,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Toulon', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 76, 'League Goals': 10, 'National Cup Apps': 0.0, 'National Cup Goals': 0.0, 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 76, 'Total Goals': 10}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Lyon",
+      "league_apps": 36,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '1978\u201379', 'League Division': 'Division 1', 'League Apps': 36, 'League Goals': 3, 'National Cup Apps': nan, 'National Cup Goals': nan, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 3}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Lyon",
+      "league_apps": 33,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '1979\u201380', 'League Division': 'Division 1', 'League Apps': 33, 'League Goals': 5, 'National Cup Apps': nan, 'National Cup Goals': nan, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 5}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Lyon",
+      "league_apps": 35,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '1980\u201381', 'League Division': 'Division 1', 'League Apps': 35, 'League Goals': 7, 'National Cup Apps': nan, 'National Cup Goals': nan, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Lyon",
+      "league_apps": 104,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 104, 'League Goals': 15, 'National Cup Apps': 0.0, 'National Cup Goals': 0.0, 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 104, 'Total Goals': 15}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Bordeaux",
+      "league_apps": 27,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': '1981\u201382', 'League Division': 'Division 1', 'League Apps': 27, 'League Goals': 1, 'National Cup Apps': nan, 'National Cup Goals': nan, 'Europe Apps': '1[a]', 'Europe Goals': '0', 'Total Apps': 28, 'Total Goals': 1}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Bordeaux",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': '1982\u201383', 'League Division': 'Division 1', 'League Apps': 32, 'League Goals': 2, 'National Cup Apps': nan, 'National Cup Goals': nan, 'Europe Apps': '5[a]', 'Europe Goals': '0', 'Total Apps': 37, 'Total Goals': 1}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Bordeaux",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': '1983\u201384', 'League Division': 'Division 1', 'League Apps': 32, 'League Goals': 1, 'National Cup Apps': nan, 'National Cup Goals': nan, 'Europe Apps': '2[a]', 'Europe Goals': '0', 'Total Apps': 34, 'Total Goals': 1}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Bordeaux",
+      "league_apps": 28,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': '1984\u201385', 'League Division': 'Division 1', 'League Apps': 28, 'League Goals': 3, 'National Cup Apps': nan, 'National Cup Goals': nan, 'Europe Apps': '6[b]', 'Europe Goals': '0', 'Total Apps': 34, 'Total Goals': 3}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Bordeaux",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': '1985\u201386', 'League Division': 'Division 1', 'League Apps': 32, 'League Goals': 2, 'National Cup Apps': 3.0, 'National Cup Goals': 1.0, 'Europe Apps': '2[b]', 'Europe Goals': '0', 'Total Apps': 37, 'Total Goals': 3}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Bordeaux",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': '1986\u201387', 'League Division': 'Division 1', 'League Apps': 37, 'League Goals': 0, 'National Cup Apps': 3.0, 'National Cup Goals': 0.0, 'Europe Apps': '8[c]', 'Europe Goals': '0', 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Bordeaux",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': '1987\u201388', 'League Division': 'Division 1', 'League Apps': 30, 'League Goals': 1, 'National Cup Apps': nan, 'National Cup Goals': nan, 'Europe Apps': '5[b]', 'Europe Goals': '0', 'Total Apps': 35, 'Total Goals': 1}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Bordeaux",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': '1988\u201389', 'League Division': 'Division 1', 'League Apps': 33, 'League Goals': 1, 'National Cup Apps': nan, 'National Cup Goals': nan, 'Europe Apps': '6[a]', 'Europe Goals': '0', 'Total Apps': 39, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Bordeaux",
+      "league_apps": 251,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 251, 'League Goals': 11, 'National Cup Apps': 6.0, 'National Cup Goals': 1.0, 'Europe Apps': '35', 'Europe Goals': '0', 'Total Apps': 292, 'Total Goals': 12}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Marseille",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1989\u201390', 'League Division': 'Division 1', 'League Apps': 37, 'League Goals': 0, 'National Cup Apps': 2.0, 'National Cup Goals': 0.0, 'Europe Apps': '8[b]', 'Europe Goals': '0', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Marseille",
+      "league_apps": 19,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1990\u201391', 'League Division': 'Division 1', 'League Apps': 19, 'League Goals': 0, 'National Cup Apps': 1.0, 'National Cup Goals': 0.0, 'Europe Apps': '5[b]', 'Europe Goals': '1', 'Total Apps': 25, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Marseille",
+      "league_apps": 56,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 56, 'League Goals': 0, 'National Cup Apps': 3.0, 'National Cup Goals': 0.0, 'Europe Apps': '13', 'Europe Goals': '1', 'Total Apps': 72, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 487,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Total', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 487, 'League Goals': 36, 'National Cup Apps': 9.0, 'National Cup Goals': 1.0, 'Europe Apps': '48', 'Europe Goals': '1', 'Total Apps': 544, 'Total Goals': 38}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jean Tigana - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"abb3b381-6e7d-4f2a-829c-60968d46b9bf\",\"wg"
+}

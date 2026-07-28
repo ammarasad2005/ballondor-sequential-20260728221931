@@ -1,0 +1,154 @@
+{
+  "player_name_raw": "Pauleta",
+  "fetch_status": "ok",
+  "wikipedia_title": "Pauleta",
+  "url": "https://en.wikipedia.org/wiki/Pauleta",
+  "position": "Striker",
+  "birth_year": 1973,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1995\u201396",
+      "club": "Estoril",
+      "league_apps": 29,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Estoril', 'Season Season': '1995\u201396', 'League Division': 'Segunda Liga', 'League Apps': 29.0, 'League Goals': 18.0, 'National cup[a] Apps': 4.0, 'National cup[a] Goals': 5.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 33.0, 'Total Goals': 23.0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Salamanca",
+      "league_apps": 37,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Salamanca', 'Season Season': '1996\u201397', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 37.0, 'League Goals': 19.0, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40.0, 'Total Goals': 19.0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Salamanca",
+      "league_apps": 34,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Salamanca', 'Season Season': '1997\u201398', 'League Division': 'La Liga', 'League Apps': 34.0, 'League Goals': 15.0, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 35.0, 'Total Goals': 15.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Salamanca",
+      "league_apps": 71,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'Salamanca', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 71.0, 'League Goals': 34.0, 'National cup[a] Apps': 4.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 75.0, 'Total Goals': 34.0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Deportivo",
+      "league_apps": 28,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Deportivo', 'Season Season': '1998\u201399', 'League Division': 'La Liga', 'League Apps': 28.0, 'League Goals': 10.0, 'National cup[a] Apps': 9.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 37.0, 'Total Goals': 11.0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Deportivo",
+      "league_apps": 30,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Deportivo', 'Season Season': '1999\u20132000', 'League Division': 'La Liga', 'League Apps': 30.0, 'League Goals': 8.0, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '7[c]', 'Europe Goals': '3', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40.0, 'Total Goals': 11.0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Deportivo",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Deportivo', 'Season Season': '2000\u201301', 'League Division': 'La Liga', 'League Apps': 0.0, 'League Goals': 0.0, 'National cup[a] Apps': 0.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 1.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Deportivo",
+      "league_apps": 58,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Deportivo', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 58.0, 'League Goals': 18.0, 'National cup[a] Apps': 12.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '7', 'Europe Goals': '3', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 78.0, 'Total Goals': 22.0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Bordeaux",
+      "league_apps": 28,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': '2000\u201301', 'League Division': 'Ligue 1', 'League Apps': 28.0, 'League Goals': 20.0, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 3.0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '7[c]', 'Europe Goals': '3', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 37.0, 'Total Goals': 26.0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Bordeaux",
+      "league_apps": 33,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': '2001\u201302', 'League Division': 'Ligue 1', 'League Apps': 33.0, 'League Goals': 22.0, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 4.0, 'League cup[b] Apps': '4', 'League cup[b] Goals': '4', 'Europe Apps': '6[c]', 'Europe Goals': '5', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 45.0, 'Total Goals': 35.0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Bordeaux",
+      "league_apps": 37,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': '2002\u201303', 'League Division': 'Ligue 1', 'League Apps': 37.0, 'League Goals': 23.0, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 5.0, 'League cup[b] Apps': '2', 'League cup[b] Goals': '1', 'Europe Apps': '4[c]', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 48.0, 'Total Goals': 30.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Bordeaux",
+      "league_apps": 98,
+      "league_goals": 65,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 98.0, 'League Goals': 65.0, 'National cup[a] Apps': 8.0, 'National cup[a] Goals': 12.0, 'League cup[b] Apps': '7', 'League cup[b] Goals': '5', 'Europe Apps': '17', 'Europe Goals': '9', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 130.0, 'Total Goals': 91.0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Paris Saint-Germain",
+      "league_apps": 37,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2003\u201304', 'League Division': 'Ligue 1', 'League Apps': 37.0, 'League Goals': 18.0, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 5.0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 42.0, 'Total Goals': 23.0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Paris Saint-Germain",
+      "league_apps": 35,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2004\u201305', 'League Division': 'Ligue 1', 'League Apps': 35.0, 'League Goals': 14.0, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 4.0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '6[e]', 'Europe Goals': '1', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 44.0, 'Total Goals': 19.0}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Paris Saint-Germain",
+      "league_apps": 36,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2005\u201306', 'League Division': 'Ligue 1', 'League Apps': 36.0, 'League Goals': 21.0, 'National cup[a] Apps': 6.0, 'National cup[a] Goals': 5.0, 'League cup[b] Apps': '2', 'League cup[b] Goals': '2', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 44.0, 'Total Goals': 28.0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Paris Saint-Germain",
+      "league_apps": 33,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2006\u201307', 'League Division': 'Ligue 1', 'League Apps': 33.0, 'League Goals': 15.0, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '2', 'League cup[b] Goals': '2', 'Europe Apps': '9[c]', 'Europe Goals': '6', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 47.0, 'Total Goals': 24.0}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Paris Saint-Germain",
+      "league_apps": 27,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2007\u201308', 'League Division': 'Ligue 1', 'League Apps': 27.0, 'League Goals': 8.0, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '5', 'League cup[b] Goals': '6', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 34.0, 'Total Goals': 15.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Paris Saint-Germain",
+      "league_apps": 168,
+      "league_goals": 76,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 168.0, 'League Goals': 76.0, 'National cup[a] Apps': 18.0, 'National cup[a] Goals': 16.0, 'League cup[b] Apps': '9', 'League cup[b] Goals': '10', 'Europe Apps': '15', 'Europe Goals': '7', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 212.0, 'Total Goals': 109.0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 424,
+      "league_goals": 211,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 424.0, 'League Goals': 211.0, 'National cup[a] Apps': 46.0, 'National cup[a] Goals': 34.0, 'League cup[b] Apps': '16', 'League cup[b] Goals': '15', 'Europe Apps': '39', 'Europe Goals': '19', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 526.0, 'Total Goals': 279.0}"
+    },
+    {
+      "season": "nan",
+      "club": "nan",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': nan, 'Season Season': nan, 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Pauleta - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"6e0fc755-5b1b-4eaa-85cc-5c81cdac29c6\",\"wgCano",
+  "season_id": "2001",
+  "award_year": 2001
+}

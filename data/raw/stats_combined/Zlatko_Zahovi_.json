@@ -1,0 +1,187 @@
+{
+  "player_name_raw": "Zlatko Zahovi\u010d",
+  "fetch_status": "ok",
+  "wikipedia_title": "Zlatko_Zahovi\u010d",
+  "url": "https://en.wikipedia.org/wiki/Zlatko_Zahovi\u010d",
+  "position": "Attacking midfielder",
+  "birth_year": 1971,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1989\u201390",
+      "club": "Partizan",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1989\u201390', 'League Division': 'Yugoslav First League', 'League Apps': 0.0, 'League Goals': 0.0, 'National cup Apps': nan, 'National cup Goals': nan, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Mladost Petrinja (loan)",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Mladost Petrinja (loan)', 'Season Season': '1989\u201390', 'League Division': 'Yugoslav Inter-Republic League', 'League Apps': nan, 'League Goals': nan, 'National cup Apps': nan, 'National cup Goals': nan, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Proleter Zrenjanin (loan)",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Proleter Zrenjanin (loan)', 'Season Season': '1990\u201391', 'League Division': 'Yugoslav First League', 'League Apps': 25.0, 'League Goals': 0.0, 'National cup Apps': nan, 'National cup Goals': nan, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Partizan",
+      "league_apps": 22,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1991\u201392', 'League Division': 'Yugoslav First League', 'League Apps': 22.0, 'League Goals': 2.0, 'National cup Apps': '4', 'National cup Goals': '1', 'Continental Apps': '1', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27.0, 'Total Goals': 3.0}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Partizan",
+      "league_apps": 15,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1992\u201393', 'League Division': 'First League of FR Yugoslavia', 'League Apps': 15.0, 'League Goals': 3.0, 'National cup Apps': '4', 'National cup Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19.0, 'Total Goals': 4.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Partizan",
+      "league_apps": 37,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 37.0, 'League Goals': 5.0, 'National cup Apps': '8', 'National cup Goals': '2', 'Continental Apps': '1', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46.0, 'Total Goals': 7.0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Vit\u00f3ria Guimar\u00e3es",
+      "league_apps": 27,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Vit\u00f3ria Guimar\u00e3es', 'Season Season': '1993\u201394', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 27.0, 'League Goals': 1.0, 'National cup Apps': '2', 'National cup Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29.0, 'Total Goals': 2.0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Vit\u00f3ria Guimar\u00e3es",
+      "league_apps": 23,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Vit\u00f3ria Guimar\u00e3es', 'Season Season': '1994\u201395', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 23.0, 'League Goals': 4.0, 'National cup Apps': '1', 'National cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24.0, 'Total Goals': 4.0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Vit\u00f3ria Guimar\u00e3es",
+      "league_apps": 29,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Vit\u00f3ria Guimar\u00e3es', 'Season Season': '1995\u201396', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 29.0, 'League Goals': 8.0, 'National cup Apps': '2', 'National cup Goals': '0', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33.0, 'Total Goals': 8.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Vit\u00f3ria Guimar\u00e3es",
+      "league_apps": 79,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Vit\u00f3ria Guimar\u00e3es', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 79.0, 'League Goals': 13.0, 'National cup Apps': '5', 'National cup Goals': '1', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 86.0, 'Total Goals': 14.0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Porto",
+      "league_apps": 27,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1996\u201397', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 27.0, 'League Goals': 7.0, 'National cup Apps': '4', 'National cup Goals': '1', 'Continental Apps': '7', 'Continental Goals': '1', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 39.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Porto",
+      "league_apps": 29,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1997\u201398', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 29.0, 'League Goals': 6.0, 'National cup Apps': '5', 'National cup Goals': '5', 'Continental Apps': '5', 'Continental Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 40.0, 'Total Goals': 11.0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Porto",
+      "league_apps": 31,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1998\u201399', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 31.0, 'League Goals': 14.0, 'National cup Apps': '0', 'National cup Goals': '0', 'Continental Apps': '6', 'Continental Goals': '7', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': 39.0, 'Total Goals': 22.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Porto",
+      "league_apps": 87,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Porto', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 87.0, 'League Goals': 27.0, 'National cup Apps': '9', 'National cup Goals': '6', 'Continental Apps': '18', 'Continental Goals': '8', 'Other Apps': '4', 'Other Goals': '1', 'Total Apps': 118.0, 'Total Goals': 42.0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Olympiacos",
+      "league_apps": 14,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Olympiacos', 'Season Season': '1999\u20132000', 'League Division': 'Alpha Ethniki', 'League Apps': 14.0, 'League Goals': 7.0, 'National cup Apps': '4', 'National cup Goals': '0', 'Continental Apps': '6', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Valencia",
+      "league_apps": 20,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '2000\u201301', 'League Division': 'La Liga', 'League Apps': 20.0, 'League Goals': 3.0, 'National cup Apps': '1', 'National cup Goals': '2', 'Continental Apps': '10', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31.0, 'Total Goals': 6.0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Benfica",
+      "league_apps": 21,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '2001\u201302', 'League Division': 'Primeira Liga', 'League Apps': 21.0, 'League Goals': 6.0, 'National cup Apps': '2', 'National cup Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23.0, 'Total Goals': 7.0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Benfica",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '2002\u201303', 'League Division': 'Primeira Liga', 'League Apps': 28.0, 'League Goals': 6.0, 'National cup Apps': '1', 'National cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29.0, 'Total Goals': 6.0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Benfica",
+      "league_apps": 21,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '2003\u201304', 'League Division': 'Primeira Liga', 'League Apps': 21.0, 'League Goals': 2.0, 'National cup Apps': '2', 'National cup Goals': '0', 'Continental Apps': '8', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31.0, 'Total Goals': 3.0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Benfica",
+      "league_apps": 10,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '2004\u201305', 'League Division': 'Primeira Liga', 'League Apps': 10.0, 'League Goals': 0.0, 'National cup Apps': '1', 'National cup Goals': '0', 'Continental Apps': '6', 'Continental Goals': '4', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 18.0, 'Total Goals': 4.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Benfica",
+      "league_apps": 80,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 80.0, 'League Goals': 14.0, 'National cup Apps': '6', 'National cup Goals': '1', 'Continental Apps': '14', 'Continental Goals': '5', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 101.0, 'Total Goals': 20.0}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Limbu\u0161-Pekre",
+      "league_apps": 8,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Limbu\u0161-Pekre', 'Season Season': '2008\u201309', 'League Division': '1. MNZ Maribor', 'League Apps': 8.0, 'League Goals': 6.0, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 8.0, 'Total Goals': 6.0}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Limbu\u0161-Pekre",
+      "league_apps": 3,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Limbu\u0161-Pekre', 'Season Season': '2009\u201310', 'League Division': '1. MNZ Maribor', 'League Apps': 3.0, 'League Goals': 6.0, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 3.0, 'Total Goals': 6.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Limbu\u0161-Pekre",
+      "league_apps": 11,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Limbu\u0161-Pekre', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 11.0, 'League Goals': 12.0, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11.0, 'Total Goals': 12.0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 353,
+      "league_goals": 81,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 353.0, 'League Goals': 81.0, 'National cup Apps': '33', 'National cup Goals': '12', 'Continental Apps': '51', 'Continental Goals': '16', 'Other Apps': '5', 'Other Goals': '1', 'Total Apps': 442.0, 'Total Goals': 110.0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Zlatko Zahovi\u010d - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"b62537de-9f1e-4775-b7ec-6dd886412010\","
+}

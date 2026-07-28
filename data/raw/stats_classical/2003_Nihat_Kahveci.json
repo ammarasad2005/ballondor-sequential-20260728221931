@@ -1,0 +1,154 @@
+{
+  "player_name_raw": "Nihat Kahveci",
+  "fetch_status": "ok",
+  "wikipedia_title": "Nihat_Kahveci",
+  "url": "https://en.wikipedia.org/wiki/Nihat_Kahveci",
+  "position": "Winger forward",
+  "birth_year": 1979,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1997\u201398",
+      "club": "Be\u015fikta\u015f",
+      "league_apps": 11,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Be\u015fikta\u015f', 'Season Season': '1997\u201398', 'League Division': '1.Lig', 'League Apps': 11, 'League Goals': 2, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 11, 'Total Goals': 2}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Be\u015fikta\u015f",
+      "league_apps": 28,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Be\u015fikta\u015f', 'Season Season': '1998\u201399', 'League Division': '1.Lig', 'League Apps': 28, 'League Goals': 7, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '1[b]', 'Other Goals': '1', 'Total Apps': 29, 'Total Goals': 8}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Be\u015fikta\u015f",
+      "league_apps": 32,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Be\u015fikta\u015f', 'Season Season': '1999\u20132000', 'League Division': '1.Lig', 'League Apps': 32, 'League Goals': 7, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 7}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Be\u015fikta\u015f",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Be\u015fikta\u015f', 'Season Season': '2000\u201301', 'League Division': '1.Lig', 'League Apps': 32, 'League Goals': 5, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 5}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Be\u015fikta\u015f",
+      "league_apps": 15,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Be\u015fikta\u015f', 'Season Season': '2001\u201302', 'League Division': 'S\u00fcper Lig', 'League Apps': 15, 'League Goals': 6, 'National cup[a] Apps': 4, 'National cup[a] Goals': 1, 'Europe Apps': '2', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 21, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "Be\u015fikta\u015f",
+      "league_apps": 114,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Be\u015fikta\u015f', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 114, 'League Goals': 27, 'National cup[a] Apps': 6, 'National cup[a] Goals': 1, 'Europe Apps': '2', 'Europe Goals': '2', 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': 123, 'Total Goals': 31}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Real Sociedad",
+      "league_apps": 11,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '2001\u201302', 'League Division': 'La Liga', 'League Apps': 11, 'League Goals': 1, 'National cup[a] Apps': 4, 'National cup[a] Goals': 1, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 15, 'Total Goals': 2}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Real Sociedad",
+      "league_apps": 35,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '2002\u201303', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 23, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 23}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Real Sociedad",
+      "league_apps": 32,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '2003\u201304', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 14, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '8[c]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 14}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Real Sociedad",
+      "league_apps": 23,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '2004\u201305', 'League Division': 'La Liga', 'League Apps': 23, 'League Goals': 13, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 23, 'Total Goals': 13}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Real Sociedad",
+      "league_apps": 32,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '2005\u201306', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 7, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Sociedad",
+      "league_apps": 133,
+      "league_goals": 58,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 133, 'League Goals': 58, 'National cup[a] Apps': 4, 'National cup[a] Goals': 1, 'Europe Apps': '8', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 145, 'Total Goals': 59}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Villarreal",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Villarreal', 'Season Season': '2006\u201307', 'League Division': 'La Liga', 'League Apps': 9, 'League Goals': 0, 'National cup[a] Apps': 2, 'National cup[a] Goals': 3, 'Europe Apps': '2[d]', 'Europe Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 13, 'Total Goals': 4}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Villarreal",
+      "league_apps": 34,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Villarreal', 'Season Season': '2007\u201308', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 18, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '6[e]', 'Europe Goals': '3', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 42, 'Total Goals': 21}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Villarreal",
+      "league_apps": 19,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Villarreal', 'Season Season': '2008\u201309', 'League Division': 'La Liga', 'League Apps': 19, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 23, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Villarreal",
+      "league_apps": 62,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Villarreal', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 62, 'League Goals': 18, 'National cup[a] Apps': 4, 'National cup[a] Goals': 3, 'Europe Apps': '12', 'Europe Goals': '4', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 78, 'Total Goals': 25}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Be\u015fikta\u015f",
+      "league_apps": 23,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Be\u015fikta\u015f', 'Season Season': '2009\u201310', 'League Division': 'S\u00fcper Lig', 'League Apps': 23, 'League Goals': 3, 'National cup[a] Apps': 3, 'National cup[a] Goals': 2, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '1[b]', 'Other Goals': '0', 'Total Apps': 27, 'Total Goals': 5}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Be\u015fikta\u015f",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Be\u015fikta\u015f', 'Season Season': '2010\u201311', 'League Division': 'S\u00fcper Lig', 'League Apps': 11, 'League Goals': 0, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '6[f]', 'Europe Goals': '4', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 19, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Be\u015fikta\u015f",
+      "league_apps": 34,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Be\u015fikta\u015f', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 34, 'League Goals': 3, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'Europe Apps': '6', 'Europe Goals': '4', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 9}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 343,
+      "league_goals": 106,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 343, 'League Goals': 106, 'National cup[a] Apps': 19, 'National cup[a] Goals': 7, 'Europe Apps': '28', 'Europe Goals': '10', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': 382, 'Total Goals': 124}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Nihat Kahveci - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"b68269ad-92f6-4c1d-8461-5dc5a84756d9\",\"",
+  "season_id": "2003",
+  "award_year": 2003
+}

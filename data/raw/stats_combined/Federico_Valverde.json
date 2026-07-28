@@ -1,0 +1,110 @@
+{
+  "player_name_raw": "Federico Valverde",
+  "fetch_status": "ok",
+  "wikipedia_title": "Federico_Valverde",
+  "url": "https://en.wikipedia.org/wiki/Federico_Valverde",
+  "position": "Central midfielder",
+  "birth_year": 1998,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2016",
+      "club": "Pe\u00f1arol",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Pe\u00f1arol', 'Season Season': '2016', 'League Division': 'Uruguayan Primera Divisi\u00f3n', 'League Apps': 12, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '1[b]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 0}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Real Madrid Castilla",
+      "league_apps": 30,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Madrid Castilla', 'Season Season': '2016\u201317', 'League Division': 'Segunda Divisi\u00f3n B', 'League Apps': 30, 'League Goals': 3, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 3}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Deportivo La Coru\u00f1a (loan)",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Deportivo La Coru\u00f1a (loan)', 'Season Season': '2017\u201318', 'League Division': 'La Liga', 'League Apps': 24, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 0}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Real Madrid",
+      "league_apps": 16,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2018\u201319', 'League Division': 'La Liga', 'League Apps': 16, 'League Goals': 0, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'Continental Apps': '4[c]', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 25, 'Total Goals': 0}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Real Madrid",
+      "league_apps": 33,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2019\u201320', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 2, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'Continental Apps': '6[c]', 'Continental Goals': '0', 'Other Apps': '2[d]', 'Other Goals': '0', 'Total Apps': 44, 'Total Goals': 2}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Real Madrid",
+      "league_apps": 24,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2020\u201321', 'League Division': 'La Liga', 'League Apps': 24, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Continental Apps': '7[c]', 'Continental Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 33, 'Total Goals': 3}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Real Madrid",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2021\u201322', 'League Division': 'La Liga', 'League Apps': 31, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Continental Apps': '11[c]', 'Continental Goals': '0', 'Other Apps': '2[d]', 'Other Goals': '1', 'Total Apps': 46, 'Total Goals': 1}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Real Madrid",
+      "league_apps": 34,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2022\u201323', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 7, 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'Continental Apps': '11[c]', 'Continental Goals': '2', 'Other Apps': '5[e]', 'Other Goals': '3', 'Total Apps': 56, 'Total Goals': 12}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Real Madrid",
+      "league_apps": 37,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2023\u201324', 'League Division': 'La Liga', 'League Apps': 37, 'League Goals': 2, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Continental Apps': '13[c]', 'Continental Goals': '1', 'Other Apps': '2[d]', 'Other Goals': '0', 'Total Apps': 54, 'Total Goals': 3}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Real Madrid",
+      "league_apps": 36,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2024\u201325', 'League Division': 'La Liga', 'League Apps': 36, 'League Goals': 6, 'National cup[a] Apps': '5', 'National cup[a] Goals': '2', 'Continental Apps': '14[c]', 'Continental Goals': '0', 'Other Apps': '10[f]', 'Other Goals': '3', 'Total Apps': 65, 'Total Goals': 11}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Real Madrid",
+      "league_apps": 33,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2025\u201326', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 5, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Continental Apps': '13[c]', 'Continental Goals': '3', 'Other Apps': '2[d]', 'Other Goals': '1', 'Total Apps': 49, 'Total Goals': 9}"
+    },
+    {
+      "season": "2026\u201327",
+      "club": "Real Madrid",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2026\u201327', 'League Division': 'La Liga', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 244,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 244, 'League Goals': 25, 'National cup[a] Apps': '26', 'National cup[a] Goals': '2', 'Continental Apps': '79', 'Continental Goals': '6', 'Other Apps': '24', 'Other Goals': '8', 'Total Apps': 373, 'Total Goals': 41}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 310,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 310, 'League Goals': 28, 'National cup[a] Apps': '26', 'National cup[a] Goals': '2', 'Continental Apps': '80', 'Continental Goals': '6', 'Other Apps': '24', 'Other Goals': '8', 'Total Apps': 440, 'Total Goals': 44}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Federico Valverde - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"fd3975b7-5d81-4f91-9e7c-2110d2c5fc2"
+}

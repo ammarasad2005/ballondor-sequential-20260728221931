@@ -1,0 +1,166 @@
+{
+  "player_name_raw": "Emilio Butrague\u00f1o",
+  "fetch_status": "ok",
+  "wikipedia_title": "Emilio_Butrague\u00f1o",
+  "url": "https://en.wikipedia.org/wiki/Emilio_Butrague\u00f1o",
+  "position": "Striker",
+  "birth_year": 1963,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1981\u201382",
+      "club": "Castilla",
+      "league_apps": 6,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Castilla', 'Season Season': '1981\u201382', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 6, 'League Goals': 3, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 6, 'Total Goals': 3}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Castilla",
+      "league_apps": 38,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Castilla', 'Season Season': '1982\u201383', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 38, 'League Goals': 13, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '3', 'League cup Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 45, 'Total Goals': 13}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Castilla",
+      "league_apps": 21,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Castilla', 'Season Season': '1983\u201384', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 21, 'League Goals': 21, 'National cup Apps': '10', 'National cup Goals': '3', 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 24}"
+    },
+    {
+      "season": "Total",
+      "club": "Castilla",
+      "league_apps": 65,
+      "league_goals": 37,
+      "raw": "{'Club Club': 'Castilla', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 65, 'League Goals': 37, 'National cup Apps': '14', 'National cup Goals': '3', 'League cup Apps': '3', 'League cup Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '4', 'Other Goals': '3', 'Total Apps': 82, 'Total Goals': 40}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Real Madrid",
+      "league_apps": 10,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1983\u201384', 'League Division': 'La Liga', 'League Apps': 10, 'League Goals': 4, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '2', 'League cup Goals': '2', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 6}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Real Madrid",
+      "league_apps": 29,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1984\u201385', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 10, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '2', 'League cup Goals': '0', 'Continental Apps': '11[a]', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 14}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Real Madrid",
+      "league_apps": 31,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1985\u201386', 'League Division': 'La Liga', 'League Apps': 31, 'League Goals': 10, 'National cup Apps': '6', 'National cup Goals': '2', 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '12[a]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 14}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Real Madrid",
+      "league_apps": 35,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1986\u201387', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 11, 'National cup Apps': '3', 'National cup Goals': '3', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '7[b]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 19}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Real Madrid",
+      "league_apps": 32,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1987\u201388', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 12, 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '8[b]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 14}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Real Madrid",
+      "league_apps": 33,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1988\u201389', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 15, 'National cup Apps': '5', 'National cup Goals': '2', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '8[b]', 'Continental Goals': '4', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': 48, 'Total Goals': 22}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Real Madrid",
+      "league_apps": 32,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1989\u201390', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 10, 'National cup Apps': '6', 'National cup Goals': '2', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '2[b]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 14}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Real Madrid",
+      "league_apps": 35,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1990\u201391', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 19, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '4[b]', 'Continental Goals': '4', 'Other Apps': '2', 'Other Goals': '2', 'Total Apps': 43, 'Total Goals': 25}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Real Madrid",
+      "league_apps": 35,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1991\u201392', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 14, 'National cup Apps': '6', 'National cup Goals': '4', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '9[a]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 19}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Real Madrid",
+      "league_apps": 34,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1992\u201393', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 9, 'National cup Apps': '3', 'National cup Goals': '1', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '6[a]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 11}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Real Madrid",
+      "league_apps": 27,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1993\u201394', 'League Division': 'La Liga', 'League Apps': 27, 'League Goals': 8, 'National cup Apps': '2', 'National cup Goals': '1', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '4[c]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 11}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Real Madrid",
+      "league_apps": 8,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1994\u201395', 'League Division': 'La Liga', 'League Apps': 8, 'League Goals': 1, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '4[a]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 341,
+      "league_goals": 123,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 341, 'League Goals': 123, 'National cup Apps': '36', 'National cup Goals': '15', 'League cup Apps': '4', 'League cup Goals': '2', 'Continental Apps': '75', 'Continental Goals': '27', 'Other Apps': '4', 'Other Goals': '3', 'Total Apps': 460, 'Total Goals': 170}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Celaya",
+      "league_apps": 34,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Celaya', 'Season Season': '1995\u201396', 'League Division': 'Liga MX', 'League Apps': 34, 'League Goals': 17, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 17}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Celaya",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Celaya', 'Season Season': '1996\u201397', 'League Division': 'Liga MX', 'League Apps': 26, 'League Goals': 2, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 2}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Celaya",
+      "league_apps": 31,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Celaya', 'Season Season': '1997\u201398', 'League Division': 'Liga MX', 'League Apps': 31, 'League Goals': 10, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Celaya",
+      "league_apps": 91,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Celaya', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 91, 'League Goals': 29, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 91, 'Total Goals': 29}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 497,
+      "league_goals": 189,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 497, 'League Goals': 189, 'National cup Apps': '50', 'National cup Goals': '18', 'League cup Apps': '7', 'League cup Goals': '2', 'Continental Apps': '75', 'Continental Goals': '27', 'Other Apps': '4', 'Other Goals': '3', 'Total Apps': 633, 'Total Goals': 239}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Emilio Butrague\u00f1o - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ff66dca0-8504-4e53-97eb-f0ecbfe304b"
+}

@@ -1,0 +1,201 @@
+{
+  "player_name_raw": "Edwin van der Sar",
+  "fetch_status": "ok",
+  "wikipedia_title": "Edwin_van_der_Sar",
+  "url": "https://en.wikipedia.org/wiki/Edwin_van_der_Sar",
+  "position": "Goalkeeper",
+  "birth_year": 1970,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1990\u201391",
+      "club": "Ajax",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1990\u201391', 'League Division': 'Eredivisie', 'League Apps': 9, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Ajax",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1991\u201392', 'League Division': 'Eredivisie', 'League Apps': 0, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Ajax",
+      "league_apps": 19,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1992\u201393', 'League Division': 'Eredivisie', 'League Apps': 19, 'League Goals': 0, 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '3', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 25, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Ajax",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1993\u201394', 'League Division': 'Eredivisie', 'League Apps': 32, 'League Goals': 0, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '6', 'Europe Goals': '0', 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Ajax",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1994\u201395', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 0, 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '11', 'Europe Goals': '0', 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Ajax",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1995\u201396', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 0, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '11', 'Europe Goals': '0', 'Other[a] Apps': '4', 'Other[a] Goals': '0', 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Ajax",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1996\u201397', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 0, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '10', 'Europe Goals': '0', 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Ajax",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1997\u201398', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 1, 'National cup Apps': '5', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '8', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 46, 'Total Goals': 1}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Ajax",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1998\u201399', 'League Division': 'Eredivisie', 'League Apps': 34, 'League Goals': 0, 'National cup Apps': '5', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '6', 'Europe Goals': '0', 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Ajax",
+      "league_apps": 226,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 226, 'League Goals': 1, 'National cup Apps': '23', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '55', 'Europe Goals': '0', 'Other[a] Apps': '8', 'Other[a] Goals': '0', 'Total Apps': 312, 'Total Goals': 1}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Juventus",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 0, 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '11', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Juventus",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2000\u201301', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 0, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '6', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 66,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 66, 'League Goals': 0, 'National cup Apps': '5', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '17', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 88, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Fulham",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '2001\u201302', 'League Division': 'Premier League', 'League Apps': 37, 'League Goals': 0, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 41, 'Total Goals': 0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Fulham",
+      "league_apps": 19,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '2002\u201303', 'League Division': 'Premier League', 'League Apps': 19, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '11', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 30, 'Total Goals': 0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Fulham",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '2003\u201304', 'League Division': 'Premier League', 'League Apps': 37, 'League Goals': 0, 'National cup Apps': '6', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Fulham",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '2004\u201305', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 0, 'National cup Apps': '5', 'National cup Goals': '0', 'League cup Apps': '1', 'League cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Fulham",
+      "league_apps": 127,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 127, 'League Goals': 0, 'National cup Apps': '15', 'National cup Goals': '0', 'League cup Apps': '1', 'League cup Goals': '0', 'Europe Apps': '11', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 154, 'Total Goals': 0}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Manchester United",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2005\u201306', 'League Division': 'Premier League', 'League Apps': 38, 'League Goals': 0, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '3', 'League cup Goals': '0', 'Europe Apps': '8', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 51, 'Total Goals': 0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Manchester United",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2006\u201307', 'League Division': 'Premier League', 'League Apps': 32, 'League Goals': 0, 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '12', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Manchester United",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2007\u201308', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 0, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '10', 'Europe Goals': '0', 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Manchester United",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2008\u201309', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 0, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '10', 'Europe Goals': '0', 'Other[a] Apps': '4', 'Other[a] Goals': '0', 'Total Apps': 49, 'Total Goals': 0}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Manchester United",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2009\u201310', 'League Division': 'Premier League', 'League Apps': 21, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '2', 'League cup Goals': '0', 'Europe Apps': '6', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 29, 'Total Goals': 0}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Manchester United",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2010\u201311', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 0, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '10', 'Europe Goals': '0', 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester United",
+      "league_apps": 186,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 186, 'League Goals': 0, 'National cup Apps': '13', 'National cup Goals': '0', 'League cup Apps': '5', 'League cup Goals': '0', 'Europe Apps': '56', 'Europe Goals': '0', 'Other[a] Apps': '6', 'Other[a] Goals': '0', 'Total Apps': 266, 'Total Goals': 0}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "VV Noordwijk",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'VV Noordwijk', 'Season Season': '2015\u201316', 'League Division': 'Hoofdklasse Saturday B', 'League Apps': 1, 'League Goals': 0, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other[a] Apps': '\u2014', 'Other[a] Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 606,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 606, 'League Goals': 1, 'National cup Apps': '56', 'National cup Goals': '0', 'League cup Apps': '6', 'League cup Goals': '0', 'Europe Apps': '139', 'Europe Goals': '0', 'Other[a] Apps': '14', 'Other[a] Goals': '0', 'Total Apps': 821, 'Total Goals': 1}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Edwin van der Sar - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"48b95b2e-e41f-42cc-8b2d-e66110b7cf4"
+}

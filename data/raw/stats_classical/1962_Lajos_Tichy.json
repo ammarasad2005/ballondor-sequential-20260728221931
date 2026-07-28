@@ -1,0 +1,168 @@
+{
+  "player_name_raw": "Lajos Tichy",
+  "fetch_status": "ok",
+  "wikipedia_title": "Lajos_Tichy",
+  "url": "https://en.wikipedia.org/wiki/Lajos_Tichy",
+  "position": "Striker",
+  "birth_year": 1935,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1953",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1953', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': nan, 'League Goals': nan, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1954",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 13,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1954', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 13.0, 'League Goals': 8.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 13.0, 'Total Goals': 8.0}"
+    },
+    {
+      "season": "1955",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 15,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1955', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 15.0, 'League Goals': 12.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 15.0, 'Total Goals': 12.0}"
+    },
+    {
+      "season": "1956",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 14,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1956', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 14.0, 'League Goals': 9.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': '1[a]', 'Europe Goals': 0.0, 'Total Apps': 15.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "1957",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 11,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1957', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 11.0, 'League Goals': 6.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 11.0, 'Total Goals': 6.0}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 24,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1957\u201358', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 24.0, 'League Goals': 14.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 24.0, 'Total Goals': 14.0}"
+    },
+    {
+      "season": "1958\u201359",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 22,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1958\u201359', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 22.0, 'League Goals': 15.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 22.0, 'Total Goals': 15.0}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 25,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1959\u201360', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 25.0, 'League Goals': 26.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 25.0, 'Total Goals': 26.0}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 25,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1960\u201361', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 25.0, 'League Goals': 21.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 25.0, 'Total Goals': 21.0}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 23,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1961\u201362', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 23.0, 'League Goals': 23.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 23.0, 'Total Goals': 23.0}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 20,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1962\u201363', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 20.0, 'League Goals': 20.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 20.0, 'Total Goals': 20.0}"
+    },
+    {
+      "season": "1963",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 12,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1963', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 12.0, 'League Goals': 13.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 12.0, 'Total Goals': 13.0}"
+    },
+    {
+      "season": "1964",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 25,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1964', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 25.0, 'League Goals': 28.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': '2[b]', 'Europe Goals': 0.0, 'Total Apps': 27.0, 'Total Goals': 28.0}"
+    },
+    {
+      "season": "1965",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 20,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1965', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 20.0, 'League Goals': 20.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': '6[b]', 'Europe Goals': 7.0, 'Total Apps': 26.0, 'Total Goals': 27.0}"
+    },
+    {
+      "season": "1966",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 15,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1966', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 15.0, 'League Goals': 8.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 15.0, 'Total Goals': 8.0}"
+    },
+    {
+      "season": "1967",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 12,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1967', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 12.0, 'League Goals': 7.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 12.0, 'Total Goals': 7.0}"
+    },
+    {
+      "season": "1968",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1968', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 7.0, 'League Goals': 0.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 7.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "1969",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 16,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1969', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 16.0, 'League Goals': 3.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 16.0, 'Total Goals': 3.0}"
+    },
+    {
+      "season": "1970",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 7,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1970', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 7.0, 'League Goals': 5.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': 7.0, 'Total Goals': 5.0}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Budapest Honv\u00e9d",
+      "league_apps": 12,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Budapest Honv\u00e9d', 'Season Season': '1970\u201371', 'League Division': 'Nemzeti Bajnoks\u00e1g I', 'League Apps': 12.0, 'League Goals': 4.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': '2[b]', 'Europe Goals': 0.0, 'Total Apps': 14.0, 'Total Goals': 4.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 318,
+      "league_goals": 242,
+      "raw": "{'Club Club': 'Total', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 318.0, 'League Goals': 242.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': '11', 'Europe Goals': 7.0, 'Total Apps': 329.0, 'Total Goals': 249.0}"
+    },
+    {
+      "season": "nan",
+      "club": "nan",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': nan, 'Season Season': nan, 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Lajos Tichy - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"3887fbfe-affe-4233-8268-0f85f6f7bd3c\",\"wg",
+  "season_id": "1962",
+  "award_year": 1962
+}

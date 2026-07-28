@@ -1,0 +1,180 @@
+{
+  "player_name_raw": "Dimitris Saravakos",
+  "fetch_status": "ok",
+  "wikipedia_title": "Dimitris_Saravakos",
+  "url": "https://en.wikipedia.org/wiki/Dimitris_Saravakos",
+  "position": "Winger attacking midfielder",
+  "birth_year": 1961,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1977\u201378",
+      "club": "Panionios",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Panionios', 'Season Season': '1977\u201378', 'League Division': 'Alpha Ethniki', 'League Apps': 1, 'League Goals': 0, 'Cup Apps': '?', 'Cup Goals': 0, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': '1+', 'Total Goals!': 0}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Panionios",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Panionios', 'Season Season': '1978\u201379', 'League Division': 'Alpha Ethniki', 'League Apps': 9, 'League Goals': 0, 'Cup Apps': '1', 'Cup Goals': 0, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': '10', 'Total Goals!': 0}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Panionios",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Panionios', 'Season Season': '1979\u201380', 'League Division': 'Alpha Ethniki', 'League Apps': 12, 'League Goals': 0, 'Cup Apps': '0', 'Cup Goals': 0, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': '12', 'Total Goals!': 0}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Panionios",
+      "league_apps": 33,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Panionios', 'Season Season': '1980\u201381', 'League Division': 'Alpha Ethniki', 'League Apps': 33, 'League Goals': 4, 'Cup Apps': '3', 'Cup Goals': 2, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': '36', 'Total Goals!': 6}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Panionios",
+      "league_apps": 31,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Panionios', 'Season Season': '1981\u201382', 'League Division': 'Alpha Ethniki', 'League Apps': 31, 'League Goals': 13, 'Cup Apps': '?', 'Cup Goals': 0, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': '31+', 'Total Goals!': 13}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Panionios",
+      "league_apps": 28,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Panionios', 'Season Season': '1982\u201383', 'League Division': 'Alpha Ethniki', 'League Apps': 28, 'League Goals': 8, 'Cup Apps': '2', 'Cup Goals': 0, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': '30', 'Total Goals!': 8}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Panionios",
+      "league_apps": 28,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Panionios', 'Season Season': '1983\u201384', 'League Division': 'Alpha Ethniki', 'League Apps': 28, 'League Goals': 10, 'Cup Apps': '8', 'Cup Goals': 5, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': '36', 'Total Goals!': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "Panionios",
+      "league_apps": 142,
+      "league_goals": 35,
+      "raw": "{'Club Club': 'Panionios', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 142, 'League Goals': 35, 'Cup Apps': '14+', 'Cup Goals': 7, 'Super Cup Apps': '0', 'Super Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': '156+', 'Total Goals!': 42}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Panathinaikos",
+      "league_apps": 23,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1984\u201385', 'League Division': 'Alpha Ethniki', 'League Apps': 23, 'League Goals': 15, 'Cup Apps': '?', 'Cup Goals': 1, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '8', 'Europe Goals': '3', 'Total Apps': '31+', 'Total Goals!': 19}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Panathinaikos",
+      "league_apps": 29,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1985\u201386', 'League Division': 'Alpha Ethniki', 'League Apps': 29, 'League Goals': 15, 'Cup Apps': '?', 'Cup Goals': 5, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '2', 'Europe Goals': '2', 'Total Apps': '31+', 'Total Goals!': 22}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Panathinaikos",
+      "league_apps": 23,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1986\u201387', 'League Division': 'Alpha Ethniki', 'League Apps': 23, 'League Goals': 13, 'Cup Apps': '?', 'Cup Goals': 4, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '2', 'Europe Goals': '1', 'Total Apps': '25+', 'Total Goals!': 18}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Panathinaikos",
+      "league_apps": 26,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1987\u201388', 'League Division': 'Alpha Ethniki', 'League Apps': 26, 'League Goals': 5, 'Cup Apps': '?', 'Cup Goals': 9, 'Super Cup Apps': '1', 'Super Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '8', 'Europe Goals': '6', 'Total Apps': '35+', 'Total Goals!': 20}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Panathinaikos",
+      "league_apps": 25,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1988\u201389', 'League Division': 'Alpha Ethniki', 'League Apps': 25, 'League Goals': 5, 'Cup Apps': '?', 'Cup Goals': 7, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '2', 'Europe Goals': '0', 'Total Apps': '27+', 'Total Goals!': 12}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Panathinaikos",
+      "league_apps": 24,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1989\u201390', 'League Division': 'Alpha Ethniki', 'League Apps': 24, 'League Goals': 11, 'Cup Apps': '?', 'Cup Goals': 8, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '4', 'League Cup Goals': '3', 'Europe Apps': '3', 'Europe Goals': '3', 'Total Apps': '31+', 'Total Goals!': 25}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Panathinaikos",
+      "league_apps": 30,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1990\u201391', 'League Division': 'Alpha Ethniki', 'League Apps': 30, 'League Goals': 23, 'Cup Apps': '?', 'Cup Goals': 10, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '2', 'Europe Goals': '1', 'Total Apps': '32+', 'Total Goals!': 34}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Panathinaikos",
+      "league_apps": 33,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1991\u201392', 'League Division': 'Alpha Ethniki', 'League Apps': 33, 'League Goals': 24, 'Cup Apps': '?', 'Cup Goals': 3, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '10', 'Europe Goals': '3', 'Total Apps': '43+', 'Total Goals!': 30}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Panathinaikos",
+      "league_apps": 14,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1992\u201393', 'League Division': 'Alpha Ethniki', 'League Apps': 14, 'League Goals': 2, 'Cup Apps': '?', 'Cup Goals': 2, 'Super Cup Apps': '1', 'Super Cup Goals': '1', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '2', 'Europe Goals': '1', 'Total Apps': '17+', 'Total Goals!': 6}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Panathinaikos",
+      "league_apps": 25,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1993\u201394', 'League Division': 'Alpha Ethniki', 'League Apps': 25, 'League Goals': 15, 'Cup Apps': '?', 'Cup Goals': 0, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '4', 'Europe Goals': '3', 'Total Apps': '29+', 'Total Goals!': 18}"
+    },
+    {
+      "season": "Total",
+      "club": "Panathinaikos",
+      "league_apps": 252,
+      "league_goals": 125,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 252, 'League Goals': 125, 'Cup Apps': '?', 'Cup Goals': 49, 'Super Cup Apps': '2', 'Super Cup Goals': '1', 'League Cup Apps': '4', 'League Cup Goals': '3', 'Europe Apps': '43', 'Europe Goals': '23', 'Total Apps': '299+', 'Total Goals!': 201}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "AEK Athens",
+      "league_apps": 30,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'AEK Athens', 'Season Season': '1994\u201395', 'League Division': 'Alpha Ethniki', 'League Apps': 30, 'League Goals': 21, 'Cup Apps': '10', 'Cup Goals': 3, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '8', 'Europe Goals': '2', 'Total Apps': '48', 'Total Goals!': 26}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "AEK Athens",
+      "league_apps": 17,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AEK Athens', 'Season Season': '1995\u201396', 'League Division': 'Alpha Ethniki', 'League Apps': 17, 'League Goals': 1, 'Cup Apps': '7', 'Cup Goals': 4, 'Super Cup Apps': '\u2014', 'Super Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '3', 'Europe Goals': '0', 'Total Apps': '27', 'Total Goals!': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "AEK Athens",
+      "league_apps": 47,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'AEK Athens', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 47, 'League Goals': 22, 'Cup Apps': '17', 'Cup Goals': 7, 'Super Cup Apps': '0', 'Super Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '11', 'Europe Goals': '2', 'Total Apps': '75', 'Total Goals!': 31}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Panathinaikos",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1997\u201398', 'League Division': 'Alpha Ethniki', 'League Apps': 2, 'League Goals': 0, 'Cup Apps': '?', 'Cup Goals': 0, 'Super Cup Apps': '0', 'Super Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': '2+', 'Total Goals!': 0}"
+    },
+    {
+      "season": "Career Total",
+      "club": "Career Total",
+      "league_apps": 443,
+      "league_goals": 185,
+      "raw": "{'Club Club': 'Career Total', 'Season Season': 'Career Total', 'League Division': 'Career Total', 'League Apps': 443, 'League Goals': 185, 'Cup Apps': '31+', 'Cup Goals': 63, 'Super Cup Apps': '2', 'Super Cup Goals': '1', 'League Cup Apps': '4', 'League Cup Goals': '3', 'Europe Apps': '54', 'Europe Goals': '25', 'Total Apps': '534+', 'Total Goals!': 277}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Dimitris Saravakos - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"458ae736-6579-4754-9434-9c8d4b87f4"
+}

@@ -1,0 +1,238 @@
+{
+  "player_name_raw": "L\u00facio",
+  "fetch_status": "ok",
+  "wikipedia_title": "L\u00facio",
+  "url": "https://en.wikipedia.org/wiki/L\u00facio",
+  "position": "Centre-back",
+  "birth_year": 1978,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1997",
+      "club": "Guar\u00e1",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Guar\u00e1', 'Season Season': '1997', 'League Division': '\u2014', 'League Apps': '\u2013', 'League Goals': '\u2013', 'National Cup Apps': '1', 'National Cup Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998",
+      "club": "Internacional",
+      "league_apps": 10,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Internacional', 'Season Season': '1998', 'League Division': 'S\u00e9rie A', 'League Apps': '10', 'League Goals': '0', 'National Cup Apps': '0', 'National Cup Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "1999",
+      "club": "Internacional",
+      "league_apps": 19,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Internacional', 'Season Season': '1999', 'League Division': 'S\u00e9rie A', 'League Apps': '19', 'League Goals': '2', 'National Cup Apps': '2', 'National Cup Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 21, 'Total Goals': 2}"
+    },
+    {
+      "season": "2000",
+      "club": "Internacional",
+      "league_apps": 16,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Internacional', 'Season Season': '2000', 'League Division': 'S\u00e9rie A', 'League Apps': '16', 'League Goals': '3', 'National Cup Apps': '4', 'National Cup Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '4[a]', 'Other Goals': nan, 'Total Apps': 24, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Internacional",
+      "league_apps": 45,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Internacional', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '45', 'League Goals': '5', 'National Cup Apps': '6', 'National Cup Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 55, 'Total Goals': 5}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Bayer Leverkusen",
+      "league_apps": 15,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '2000\u201301[49]', 'League Division': 'Bundesliga', 'League Apps': '15', 'League Goals': '5', 'National Cup Apps': '0', 'National Cup Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 15, 'Total Goals': 5}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Bayer Leverkusen",
+      "league_apps": 29,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '2001\u201302[49]', 'League Division': 'Bundesliga', 'League Apps': '29', 'League Goals': '4', 'National Cup Apps': '4', 'National Cup Goals': '1', 'Continental Apps': '18', 'Continental Goals': '3', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 8}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Bayer Leverkusen",
+      "league_apps": 21,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '2002\u201303[49]', 'League Division': 'Bundesliga', 'League Apps': '21', 'League Goals': '3', 'National Cup Apps': '1', 'National Cup Goals': '1', 'Continental Apps': '6', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 28, 'Total Goals': 4}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Bayer Leverkusen",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '2003\u201304[49]', 'League Division': 'Bundesliga', 'League Apps': '27', 'League Goals': '3', 'National Cup Apps': '1', 'National Cup Goals': '1', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayer Leverkusen",
+      "league_apps": 92,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '92', 'League Goals': '15', 'National Cup Apps': '6', 'National Cup Goals': '3', 'Continental Apps': '24', 'Continental Goals': '3', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 122, 'Total Goals': 21}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Bayer Leverkusen II",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayer Leverkusen II', 'Season Season': '2002\u201303[49]', 'League Division': 'Regionalliga Nord', 'League Apps': '1', 'League Goals': '0', 'National Cup Apps': '0', 'National Cup Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2004\u201305[49]', 'League Division': 'Bundesliga', 'League Apps': '32', 'League Goals': '3', 'National Cup Apps': '6', 'National Cup Goals': '0', 'Continental Apps': '9', 'Continental Goals': '0', 'Other Apps': '1[b]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 3}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Bayern Munich",
+      "league_apps": 30,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2005\u201306[49]', 'League Division': 'Bundesliga', 'League Apps': '30', 'League Goals': '2', 'National Cup Apps': '5', 'National Cup Goals': '0', 'Continental Apps': '7', 'Continental Goals': '0', 'Other Apps': '1[b]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 2}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Bayern Munich",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2006\u201307[49]', 'League Division': 'Bundesliga', 'League Apps': '26', 'League Goals': '0', 'National Cup Apps': '2', 'National Cup Goals': '0', 'Continental Apps': '8', 'Continental Goals': '2', 'Other Apps': '1[b]', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 2}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Bayern Munich",
+      "league_apps": 24,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2007\u201308[49]', 'League Division': 'Bundesliga', 'League Apps': '24', 'League Goals': '1', 'National Cup Apps': '6', 'National Cup Goals': '0', 'Continental Apps': '13', 'Continental Goals': '2', 'Other Apps': '3[b]', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 3}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2008\u201309[49]', 'League Division': 'Bundesliga', 'League Apps': '32', 'League Goals': '1', 'National Cup Apps': '4', 'National Cup Goals': '1', 'Continental Apps': '8', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 144,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '144', 'League Goals': '7', 'National Cup Apps': '23', 'National Cup Goals': '1', 'Continental Apps': '45', 'Continental Goals': '4', 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': 218, 'Total Goals': 12}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Inter Milan",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2009\u201310[49]', 'League Division': 'Serie A', 'League Apps': '31', 'League Goals': '1', 'National Cup Apps': '4', 'National Cup Goals': '1', 'Continental Apps': '12', 'Continental Goals': '0', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 2}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Inter Milan",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2010\u201311[49]', 'League Division': 'Serie A', 'League Apps': '31', 'League Goals': '1', 'National Cup Apps': '4', 'National Cup Goals': '0', 'Continental Apps': '8', 'Continental Goals': '0', 'Other Apps': '4[d]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 1}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Inter Milan",
+      "league_apps": 34,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2011\u201312[49]', 'League Division': 'Serie A', 'League Apps': '34', 'League Goals': '1', 'National Cup Apps': '0', 'National Cup Goals': '0', 'Continental Apps': '7', 'Continental Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 96,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '96', 'League Goals': '3', 'National Cup Apps': '8', 'National Cup Goals': '1', 'Continental Apps': '30', 'Continental Goals': '1', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 136, 'Total Goals': 5}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Juventus",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2012\u201313[49]', 'League Division': 'Serie A', 'League Apps': '1', 'League Goals': '0', 'National Cup Apps': '0', 'National Cup Goals': '0', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "2013",
+      "club": "S\u00e3o Paulo",
+      "league_apps": 10,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'S\u00e3o Paulo', 'Season Season': '2013', 'League Division': 'S\u00e9rie A', 'League Apps': '10', 'League Goals': '1', 'National Cup Apps': '0', 'National Cup Goals': '0', 'Continental Apps': '8', 'Continental Goals': '0', 'Other Apps': '13[e]', 'Other Goals': '1', 'Total Apps': 31, 'Total Goals': 2}"
+    },
+    {
+      "season": "2014",
+      "club": "Palmeiras",
+      "league_apps": 25,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Palmeiras', 'Season Season': '2014[50]', 'League Division': 'S\u00e9rie A', 'League Apps': '25', 'League Goals': '2', 'National Cup Apps': '7', 'National Cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '15[f]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 2}"
+    },
+    {
+      "season": "2015",
+      "club": "Goa",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Goa', 'Season Season': '2015[49]', 'League Division': 'Indian Super League', 'League Apps': '11', 'League Goals': '0', 'National Cup Apps': '\u2014', 'National Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '3[g]', 'Other Goals': '0', 'Total Apps': 14, 'Total Goals': 0}"
+    },
+    {
+      "season": "2016",
+      "club": "Goa",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Goa', 'Season Season': '2016[49]', 'League Division': 'Indian Super League', 'League Apps': '5', 'League Goals': '0', 'National Cup Apps': '\u2014', 'National Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Goa",
+      "league_apps": 16,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Goa', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '16', 'League Goals': '0', 'National Cup Apps': '\u2014', 'National Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 19, 'Total Goals': 0}"
+    },
+    {
+      "season": "2018",
+      "club": "Gama",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Gama', 'Season Season': '2018', 'League Division': '\u2014', 'League Apps': '\u2013', 'League Goals': '\u2013', 'National Cup Apps': '\u2013', 'National Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '7[f]', 'Other Goals': '0', 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "2018",
+      "club": "Brasiliense",
+      "league_apps": 9,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Brasiliense', 'Season Season': '2018[50]', 'League Division': 'S\u00e9rie D', 'League Apps': '9', 'League Goals': '1', 'National Cup Apps': '\u2013', 'National Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 9, 'Total Goals': 1}"
+    },
+    {
+      "season": "2019",
+      "club": "Brasiliense",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Brasiliense', 'Season Season': '2019[50]', 'League Division': 'S\u00e9rie D', 'League Apps': '8', 'League Goals': '0', 'National Cup Apps': '1', 'National Cup Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '13[h]', 'Other Goals': '1', 'Total Apps': 22, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Brasiliense",
+      "league_apps": 17,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Brasiliense', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '17', 'League Goals': '1', 'National Cup Apps': '1', 'National Cup Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '13', 'Other Goals': '1', 'Total Apps': 31, 'Total Goals': 2}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 447,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '447', 'League Goals': '34', 'National Cup Apps': '52', 'National Cup Goals': '5', 'Continental Apps': '109', 'Continental Goals': '8', 'Other Apps': '64', 'Other Goals': '2', 'Total Apps': 672, 'Total Goals': 49}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>L\u00facio - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"bd58418b-54c4-4884-baf6-1777cc747a64\",\"wgCanoni",
+  "season_id": "2002",
+  "award_year": 2002
+}

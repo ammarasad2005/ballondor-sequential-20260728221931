@@ -1,0 +1,159 @@
+{
+  "player_name_raw": "Salvatore Schillaci",
+  "fetch_status": "ok",
+  "wikipedia_title": "Salvatore_Schillaci",
+  "url": "https://en.wikipedia.org/wiki/Salvatore_Schillaci",
+  "position": "Striker",
+  "birth_year": 1964,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1982\u201383",
+      "club": "Messina",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Messina', 'Season Season': '1982\u201383', 'League Division': 'Serie C2', 'League Apps': 26, 'League Goals': 3, 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 3}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Messina",
+      "league_apps": 26,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Messina', 'Season Season': '1983\u201384', 'League Division': 'Serie C1', 'League Apps': 26, 'League Goals': 4, 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 4}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Messina",
+      "league_apps": 31,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Messina', 'Season Season': '1984\u201385', 'League Division': 'Serie C1', 'League Apps': 31, 'League Goals': 4, 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 4}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Messina",
+      "league_apps": 31,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Messina', 'Season Season': '1985\u201386', 'League Division': 'Serie C1', 'League Apps': 31, 'League Goals': 11, 'Cup Apps': '6', 'Cup Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 12}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Messina",
+      "league_apps": 33,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Messina', 'Season Season': '1986\u201387', 'League Division': 'Serie B', 'League Apps': 33, 'League Goals': 3, 'Cup Apps': '3', 'Cup Goals': '2', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 5}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Messina",
+      "league_apps": 37,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Messina', 'Season Season': '1987\u201388', 'League Division': 'Serie B', 'League Apps': 37, 'League Goals': 13, 'Cup Apps': '5', 'Cup Goals': '2', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 15}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Messina",
+      "league_apps": 35,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Messina', 'Season Season': '1988\u201389', 'League Division': 'Serie B', 'League Apps': 35, 'League Goals': 23, 'Cup Apps': '4', 'Cup Goals': '2', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 25}"
+    },
+    {
+      "season": "Total",
+      "club": "Messina",
+      "league_apps": 219,
+      "league_goals": 61,
+      "raw": "{'Club Club': 'Messina', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 219, 'League Goals': 61, 'Cup Apps': '18', 'Cup Goals': '7', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 237, 'Total Goals': 68}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1989\u201390', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 15, 'Cup Apps': '8', 'Cup Goals': '2', 'Continental Apps': '12', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 21}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Juventus",
+      "league_apps": 29,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1990\u201391', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 5, 'Cup Apps': '5', 'Cup Goals': '0', 'Continental Apps': '7', 'Continental Goals': '3', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 8}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Juventus",
+      "league_apps": 31,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1991\u201392', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 6, 'Cup Apps': '9', 'Cup Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 90,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 90, 'League Goals': 26, 'Cup Apps': '22', 'Cup Goals': '3', 'Continental Apps': '19', 'Continental Goals': '7', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 132, 'Total Goals': 36}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Inter Milan",
+      "league_apps": 21,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1992\u201393', 'League Division': 'Serie A', 'League Apps': 21, 'League Goals': 6, 'Cup Apps': '2', 'Cup Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 7}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Inter Milan",
+      "league_apps": 9,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1993\u201394', 'League Division': 'Serie A', 'League Apps': 9, 'League Goals': 5, 'Cup Apps': '1', 'Cup Goals': '0', 'Continental Apps': '3', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 30,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 30, 'League Goals': 11, 'Cup Apps': '3', 'Cup Goals': '1', 'Continental Apps': '3', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 12}"
+    },
+    {
+      "season": "1994",
+      "club": "J\u00fabilo Iwata",
+      "league_apps": 18,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'J\u00fabilo Iwata', 'Season Season': '1994', 'League Division': 'J1 League', 'League Apps': 18, 'League Goals': 9, 'Cup Apps': '1', 'Cup Goals': '0', 'Continental Apps': '4', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 14}"
+    },
+    {
+      "season": "1995",
+      "club": "J\u00fabilo Iwata",
+      "league_apps": 34,
+      "league_goals": 31,
+      "raw": "{'Club Club': 'J\u00fabilo Iwata', 'Season Season': '1995', 'League Division': 'J1 League', 'League Apps': 34, 'League Goals': 31, 'Cup Apps': '0', 'Cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 31}"
+    },
+    {
+      "season": "1996",
+      "club": "J\u00fabilo Iwata",
+      "league_apps": 23,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'J\u00fabilo Iwata', 'Season Season': '1996', 'League Division': 'J1 League', 'League Apps': 23, 'League Goals': 15, 'Cup Apps': '0', 'Cup Goals': '0', 'Continental Apps': '8', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 18}"
+    },
+    {
+      "season": "1997",
+      "club": "J\u00fabilo Iwata",
+      "league_apps": 3,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'J\u00fabilo Iwata', 'Season Season': '1997', 'League Division': 'J1 League', 'League Apps': 3, 'League Goals': 1, 'Cup Apps': '0', 'Cup Goals': '0', 'Continental Apps': '2', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "J\u00fabilo Iwata",
+      "league_apps": 78,
+      "league_goals": 56,
+      "raw": "{'Club Club': 'J\u00fabilo Iwata', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 78, 'League Goals': 56, 'Cup Apps': '1', 'Cup Goals': '0', 'Continental Apps': '14', 'Continental Goals': '9', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 93, 'Total Goals': 65}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 417,
+      "league_goals": 154,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 417, 'League Goals': 154, 'Cup Apps': '44', 'Cup Goals': '11', 'Continental Apps': '36', 'Continental Goals': '16', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 498, 'Total Goals': 181}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Salvatore Schillaci - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"4356fea2-83a7-4c77-aac4-5fe5bb1e4"
+}

@@ -1,0 +1,119 @@
+{
+  "player_name_raw": "Lautaro Mart\u00ednez",
+  "fetch_status": "ok",
+  "wikipedia_title": "Lautaro_Mart\u00ednez",
+  "url": "https://en.wikipedia.org/wiki/Lautaro_Mart\u00ednez",
+  "position": "Striker",
+  "birth_year": 1997,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2015",
+      "club": "Racing",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Racing', 'Season Season': '2015', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Continental Apps': '0', 'Continental Goals': 0, 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "2016",
+      "club": "Racing",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Racing', 'Season Season': '2016', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 3, 'League Goals': 0, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Continental Apps': '0', 'Continental Goals': 0, 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Racing",
+      "league_apps": 23,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Racing', 'Season Season': '2016\u201317', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 23, 'League Goals': 9, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Continental Apps': '5[b]', 'Continental Goals': 0, 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 9}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Racing",
+      "league_apps": 21,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Racing', 'Season Season': '2017\u201318', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 21, 'League Goals': 13, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Continental Apps': '6[c]', 'Continental Goals': 5, 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 18}"
+    },
+    {
+      "season": "Total",
+      "club": "Racing",
+      "league_apps": 48,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Racing', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 48, 'League Goals': 22, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Continental Apps': '11', 'Continental Goals': 5, 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 62, 'Total Goals': 27}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Inter Milan",
+      "league_apps": 27,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2018\u201319', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 6, 'National cup[a] Apps': 2, 'National cup[a] Goals': 2, 'Continental Apps': '6[d]', 'Continental Goals': 1, 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 9}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Inter Milan",
+      "league_apps": 35,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2019\u201320', 'League Division': 'Serie A', 'League Apps': 35, 'League Goals': 14, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Continental Apps': '11[e]', 'Continental Goals': 7, 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 21}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Inter Milan",
+      "league_apps": 38,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2020\u201321', 'League Division': 'Serie A', 'League Apps': 38, 'League Goals': 17, 'National cup[a] Apps': 4, 'National cup[a] Goals': 1, 'Continental Apps': '6[f]', 'Continental Goals': 1, 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 19}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Inter Milan",
+      "league_apps": 35,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2021\u201322', 'League Division': 'Serie A', 'League Apps': 35, 'League Goals': 21, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'Continental Apps': '8[f]', 'Continental Goals': 1, 'Other Apps': '1[g]', 'Other Goals': '1', 'Total Apps': 49, 'Total Goals': 25}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Inter Milan",
+      "league_apps": 38,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2022\u201323', 'League Division': 'Serie A', 'League Apps': 38, 'League Goals': 21, 'National cup[a] Apps': 5, 'National cup[a] Goals': 3, 'Continental Apps': '13[f]', 'Continental Goals': 3, 'Other Apps': '1[g]', 'Other Goals': '1', 'Total Apps': 57, 'Total Goals': 28}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Inter Milan",
+      "league_apps": 33,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2023\u201324', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 24, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Continental Apps': '8[f]', 'Continental Goals': 2, 'Other Apps': '2[g]', 'Other Goals': '1', 'Total Apps': 44, 'Total Goals': 27}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Inter Milan",
+      "league_apps": 31,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2024\u201325', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 12, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Continental Apps': '14[f]', 'Continental Goals': 9, 'Other Apps': '6[h]', 'Other Goals': '3', 'Total Apps': 53, 'Total Goals': 24}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Inter Milan",
+      "league_apps": 30,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2025\u201326', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 17, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'Continental Apps': '8[f]', 'Continental Goals': 4, 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 22}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 267,
+      "league_goals": 132,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 267, 'League Goals': 132, 'National cup[a] Apps': 24, 'National cup[a] Goals': 9, 'Continental Apps': '74', 'Continental Goals': 28, 'Other Apps': '11', 'Other Goals': '6', 'Total Apps': 376, 'Total Goals': 175}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 314,
+      "league_goals": 154,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 314, 'League Goals': 154, 'National cup[a] Apps': 27, 'National cup[a] Goals': 9, 'Continental Apps': '85', 'Continental Goals': 33, 'Other Apps': '11', 'Other Goals': '6', 'Total Apps': 438, 'Total Goals': 202}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Lautaro Mart\u00ednez - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"6c4fb67b-aa5d-4f7a-92d1-28f00e624891",
+  "season_id": "2023",
+  "award_year": 2023
+}

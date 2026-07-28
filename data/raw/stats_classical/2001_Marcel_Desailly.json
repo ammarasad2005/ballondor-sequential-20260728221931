@@ -1,0 +1,196 @@
+{
+  "player_name_raw": "Marcel Desailly",
+  "fetch_status": "ok",
+  "wikipedia_title": "Marcel_Desailly",
+  "url": "https://en.wikipedia.org/wiki/Marcel_Desailly",
+  "position": "Centre-back defensive midfielder",
+  "birth_year": 1968,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1986\u201387",
+      "club": "Nantes",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1986\u201387', 'League Division': 'Division 1', 'League Apps': 13, 'League Goals': 0, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 16, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Nantes",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1987\u201388', 'League Division': 'Division 1', 'League Apps': 11, 'League Goals': 0, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 12, 'Total Goals': 0}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Nantes",
+      "league_apps": 36,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1988\u201389', 'League Division': 'Division 1', 'League Apps': 36, 'League Goals': 1, 'National cup Apps': 4.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 1}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Nantes",
+      "league_apps": 36,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1989\u201390', 'League Division': 'Division 1', 'League Apps': 36, 'League Goals': 1, 'National cup Apps': 3.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 1}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Nantes",
+      "league_apps": 34,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1990\u201391', 'League Division': 'Division 1', 'League Apps': 34, 'League Goals': 1, 'National cup Apps': 4.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 1}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Nantes",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1991\u201392', 'League Division': 'Division 1', 'League Apps': 32, 'League Goals': 2, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Nantes",
+      "league_apps": 162,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 162, 'League Goals': 5, 'National cup Apps': 14.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 178, 'Total Goals': 5}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Marseille",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1992\u201393', 'League Division': 'Division 1', 'League Apps': 31, 'League Goals': 1, 'National cup Apps': 3.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '10', 'Continental Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 44, 'Total Goals': 2}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Marseille",
+      "league_apps": 16,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1993\u201394', 'League Division': 'Division 1', 'League Apps': 16, 'League Goals': 0, 'National cup Apps': 0.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 16, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Marseille",
+      "league_apps": 47,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 47, 'League Goals': 1, 'National cup Apps': 3.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '10', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 60, 'Total Goals': 2}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "AC Milan",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1993\u201394', 'League Division': 'Serie A', 'League Apps': 21, 'League Goals': 1, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '6', 'Continental Goals': '2', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 31, 'Total Goals': 3}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "AC Milan",
+      "league_apps": 22,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': 22, 'League Goals': 1, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '10', 'Continental Goals': '0', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 1}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "AC Milan",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 2, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '7', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 2}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "AC Milan",
+      "league_apps": 29,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1996\u201397', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 1, 'National cup Apps': 3.0, 'National cup Goals': 0.0, 'League cup Apps': '1', 'League cup Goals': '0', 'Continental Apps': '5', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 1}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "AC Milan",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 0, 'National cup Apps': 8.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 41, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 137,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 137, 'League Goals': 5, 'National cup Apps': 14.0, 'National cup Goals': 0.0, 'League cup Apps': '1', 'League cup Goals': '0', 'Continental Apps': '28', 'Continental Goals': '2', 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': 186, 'Total Goals': 7}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Chelsea",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '1998\u201399', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 0, 'National cup Apps': 6.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '7', 'Continental Goals': '1', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 1}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Chelsea",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '1999\u20132000', 'League Division': 'Premier League', 'League Apps': 23, 'League Goals': 1, 'National cup Apps': 4.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '16', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 43, 'Total Goals': 1}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Chelsea",
+      "league_apps": 34,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2000\u201301', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 2, 'National cup Apps': 2.0, 'National cup Goals': 0.0, 'League cup Apps': '1', 'League cup Goals': '0', 'Continental Apps': '1', 'Continental Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 39, 'Total Goals': 2}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Chelsea",
+      "league_apps": 24,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2001\u201302', 'League Division': 'Premier League', 'League Apps': 24, 'League Goals': 1, 'National cup Apps': 8.0, 'National cup Goals': 0.0, 'League cup Apps': '3', 'League cup Goals': '0', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 37, 'Total Goals': 1}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Chelsea",
+      "league_apps": 31,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2002\u201303', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 2, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '1', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 2}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Chelsea",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2003\u201304', 'League Division': 'Premier League', 'League Apps': 15, 'League Goals': 0, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '1', 'League cup Goals': '0', 'Continental Apps': '8', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 25, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Chelsea",
+      "league_apps": 158,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 158, 'League Goals': 6, 'National cup Apps': 22.0, 'National cup Goals': 0.0, 'League cup Apps': '5', 'League cup Goals': '0', 'Continental Apps': '35', 'Continental Goals': '1', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 222, 'Total Goals': 7}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Al-Gharafa",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Al-Gharafa', 'Season Season': '2004\u201305', 'League Division': 'Stars League', 'League Apps': 28, 'League Goals': 6, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 6}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Qatar SC",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Qatar SC', 'Season Season': '2005\u201306', 'League Division': 'Stars League', 'League Apps': 7, 'League Goals': 0, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 539,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 539, 'League Goals': 23, 'National cup Apps': 53.0, 'National cup Goals': 0.0, 'League cup Apps': '6', 'League cup Goals': '0', 'Continental Apps': '75', 'Continental Goals': '4', 'Other Apps': '8', 'Other Goals': '0', 'Total Apps': 681, 'Total Goals': 27}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Marcel Desailly - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"c821dcd8-2ab7-4092-bd78-e99219679c6f\"",
+  "season_id": "2001",
+  "award_year": 2001
+}

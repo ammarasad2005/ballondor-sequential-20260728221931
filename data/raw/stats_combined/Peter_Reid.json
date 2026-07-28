@@ -1,0 +1,229 @@
+{
+  "player_name_raw": "Peter Reid",
+  "fetch_status": "ok",
+  "wikipedia_title": "Peter_Reid",
+  "url": "https://en.wikipedia.org/wiki/Peter_Reid",
+  "position": "Defensive midfielder",
+  "birth_year": 1956,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1974\u201375",
+      "club": "Bolton Wanderers",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '1974\u201375', 'League Division': 'Second Division', 'League Apps': 27, 'League Goals': 0, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 29, 'Total Goals': 0}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Bolton Wanderers",
+      "league_apps": 42,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '1975\u201376', 'League Division': 'Second Division', 'League Apps': 42, 'League Goals': 2, 'FA Cup Apps': 6, 'FA Cup Goals': 1, 'League Cup Apps': 1, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 49, 'Total Goals': 3}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Bolton Wanderers",
+      "league_apps": 42,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '1976\u201377', 'League Division': 'Second Division', 'League Apps': 42, 'League Goals': 5, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': 9, 'League Cup Goals': 1, 'Other Apps': '4[a]', 'Other Goals': 0, 'Total Apps': 56, 'Total Goals': 6}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Bolton Wanderers",
+      "league_apps": 38,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '1977\u201378', 'League Division': 'Second Division', 'League Apps': 38, 'League Goals': 9, 'FA Cup Apps': 4, 'FA Cup Goals': 0, 'League Cup Apps': 3, 'League Cup Goals': 0, 'Other Apps': '3[a]', 'Other Goals': 0, 'Total Apps': 48, 'Total Goals': 9}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Bolton Wanderers",
+      "league_apps": 14,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '1978\u201379', 'League Division': 'First Division', 'League Apps': 14, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 1, 'League Cup Goals': 0, 'Other Apps': '2[a]', 'Other Goals': 0, 'Total Apps': 17, 'Total Goals': 0}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Bolton Wanderers",
+      "league_apps": 17,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '1979\u201380', 'League Division': 'First Division', 'League Apps': 17, 'League Goals': 3, 'FA Cup Apps': 4, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 21, 'Total Goals': 3}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Bolton Wanderers",
+      "league_apps": 18,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '1980\u201381', 'League Division': 'Second Division', 'League Apps': 18, 'League Goals': 2, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 18, 'Total Goals': 2}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Bolton Wanderers",
+      "league_apps": 12,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '1981\u201382', 'League Division': 'Second Division', 'League Apps': 12, 'League Goals': 1, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 1, 'League Cup Goals': 0, 'Other Apps': '3[b]', 'Other Goals': 0, 'Total Apps': 16, 'Total Goals': 1}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Bolton Wanderers",
+      "league_apps": 15,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '1982\u201383', 'League Division': 'Second Division', 'League Apps': 15, 'League Goals': 1, 'FA Cup Apps': 4, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 19, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Bolton Wanderers",
+      "league_apps": 225,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 225, 'League Goals': 23, 'FA Cup Apps': 21, 'FA Cup Goals': 1, 'League Cup Apps': 15, 'League Cup Goals': 1, 'Other Apps': '12', 'Other Goals': 0, 'Total Apps': 273, 'Total Goals': 25}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Everton",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1982\u201383', 'League Division': 'First Division', 'League Apps': 7, 'League Goals': 0, 'FA Cup Apps': 3, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Everton",
+      "league_apps": 35,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1983\u201384', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 2, 'FA Cup Apps': 8, 'FA Cup Goals': 1, 'League Cup Apps': 10, 'League Cup Goals': 1, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 53, 'Total Goals': 4}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Everton",
+      "league_apps": 36,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1984\u201385', 'League Division': 'First Division', 'League Apps': 36, 'League Goals': 2, 'FA Cup Apps': 7, 'FA Cup Goals': 1, 'League Cup Apps': 4, 'League Cup Goals': 0, 'Other Apps': '10[c]', 'Other Goals': 1, 'Total Apps': 57, 'Total Goals': 4}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Everton",
+      "league_apps": 15,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1985\u201386', 'League Division': 'First Division', 'League Apps': 15, 'League Goals': 1, 'FA Cup Apps': 5, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other Apps': '2[d]', 'Other Goals': 0, 'Total Apps': 22, 'Total Goals': 1}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Everton",
+      "league_apps": 16,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1986\u201387', 'League Division': 'First Division', 'League Apps': 16, 'League Goals': 1, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 18, 'Total Goals': 1}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Everton",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1987\u201388', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 1, 'FA Cup Apps': 8, 'FA Cup Goals': 1, 'League Cup Apps': 6, 'League Cup Goals': 0, 'Other Apps': '1[e]', 'Other Goals': 0, 'Total Apps': 47, 'Total Goals': 2}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Everton",
+      "league_apps": 18,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '1988\u201389', 'League Division': 'First Division', 'League Apps': 18, 'League Goals': 1, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'League Cup Apps': 5, 'League Cup Goals': 0, 'Other Apps': '2[f]', 'Other Goals': 0, 'Total Apps': 27, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Everton",
+      "league_apps": 159,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Everton', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 159, 'League Goals': 8, 'FA Cup Apps': 35, 'FA Cup Goals': 3, 'League Cup Apps': 25, 'League Cup Goals': 1, 'Other Apps': '15', 'Other Goals': 1, 'Total Apps': 234, 'Total Goals': 13}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Queens Park Rangers",
+      "league_apps": 14,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Queens Park Rangers', 'Season Season': '1988\u201389', 'League Division': 'First Division', 'League Apps': 14, 'League Goals': 1, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 14, 'Total Goals': 1}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Queens Park Rangers",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Queens Park Rangers', 'Season Season': '1989\u201390', 'League Division': 'First Division', 'League Apps': 15, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 3, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 18, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Queens Park Rangers",
+      "league_apps": 29,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Queens Park Rangers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 29, 'League Goals': 1, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 3, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 32, 'Total Goals': 1}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Manchester City",
+      "league_apps": 18,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '1989\u201390', 'League Division': 'First Division', 'League Apps': 18, 'League Goals': 1, 'FA Cup Apps': 3, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 21, 'Total Goals': 1}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Manchester City",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '1990\u201391', 'League Division': 'First Division', 'League Apps': 30, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': 1, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 32, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Manchester City",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '1991\u201392', 'League Division': 'First Division', 'League Apps': 31, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 1, 'League Cup Apps': 1, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 33, 'Total Goals': 1}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Manchester City",
+      "league_apps": 20,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '1992\u201393', 'League Division': 'Premier League', 'League Apps': 20, 'League Goals': 0, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'League Cup Apps': 2, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 24, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Manchester City",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '1993\u201394', 'League Division': 'Premier League', 'League Apps': 4, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester City",
+      "league_apps": 103,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 103, 'League Goals': 1, 'FA Cup Apps': 7, 'FA Cup Goals': 1, 'League Cup Apps': 4, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 114, 'Total Goals': 2}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Southampton",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Southampton', 'Season Season': '1993\u201394', 'League Division': 'Premier League', 'League Apps': 7, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 1, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Notts County",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Notts County', 'Season Season': '1993\u201394', 'League Division': 'First Division', 'League Apps': 5, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other Apps': '0', 'Other Goals': 0, 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Bury",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bury', 'Season Season': '1994\u201395', 'League Division': 'Third Division', 'League Apps': 1, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other Apps': '1[g]', 'Other Goals': 0, 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 529,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 529, 'League Goals': 33, 'FA Cup Apps': 63, 'FA Cup Goals': 5, 'League Cup Apps': 48, 'League Cup Goals': 2, 'Other Apps': '28', 'Other Goals': 1, 'Total Apps': 668, 'Total Goals': 41}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Peter Reid - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"f385acbf-a1bf-48b7-ad16-77ed1c365851\",\"wgC"
+}

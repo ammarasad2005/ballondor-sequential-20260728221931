@@ -1,0 +1,194 @@
+{
+  "player_name_raw": "Des Walker",
+  "fetch_status": "ok",
+  "wikipedia_title": "Des_Walker",
+  "url": "https://en.wikipedia.org/wiki/Des_Walker",
+  "position": "Centre-back",
+  "birth_year": 1965,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1983\u201384",
+      "club": "Nottingham Forest",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1983\u201384', 'League Division': 'First Division', 'League Apps': 4, 'League Goals': 0, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Nottingham Forest",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1984\u201385', 'League Division': 'First Division', 'League Apps': 3, 'League Goals': 0, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Nottingham Forest",
+      "league_apps": 39,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1985\u201386', 'League Division': 'First Division', 'League Apps': 39, 'League Goals': 0, 'National cup Apps': 2, 'National cup Goals': 0, 'League cup Apps': '2', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Nottingham Forest",
+      "league_apps": 41,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1986\u201387', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 0, 'National cup Apps': 1, 'National cup Goals': 0, 'League cup Apps': '6', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Nottingham Forest",
+      "league_apps": 35,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1987\u201388', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 0, 'National cup Apps': 5, 'National cup Goals': 0, 'League cup Apps': '3', 'League cup Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Nottingham Forest",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1988\u201389', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 0, 'National cup Apps': 5, 'National cup Goals': 0, 'League cup Apps': '6', 'League cup Goals': '0', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Nottingham Forest",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1989\u201390', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 0, 'National cup Apps': 1, 'National cup Goals': 0, 'League cup Apps': '10', 'League cup Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Nottingham Forest",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1990\u201391', 'League Division': 'First Division', 'League Apps': 37, 'League Goals': 0, 'National cup Apps': 10, 'National cup Goals': 0, 'League cup Apps': '4', 'League cup Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 53, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Nottingham Forest",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1991\u201392', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 1, 'National cup Apps': 4, 'National cup Goals': 0, 'League cup Apps': '9', 'League cup Goals': '0', 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Nottingham Forest",
+      "league_apps": 264,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 264, 'League Goals': 1, 'National cup Apps': 28, 'National cup Goals': 0, 'League cup Apps': '40', 'League cup Goals': '0', 'Other Apps': '14', 'Other Goals': '0', 'Total Apps': 346, 'Total Goals': 1}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Sampdoria",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1992\u201393', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'National cup Apps': 2, 'National cup Goals': 0, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Sheffield Wednesday",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1993\u201394', 'League Division': 'Premier League', 'League Apps': 42, 'League Goals': 0, 'National cup Apps': 4, 'National cup Goals': 0, 'League cup Apps': '7', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 53, 'Total Goals': 0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Sheffield Wednesday",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1994\u201395', 'League Division': 'Premier League', 'League Apps': 38, 'League Goals': 0, 'National cup Apps': 3, 'National cup Goals': 0, 'League cup Apps': '2', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Sheffield Wednesday",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1995\u201396', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 0, 'National cup Apps': 1, 'National cup Goals': 0, 'League cup Apps': '4', 'League cup Goals': '0', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Sheffield Wednesday",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1996\u201397', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 0, 'National cup Apps': 4, 'National cup Goals': 0, 'League cup Apps': '1', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Sheffield Wednesday",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1997\u201398', 'League Division': 'Premier League', 'League Apps': 38, 'League Goals': 0, 'National cup Apps': 3, 'National cup Goals': 0, 'League cup Apps': '2', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Sheffield Wednesday",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1998\u201399', 'League Division': 'Premier League', 'League Apps': 37, 'League Goals': 0, 'National cup Apps': 3, 'National cup Goals': 0, 'League cup Apps': '2', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Sheffield Wednesday",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1999\u20132000', 'League Division': 'Premier League', 'League Apps': 37, 'League Goals': 0, 'National cup Apps': 4, 'National cup Goals': 0, 'League cup Apps': '4', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Sheffield Wednesday",
+      "league_apps": 43,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '2000\u201301', 'League Division': 'First Division', 'League Apps': 43, 'League Goals': 0, 'National cup Apps': 2, 'National cup Goals': 0, 'League cup Apps': '5', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Sheffield Wednesday",
+      "league_apps": 307,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 307, 'League Goals': 0, 'National cup Apps': 24, 'National cup Goals': 0, 'League cup Apps': '27', 'League cup Goals': '0', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 361, 'Total Goals': 0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Nottingham Forest",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '2002\u201303', 'League Division': 'First Division', 'League Apps': 31, 'League Goals': 0, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 33, 'Total Goals': 0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Nottingham Forest",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '2003\u201304', 'League Division': 'First Division', 'League Apps': 25, 'League Goals': 0, 'National cup Apps': 2, 'National cup Goals': 0, 'League cup Apps': '1', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Nottingham Forest",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '2004\u201305', 'League Division': 'Championship', 'League Apps': 1, 'League Goals': 0, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Nottingham Forest",
+      "league_apps": 57,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 57, 'League Goals': 0, 'National cup Apps': 2, 'National cup Goals': 0, 'League cup Apps': '1', 'League cup Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 62, 'Total Goals': 0}"
+    },
+    {
+      "season": "Club total",
+      "club": "Nottingham Forest",
+      "league_apps": 321,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': 'Club total', 'League Division': 'Club total', 'League Apps': 321, 'League Goals': 1, 'National cup Apps': 30, 'National cup Goals': 0, 'League cup Apps': '41', 'League cup Goals': '0', 'Other Apps': '16', 'Other Goals': '0', 'Total Apps': 408, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 658,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 658, 'League Goals': 1, 'National cup Apps': 54, 'National cup Goals': 0, 'League cup Apps': '68', 'League cup Goals': '0', 'Other Apps': '19', 'Other Goals': '0', 'Total Apps': 801, 'Total Goals': 1}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Des Walker - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"4004bf89-4bb9-4a77-804e-79eb794025bb\",\"wgC"
+}

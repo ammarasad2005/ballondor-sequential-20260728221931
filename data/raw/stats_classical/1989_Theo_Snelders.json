@@ -1,0 +1,203 @@
+{
+  "player_name_raw": "Theo Snelders",
+  "fetch_status": "ok",
+  "wikipedia_title": "Theo_Snelders",
+  "url": "https://en.wikipedia.org/wiki/Theo_Snelders",
+  "position": "Goalkeeper",
+  "birth_year": 1963,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1980\u201381",
+      "club": "Twente",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Twente', 'Season Season': '1980\u201381', 'League Division': 'Eredivisie', 'League Apps': 4, 'League Goals': 0, 'National Cup Apps': '\u2013', 'National Cup Goals': '\u2013', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': '4+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Twente",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Twente', 'Season Season': '1981\u201382', 'League Division': 'Eredivisie', 'League Apps': 15, 'League Goals': 0, 'National Cup Apps': '\u2013', 'National Cup Goals': '\u2013', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': '15+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Twente",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Twente', 'Season Season': '1982\u201383', 'League Division': 'Eredivisie', 'League Apps': 17, 'League Goals': 0, 'National Cup Apps': '\u2013', 'National Cup Goals': '\u2013', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': '17+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Twente",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Twente', 'Season Season': '1983\u201384', 'League Division': 'Eerste Divisie', 'League Apps': 32, 'League Goals': 0, 'National Cup Apps': '\u2013', 'National Cup Goals': '\u2013', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': '32+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Twente",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Twente', 'Season Season': '1984\u201385', 'League Division': 'Eredivisie', 'League Apps': 34, 'League Goals': 0, 'National Cup Apps': '\u2013', 'National Cup Goals': '\u2013', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': '34+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Twente",
+      "league_apps": 35,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Twente', 'Season Season': '1985\u201386', 'League Division': 'Eredivisie', 'League Apps': 35, 'League Goals': 0, 'National Cup Apps': '\u2013', 'National Cup Goals': '\u2013', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': '35+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Twente",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Twente', 'Season Season': '1986\u201387', 'League Division': 'Eredivisie', 'League Apps': 34, 'League Goals': 0, 'National Cup Apps': '\u2013', 'National Cup Goals': '\u2013', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': '34+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Twente",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Twente', 'Season Season': '1987\u201388', 'League Division': 'Eredivisie', 'League Apps': 28, 'League Goals': 0, 'National Cup Apps': '\u2013', 'National Cup Goals': '\u2013', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': '28+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "Total",
+      "club": "Twente",
+      "league_apps": 199,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Twente', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 199, 'League Goals': 0, 'National Cup Apps': '-', 'National Cup Goals': '-', 'League Cup Apps': '-', 'League Cup Goals': '-', 'Europe Apps': '-', 'Europe Goals': '-', 'Total Apps': '199+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Aberdeen",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Aberdeen', 'Season Season': '1988\u201389', 'League Division': 'Scottish Premier Division', 'League Apps': 36, 'League Goals': 0, 'National Cup Apps': '5', 'National Cup Goals': '0', 'League Cup Apps': '5', 'League Cup Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Total Apps': '48', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Aberdeen",
+      "league_apps": 23,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Aberdeen', 'Season Season': '1989\u201390', 'League Division': 'Scottish Premier Division', 'League Apps': 23, 'League Goals': 0, 'National Cup Apps': '2', 'National Cup Goals': '0', 'League Cup Apps': '5', 'League Cup Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Total Apps': '32', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Aberdeen",
+      "league_apps": 20,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Aberdeen', 'Season Season': '1990\u201391', 'League Division': 'Scottish Premier Division', 'League Apps': 20, 'League Goals': 0, 'National Cup Apps': '1', 'National Cup Goals': '0', 'League Cup Apps': '4', 'League Cup Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Total Apps': '27', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Aberdeen",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Aberdeen', 'Season Season': '1991\u201392', 'League Division': 'Scottish Premier Division', 'League Apps': 42, 'League Goals': 0, 'National Cup Apps': '1', 'National Cup Goals': '0', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Total Apps': '47', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Aberdeen",
+      "league_apps": 41,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Aberdeen', 'Season Season': '1992\u201393', 'League Division': 'Scottish Premier Division', 'League Apps': 41, 'League Goals': 0, 'National Cup Apps': '6', 'National Cup Goals': '0', 'League Cup Apps': '5', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': '52', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Aberdeen",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Aberdeen', 'Season Season': '1993\u201394', 'League Division': 'Scottish Premier Division', 'League Apps': 33, 'League Goals': 0, 'National Cup Apps': '3', 'National Cup Goals': '0', 'League Cup Apps': '3', 'League Cup Goals': '0', 'Europe Apps': '4', 'Europe Goals': '0', 'Total Apps': '43', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Aberdeen",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Aberdeen', 'Season Season': '1994\u201395', 'League Division': 'Scottish Premier Division', 'League Apps': 26, 'League Goals': 0, 'National Cup Apps': '2', 'National Cup Goals': '0', 'League Cup Apps': '3', 'League Cup Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Total Apps': '33', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Aberdeen",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Aberdeen', 'Season Season': '1995\u201396', 'League Division': 'Scottish Premier Division', 'League Apps': 7, 'League Goals': 0, 'National Cup Apps': '0', 'National Cup Goals': '0', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': '9', 'Total Goals': '0'}"
+    },
+    {
+      "season": "Total",
+      "club": "Aberdeen",
+      "league_apps": 228,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Aberdeen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 228, 'League Goals': 0, 'National Cup Apps': '20', 'National Cup Goals': '0', 'League Cup Apps': '29', 'League Cup Goals': '0', 'Europe Apps': '14', 'Europe Goals': '0', 'Total Apps': '291', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Rangers",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1995\u201396', 'League Division': 'Scottish Premier Division', 'League Apps': 2, 'League Goals': 0, 'National Cup Apps': '0', 'National Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': '2', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Rangers",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1996\u201397', 'League Division': 'Scottish Premier Division', 'League Apps': 4, 'League Goals': 0, 'National Cup Apps': '0', 'National Cup Goals': '0', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Total Apps': '7', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Rangers",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1997\u201398', 'League Division': 'Scottish Premier Division', 'League Apps': 7, 'League Goals': 0, 'National Cup Apps': '0', 'National Cup Goals': '0', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '1', 'Europe Goals': '0', 'Total Apps': '9', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Rangers",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1998\u201399', 'League Division': 'SPL', 'League Apps': 0, 'League Goals': 0, 'National Cup Apps': '0', 'National Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': '0', 'Total Goals': '0'}"
+    },
+    {
+      "season": "Total",
+      "club": "Rangers",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 13, 'League Goals': 0, 'National Cup Apps': '0', 'National Cup Goals': '0', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '3', 'Europe Goals': '0', 'Total Apps': '18', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1999-00",
+      "club": "MVV",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'MVV', 'Season Season': '1999-00', 'League Division': 'Eredivisie', 'League Apps': 27, 'League Goals': 0, 'National Cup Apps': '\u2013', 'National Cup Goals': '\u2013', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': '27+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "MVV",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'MVV', 'Season Season': '2000\u201301', 'League Division': 'Eerste Divisie', 'League Apps': 11, 'League Goals': 0, 'National Cup Apps': '\u2013', 'National Cup Goals': '\u2013', 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': '11+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "Total",
+      "club": "MVV",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'MVV', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 38, 'League Goals': 0, 'National Cup Apps': '-', 'National Cup Goals': '-', 'League Cup Apps': '-', 'League Cup Goals': '-', 'Europe Apps': '-', 'Europe Goals': '-', 'Total Apps': '38+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 478,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 478, 'League Goals': 0, 'National Cup Apps': '20+', 'National Cup Goals': '0+', 'League Cup Apps': '31+', 'League Cup Goals': '0+', 'Europe Apps': '17+', 'Europe Goals': '0+', 'Total Apps': '546+', 'Total Goals': '0+'}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Theo Snelders - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d5487f4e-3d78-4bde-9e8d-242621f7278a\",\"",
+  "season_id": "1989",
+  "award_year": 1989
+}

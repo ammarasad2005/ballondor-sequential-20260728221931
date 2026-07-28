@@ -1,0 +1,189 @@
+{
+  "player_name_raw": "Patrick Vieira",
+  "fetch_status": "ok",
+  "wikipedia_title": "Patrick_Vieira",
+  "url": "https://en.wikipedia.org/wiki/Patrick_Vieira",
+  "position": "Midfielder",
+  "birth_year": 1976,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1993\u201394",
+      "club": "Cannes",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Cannes', 'Season Season': '1993\u201394', 'League Division': 'Division 1', 'League Apps': 5, 'League Goals': 0, 'National Cup Apps': 1, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Cannes",
+      "league_apps": 31,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Cannes', 'Season Season': '1994\u201395', 'League Division': 'Division 1', 'League Apps': 31, 'League Goals': 2, 'National Cup Apps': 2, 'National Cup Goals': 1, 'League Cup Apps': '1', 'League Cup Goals': '0', 'Continental Apps': '4', 'Continental Goals': '1', 'Total Apps': 38, 'Total Goals': 4}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Cannes",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Cannes', 'Season Season': '1995\u201396', 'League Division': 'Division 1', 'League Apps': 13, 'League Goals': 0, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Continental Apps': '4', 'Continental Goals': '0', 'Total Apps': 17, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Cannes",
+      "league_apps": 49,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Cannes', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 49, 'League Goals': 2, 'National Cup Apps': 3, 'National Cup Goals': 1, 'League Cup Apps': '1', 'League Cup Goals': '0', 'Continental Apps': '8', 'Continental Goals': '1', 'Total Apps': 61, 'Total Goals': 4}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "AC Milan",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': 2, 'League Goals': 0, 'National Cup Apps': 1, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '2', 'Continental Goals': '0', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Arsenal",
+      "league_apps": 31,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1996\u201397', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 2, 'National Cup Apps': 3, 'National Cup Goals': 0, 'League Cup Apps': '3', 'League Cup Goals': '0', 'Continental Apps': '1', 'Continental Goals': '0', 'Total Apps': 38, 'Total Goals': 2}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Arsenal",
+      "league_apps": 33,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1997\u201398', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 2, 'National Cup Apps': 9, 'National Cup Goals': 0, 'League Cup Apps': '2', 'League Cup Goals': '0', 'Continental Apps': '2', 'Continental Goals': '0', 'Total Apps': 46, 'Total Goals': 2}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Arsenal",
+      "league_apps": 34,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1998\u201399', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 3, 'National Cup Apps': 4, 'National Cup Goals': 1, 'League Cup Apps': '1', 'League Cup Goals': '0', 'Continental Apps': '3', 'Continental Goals': '0', 'Total Apps': 42, 'Total Goals': 4}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Arsenal",
+      "league_apps": 30,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1999\u20132000', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 2, 'National Cup Apps': 2, 'National Cup Goals': 0, 'League Cup Apps': '1', 'League Cup Goals': '0', 'Continental Apps': '14', 'Continental Goals': '0', 'Total Apps': 47, 'Total Goals': 2}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Arsenal",
+      "league_apps": 30,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2000\u201301', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 5, 'National Cup Apps': 6, 'National Cup Goals': 1, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Continental Apps': '12', 'Continental Goals': '0', 'Total Apps': 48, 'Total Goals': 6}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Arsenal",
+      "league_apps": 36,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2001\u201302', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 2, 'National Cup Apps': 7, 'National Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Continental Apps': '11', 'Continental Goals': '1', 'Total Apps': 54, 'Total Goals': 3}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Arsenal",
+      "league_apps": 24,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2002\u201303', 'League Division': 'Premier League', 'League Apps': 24, 'League Goals': 3, 'National Cup Apps': 5, 'National Cup Goals': 0, 'League Cup Apps': '1', 'League Cup Goals': '0', 'Continental Apps': '12', 'Continental Goals': '1', 'Total Apps': 42, 'Total Goals': 4}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Arsenal",
+      "league_apps": 29,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2003\u201304', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 3, 'National Cup Apps': 5, 'National Cup Goals': 0, 'League Cup Apps': '3', 'League Cup Goals': '0', 'Continental Apps': '7', 'Continental Goals': '0', 'Total Apps': 44, 'Total Goals': 3}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Arsenal",
+      "league_apps": 32,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2004\u201305', 'League Division': 'Premier League', 'League Apps': 32, 'League Goals': 6, 'National Cup Apps': 6, 'National Cup Goals': 1, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Continental Apps': '6', 'Continental Goals': '0', 'Total Apps': 44, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Arsenal",
+      "league_apps": 279,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 279, 'League Goals': 28, 'National Cup Apps': 48, 'National Cup Goals': 3, 'League Cup Apps': '11', 'League Cup Goals': '0', 'Continental Apps': '68', 'Continental Goals': '2', 'Total Apps': 406, 'Total Goals': 33}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Juventus",
+      "league_apps": 31,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2005\u201306', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 5, 'National Cup Apps': 3, 'National Cup Goals': 0, 'League Cup Apps': '1', 'League Cup Goals': '0', 'Continental Apps': '7', 'Continental Goals': '0', 'Total Apps': 42, 'Total Goals': 5}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Inter Milan",
+      "league_apps": 20,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2006\u201307', 'League Division': 'Serie A', 'League Apps': 20, 'League Goals': 1, 'National Cup Apps': 3, 'National Cup Goals': 0, 'League Cup Apps': '1', 'League Cup Goals': '2', 'Continental Apps': '4', 'Continental Goals': '1', 'Total Apps': 28, 'Total Goals': 4}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Inter Milan",
+      "league_apps": 16,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2007\u201308', 'League Division': 'Serie A', 'League Apps': 16, 'League Goals': 3, 'National Cup Apps': 3, 'National Cup Goals': 0, 'League Cup Apps': '1', 'League Cup Goals': '0', 'Continental Apps': '3', 'Continental Goals': '0', 'Total Apps': 23, 'Total Goals': 3}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Inter Milan",
+      "league_apps": 19,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2008\u201309', 'League Division': 'Serie A', 'League Apps': 19, 'League Goals': 1, 'National Cup Apps': 2, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '3', 'Continental Goals': '0', 'Total Apps': 24, 'Total Goals': 1}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Inter Milan",
+      "league_apps": 12,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2009\u201310', 'League Division': 'Serie A', 'League Apps': 12, 'League Goals': 1, 'National Cup Apps': 1, 'National Cup Goals': 0, 'League Cup Apps': '1', 'League Cup Goals': '0', 'Continental Apps': '2', 'Continental Goals': '0', 'Total Apps': 16, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 67,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 67, 'League Goals': 6, 'National Cup Apps': 9, 'National Cup Goals': 0, 'League Cup Apps': '3', 'League Cup Goals': '2', 'Continental Apps': '12', 'Continental Goals': '1', 'Total Apps': 91, 'Total Goals': 9}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Manchester City",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2009\u201310', 'League Division': 'Premier League', 'League Apps': 13, 'League Goals': 1, 'National Cup Apps': 1, 'National Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 14, 'Total Goals': 1}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Manchester City",
+      "league_apps": 15,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2010\u201311', 'League Division': 'Premier League', 'League Apps': 15, 'League Goals': 2, 'National Cup Apps': 8, 'National Cup Goals': 3, 'League Cup Apps': '1', 'League Cup Goals': '0', 'Continental Apps': '8', 'Continental Goals': '0', 'Total Apps': 32, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester City",
+      "league_apps": 28,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 28, 'League Goals': 3, 'National Cup Apps': 9, 'National Cup Goals': 3, 'League Cup Apps': '1', 'League Cup Goals': '0', 'Continental Apps': '8', 'Continental Goals': '0', 'Total Apps': 46, 'Total Goals': 6}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 456,
+      "league_goals": 45,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 456, 'League Goals': 45, 'National Cup Apps': 73, 'National Cup Goals': 7, 'League Cup Apps': '17', 'League Cup Goals': '2', 'Continental Apps': '105', 'Continental Goals': '4', 'Total Apps': 650, 'Total Goals': 58}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Patrick Vieira - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"e2479227-d88a-4b3b-ad03-949da607a0ea\",",
+  "season_id": "2001",
+  "award_year": 2001
+}

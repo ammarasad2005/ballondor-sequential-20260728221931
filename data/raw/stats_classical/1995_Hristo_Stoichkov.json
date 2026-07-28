@@ -1,0 +1,231 @@
+{
+  "player_name_raw": "Hristo Stoichkov",
+  "fetch_status": "ok",
+  "wikipedia_title": "Hristo_Stoichkov",
+  "url": "https://en.wikipedia.org/wiki/Hristo_Stoichkov",
+  "position": "Forward",
+  "birth_year": 1966,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1982\u201383",
+      "club": "Hebros",
+      "league_apps": 11,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Hebros', 'Season Season': '1982\u201383', 'League Division': 'V Group', 'League Apps': 11.0, 'League Goals': 4.0, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 11, 'Total Goals': 4}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Hebros",
+      "league_apps": 21,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Hebros', 'Season Season': '1983\u201384', 'League Division': 'V Group', 'League Apps': 21.0, 'League Goals': 10.0, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 21, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Hebros",
+      "league_apps": 32,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Hebros', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 32.0, 'League Goals': 14.0, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 14}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "CSKA Sofia",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'CSKA Sofia', 'Season Season': '1984\u201385', 'League Division': 'A Group', 'League Apps': 11.0, 'League Goals': 0.0, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 14, 'Total Goals': 0}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "CSKA Sofia",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'CSKA Sofia', 'Season Season': '1985\u201386', 'League Division': 'A Group', 'League Apps': 0.0, 'League Goals': 0.0, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 2.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 2, 'Total Goals': 2}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "CSKA Sofia",
+      "league_apps": 25,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'CSKA Sofia', 'Season Season': '1986\u201387', 'League Division': 'A Group', 'League Apps': 25.0, 'League Goals': 6.0, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '7[c]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 7}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "CSKA Sofia",
+      "league_apps": 27,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'CSKA Sofia', 'Season Season': '1987\u201388', 'League Division': 'A Group', 'League Apps': 27.0, 'League Goals': 14.0, 'National cup[a] Apps': 4.0, 'National cup[a] Goals': 4.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '7[d]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 23}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "CSKA Sofia",
+      "league_apps": 26,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'CSKA Sofia', 'Season Season': '1988\u201389', 'League Division': 'A Group', 'League Apps': 26.0, 'League Goals': 23.0, 'National cup[a] Apps': 7.0, 'National cup[a] Goals': 3.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[e]', 'Continental Goals': '7', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 33}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "CSKA Sofia",
+      "league_apps": 30,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'CSKA Sofia', 'Season Season': '1989\u201390', 'League Division': 'A Group', 'League Apps': 30.0, 'League Goals': 38.0, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 7.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '3[d]', 'Continental Goals': '2', 'Other Apps': '1[f]', 'Other Goals': '1', 'Total Apps': 39, 'Total Goals': 48}"
+    },
+    {
+      "season": "Total",
+      "club": "CSKA Sofia",
+      "league_apps": 119,
+      "league_goals": 81,
+      "raw": "{'Club Club': 'CSKA Sofia', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 119.0, 'League Goals': 81.0, 'National cup[a] Apps': 23.0, 'National cup[a] Goals': 16.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '25', 'Continental Goals': '16', 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': 168, 'Total Goals': 113}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Barcelona",
+      "league_apps": 24,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1990\u201391', 'League Division': 'La Liga', 'League Apps': 24.0, 'League Goals': 14.0, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 2.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[e]', 'Continental Goals': '6', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 38, 'Total Goals': 22}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Barcelona",
+      "league_apps": 32,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1991\u201392', 'League Division': 'La Liga', 'League Apps': 32.0, 'League Goals': 17.0, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '9[d]', 'Continental Goals': '4', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 22}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Barcelona",
+      "league_apps": 34,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1992\u201393', 'League Division': 'La Liga', 'League Apps': 34.0, 'League Goals': 20.0, 'National cup[a] Apps': 4.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '5[h]', 'Continental Goals': '0', 'Other Apps': '3[i]', 'Other Goals': '3', 'Total Apps': 46, 'Total Goals': 23}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Barcelona",
+      "league_apps": 34,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1993\u201394', 'League Division': 'La Liga', 'League Apps': 34.0, 'League Goals': 16.0, 'National cup[a] Apps': 4.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[h]', 'Continental Goals': '7', 'Other Apps': '2[g]', 'Other Goals': '1', 'Total Apps': 48, 'Total Goals': 24}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Barcelona",
+      "league_apps": 27,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1994\u201395', 'League Division': 'La Liga', 'League Apps': 27.0, 'League Goals': 9.0, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 2.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[h]', 'Continental Goals': '3', 'Other Apps': '2[g]', 'Other Goals': '3', 'Total Apps': 39, 'Total Goals': 17}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 151,
+      "league_goals": 76,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 151.0, 'League Goals': 76.0, 'National cup[a] Apps': 16.0, 'National cup[a] Goals': 5.0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '36', 'Continental Goals': '20', 'Other Apps': '11', 'Other Goals': '7', 'Total Apps': 214, 'Total Goals': 108}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Parma",
+      "league_apps": 23,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Parma', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': 23.0, 'League Goals': 5.0, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '5[e]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 7}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Barcelona",
+      "league_apps": 22,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1996\u201397', 'League Division': 'La Liga', 'League Apps': 22.0, 'League Goals': 7.0, 'National cup[a] Apps': 4.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '7[e]', 'Continental Goals': '0', 'Other Apps': '2[g]', 'Other Goals': '1', 'Total Apps': 35, 'Total Goals': 8}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Barcelona",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1997\u201398', 'League Division': 'La Liga', 'League Apps': 2.0, 'League Goals': 0.0, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '2[h]', 'Continental Goals': '1', 'Other Apps': '1[j]', 'Other Goals': '0', 'Total Apps': 6, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 24,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 24.0, 'League Goals': 7.0, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '9', 'Continental Goals': '1', 'Other Apps': '3', 'Other Goals': '1', 'Total Apps': 41, 'Total Goals': 9}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "CSKA Sofia",
+      "league_apps": 4,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'CSKA Sofia', 'Season Season': '1997\u201398', 'League Division': 'A Group', 'League Apps': 4.0, 'League Goals': 2.0, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 3}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Al-Nassr",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Al-Nassr', 'Season Season': '1997\u201398', 'League Division': 'Saudi Premier League', 'League Apps': nan, 'League Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': '2', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 1}"
+    },
+    {
+      "season": "1998",
+      "club": "Kashiwa Reysol",
+      "league_apps": 16,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Kashiwa Reysol', 'Season Season': '1998', 'League Division': 'J1 League', 'League Apps': 16.0, 'League Goals': 8.0, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 8}"
+    },
+    {
+      "season": "1999",
+      "club": "Kashiwa Reysol",
+      "league_apps": 11,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Kashiwa Reysol', 'Season Season': '1999', 'League Division': 'J1 League', 'League Apps': 11.0, 'League Goals': 4.0, 'National cup[a] Apps': 0.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Kashiwa Reysol",
+      "league_apps": 27,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Kashiwa Reysol', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 27.0, 'League Goals': 12.0, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 13}"
+    },
+    {
+      "season": "2000",
+      "club": "Chicago Fire",
+      "league_apps": 18,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Chicago Fire', 'Season Season': '2000', 'League Division': 'MLS', 'League Apps': 18.0, 'League Goals': 9.0, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '7', 'Other Goals': '4', 'Total Apps': 28, 'Total Goals': 14}"
+    },
+    {
+      "season": "2001",
+      "club": "Chicago Fire",
+      "league_apps": 17,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Chicago Fire', 'Season Season': '2001', 'League Division': 'MLS', 'League Apps': 17.0, 'League Goals': 6.0, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 2.0, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 23, 'Total Goals': 8}"
+    },
+    {
+      "season": "2002",
+      "club": "Chicago Fire",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Chicago Fire', 'Season Season': '2002', 'League Division': 'MLS', 'League Apps': 16.0, 'League Goals': 2.0, 'National cup[a] Apps': 0.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 19, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Chicago Fire",
+      "league_apps": 51,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Chicago Fire', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 51.0, 'League Goals': 17.0, 'National cup[a] Apps': 6.0, 'National cup[a] Goals': 3.0, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 70, 'Total Goals': 27}"
+    },
+    {
+      "season": "2003",
+      "club": "D.C. United",
+      "league_apps": 21,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'D.C. United', 'Season Season': '2003', 'League Division': 'MLS', 'League Apps': 21.0, 'League Goals': 5.0, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 26, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 452,
+      "league_goals": 219,
+      "raw": "{'Club Club': 'Total', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 452.0, 'League Goals': 219.0, 'National cup[a] Apps': 57.0, 'National cup[a] Goals': 26.0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '1', 'Continental Apps': '77', 'Continental Goals': '40', 'Other Apps': '30', 'Other Goals': '13', 'Total Apps': 617, 'Total Goals': 298}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Hristo Stoichkov - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"a85724bd-461d-4450-9421-3dd94843d906",
+  "season_id": "1995",
+  "award_year": 1995
+}

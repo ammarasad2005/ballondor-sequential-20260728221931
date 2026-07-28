@@ -1,0 +1,182 @@
+{
+  "player_name_raw": "Harald Schumacher",
+  "fetch_status": "ok",
+  "wikipedia_title": "Harald_Schumacher",
+  "url": "https://en.wikipedia.org/wiki/Harald_Schumacher",
+  "position": "Goalkeeper",
+  "birth_year": 1954,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1972\u201373",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1972\u201373', 'League League': 'Bundesliga', 'League Apps': 0, 'League Goals': 0, 'Cup[a] Apps': '1', 'Cup[a] Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1973\u201374', 'League League': 'Bundesliga', 'League Apps': 13, 'League Goals': 0, 'Cup[a] Apps': '0', 'Cup[a] Goals': 0, 'Europe Apps': '2[b]', 'Europe Goals': '0', 'Total Apps': 15, 'Total Goals': 0}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1974\u201375', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'Cup[a] Apps': '4', 'Cup[a] Goals': 0, 'Europe Apps': '9[b]', 'Europe Goals': '0', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1975\u201376', 'League League': 'Bundesliga', 'League Apps': 26, 'League Goals': 0, 'Cup[a] Apps': '3', 'Cup[a] Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 29, 'Total Goals': 0}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1976\u201377', 'League League': 'Bundesliga', 'League Apps': 27, 'League Goals': 0, 'Cup[a] Apps': '6', 'Cup[a] Goals': 0, 'Europe Apps': '6[b]', 'Europe Goals': '0', 'Total Apps': 39, 'Total Goals': 0}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1977\u201378', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'Cup[a] Apps': '6', 'Cup[a] Goals': 0, 'Europe Apps': '2[c]', 'Europe Goals': '0', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1978\u201379', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'Cup[a] Apps': '4', 'Cup[a] Goals': 0, 'Europe Apps': '8[d]', 'Europe Goals': '0', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1979\u201380', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'Cup[a] Apps': '8', 'Cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1980\u201381', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'Cup[a] Apps': '3', 'Cup[a] Goals': 0, 'Europe Apps': '10[b]', 'Europe Goals': '0', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1981\u201382', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'Cup[a] Apps': '1', 'Cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 0}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1982\u201383', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'Cup[a] Apps': '6', 'Cup[a] Goals': 0, 'Europe Apps': '6[b]', 'Europe Goals': '0', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1983\u201384', 'League League': 'Bundesliga', 'League Apps': 33, 'League Goals': 0, 'Cup[a] Apps': '3', 'Cup[a] Goals': 0, 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1984\u201385', 'League League': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'Cup[a] Apps': '2', 'Cup[a] Goals': 0, 'Europe Apps': '8[b]', 'Europe Goals': '0', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1985\u201386', 'League League': 'Bundesliga', 'League Apps': 33, 'League Goals': 0, 'Cup[a] Apps': '2', 'Cup[a] Goals': 0, 'Europe Apps': '12[b]', 'Europe Goals': '0', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 18,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1986\u201387', 'League League': 'Bundesliga', 'League Apps': 18, 'League Goals': 0, 'Cup[a] Apps': '3', 'Cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 21, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 422,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': 'Total', 'League League': 'Total', 'League Apps': 422, 'League Goals': 0, 'Cup[a] Apps': '52', 'Cup[a] Goals': 0, 'Europe Apps': '67', 'Europe Goals': '0', 'Total Apps': 541, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Schalke 04",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1987\u201388', 'League League': 'Bundesliga', 'League Apps': 33, 'League Goals': 0, 'Cup[a] Apps': '1', 'Cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Fenerbah\u00e7e",
+      "league_apps": 35,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fenerbah\u00e7e', 'Season Season': '1988\u201389', 'League League': '1. Lig', 'League Apps': 35, 'League Goals': 0, 'Cup[a] Apps': '9', 'Cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Fenerbah\u00e7e",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fenerbah\u00e7e', 'Season Season': '1989\u201390', 'League League': '1. Lig', 'League Apps': 21, 'League Goals': 0, 'Cup[a] Apps': '3[e]', 'Cup[a] Goals': 0, 'Europe Apps': '2[d]', 'Europe Goals': '0', 'Total Apps': 26, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Fenerbah\u00e7e",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fenerbah\u00e7e', 'Season Season': '1990\u201391', 'League League': '1. Lig', 'League Apps': 28, 'League Goals': 0, 'Cup[a] Apps': '3', 'Cup[a] Goals': 0, 'Europe Apps': '4[b]', 'Europe Goals': '0', 'Total Apps': 35, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Fenerbah\u00e7e",
+      "league_apps": 84,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fenerbah\u00e7e', 'Season Season': 'Total', 'League League': 'Total', 'League Apps': 84, 'League Goals': 0, 'Cup[a] Apps': '15', 'Cup[a] Goals': 0, 'Europe Apps': '6', 'Europe Goals': '0', 'Total Apps': 105, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Bayern Munich",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1991\u201392', 'League League': 'Bundesliga', 'League Apps': 8, 'League Goals': 0, 'Cup[a] Apps': '0', 'Cup[a] Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Borussia Dortmund",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1995\u201396', 'League League': 'Bundesliga', 'League Apps': 1, 'League Goals': 0, 'Cup[a] Apps': '0', 'Cup[a] Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 548,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League League': 'Career total', 'League Apps': 548, 'League Goals': 0, 'Cup[a] Apps': '68', 'Cup[a] Goals': 0, 'Europe Apps': '73', 'Europe Goals': '0', 'Total Apps': 689, 'Total Goals': 0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Toni Schumacher - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"95318ef1-233e-4edc-ad12-95fcaf43fe81\"",
+  "season_id": "1985",
+  "award_year": 1985
+}

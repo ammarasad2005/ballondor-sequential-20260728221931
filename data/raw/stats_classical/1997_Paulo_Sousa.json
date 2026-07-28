@@ -1,0 +1,168 @@
+{
+  "player_name_raw": "Paulo Sousa",
+  "fetch_status": "ok",
+  "wikipedia_title": "Paulo_Sousa",
+  "url": "https://en.wikipedia.org/wiki/Paulo_Sousa",
+  "position": "Defensive midfielder",
+  "birth_year": 1970,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1989\u201390",
+      "club": "Benfica",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '1989\u201390', 'League Division': 'Primeira Liga', 'League Apps': 2, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Benfica",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '1990\u201391', 'League Division': 'Primeira Liga', 'League Apps': 36, 'League Goals': 0, 'Cup Apps': 3, 'Cup Goals': 0, 'Continental Apps': 2, 'Continental Goals': 0, 'Total Apps': 41, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Benfica",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '1991\u201392', 'League Division': 'Primeira Liga', 'League Apps': 23, 'League Goals': 1, 'Cup Apps': 5, 'Cup Goals': 0, 'Continental Apps': 3, 'Continental Goals': 0, 'Total Apps': 31, 'Total Goals': 1}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Benfica",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '1992\u201393', 'League Division': 'Primeira Liga', 'League Apps': 25, 'League Goals': 0, 'Cup Apps': 4, 'Cup Goals': 1, 'Continental Apps': 6, 'Continental Goals': 0, 'Total Apps': 35, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Benfica",
+      "league_apps": 86,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 86, 'League Goals': 1, 'Cup Apps': 13, 'Cup Goals': 1, 'Continental Apps': 11, 'Continental Goals': 0, 'Total Apps': 110, 'Total Goals': 2}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Sporting CP",
+      "league_apps": 31,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Sporting CP', 'Season Season': '1993\u201394', 'League Division': 'Primeira Liga', 'League Apps': 31, 'League Goals': 2, 'Cup Apps': 6, 'Cup Goals': 0, 'Continental Apps': 6, 'Continental Goals': 0, 'Total Apps': 43, 'Total Goals': 2}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Juventus",
+      "league_apps": 26,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 1, 'Cup Apps': 6, 'Cup Goals': 0, 'Continental Apps': 10, 'Continental Goals': 0, 'Total Apps': 42, 'Total Goals': 1}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Juventus",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 8, 'Continental Goals': 1, 'Total Apps': 36, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 54,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 54, 'League Goals': 1, 'Cup Apps': 6, 'Cup Goals': 0, 'Continental Apps': 18, 'Continental Goals': 1, 'Total Apps': 78, 'Total Goals': 2}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Borussia Dortmund",
+      "league_apps": 11,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1996\u201397', 'League Division': 'Bundesliga', 'League Apps': 11, 'League Goals': 1, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 4, 'Continental Goals': 0, 'Total Apps': 15, 'Total Goals': 1}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Borussia Dortmund",
+      "league_apps": 16,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1997\u201398', 'League Division': 'Bundesliga', 'League Apps': 16, 'League Goals': 0, 'Cup Apps': 2, 'Cup Goals': 1, 'Continental Apps': 5, 'Continental Goals': 0, 'Total Apps': 23, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Borussia Dortmund",
+      "league_apps": 27,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 27, 'League Goals': 1, 'Cup Apps': 2, 'Cup Goals': 1, 'Continental Apps': 9, 'Continental Goals': 0, 'Total Apps': 38, 'Total Goals': 2}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Inter Milan",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 11, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 11, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Inter Milan",
+      "league_apps": 10,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': 10, 'League Goals': 0, 'Cup Apps': 4, 'Cup Goals': 0, 'Continental Apps': 3, 'Continental Goals': 0, 'Total Apps': 17, 'Total Goals': 0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Inter Milan",
+      "league_apps": 10,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 10, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 31, 'League Goals': 0, 'Cup Apps': 4, 'Cup Goals': 0, 'Continental Apps': 3, 'Continental Goals': 0, 'Total Apps': 38, 'Total Goals': 0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Parma (loan)",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Parma (loan)', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 8, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 2, 'Continental Goals': 0, 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Panathinaikos",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '2000\u201301', 'League Division': 'Alpha Ethniki', 'League Apps': 6, 'League Goals': 0, 'Cup Apps': 3, 'Cup Goals': 0, 'Continental Apps': 4, 'Continental Goals': 1, 'Total Apps': 13, 'Total Goals': 1}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Panathinaikos",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '2001\u201302', 'League Division': 'Alpha Ethniki', 'League Apps': 4, 'League Goals': 0, 'Cup Apps': 5, 'Cup Goals': 0, 'Continental Apps': 7, 'Continental Goals': 0, 'Total Apps': 16, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Panathinaikos",
+      "league_apps": 10,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 10, 'League Goals': 0, 'Cup Apps': 8, 'Cup Goals': 0, 'Continental Apps': 11, 'Continental Goals': 1, 'Total Apps': 29, 'Total Goals': 1}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Espanyol",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Espanyol', 'Season Season': '2001\u201302', 'League Division': 'La Liga', 'League Apps': 9, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 256,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 256, 'League Goals': 5, 'Cup Apps': 39, 'Cup Goals': 2, 'Continental Apps': 60, 'Continental Goals': 2, 'Total Apps': 355, 'Total Goals': 9}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Paulo Sousa - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"fa3844a0-fd1e-41d7-9083-6e0a853255b1\",\"wg",
+  "season_id": "1997",
+  "award_year": 1997
+}

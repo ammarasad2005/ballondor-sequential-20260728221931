@@ -1,0 +1,168 @@
+{
+  "player_name_raw": "Pavel Nedv\u011bd",
+  "fetch_status": "ok",
+  "wikipedia_title": "Pavel_Nedv\u011bd",
+  "url": "https://en.wikipedia.org/wiki/Pavel_Nedv\u011bd",
+  "position": "Midfielder",
+  "birth_year": 1972,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1991\u201392",
+      "club": "Dukla Prague",
+      "league_apps": 19,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Dukla Prague', 'Season Season': '1991\u201392', 'League Division': 'Czechoslovak First League', 'League Apps': 19, 'League Goals': 3, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 3}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Sparta Prague",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sparta Prague', 'Season Season': '1992\u201393', 'League Division': 'Czechoslovak First League', 'League Apps': 17, 'League Goals': 0, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Europe Apps': '5[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Sparta Prague",
+      "league_apps": 23,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Sparta Prague', 'Season Season': '1993\u201394', 'League Division': 'Czech First League', 'League Apps': 23, 'League Goals': 3, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 3}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Sparta Prague",
+      "league_apps": 27,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Sparta Prague', 'Season Season': '1994\u201395', 'League Division': 'Czech First League', 'League Apps': 27, 'League Goals': 6, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Europe Apps': '2[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 6}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Sparta Prague",
+      "league_apps": 30,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Sparta Prague', 'Season Season': '1995\u201396', 'League Division': 'Czech First League', 'League Apps': 30, 'League Goals': 14, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Europe Apps': '8[d]', 'Europe Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 19}"
+    },
+    {
+      "season": "Total",
+      "club": "Sparta Prague",
+      "league_apps": 97,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Sparta Prague', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 97, 'League Goals': 23, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Europe Apps': '19', 'Europe Goals': '5', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 116, 'Total Goals': 28}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Lazio",
+      "league_apps": 32,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': '1996\u201397', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 7, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 1.0, 'Europe Apps': '3[d]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 10}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Lazio",
+      "league_apps": 26,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 11, 'National cup[a] Apps': 6.0, 'National cup[a] Goals': 2.0, 'Europe Apps': '11[d]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 15}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Lazio",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': 21, 'League Goals': 1, 'National cup[a] Apps': 4.0, 'National cup[a] Goals': 0.0, 'Europe Apps': '8[b]', 'Europe Goals': '4', 'Other Apps': '1[e]', 'Other Goals': '1', 'Total Apps': 34, 'Total Goals': 6}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Lazio",
+      "league_apps": 28,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 5, 'National cup[a] Apps': 6.0, 'National cup[a] Goals': 1.0, 'Europe Apps': '12[c]', 'Europe Goals': '1', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 7}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Lazio",
+      "league_apps": 31,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': '2000\u201301', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 9, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 1.0, 'Europe Apps': '10[c]', 'Europe Goals': '3', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 13}"
+    },
+    {
+      "season": "Total",
+      "club": "Lazio",
+      "league_apps": 138,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 138, 'League Goals': 33, 'National cup[a] Apps': 22.0, 'National cup[a] Goals': 5.0, 'Europe Apps': '44', 'Europe Goals': '12', 'Other Apps': '3', 'Other Goals': '1', 'Total Apps': 207, 'Total Goals': 51}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Juventus",
+      "league_apps": 32,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2001\u201302', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 4, 'National cup[a] Apps': 4.0, 'National cup[a] Goals': 0.0, 'Europe Apps': '7[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 10}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Juventus",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2002\u201303', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 9, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 0.0, 'Europe Apps': '15[c]', 'Europe Goals': '5', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 14}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2003\u201304', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 6, 'National cup[a] Apps': 4.0, 'National cup[a] Goals': 0.0, 'Europe Apps': '6[c]', 'Europe Goals': '2', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 34, 'Total Goals': 6}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Juventus",
+      "league_apps": 27,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2004\u201305', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 7, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 0.0, 'Europe Apps': '10[c]', 'Europe Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 7}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Juventus",
+      "league_apps": 33,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2005\u201306', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 5, 'National cup[a] Apps': 4.0, 'National cup[a] Goals': 0.0, 'Europe Apps': '8[c]', 'Europe Goals': '2', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 13}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Juventus",
+      "league_apps": 33,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2006\u201307', 'League Division': 'Serie B', 'League Apps': 33, 'League Goals': 11, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 1.0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 12}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Juventus",
+      "league_apps": 31,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2007\u201308', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 2, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 1.0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 3}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Juventus",
+      "league_apps": 32,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2008\u201309', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 7, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 0.0, 'Europe Apps': '9[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 247,
+      "league_goals": 51,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 247, 'League Goals': 51, 'National cup[a] Apps': 22.0, 'National cup[a] Goals': 2.0, 'Europe Apps': '55', 'Europe Goals': '12', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 327, 'Total Goals': 65}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 501,
+      "league_goals": 110,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 501, 'League Goals': 110, 'National cup[a] Apps': 44.0, 'National cup[a] Goals': 7.0, 'Europe Apps': '118', 'Europe Goals': '29', 'Other Apps': '6', 'Other Goals': '1', 'Total Apps': 669, 'Total Goals': 147}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Pavel Nedv\u011bd - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"40efd6d6-2c9e-4ab2-bc46-c38945483014\",\"w",
+  "season_id": "2003",
+  "award_year": 2003
+}

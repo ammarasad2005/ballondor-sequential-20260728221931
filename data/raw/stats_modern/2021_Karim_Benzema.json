@@ -1,0 +1,224 @@
+{
+  "player_name_raw": "Karim Benzema",
+  "fetch_status": "ok",
+  "wikipedia_title": "Karim_Benzema",
+  "url": "https://en.wikipedia.org/wiki/Karim_Benzema",
+  "position": "Striker",
+  "birth_year": 1987,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2004\u201305",
+      "club": "Lyon II",
+      "league_apps": 11,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Lyon II', 'Season Season': '2004\u201305', 'League Division': 'CFA', 'League Apps': 11, 'League Goals': 10, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 10}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Lyon II",
+      "league_apps": 9,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Lyon II', 'Season Season': '2005\u201306', 'League Division': 'CFA', 'League Apps': 9, 'League Goals': 5, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Lyon II",
+      "league_apps": 20,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Lyon II', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 20, 'League Goals': 15, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 15}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Lyon",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '2004\u201305', 'League Division': 'Ligue 1', 'League Apps': 6, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Lyon",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '2005\u201306', 'League Division': 'Ligue 1', 'League Apps': 13, 'League Goals': 1, 'National cup[a] Apps': '2', 'National cup[a] Goals': '2', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '1', 'Continental Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 16, 'Total Goals': 4}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Lyon",
+      "league_apps": 21,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '2006\u201307', 'League Division': 'Ligue 1', 'League Apps': 21, 'League Goals': 5, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '3[c]', 'Continental Goals': '2', 'Other Apps': '1[d]', 'Other Goals': '1', 'Total Apps': 27, 'Total Goals': 8}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Lyon",
+      "league_apps": 36,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '2007\u201308', 'League Division': 'Ligue 1', 'League Apps': 36, 'League Goals': 20, 'National cup[a] Apps': '6', 'National cup[a] Goals': '6', 'League cup[b] Apps': '2', 'League cup[b] Goals': '1', 'Continental Apps': '7[c]', 'Continental Goals': '4', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 31}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Lyon",
+      "league_apps": 36,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '2008\u201309', 'League Division': 'Ligue 1', 'League Apps': 36, 'League Goals': 17, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '8[c]', 'Continental Goals': '5', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 23}"
+    },
+    {
+      "season": "Total",
+      "club": "Lyon",
+      "league_apps": 112,
+      "league_goals": 43,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 112, 'League Goals': 43, 'National cup[a] Apps': '11', 'National cup[a] Goals': '9', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Continental Apps': '19', 'Continental Goals': '12', 'Other Apps': '3', 'Other Goals': '1', 'Total Apps': 148, 'Total Goals': 66}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Real Madrid",
+      "league_apps": 27,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2009\u201310', 'League Division': 'La Liga', 'League Apps': 27, 'League Goals': 8, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '5[c]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 9}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Real Madrid",
+      "league_apps": 33,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2010\u201311', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 15, 'National cup[a] Apps': '7', 'National cup[a] Goals': '5', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[c]', 'Continental Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 26}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Real Madrid",
+      "league_apps": 34,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2011\u201312', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 21, 'National cup[a] Apps': '5', 'National cup[a] Goals': '3', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '11[c]', 'Continental Goals': '7', 'Other Apps': '2[e]', 'Other Goals': '1', 'Total Apps': 52, 'Total Goals': 32}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Real Madrid",
+      "league_apps": 30,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2012\u201313', 'League Division': 'La Liga', 'League Apps': 30, 'League Goals': 11, 'National cup[a] Apps': '8', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '10[c]', 'Continental Goals': '5', 'Other Apps': '2[e]', 'Other Goals': '0', 'Total Apps': 50, 'Total Goals': 20}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Real Madrid",
+      "league_apps": 35,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2013\u201314', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 17, 'National cup[a] Apps': '6', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '11[c]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 52, 'Total Goals': 24}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Real Madrid",
+      "league_apps": 29,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2014\u201315', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 15, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '9[c]', 'Continental Goals': '6', 'Other Apps': '5[f]', 'Other Goals': '1', 'Total Apps': 46, 'Total Goals': 22}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Real Madrid",
+      "league_apps": 27,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2015\u201316', 'League Division': 'La Liga', 'League Apps': 27, 'League Goals': 24, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '9[c]', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 28}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Real Madrid",
+      "league_apps": 29,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2016\u201317', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 11, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '13[c]', 'Continental Goals': '5', 'Other Apps': '3[g]', 'Other Goals': '2', 'Total Apps': 48, 'Total Goals': 19}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Real Madrid",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2017\u201318', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 5, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '9[c]', 'Continental Goals': '5', 'Other Apps': '5[h]', 'Other Goals': '1', 'Total Apps': 47, 'Total Goals': 12}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Real Madrid",
+      "league_apps": 36,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2018\u201319', 'League Division': 'La Liga', 'League Apps': 36, 'League Goals': 21, 'National cup[a] Apps': '6', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[c]', 'Continental Goals': '4', 'Other Apps': '3[i]', 'Other Goals': '1', 'Total Apps': 53, 'Total Goals': 30}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Real Madrid",
+      "league_apps": 37,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2019\u201320', 'League Division': 'La Liga', 'League Apps': 37, 'League Goals': 21, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[c]', 'Continental Goals': '5', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 27}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Real Madrid",
+      "league_apps": 34,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2020\u201321', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 23, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '10[c]', 'Continental Goals': '6', 'Other Apps': '1[e]', 'Other Goals': '1', 'Total Apps': 46, 'Total Goals': 30}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Real Madrid",
+      "league_apps": 32,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2021\u201322', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 27, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '12[c]', 'Continental Goals': '15', 'Other Apps': '2[e]', 'Other Goals': '2', 'Total Apps': 46, 'Total Goals': 44}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Real Madrid",
+      "league_apps": 24,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2022\u201323', 'League Division': 'La Liga', 'League Apps': 24, 'League Goals': 19, 'National cup[a] Apps': '5', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '10[c]', 'Continental Goals': '4', 'Other Apps': '4[j]', 'Other Goals': '4', 'Total Apps': 43, 'Total Goals': 31}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 439,
+      "league_goals": 238,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 439, 'League Goals': 238, 'National cup[a] Apps': '49', 'National cup[a] Goals': '25', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '133', 'Continental Goals': '78', 'Other Apps': '27', 'Other Goals': '13', 'Total Apps': 648, 'Total Goals': 354}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Al-Ittihad",
+      "league_apps": 21,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Al-Ittihad', 'Season Season': '2023\u201324', 'League Division': 'Saudi Pro League', 'League Apps': 21, 'League Goals': 9, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '3[k]', 'Continental Goals': '0', 'Other Apps': '8[l]', 'Other Goals': '6', 'Total Apps': 33, 'Total Goals': 16}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Al-Ittihad",
+      "league_apps": 29,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Al-Ittihad', 'Season Season': '2024\u201325', 'League Division': 'Saudi Pro League', 'League Apps': 29, 'League Goals': 21, 'National cup[a] Apps': '4', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 25}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Al-Ittihad",
+      "league_apps": 14,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Al-Ittihad', 'Season Season': '2025\u201326', 'League Division': 'Saudi Pro League', 'League Apps': 14, 'League Goals': 8, 'National cup[a] Apps': '2', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '4[m]', 'Continental Goals': '4', 'Other Apps': '1[n]', 'Other Goals': '0', 'Total Apps': 21, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Al-Ittihad",
+      "league_apps": 64,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Al-Ittihad', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 64, 'League Goals': 38, 'National cup[a] Apps': '7', 'National cup[a] Goals': '9', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '7', 'Continental Goals': '4', 'Other Apps': '9', 'Other Goals': '6', 'Total Apps': 87, 'Total Goals': 57}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Al-Hilal",
+      "league_apps": 10,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Al-Hilal', 'Season Season': '2025\u201326', 'League Division': 'Saudi Pro League', 'League Apps': 10, 'League Goals': 9, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '1[m]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 9}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 645,
+      "league_goals": 343,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 645, 'League Goals': 343, 'National cup[a] Apps': '69', 'National cup[a] Goals': '43', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Continental Apps': '160', 'Continental Goals': '94', 'Other Apps': '39', 'Other Goals': '20', 'Total Apps': 916, 'Total Goals': 501}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Karim Benzema - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ee77c7f4-0b50-46f5-b08e-ebe9f23171c7\",\"",
+  "season_id": "2021",
+  "award_year": 2021
+}

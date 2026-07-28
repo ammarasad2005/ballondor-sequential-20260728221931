@@ -1,0 +1,217 @@
+{
+  "player_name_raw": "David Villa",
+  "fetch_status": "ok",
+  "wikipedia_title": "David_Villa",
+  "url": "https://en.wikipedia.org/wiki/David_Villa",
+  "position": "Striker",
+  "birth_year": 1981,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2000\u201301",
+      "club": "Sporting Gij\u00f3n B",
+      "league_apps": 35,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Sporting Gij\u00f3n B', 'Season Season': '2000\u201301', 'League Division': 'Segunda Divisi\u00f3n B', 'League Apps': 35, 'League Goals': 13, 'Cup[nb 1] Apps': '\u2014', 'Cup[nb 1] Goals': '\u2014', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 13}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Sporting Gij\u00f3n B",
+      "league_apps": 1,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Sporting Gij\u00f3n B', 'Season Season': '2001\u201302', 'League Division': 'Segunda Divisi\u00f3n B', 'League Apps': 1, 'League Goals': 1, 'Cup[nb 1] Apps': '\u2014', 'Cup[nb 1] Goals': '\u2014', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Sporting Gij\u00f3n B",
+      "league_apps": 36,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Sporting Gij\u00f3n B', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 36, 'League Goals': 14, 'Cup[nb 1] Apps': '\u2014', 'Cup[nb 1] Goals': '\u2014', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 14}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Sporting Gij\u00f3n",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sporting Gij\u00f3n', 'Season Season': '2000\u201301', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 1, 'League Goals': 0, 'Cup[nb 1] Apps': '\u2014', 'Cup[nb 1] Goals': '\u2014', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Sporting Gij\u00f3n",
+      "league_apps": 40,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Sporting Gij\u00f3n', 'Season Season': '2001\u201302', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 40, 'League Goals': 18, 'Cup[nb 1] Apps': '4', 'Cup[nb 1] Goals': '2', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 20}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Sporting Gij\u00f3n",
+      "league_apps": 39,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Sporting Gij\u00f3n', 'Season Season': '2002\u201303', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 39, 'League Goals': 20, 'Cup[nb 1] Apps': '1', 'Cup[nb 1] Goals': '1', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 21}"
+    },
+    {
+      "season": "Total",
+      "club": "Sporting Gij\u00f3n",
+      "league_apps": 80,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Sporting Gij\u00f3n', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 80, 'League Goals': 38, 'Cup[nb 1] Apps': '5', 'Cup[nb 1] Goals': '3', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 85, 'Total Goals': 41}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Zaragoza",
+      "league_apps": 38,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Zaragoza', 'Season Season': '2003\u201304', 'League Division': 'La Liga', 'League Apps': 38, 'League Goals': 17, 'Cup[nb 1] Apps': '8', 'Cup[nb 1] Goals': '4', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 21}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Zaragoza",
+      "league_apps": 35,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Zaragoza', 'Season Season': '2004\u201305', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 15, 'Cup[nb 1] Apps': '3', 'Cup[nb 1] Goals': '0', 'Continental[nb 2] Apps': '10', 'Continental[nb 2] Goals': '3', 'Total Apps': 48, 'Total Goals': 18}"
+    },
+    {
+      "season": "Total",
+      "club": "Zaragoza",
+      "league_apps": 73,
+      "league_goals": 32,
+      "raw": "{'Club Club': 'Zaragoza', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 73, 'League Goals': 32, 'Cup[nb 1] Apps': '11', 'Cup[nb 1] Goals': '4', 'Continental[nb 2] Apps': '10', 'Continental[nb 2] Goals': '3', 'Total Apps': 94, 'Total Goals': 39}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Valencia",
+      "league_apps": 37,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '2005\u201306', 'League Division': 'La Liga', 'League Apps': 37, 'League Goals': 25, 'Cup[nb 1] Apps': '4', 'Cup[nb 1] Goals': '2', 'Continental[nb 2] Apps': '6', 'Continental[nb 2] Goals': '1', 'Total Apps': 47, 'Total Goals': 28}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Valencia",
+      "league_apps": 36,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '2006\u201307', 'League Division': 'La Liga', 'League Apps': 36, 'League Goals': 16, 'Cup[nb 1] Apps': '2', 'Cup[nb 1] Goals': '0', 'Continental[nb 2] Apps': '11', 'Continental[nb 2] Goals': '5', 'Total Apps': 49, 'Total Goals': 21}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Valencia",
+      "league_apps": 28,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '2007\u201308', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 18, 'Cup[nb 1] Apps': '6', 'Cup[nb 1] Goals': '3', 'Continental[nb 2] Apps': '7', 'Continental[nb 2] Goals': '3', 'Total Apps': 41, 'Total Goals': 24}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Valencia",
+      "league_apps": 33,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '2008\u201309', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 28, 'Cup[nb 1] Apps': '5', 'Cup[nb 1] Goals': '2', 'Continental[nb 2] Apps': '5', 'Continental[nb 2] Goals': '1', 'Total Apps': 43, 'Total Goals': 31}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Valencia",
+      "league_apps": 32,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '2009\u201310', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 21, 'Cup[nb 1] Apps': '2', 'Cup[nb 1] Goals': '0', 'Continental[nb 2] Apps': '11', 'Continental[nb 2] Goals': '7', 'Total Apps': 45, 'Total Goals': 28}"
+    },
+    {
+      "season": "Total",
+      "club": "Valencia",
+      "league_apps": 166,
+      "league_goals": 108,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 166, 'League Goals': 108, 'Cup[nb 1] Apps': '19', 'Cup[nb 1] Goals': '5', 'Continental[nb 2] Apps': '40', 'Continental[nb 2] Goals': '17', 'Total Apps': 225, 'Total Goals': 130}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Barcelona",
+      "league_apps": 34,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2010\u201311', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 18, 'Cup[nb 1] Apps': '6', 'Cup[nb 1] Goals': '1', 'Continental[nb 2] Apps': '12', 'Continental[nb 2] Goals': '4', 'Total Apps': 52, 'Total Goals': 23}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Barcelona",
+      "league_apps": 15,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2011\u201312', 'League Division': 'La Liga', 'League Apps': 15, 'League Goals': 5, 'Cup[nb 1] Apps': '3', 'Cup[nb 1] Goals': '1', 'Continental[nb 2] Apps': '6', 'Continental[nb 2] Goals': '3', 'Total Apps': 24, 'Total Goals': 9}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Barcelona",
+      "league_apps": 28,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2012\u201313', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 10, 'Cup[nb 1] Apps': '5', 'Cup[nb 1] Goals': '5', 'Continental[nb 2] Apps': '10', 'Continental[nb 2] Goals': '1', 'Total Apps': 43, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 77,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 77, 'League Goals': 33, 'Cup[nb 1] Apps': '14', 'Cup[nb 1] Goals': '7', 'Continental[nb 2] Apps': '28', 'Continental[nb 2] Goals': '8', 'Total Apps': 119, 'Total Goals': 48}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 36,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '2013\u201314', 'League Division': 'La Liga', 'League Apps': 36, 'League Goals': 13, 'Cup[nb 1] Apps': '4', 'Cup[nb 1] Goals': '2', 'Continental[nb 2] Apps': '7', 'Continental[nb 2] Goals': '0', 'Total Apps': 47, 'Total Goals': 15}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Melbourne City (loan)",
+      "league_apps": 4,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Melbourne City (loan)', 'Season Season': '2014\u201315', 'League Division': 'A-League', 'League Apps': 4, 'League Goals': 2, 'Cup[nb 1] Apps': '0', 'Cup[nb 1] Goals': '0', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 2}"
+    },
+    {
+      "season": "2015",
+      "club": "New York City FC",
+      "league_apps": 30,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'New York City FC', 'Season Season': '2015', 'League Division': 'MLS', 'League Apps': 30, 'League Goals': 18, 'Cup[nb 1] Apps': '0', 'Cup[nb 1] Goals': '0', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 18}"
+    },
+    {
+      "season": "2016",
+      "club": "New York City FC",
+      "league_apps": 33,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'New York City FC', 'Season Season': '2016', 'League Division': 'MLS', 'League Apps': 33, 'League Goals': 24, 'Cup[nb 1] Apps': '2', 'Cup[nb 1] Goals': '0', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 24}"
+    },
+    {
+      "season": "2017",
+      "club": "New York City FC",
+      "league_apps": 31,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'New York City FC', 'Season Season': '2017', 'League Division': 'MLS', 'League Apps': 31, 'League Goals': 24, 'Cup[nb 1] Apps': '3', 'Cup[nb 1] Goals': '0', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 24}"
+    },
+    {
+      "season": "2018",
+      "club": "New York City FC",
+      "league_apps": 23,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'New York City FC', 'Season Season': '2018', 'League Division': 'MLS', 'League Apps': 23, 'League Goals': 14, 'Cup[nb 1] Apps': '4', 'Cup[nb 1] Goals': '1', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "New York City FC",
+      "league_apps": 117,
+      "league_goals": 77,
+      "raw": "{'Club Club': 'New York City FC', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 117, 'League Goals': 77, 'Cup[nb 1] Apps': '9', 'Cup[nb 1] Goals': '3', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 126, 'Total Goals': 80}"
+    },
+    {
+      "season": "2019",
+      "club": "Vissel Kobe",
+      "league_apps": 28,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Vissel Kobe', 'Season Season': '2019', 'League Division': 'J1 League', 'League Apps': 28, 'League Goals': 13, 'Cup[nb 1] Apps': '1', 'Cup[nb 1] Goals': '0', 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 13}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 617,
+      "league_goals": 330,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 617, 'League Goals': 330, 'Cup[nb 1] Apps': '63', 'Cup[nb 1] Goals': '24', 'Continental[nb 2] Apps': '85', 'Continental[nb 2] Goals': '28', 'Total Apps': 765, 'Total Goals': 382}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>David Villa - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"b6028d9a-ad5b-4871-aa51-f27d44269dc9\",\"wg",
+  "season_id": "2010",
+  "award_year": 2010
+}

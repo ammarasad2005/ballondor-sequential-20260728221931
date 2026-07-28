@@ -1,0 +1,187 @@
+{
+  "player_name_raw": "Ivan \u0106urkovi\u0107",
+  "fetch_status": "ok",
+  "wikipedia_title": "Ivan_\u0106urkovi\u0107",
+  "url": "https://en.wikipedia.org/wiki/Ivan_\u0106urkovi\u0107",
+  "position": "Goalkeeper",
+  "birth_year": 1944,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1960\u201361",
+      "club": "Vele\u017e Mostar",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Vele\u017e Mostar', 'Season Season': '1960\u201361', 'League Division': 'Yugoslav First League', 'League Apps': 13, 'League Goals': 0, 'Cup[a] Apps': 0, 'Cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 0}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Vele\u017e Mostar",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Vele\u017e Mostar', 'Season Season': '1961\u201362', 'League Division': 'Yugoslav First League', 'League Apps': 22, 'League Goals': 0, 'Cup[a] Apps': 3, 'Cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 0}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Vele\u017e Mostar",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Vele\u017e Mostar', 'Season Season': '1962\u201363', 'League Division': 'Yugoslav First League', 'League Apps': 26, 'League Goals': 0, 'Cup[a] Apps': 1, 'Cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 0}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Vele\u017e Mostar",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Vele\u017e Mostar', 'Season Season': '1963\u201364', 'League Division': 'Yugoslav First League', 'League Apps': 26, 'League Goals': 0, 'Cup[a] Apps': 1, 'Cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Vele\u017e Mostar",
+      "league_apps": 87,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Vele\u017e Mostar', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 87, 'League Goals': 0, 'Cup[a] Apps': 5, 'Cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 92, 'Total Goals': 0}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Partizan",
+      "league_apps": 23,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1964\u201365', 'League Division': 'Yugoslav First League', 'League Apps': 23, 'League Goals': 0, 'Cup[a] Apps': 1, 'Cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 0}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Partizan",
+      "league_apps": 18,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1965\u201366', 'League Division': 'Yugoslav First League', 'League Apps': 18, 'League Goals': 0, 'Cup[a] Apps': 2, 'Cup[a] Goals': 0, 'Continental Apps': '1[b]', 'Continental Goals': '0', 'Total Apps': 21, 'Total Goals': 0}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Partizan",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1966\u201367', 'League Division': 'Yugoslav First League', 'League Apps': 30, 'League Goals': 0, 'Cup[a] Apps': 4, 'Cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Partizan",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1967\u201368', 'League Division': 'Yugoslav First League', 'League Apps': 29, 'League Goals': 0, 'Cup[a] Apps': 2, 'Cup[a] Goals': 0, 'Continental Apps': '4[c]', 'Continental Goals': '0', 'Total Apps': 35, 'Total Goals': 0}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Partizan",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1968\u201369', 'League Division': 'Yugoslav First League', 'League Apps': 33, 'League Goals': 0, 'Cup[a] Apps': 4, 'Cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 0}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Partizan",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1969\u201370', 'League Division': 'Yugoslav First League', 'League Apps': 33, 'League Goals': 0, 'Cup[a] Apps': 2, 'Cup[a] Goals': 0, 'Continental Apps': '2[c]', 'Continental Goals': '0', 'Total Apps': 37, 'Total Goals': 0}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Partizan",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1970\u201371', 'League Division': 'Yugoslav First League', 'League Apps': 17, 'League Goals': 0, 'Cup[a] Apps': 1, 'Cup[a] Goals': 0, 'Continental Apps': '2[c]', 'Continental Goals': '0', 'Total Apps': 20, 'Total Goals': 0}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Partizan",
+      "league_apps": 18,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1971\u201372', 'League Division': 'Yugoslav First League', 'League Apps': 18, 'League Goals': 0, 'Cup[a] Apps': 1, 'Cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Partizan",
+      "league_apps": 201,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 201, 'League Goals': 0, 'Cup[a] Apps': 17, 'Cup[a] Goals': 0, 'Continental Apps': '9', 'Continental Goals': '0', 'Total Apps': 227, 'Total Goals': 0}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1972\u201373', 'League Division': 'French Division 1', 'League Apps': 38, 'League Goals': 0, 'Cup[a] Apps': 6, 'Cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1973\u201374', 'League Division': 'French Division 1', 'League Apps': 38, 'League Goals': 0, 'Cup[a] Apps': 9, 'Cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1974\u201375', 'League Division': 'French Division 1', 'League Apps': 38, 'League Goals': 0, 'Cup[a] Apps': 8, 'Cup[a] Goals': 0, 'Continental Apps': '8[b]', 'Continental Goals': '0', 'Total Apps': 54, 'Total Goals': 0}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1975\u201376', 'League Division': 'French Division 1', 'League Apps': 38, 'League Goals': 0, 'Cup[a] Apps': 1, 'Cup[a] Goals': 0, 'Continental Apps': '9[b]', 'Continental Goals': '0', 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1976\u201377', 'League Division': 'French Division 1', 'League Apps': 37, 'League Goals': 0, 'Cup[a] Apps': 10, 'Cup[a] Goals': 0, 'Continental Apps': '6[b]', 'Continental Goals': '0', 'Total Apps': 53, 'Total Goals': 0}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1977\u201378', 'League Division': 'French Division 1', 'League Apps': 37, 'League Goals': 0, 'Cup[a] Apps': 3, 'Cup[a] Goals': 0, 'Continental Apps': '2[d]', 'Continental Goals': '0', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1978\u201379', 'League Division': 'French Division 1', 'League Apps': 36, 'League Goals': 0, 'Cup[a] Apps': 4, 'Cup[a] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1979\u201380', 'League Division': 'French Division 1', 'League Apps': 38, 'League Goals': 0, 'Cup[a] Apps': 6, 'Cup[a] Goals': 0, 'Continental Apps': '8[e]', 'Continental Goals': '0', 'Total Apps': 52, 'Total Goals': 0}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': '1980\u201381', 'League Division': 'French Division 1', 'League Apps': 3, 'League Goals': 0, 'Cup[a] Apps': 0, 'Cup[a] Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Saint-\u00c9tienne",
+      "league_apps": 303,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Saint-\u00c9tienne', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 303, 'League Goals': 0, 'Cup[a] Apps': 47, 'Cup[a] Goals': 0, 'Continental Apps': '33', 'Continental Goals': '0', 'Total Apps': 383, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 591,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 591, 'League Goals': 0, 'Cup[a] Apps': 69, 'Cup[a] Goals': 0, 'Continental Apps': '42', 'Continental Goals': '0', 'Total Apps': 702, 'Total Goals': 0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Ivan \u0106urkovi\u0107 - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"00eb8c92-29ee-45a3-9771-1945ed531338\",\""
+}

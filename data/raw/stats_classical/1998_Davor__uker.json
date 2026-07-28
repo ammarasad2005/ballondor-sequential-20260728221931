@@ -1,0 +1,189 @@
+{
+  "player_name_raw": "Davor \u0160uker",
+  "fetch_status": "ok",
+  "wikipedia_title": "Davor_\u0160uker",
+  "url": "https://en.wikipedia.org/wiki/Davor_\u0160uker",
+  "position": "Striker",
+  "birth_year": 1968,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1985\u201386",
+      "club": "Osijek",
+      "league_apps": 10,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Osijek', 'Season Season': '1985\u201386', 'League Division': 'Yugoslav First League', 'League Apps': '10', 'League Goals': '3', 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 10, 'Total Goals': 3}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Osijek",
+      "league_apps": 26,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Osijek', 'Season Season': '1986\u201387', 'League Division': 'Yugoslav First League', 'League Apps': '26', 'League Goals': '9', 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 9}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Osijek",
+      "league_apps": 29,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Osijek', 'Season Season': '1987\u201388', 'League Division': 'Yugoslav First League', 'League Apps': '29', 'League Goals': '10', 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 10}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Osijek",
+      "league_apps": 26,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Osijek', 'Season Season': '1988\u201389', 'League Division': 'Yugoslav First League', 'League Apps': '26', 'League Goals': '18', 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 18}"
+    },
+    {
+      "season": "Total",
+      "club": "Osijek",
+      "league_apps": 91,
+      "league_goals": 40,
+      "raw": "{'Club Club': 'Osijek', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '91', 'League Goals': '40', 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 91, 'Total Goals': 40}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Dinamo Zagreb",
+      "league_apps": 28,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '1989\u201390', 'League Division': 'Yugoslav First League', 'League Apps': '28', 'League Goals': '12', 'National cup Apps': '3', 'National cup Goals': '4', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '2', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 17}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Dinamo Zagreb",
+      "league_apps": 32,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '1990\u201391', 'League Division': 'Yugoslav First League', 'League Apps': '32', 'League Goals': '22', 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 22}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Dinamo Zagreb",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '1991\u201392', 'League Division': 'Yugoslav First League', 'League Apps': '\u2014', 'League Goals': '\u2014', 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '1', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Dinamo Zagreb",
+      "league_apps": 60,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '60', 'League Goals': '34', 'National cup Apps': '3', 'National cup Goals': '4', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '5', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 68, 'Total Goals': 39}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Sevilla",
+      "league_apps": 22,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': '1991\u201392', 'League Division': 'La Liga', 'League Apps': '22', 'League Goals': '6', 'National cup Apps': '4', 'National cup Goals': '3', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 9}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Sevilla",
+      "league_apps": 33,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': '1992\u201393', 'League Division': 'La Liga', 'League Apps': '33', 'League Goals': '13', 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 13}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Sevilla",
+      "league_apps": 34,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': '1993\u201394', 'League Division': 'La Liga', 'League Apps': '34', 'League Goals': '24', 'National cup Apps': '7', 'National cup Goals': '3', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 27}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Sevilla",
+      "league_apps": 32,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': '1994\u201395', 'League Division': 'La Liga', 'League Apps': '32', 'League Goals': '17', 'National cup Apps': '2', 'National cup Goals': '3', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 20}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Sevilla",
+      "league_apps": 32,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': '1995\u201396', 'League Division': 'La Liga', 'League Apps': '32', 'League Goals': '16', 'National cup Apps': '3', 'National cup Goals': '1', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '6', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 21}"
+    },
+    {
+      "season": "Total",
+      "club": "Sevilla",
+      "league_apps": 153,
+      "league_goals": 76,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '153', 'League Goals': '76', 'National cup Apps': '18', 'National cup Goals': '10', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '6', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 177, 'Total Goals': 90}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Real Madrid",
+      "league_apps": 38,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1996\u201397', 'League Division': 'La Liga', 'League Apps': '38', 'League Goals': '24', 'National cup Apps': '5', 'National cup Goals': '5', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 29}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Real Madrid",
+      "league_apps": 29,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1997\u201398', 'League Division': 'La Liga', 'League Apps': '29', 'League Goals': '10', 'National cup Apps': '1', 'National cup Goals': '1', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '7', 'Continental Goals': '4', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 39, 'Total Goals': 15}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Real Madrid",
+      "league_apps": 19,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1998\u201399', 'League Division': 'La Liga', 'League Apps': '19', 'League Goals': '4', 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '6', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 86,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '86', 'League Goals': '38', 'National cup Apps': '8', 'National cup Goals': '6', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '13', 'Continental Goals': '5', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 109, 'Total Goals': 49}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Arsenal",
+      "league_apps": 22,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1999\u20132000', 'League Division': 'Premier League', 'League Apps': '22', 'League Goals': '8', 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '1', 'League cup Goals': '1', 'Continental Apps': '13', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 11}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "West Ham United",
+      "league_apps": 11,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '2000\u201301', 'League Division': 'Premier League', 'League Apps': '11', 'League Goals': '2', 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '2', 'League cup Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 3}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "1860 Munich",
+      "league_apps": 14,
+      "league_goals": 4,
+      "raw": "{'Club Club': '1860 Munich', 'Season Season': '2001\u201302', 'League Division': 'Bundesliga', 'League Apps': '14', 'League Goals': '4', 'National cup Apps': '3', 'National cup Goals': '2', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 6}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "1860 Munich",
+      "league_apps": 11,
+      "league_goals": 1,
+      "raw": "{'Club Club': '1860 Munich', 'Season Season': '2002\u201303', 'League Division': 'Bundesliga', 'League Apps': '11', 'League Goals': '1', 'National cup Apps': '2', 'National cup Goals': '1', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "1860 Munich",
+      "league_apps": 25,
+      "league_goals": 5,
+      "raw": "{'Club Club': '1860 Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '25', 'League Goals': '5', 'National cup Apps': '5', 'National cup Goals': '3', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 8}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 448,
+      "league_goals": 203,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '448', 'League Goals': '203', 'National cup Apps': '37', 'National cup Goals': '23', 'League cup Apps': '3', 'League cup Goals': '2', 'Continental Apps': '37', 'Continental Goals': '12', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 527, 'Total Goals': 240}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Davor \u0160uker - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"cb6f413f-f372-4256-b8b4-730b19276d0f\",\"wg",
+  "season_id": "1998",
+  "award_year": 1998
+}

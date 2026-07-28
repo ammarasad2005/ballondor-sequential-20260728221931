@@ -1,0 +1,131 @@
+{
+  "player_name_raw": "Denzel Dumfries",
+  "fetch_status": "ok",
+  "wikipedia_title": "Denzel_Dumfries",
+  "url": "https://en.wikipedia.org/wiki/Denzel_Dumfries",
+  "position": "Right-back right wing-back",
+  "birth_year": 1996,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2014\u201315",
+      "club": "Sparta Rotterdam",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sparta Rotterdam', 'Season Season': '2014\u201315', 'League Division': 'Eerste Divisie', 'League Apps': 3, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Sparta Rotterdam",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Sparta Rotterdam', 'Season Season': '2015\u201316', 'League Division': 'Eerste Divisie', 'League Apps': 31, 'League Goals': 1, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 1}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Sparta Rotterdam",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Sparta Rotterdam', 'Season Season': '2016\u201317', 'League Division': 'Eredivisie', 'League Apps': 31, 'League Goals': 1, 'National cup[a] Apps': 5, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Sparta Rotterdam",
+      "league_apps": 65,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Sparta Rotterdam', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 65, 'League Goals': 2, 'National cup[a] Apps': 7, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 72, 'Total Goals': 2}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Heerenveen",
+      "league_apps": 33,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Heerenveen', 'Season Season': '2017\u201318', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 3, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '2[b]', 'Other Goals': '1', 'Total Apps': 37, 'Total Goals': 4}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "PSV Eindhoven",
+      "league_apps": 34,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '2018\u201319', 'League Division': 'Eredivisie', 'League Apps': 34, 'League Goals': 4, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '8[c]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 4}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "PSV Eindhoven",
+      "league_apps": 25,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '2019\u201320', 'League Division': 'Eredivisie', 'League Apps': 25, 'League Goals': 7, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '12[e]', 'Europe Goals': '1', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 8}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "PSV Eindhoven",
+      "league_apps": 30,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '2020\u201321', 'League Division': 'Eredivisie', 'League Apps': 30, 'League Goals': 2, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'Europe Apps': '8[f]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "PSV Eindhoven",
+      "league_apps": 89,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 89, 'League Goals': 13, 'National cup[a] Apps': 5, 'National cup[a] Goals': 1, 'Europe Apps': '28', 'Europe Goals': '2', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 124, 'Total Goals': 16}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Inter Milan",
+      "league_apps": 33,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2021\u201322', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 5, 'National cup[a] Apps': 4, 'National cup[a] Goals': 0, 'Europe Apps': '7[c]', 'Europe Goals': '0', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 5}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Inter Milan",
+      "league_apps": 34,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2022\u201323', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 1, 'National cup[a] Apps': 5, 'National cup[a] Goals': 0, 'Europe Apps': '12[c]', 'Europe Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 2}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Inter Milan",
+      "league_apps": 31,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2023\u201324', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 4, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '5[c]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 4}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Inter Milan",
+      "league_apps": 29,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2024\u201325', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 7, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '12[c]', 'Europe Goals': '2', 'Other Apps': '4[h]', 'Other Goals': '2', 'Total Apps': 47, 'Total Goals': 11}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Inter Milan",
+      "league_apps": 20,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2025\u201326', 'League Division': 'Serie A', 'League Apps': 20, 'League Goals': 3, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Europe Apps': '5[c]', 'Europe Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 28, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 147,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 147, 'League Goals': 20, 'National cup[a] Apps': 14, 'National cup[a] Goals': 0, 'Europe Apps': '41', 'Europe Goals': '5', 'Other Apps': '5', 'Other Goals': '2', 'Total Apps': 207, 'Total Goals': 27}"
+    },
+    {
+      "season": "2026\u201327",
+      "club": "Real Madrid",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2026\u201327', 'League Division': 'La Liga', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 332,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 332, 'League Goals': 38, 'National cup[a] Apps': 28, 'National cup[a] Goals': 1, 'Europe Apps': '69', 'Europe Goals': '7', 'Other Apps': '9', 'Other Goals': '3', 'Total Apps': 438, 'Total Goals': 49}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Denzel Dumfries - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"78635ee6-bb24-4a00-861b-d93c9f237e97\""
+}

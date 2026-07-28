@@ -1,0 +1,145 @@
+{
+  "player_name_raw": "Roberto Bettega",
+  "fetch_status": "ok",
+  "wikipedia_title": "Roberto_Bettega",
+  "url": "https://en.wikipedia.org/wiki/Roberto_Bettega",
+  "position": "Forward",
+  "birth_year": 1950,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1969\u201370",
+      "club": "Varese",
+      "league_apps": 30,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Varese', 'Season Season': '1969\u201370', 'League Division': 'Serie B', 'League Apps': 30, 'League Goals': 13, 'Cup Apps': '3', 'Cup Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 13}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Juventus",
+      "league_apps": 28,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1970\u201371', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 13, 'Cup Apps': '3', 'Cup Goals': '2', 'Continental Apps': '11', 'Continental Goals': '6', 'Total Apps': 42, 'Total Goals': 21}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Juventus",
+      "league_apps": 14,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1971\u201372', 'League Division': 'Serie A', 'League Apps': 14, 'League Goals': 10, 'Cup Apps': '4', 'Cup Goals': '1', 'Continental Apps': '5', 'Continental Goals': '4', 'Total Apps': 23, 'Total Goals': 15}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Juventus",
+      "league_apps": 27,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1972\u201373', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 8, 'Cup Apps': '8', 'Cup Goals': '1', 'Continental Apps': '7', 'Continental Goals': '2', 'Total Apps': 42, 'Total Goals': 11}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Juventus",
+      "league_apps": 24,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1973\u201374', 'League Division': 'Serie A', 'League Apps': 24, 'League Goals': 8, 'Cup Apps': '5', 'Cup Goals': '2', 'Continental Apps': '2', 'Continental Goals': '0', 'Total Apps': 31, 'Total Goals': 10}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Juventus",
+      "league_apps": 27,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1974\u201375', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 6, 'Cup Apps': '10', 'Cup Goals': '3', 'Continental Apps': '10', 'Continental Goals': '1', 'Total Apps': 47, 'Total Goals': 10}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Juventus",
+      "league_apps": 29,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1975\u201376', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 15, 'Cup Apps': '3', 'Cup Goals': '2', 'Continental Apps': '4', 'Continental Goals': '1', 'Total Apps': 36, 'Total Goals': 18}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1976\u201377', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 17, 'Cup Apps': '4', 'Cup Goals': '1', 'Continental Apps': '12', 'Continental Goals': '5', 'Total Apps': 46, 'Total Goals': 23}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1977\u201378', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 11, 'Cup Apps': '4', 'Cup Goals': '2', 'Continental Apps': '7', 'Continental Goals': '2', 'Total Apps': 41, 'Total Goals': 15}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1978\u201379', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 9, 'Cup Apps': '9', 'Cup Goals': '2', 'Continental Apps': '2', 'Continental Goals': '0', 'Total Apps': 41, 'Total Goals': 11}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Juventus",
+      "league_apps": 28,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1979\u201380', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 16, 'Cup Apps': '4', 'Cup Goals': '0', 'Continental Apps': '8', 'Continental Goals': '1', 'Total Apps': 40, 'Total Goals': 17}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Juventus",
+      "league_apps": 25,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1980\u201381', 'League Division': 'Serie A', 'League Apps': 25, 'League Goals': 5, 'Cup Apps': '8', 'Cup Goals': '3', 'Continental Apps': '4', 'Continental Goals': '3', 'Total Apps': 37, 'Total Goals': 11}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Juventus",
+      "league_apps": 7,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1981\u201382', 'League Division': 'Serie A', 'League Apps': 7, 'League Goals': 5, 'Cup Apps': '4', 'Cup Goals': '2', 'Continental Apps': '3', 'Continental Goals': '1', 'Total Apps': 14, 'Total Goals': 8}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Juventus",
+      "league_apps": 27,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1982\u201383', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 6, 'Cup Apps': '7', 'Cup Goals': '1', 'Continental Apps': '6', 'Continental Goals': '1', 'Total Apps': 40, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 326,
+      "league_goals": 129,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 326, 'League Goals': 129, 'Cup Apps': '73', 'Cup Goals': '22', 'Continental Apps': '81', 'Continental Goals': '27', 'Total Apps': 480, 'Total Goals': 178}"
+    },
+    {
+      "season": "1983",
+      "club": "Toronto Blizzard",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Toronto Blizzard', 'Season Season': '1983', 'League Division': 'NASL', 'League Apps': 16, 'League Goals': 2, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 16, 'Total Goals': 2}"
+    },
+    {
+      "season": "1984",
+      "club": "Toronto Blizzard",
+      "league_apps": 23,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Toronto Blizzard', 'Season Season': '1984', 'League Division': 'NASL', 'League Apps': 23, 'League Goals': 8, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 23, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Toronto Blizzard",
+      "league_apps": 39,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Toronto Blizzard', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 39, 'League Goals': 10, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 10}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 395,
+      "league_goals": 152,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 395, 'League Goals': 152, 'Cup Apps': '76', 'Cup Goals': '22', 'Continental Apps': '81', 'Continental Goals': '27', 'Total Apps': 552, 'Total Goals': 201}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Roberto Bettega - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"2fa2ca6a-b43d-4494-abfe-bebbfc72e76a\""
+}

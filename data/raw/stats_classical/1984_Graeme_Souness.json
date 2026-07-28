@@ -1,0 +1,196 @@
+{
+  "player_name_raw": "Graeme Souness",
+  "fetch_status": "ok",
+  "wikipedia_title": "Graeme_Souness",
+  "url": "https://en.wikipedia.org/wiki/Graeme_Souness",
+  "position": "Midfielder",
+  "birth_year": 1953,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1971\u201372",
+      "club": "Tottenham Hotspur",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1971\u201372', 'League Division': 'First Division', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': 0.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '1[c]', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1972",
+      "club": "Montreal Olympique",
+      "league_apps": 10,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Montreal Olympique', 'Season Season': '1972', 'League Division': 'NASL', 'League Apps': 10, 'League Goals': 2, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 10, 'Total Goals': 2}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Middlesbrough",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Middlesbrough', 'Season Season': '1972\u201373', 'League Division': 'Second Division', 'League Apps': 9, 'League Goals': 0, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Middlesbrough",
+      "league_apps": 35,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Middlesbrough', 'Season Season': '1973\u201374', 'League Division': 'Second Division', 'League Apps': 35, 'League Goals': 7, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 7}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Middlesbrough",
+      "league_apps": 38,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Middlesbrough', 'Season Season': '1974\u201375', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 7, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 7}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Middlesbrough",
+      "league_apps": 35,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Middlesbrough', 'Season Season': '1975\u201376', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 3, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 3}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Middlesbrough",
+      "league_apps": 38,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Middlesbrough', 'Season Season': '1976\u201377', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 2, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 2}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Middlesbrough",
+      "league_apps": 19,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Middlesbrough', 'Season Season': '1977\u201378', 'League Division': 'First Division', 'League Apps': 19, 'League Goals': 3, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 19, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Middlesbrough",
+      "league_apps": 176,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Middlesbrough', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 176, 'League Goals': 22, 'National cup[a] Apps': 13.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '12', 'League cup[b] Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 201, 'Total Goals': 23}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Liverpool",
+      "league_apps": 15,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1977\u201378', 'League Division': 'First Division', 'League Apps': 15, 'League Goals': 2, 'National cup[a] Apps': 0.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '3[d]', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 18, 'Total Goals': 2}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Liverpool",
+      "league_apps": 41,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1978\u201379', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 8, 'National cup[a] Apps': 7.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '2[d]', 'Continental Goals': '0', 'Other Apps': '2[e]', 'Other Goals': '0', 'Total Apps': 53, 'Total Goals': 9}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Liverpool",
+      "league_apps": 41,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1979\u201380', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 1, 'National cup[a] Apps': 8.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '7', 'League cup[b] Goals': '0', 'Continental Apps': '2[d]', 'Continental Goals': '0', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 59, 'Total Goals': 2}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Liverpool",
+      "league_apps": 37,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1980\u201381', 'League Division': 'First Division', 'League Apps': 37, 'League Goals': 6, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '8', 'League cup[b] Goals': '1', 'Continental Apps': '8[d]', 'Continental Goals': '6', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 55, 'Total Goals': 13}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Liverpool",
+      "league_apps": 35,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1981\u201382', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 5, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '9', 'League cup[b] Goals': '1', 'Continental Apps': '6[d]', 'Continental Goals': '0', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 54, 'Total Goals': 6}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Liverpool",
+      "league_apps": 41,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1982\u201383', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 9, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '8', 'League cup[b] Goals': '2', 'Continental Apps': '6[d]', 'Continental Goals': '0', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 59, 'Total Goals': 11}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Liverpool",
+      "league_apps": 37,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1983\u201384', 'League Division': 'First Division', 'League Apps': 37, 'League Goals': 7, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '12', 'League cup[b] Goals': '5', 'Continental Apps': '9[d]', 'Continental Goals': '0', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 61, 'Total Goals': 12}"
+    },
+    {
+      "season": "Total",
+      "club": "Liverpool",
+      "league_apps": 247,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 247, 'League Goals': 38, 'National cup[a] Apps': 24.0, 'National cup[a] Goals': 2.0, 'League cup[b] Apps': '46', 'League cup[b] Goals': '9', 'Continental Apps': '35', 'Continental Goals': '6', 'Other Apps': '7', 'Other Goals': '0', 'Total Apps': 354, 'Total Goals': 55}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Sampdoria",
+      "league_apps": 28,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1984\u201385', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 5, 'National cup[a] Apps': 12.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 6}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Sampdoria",
+      "league_apps": 28,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1985\u201386', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 3, 'National cup[a] Apps': 6.0, 'National cup[a] Goals': 2.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '4[h]', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Sampdoria",
+      "league_apps": 56,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 56, 'League Goals': 8, 'National cup[a] Apps': 18.0, 'National cup[a] Goals': 3.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '4', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 78, 'Total Goals': 11}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Rangers",
+      "league_apps": 25,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1986\u201387', 'League Division': 'Scottish Premier Division', 'League Apps': 25, 'League Goals': 1, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '3', 'League cup[b] Goals': '2', 'Continental Apps': '3[c]', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 3}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Rangers",
+      "league_apps": 18,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1987\u201388', 'League Division': 'Scottish Premier Division', 'League Apps': 18, 'League Goals': 2, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Continental Apps': '6[d]', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 2}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Rangers",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1988\u201389', 'League Division': 'Scottish Premier Division', 'League Apps': 6, 'League Goals': 0, 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Rangers",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1989\u201390', 'League Division': 'Scottish Premier Division', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': 0.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Rangers",
+      "league_apps": 50,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 50, 'League Goals': 3, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '9', 'League cup[b] Goals': '2', 'Continental Apps': '9', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 73, 'Total Goals': 5}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 537,
+      "league_goals": 73,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 537, 'League Goals': 73, 'National cup[a] Apps': 60.0, 'National cup[a] Goals': 6.0, 'League cup[b] Apps': '67', 'League cup[b] Goals': '11', 'Continental Apps': '49', 'Continental Goals': '6', 'Other Apps': '7', 'Other Goals': '0', 'Total Apps': 706, 'Total Goals': 96}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Graeme Souness - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"38ef8e48-8987-4e12-8356-fa47634dadac\",",
+  "season_id": "1984",
+  "award_year": 1984
+}

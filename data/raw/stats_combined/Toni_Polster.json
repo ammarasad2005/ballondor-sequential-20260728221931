@@ -1,0 +1,180 @@
+{
+  "player_name_raw": "Toni Polster",
+  "fetch_status": "ok",
+  "wikipedia_title": "Toni_Polster",
+  "url": "https://en.wikipedia.org/wiki/Toni_Polster",
+  "position": "Striker",
+  "birth_year": 1964,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1982\u201383",
+      "club": "Austria Wien",
+      "league_apps": 26,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Austria Wien', 'Season Season': '1982\u201383', 'League Division': 'Austrian Bundesliga', 'League Apps': 26, 'League Goals': 11, 'Cup[a] Apps': '1', 'Cup[a] Goals': '2', 'Europe Apps': '8[b]', 'Europe Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 18}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Austria Wien",
+      "league_apps": 23,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Austria Wien', 'Season Season': '1983\u201384', 'League Division': 'Austrian Bundesliga', 'League Apps': 23, 'League Goals': 13, 'Cup[a] Apps': '8', 'Cup[a] Goals': '10', 'Europe Apps': '8[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 24}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Austria Wien",
+      "league_apps": 29,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Austria Wien', 'Season Season': '1984\u201385', 'League Division': 'Austrian Bundesliga', 'League Apps': 29, 'League Goals': 24, 'Cup[a] Apps': '6', 'Cup[a] Goals': '9', 'Europe Apps': '6[d]', 'Europe Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 36}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Austria Wien",
+      "league_apps": 34,
+      "league_goals": 32,
+      "raw": "{'Club Club': 'Austria Wien', 'Season Season': '1985\u201386', 'League Division': 'Austrian Bundesliga', 'League Apps': 34, 'League Goals': 32, 'Cup[a] Apps': '4', 'Cup[a] Goals': '4', 'Europe Apps': '4[d]', 'Europe Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 40}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Austria Wien",
+      "league_apps": 34,
+      "league_goals": 39,
+      "raw": "{'Club Club': 'Austria Wien', 'Season Season': '1986\u201387', 'League Division': 'Austrian Bundesliga', 'League Apps': 34, 'League Goals': 39, 'Cup[a] Apps': '4', 'Cup[a] Goals': '4', 'Europe Apps': '4[d]', 'Europe Goals': '3', 'Other Apps': '1[e]', 'Other Goals': '1', 'Total Apps': 43, 'Total Goals': 47}"
+    },
+    {
+      "season": "Total",
+      "club": "Austria Wien",
+      "league_apps": 146,
+      "league_goals": 119,
+      "raw": "{'Club Club': 'Austria Wien', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 146, 'League Goals': 119, 'Cup[a] Apps': '23', 'Cup[a] Goals': '29', 'Europe Apps': '30', 'Europe Goals': '16', 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': 200, 'Total Goals': 165}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Torino",
+      "league_apps": 27,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Torino', 'Season Season': '1987\u201388', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 9, 'Cup[a] Apps': '12', 'Cup[a] Goals': '5', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 14}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Sevilla",
+      "league_apps": 32,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': '1988\u201389', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 9, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 9}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Sevilla",
+      "league_apps": 35,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': '1989\u201390', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 33, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 33}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Sevilla",
+      "league_apps": 35,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': '1990\u201391', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 13, 'Cup[a] Apps': '4', 'Cup[a] Goals': '1', 'Europe Apps': '4[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "Sevilla",
+      "league_apps": 102,
+      "league_goals": 55,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 102, 'League Goals': 55, 'Cup[a] Apps': '4', 'Cup[a] Goals': '1', 'Europe Apps': '4', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 110, 'Total Goals': 57}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Logro\u00f1\u00e9s",
+      "league_apps": 38,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Logro\u00f1\u00e9s', 'Season Season': '1991\u201392', 'League Division': 'La Liga', 'League Apps': 38, 'League Goals': 14, 'Cup[a] Apps': '7', 'Cup[a] Goals': '7', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 21}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Rayo Vallecano",
+      "league_apps": 31,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Rayo Vallecano', 'Season Season': '1992\u201393', 'League Division': 'La Liga', 'League Apps': 31, 'League Goals': 14, 'Cup[a] Apps': '0', 'Cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 14}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 25,
+      "league_goals": 17,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1993\u201394', 'League Division': 'Bundesliga', 'League Apps': 25, 'League Goals': 17, 'Cup[a] Apps': '1', 'Cup[a] Goals': '2', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 19}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 32,
+      "league_goals": 17,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1994\u201395', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 17, 'Cup[a] Apps': '5', 'Cup[a] Goals': '2', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 19}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 28,
+      "league_goals": 11,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1995\u201396', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 11, 'Cup[a] Apps': '1', 'Cup[a] Goals': '0', 'Europe Apps': '4[g]', 'Europe Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 14}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 32,
+      "league_goals": 21,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1996\u201397', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 21, 'Cup[a] Apps': '1', 'Cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 21}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 33,
+      "league_goals": 13,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1997\u201398', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 13, 'Cup[a] Apps': '1', 'Cup[a] Goals': '0', 'Europe Apps': '5[g]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 150,
+      "league_goals": 79,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 150, 'League Goals': 79, 'Cup[a] Apps': '9', 'Cup[a] Goals': '4', 'Europe Apps': '9', 'Europe Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 168, 'Total Goals': 88}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 31,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1998\u201399', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 11, 'Cup[a] Apps': '4', 'Cup[a] Goals': '3', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 14}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 7,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1999\u20132000', 'League Division': '2. Bundesliga', 'League Apps': 7, 'League Goals': 4, 'Cup[a] Apps': '1', 'Cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 38,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 38, 'League Goals': 15, 'Cup[a] Apps': '5', 'Cup[a] Goals': '3', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 18}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Austria Salzburg",
+      "league_apps": 12,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Austria Salzburg', 'Season Season': '1999\u20132000', 'League Division': 'Austrian Bundesliga', 'League Apps': 12, 'League Goals': 2, 'Cup[a] Apps': '4', 'Cup[a] Goals': '3', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 16, 'Total Goals': 5}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 544,
+      "league_goals": 307,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 544, 'League Goals': 307, 'Cup[a] Apps': '64', 'Cup[a] Goals': '52', 'Europe Apps': '43', 'Europe Goals': '22', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': 653, 'Total Goals': 382}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Toni Polster - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ad2e7f6b-33eb-4465-b631-07c85b8afa10\",\"w"
+}

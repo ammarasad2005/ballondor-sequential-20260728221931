@@ -1,0 +1,203 @@
+{
+  "player_name_raw": "Theodoros Zagorakis",
+  "fetch_status": "ok",
+  "wikipedia_title": "Theodoros_Zagorakis",
+  "url": "https://en.wikipedia.org/wiki/Theodoros_Zagorakis",
+  "position": "Midfielder",
+  "birth_year": 1971,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1988\u201389",
+      "club": "Kavala",
+      "league_apps": 8,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Kavala', 'Season Season': '1988\u201389', 'League Division': 'Beta Ethniki', 'League Apps': 8, 'League Goals': 2, 'National Cup Apps': 1, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 9, 'Total Goals': 2}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Kavala",
+      "league_apps": 38,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Kavala', 'Season Season': '1989\u201390', 'League Division': 'Gamma Ethniki', 'League Apps': 38, 'League Goals': 2, 'National Cup Apps': 2, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 2}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Kavala",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Kavala', 'Season Season': '1990\u201391', 'League Division': 'Beta Ethniki', 'League Apps': 28, 'League Goals': 0, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Kavala",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Kavala', 'Season Season': '1991\u201392', 'League Division': 'Beta Ethniki', 'League Apps': 32, 'League Goals': 2, 'National Cup Apps': 1, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 2}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Kavala",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Kavala', 'Season Season': '1992\u201393', 'League Division': 'Beta Ethniki', 'League Apps': 8, 'League Goals': 0, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Kavala",
+      "league_apps": 114,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Kavala', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 114, 'League Goals': 6, 'National Cup Apps': 4, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 118, 'Total Goals': 6}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "PAOK",
+      "league_apps": 20,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'PAOK', 'Season Season': '1992\u201393', 'League Division': 'Alpha Ethniki', 'League Apps': 20, 'League Goals': 2, 'National Cup Apps': 1, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 21, 'Total Goals': 2}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "PAOK",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'PAOK', 'Season Season': '1993\u201394', 'League Division': 'Alpha Ethniki', 'League Apps': 30, 'League Goals': 0, 'National Cup Apps': 5, 'National Cup Goals': 1, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 1}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "PAOK",
+      "league_apps": 31,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'PAOK', 'Season Season': '1994\u201395', 'League Division': 'Alpha Ethniki', 'League Apps': 31, 'League Goals': 4, 'National Cup Apps': 4, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 4}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "PAOK",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'PAOK', 'Season Season': '1995\u201396', 'League Division': 'Alpha Ethniki', 'League Apps': 27, 'League Goals': 0, 'National Cup Apps': 7, 'National Cup Goals': 1, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 1}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "PAOK",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'PAOK', 'Season Season': '1996\u201397', 'League Division': 'Alpha Ethniki', 'League Apps': 32, 'League Goals': 2, 'National Cup Apps': 3, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 2}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "PAOK",
+      "league_apps": 15,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'PAOK', 'Season Season': '1997\u201398', 'League Division': 'Alpha Ethniki', 'League Apps': 15, 'League Goals': 2, 'National Cup Apps': 2, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '6', 'Continental Goals': '3', 'Total Apps': 23, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "PAOK",
+      "league_apps": 155,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'PAOK', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 155, 'League Goals': 10, 'National Cup Apps': 22, 'National Cup Goals': 2, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '6', 'Continental Goals': '3', 'Total Apps': 183, 'Total Goals': 15}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Leicester City",
+      "league_apps": 14,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1997\u201398', 'League Division': 'Premier League', 'League Apps': 14, 'League Goals': 1, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 14, 'Total Goals': 1}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Leicester City",
+      "league_apps": 19,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1998\u201399', 'League Division': 'Premier League', 'League Apps': 19, 'League Goals': 1, 'National Cup Apps': 2, 'National Cup Goals': 0, 'League Cup Apps': '5', 'League Cup Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 26, 'Total Goals': 1}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Leicester City",
+      "league_apps": 17,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1999\u20132000', 'League Division': 'Premier League', 'League Apps': 17, 'League Goals': 1, 'National Cup Apps': 4, 'National Cup Goals': 0, 'League Cup Apps': '7', 'League Cup Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 28, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Leicester City",
+      "league_apps": 50,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 50, 'League Goals': 3, 'National Cup Apps': 6, 'National Cup Goals': 0, 'League Cup Apps': '13', 'League Cup Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 69, 'Total Goals': 3}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "AEK",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AEK', 'Season Season': '2000\u201301', 'League Division': 'Alpha Ethniki', 'League Apps': 23, 'League Goals': 1, 'National Cup Apps': 5, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '7', 'Continental Goals': '0', 'Total Apps': 35, 'Total Goals': 1}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "AEK",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'AEK', 'Season Season': '2001\u201302', 'League Division': 'Alpha Ethniki', 'League Apps': 26, 'League Goals': 3, 'National Cup Apps': 9, 'National Cup Goals': 1, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '10', 'Continental Goals': '4', 'Total Apps': 45, 'Total Goals': 8}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "AEK",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AEK', 'Season Season': '2002\u201303', 'League Division': 'Alpha Ethniki', 'League Apps': 25, 'League Goals': 0, 'National Cup Apps': 7, 'National Cup Goals': 1, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '11', 'Continental Goals': '1', 'Total Apps': 43, 'Total Goals': 2}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "AEK",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AEK', 'Season Season': '2003\u201304', 'League Division': 'Alpha Ethniki', 'League Apps': 27, 'League Goals': 0, 'National Cup Apps': 5, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '8', 'Continental Goals': '0', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "AEK",
+      "league_apps": 101,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'AEK', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 101, 'League Goals': 4, 'National Cup Apps': 26, 'National Cup Goals': 2, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '36', 'Continental Goals': '5', 'Total Apps': 163, 'Total Goals': 11}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Bologna",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bologna', 'Season Season': '2004\u201305', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 0, 'National Cup Apps': 2, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "PAOK",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'PAOK', 'Season Season': '2005\u201306', 'League Division': 'Alpha Ethniki', 'League Apps': 22, 'League Goals': 0, 'National Cup Apps': 0, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '5', 'Continental Goals': '0', 'Total Apps': 27, 'Total Goals': 0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "PAOK",
+      "league_apps": 23,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'PAOK', 'Season Season': '2006\u201307', 'League Division': 'Super League Greece', 'League Apps': 23, 'League Goals': 0, 'National Cup Apps': 4, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 27, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "PAOK",
+      "league_apps": 45,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'PAOK', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 45, 'League Goals': 0, 'National Cup Apps': 4, 'National Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Continental Apps': '5', 'Continental Goals': '0', 'Total Apps': 54, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 497,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 497, 'League Goals': 23, 'National Cup Apps': 64, 'National Cup Goals': 4, 'League Cup Apps': '13', 'League Cup Goals': '0', 'Continental Apps': '47', 'Continental Goals': '8', 'Total Apps': 621, 'Total Goals': 35}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Theodoros Zagorakis - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"2f18f1a2-52cb-4a62-8d96-648c8d929",
+  "season_id": "2004",
+  "award_year": 2004
+}

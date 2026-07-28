@@ -1,0 +1,161 @@
+{
+  "player_name_raw": "Eric Abidal",
+  "fetch_status": "ok",
+  "wikipedia_title": "Eric_Abidal",
+  "url": "https://en.wikipedia.org/wiki/Eric_Abidal",
+  "position": "Left-back centre-back",
+  "birth_year": 1979,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2000\u201301",
+      "club": "Monaco B",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Monaco B', 'Season Season': '2000\u201301', 'League Division': 'CFA', 'League Apps': 8, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Monaco",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': '2000\u201301[76]', 'League Division': 'French Division 1', 'League Apps': 8, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '1[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Monaco",
+      "league_apps": 14,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': '2001\u201302[76]', 'League Division': 'French Division 1', 'League Apps': 14, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Monaco",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 22, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '1', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Lille",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lille', 'Season Season': '2002\u201303[76]', 'League Division': 'Ligue 1', 'League Apps': 27, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Lille",
+      "league_apps": 35,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lille', 'Season Season': '2003\u201304[76]', 'League Division': 'Ligue 1', 'League Apps': 35, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Lille",
+      "league_apps": 62,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lille', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 62, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 68, 'Total Goals': 0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Lyon",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '2004\u201305[76]', 'League Division': 'Ligue 1', 'League Apps': 29, 'League Goals': 0, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '1', 'Continental Apps': '7[c]', 'Continental Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 1}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Lyon",
+      "league_apps": 14,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '2005\u201306[76]', 'League Division': 'Ligue 1', 'League Apps': 14, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '6[c]', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 22, 'Total Goals': 0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Lyon",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '2006\u201307[76]', 'League Division': 'Ligue 1', 'League Apps': 33, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Continental Apps': '7[c]', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 44, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Lyon",
+      "league_apps": 76,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 76, 'League Goals': 0, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '5', 'League cup[b] Goals': '2', 'Continental Apps': '20', 'Continental Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 107, 'Total Goals': 2}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Barcelona",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2007\u201308[77]', 'League Division': 'La Liga', 'League Apps': 30, 'League Goals': 0, 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '10[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Barcelona",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2008\u201309[77]', 'League Division': 'La Liga', 'League Apps': 25, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '5[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 0}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Barcelona",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2009\u201310[77]', 'League Division': 'La Liga', 'League Apps': 17, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[c]', 'Continental Goals': '0', 'Other Apps': '4[e]', 'Other Goals': '0', 'Total Apps': 31, 'Total Goals': 0}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Barcelona",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2010\u201311[77]', 'League Division': 'La Liga', 'League Apps': 26, 'League Goals': 0, 'National cup[a] Apps': '5', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[c]', 'Continental Goals': '0', 'Other Apps': '2[f]', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 1}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Barcelona",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2011\u201312[77]', 'League Division': 'La Liga', 'League Apps': 22, 'League Goals': 0, 'National cup[a] Apps': '5', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '6[c]', 'Continental Goals': '0', 'Other Apps': '5[g]', 'Other Goals': '0', 'Total Apps': 38, 'Total Goals': 1}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Barcelona",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2012\u201313[77]', 'League Division': 'La Liga', 'League Apps': 5, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 125,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 125, 'League Goals': 0, 'National cup[a] Apps': '20', 'National cup[a] Goals': '2', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '37', 'Continental Goals': '0', 'Other Apps': '11', 'Other Goals': '0', 'Total Apps': 193, 'Total Goals': 2}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Monaco",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': '2013\u201314[76]', 'League Division': 'Ligue 1', 'League Apps': 26, 'League Goals': 0, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 0}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Olympiacos",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Olympiacos', 'Season Season': '2014\u201315[76]', 'League Division': 'Super League Greece', 'League Apps': 9, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '6[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 15, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 328,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 328, 'League Goals': 0, 'National cup[a] Apps': '32', 'National cup[a] Goals': '2', 'League cup[b] Apps': '10', 'League cup[b] Goals': '2', 'Continental Apps': '64', 'Continental Goals': '0', 'Other Apps': '12', 'Other Goals': '0', 'Total Apps': 446, 'Total Goals': 4}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Eric Abidal - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"1a33d1e5-9f8b-47e1-a511-918bbe53b1aa\",\"wg",
+  "season_id": "2011",
+  "award_year": 2011
+}

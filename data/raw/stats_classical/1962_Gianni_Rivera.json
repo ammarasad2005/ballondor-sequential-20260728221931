@@ -1,0 +1,182 @@
+{
+  "player_name_raw": "Gianni Rivera",
+  "fetch_status": "ok",
+  "wikipedia_title": "Gianni_Rivera",
+  "url": "https://en.wikipedia.org/wiki/Gianni_Rivera",
+  "position": "Forward attacking midfielder",
+  "birth_year": 1943,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1958\u201359",
+      "club": "Alessandria",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Alessandria', 'Season Season': '1958\u201359', 'League Apps': 1, 'League Goals': 0, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe[nb 1] Apps': '\u2013', 'Europe[nb 1] Goals': '\u2013', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "Alessandria",
+      "league_apps": 25,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Alessandria', 'Season Season': '1959\u201360', 'League Apps': 25, 'League Goals': 6, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe[nb 1] Apps': '\u2013', 'Europe[nb 1] Goals': '\u2013', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 25, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Alessandria",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Alessandria', 'Season Season': 'Total', 'League Apps': 26, 'League Goals': 6, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe[nb 1] Apps': '\u2013', 'Europe[nb 1] Goals': '\u2013', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 26, 'Total Goals': 6}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1960\u201361', 'League Apps': 30, 'League Goals': 6, 'Cup Apps': '1', 'Cup Goals': '0', 'Europe[nb 1] Apps': '\u2013', 'Europe[nb 1] Goals': '\u2013', 'Other[nb 2] Apps': '2', 'Other[nb 2] Goals': '0', 'Total Apps': 33, 'Total Goals': 6}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "AC Milan",
+      "league_apps": 27,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1961\u201362', 'League Apps': 27, 'League Goals': 10, 'Cup Apps': '1', 'Cup Goals': '0', 'Europe[nb 1] Apps': '2', 'Europe[nb 1] Goals': '0', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 10}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "AC Milan",
+      "league_apps": 27,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1962\u201363', 'League Apps': 27, 'League Goals': 9, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe[nb 1] Apps': '7', 'Europe[nb 1] Goals': '2', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 11}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "AC Milan",
+      "league_apps": 27,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1963\u201364', 'League Apps': 27, 'League Goals': 7, 'Cup Apps': '1', 'Cup Goals': '0', 'Europe[nb 1] Apps': '2', 'Europe[nb 1] Goals': '1', 'Other[nb 2] Apps': '2', 'Other[nb 2] Goals': '0', 'Total Apps': 32, 'Total Goals': 8}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "AC Milan",
+      "league_apps": 29,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1964\u201365', 'League Apps': 29, 'League Goals': 2, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe[nb 1] Apps': '\u2013', 'Europe[nb 1] Goals': '\u2013', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 29, 'Total Goals': 2}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1965\u201366', 'League Apps': 31, 'League Goals': 7, 'Cup Apps': '1', 'Cup Goals': '0', 'Europe[nb 1] Apps': '4', 'Europe[nb 1] Goals': '1', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 8}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "AC Milan",
+      "league_apps": 34,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1966\u201367', 'League Apps': 34, 'League Goals': 12, 'Cup Apps': '6', 'Cup Goals': '7', 'Europe[nb 1] Apps': '2', 'Europe[nb 1] Goals': '0', 'Other[nb 2] Apps': '1', 'Other[nb 2] Goals': '0', 'Total Apps': 43, 'Total Goals': 19}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "AC Milan",
+      "league_apps": 29,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1967\u201368', 'League Apps': 29, 'League Goals': 11, 'Cup Apps': '5', 'Cup Goals': '3', 'Europe[nb 1] Apps': '10', 'Europe[nb 1] Goals': '1', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 44, 'Total Goals': 15}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "AC Milan",
+      "league_apps": 28,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1968\u201369', 'League Apps': 28, 'League Goals': 3, 'Cup Apps': '4', 'Cup Goals': '1', 'Europe[nb 1] Apps': '7', 'Europe[nb 1] Goals': '2', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 6}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "AC Milan",
+      "league_apps": 25,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1969\u201370', 'League Apps': 25, 'League Goals': 8, 'Cup Apps': '3', 'Cup Goals': '1', 'Europe[nb 1] Apps': '3', 'Europe[nb 1] Goals': '2', 'Other[nb 2] Apps': '2', 'Other[nb 2] Goals': '1', 'Total Apps': 33, 'Total Goals': 12}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "AC Milan",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1970\u201371', 'League Apps': 26, 'League Goals': 6, 'Cup Apps': '10', 'Cup Goals': '7', 'Europe[nb 1] Apps': '\u2013', 'Europe[nb 1] Goals': '\u2013', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 13}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "AC Milan",
+      "league_apps": 23,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1971\u201372', 'League Apps': 23, 'League Goals': 3, 'Cup Apps': '6', 'Cup Goals': '2', 'Europe[nb 1] Apps': '8', 'Europe[nb 1] Goals': '4', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 37, 'Total Goals': 9}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "AC Milan",
+      "league_apps": 28,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1972\u201373', 'League Apps': 28, 'League Goals': 17, 'Cup Apps': '6', 'Cup Goals': '3', 'Europe[nb 1] Apps': '9', 'Europe[nb 1] Goals': '0', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 43, 'Total Goals': 20}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "AC Milan",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1973\u201374', 'League Apps': 26, 'League Goals': 6, 'Cup Apps': '5', 'Cup Goals': '1', 'Europe[nb 1] Apps': '8', 'Europe[nb 1] Goals': '0', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 7}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "AC Milan",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1974\u201375', 'League Apps': 27, 'League Goals': 3, 'Cup Apps': '4', 'Cup Goals': '0', 'Europe[nb 1] Apps': '\u2013', 'Europe[nb 1] Goals': '\u2013', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 3}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "AC Milan",
+      "league_apps": 14,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1975\u201376', 'League Apps': 14, 'League Goals': 1, 'Cup Apps': '5', 'Cup Goals': '1', 'Europe[nb 1] Apps': '3', 'Europe[nb 1] Goals': '0', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 2}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "AC Milan",
+      "league_apps": 27,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1976\u201377', 'League Apps': 27, 'League Goals': 4, 'Cup Apps': '7', 'Cup Goals': '0', 'Europe[nb 1] Apps': '5', 'Europe[nb 1] Goals': '0', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 4}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1977\u201378', 'League Apps': 30, 'League Goals': 6, 'Cup Apps': '5', 'Cup Goals': '1', 'Europe[nb 1] Apps': '1', 'Europe[nb 1] Goals': '0', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 7}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "AC Milan",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1978\u201379', 'League Apps': 13, 'League Goals': 1, 'Cup Apps': '4', 'Cup Goals': '1', 'Europe[nb 1] Apps': '5', 'Europe[nb 1] Goals': '0', 'Other[nb 2] Apps': '\u2013', 'Other[nb 2] Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 501,
+      "league_goals": 122,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Apps': 501, 'League Goals': 122, 'Cup Apps': '74', 'Cup Goals': '28', 'Europe[nb 1] Apps': '76', 'Europe[nb 1] Goals': '13', 'Other[nb 2] Apps': '7', 'Other[nb 2] Goals': '1', 'Total Apps': 658, 'Total Goals': 164}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 527,
+      "league_goals": 128,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Apps': 527, 'League Goals': 128, 'Cup Apps': '74', 'Cup Goals': '28', 'Europe[nb 1] Apps': '76', 'Europe[nb 1] Goals': '13', 'Other[nb 2] Apps': '7', 'Other[nb 2] Goals': '1', 'Total Apps': 684, 'Total Goals': 170}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Gianni Rivera - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"85369147-e771-49a9-8c7c-c76e8328420f\",\"",
+  "season_id": "1962",
+  "award_year": 1962
+}

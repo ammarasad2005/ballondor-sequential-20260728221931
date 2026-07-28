@@ -1,0 +1,196 @@
+{
+  "player_name_raw": "Oleksandr Zavarov",
+  "fetch_status": "ok",
+  "wikipedia_title": "Oleksandr_Zavarov",
+  "url": "https://en.wikipedia.org/wiki/Oleksandr_Zavarov",
+  "position": "Midfielder",
+  "birth_year": 1961,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1979",
+      "club": "Zorya Voroshilovgrad",
+      "league_apps": 23,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Zorya Voroshilovgrad', 'Season Season': '1979', 'League Division': 'Vysshaya Liga', 'League Apps': 23.0, 'League Goals': 7.0, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 23.0, 'Total Goals': 7.0}"
+    },
+    {
+      "season": "1980",
+      "club": "SKA Rostov-na-Donu",
+      "league_apps": 34,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'SKA Rostov-na-Donu', 'Season Season': '1980', 'League Division': 'Vysshaya Liga', 'League Apps': 34.0, 'League Goals': 6.0, 'Cup Apps': '5', 'Cup Goals': '1', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 39.0, 'Total Goals': 7.0}"
+    },
+    {
+      "season": "1981",
+      "club": "SKA Rostov-na-Donu",
+      "league_apps": 30,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'SKA Rostov-na-Donu', 'Season Season': '1981', 'League Division': 'Vysshaya Liga', 'League Apps': 30.0, 'League Goals': 7.0, 'Cup Apps': '9', 'Cup Goals': '1', 'Europe Apps': '3', 'Europe Goals': '2', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 42.0, 'Total Goals': 10.0}"
+    },
+    {
+      "season": "Total",
+      "club": "SKA Rostov-na-Donu",
+      "league_apps": 64,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'SKA Rostov-na-Donu', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 64.0, 'League Goals': 13.0, 'Cup Apps': '14', 'Cup Goals': '2', 'Europe Apps': '3', 'Europe Goals': '2', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 81.0, 'Total Goals': 17.0}"
+    },
+    {
+      "season": "1982",
+      "club": "Zorya Voroshilovgrad",
+      "league_apps": 30,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Zorya Voroshilovgrad', 'Season Season': '1982', 'League Division': 'Pervaya Liga', 'League Apps': 30.0, 'League Goals': 10.0, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 30.0, 'Total Goals': 10.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Zorya Voroshilovgrad",
+      "league_apps": 53,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Zorya Voroshilovgrad', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 53.0, 'League Goals': 17.0, 'Cup Apps': '0', 'Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 53.0, 'Total Goals': 17.0}"
+    },
+    {
+      "season": "1983",
+      "club": "Dynamo Kyiv",
+      "league_apps": 29,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1983', 'League Division': 'Vysshaya Liga', 'League Apps': 29.0, 'League Goals': 8.0, 'Cup Apps': '1', 'Cup Goals': '0', 'Europe Apps': '3', 'Europe Goals': '0', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 33.0, 'Total Goals': 8.0}"
+    },
+    {
+      "season": "1984",
+      "club": "Dynamo Kyiv",
+      "league_apps": 24,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1984', 'League Division': 'Vysshaya Liga', 'League Apps': 24.0, 'League Goals': 6.0, 'Cup Apps': '2', 'Cup Goals': '2', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 26.0, 'Total Goals': 8.0}"
+    },
+    {
+      "season": "1985",
+      "club": "Dynamo Kyiv",
+      "league_apps": 31,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1985', 'League Division': 'Vysshaya Liga', 'League Apps': 31.0, 'League Goals': 9.0, 'Cup Apps': '5', 'Cup Goals': '2', 'Europe Apps': '4', 'Europe Goals': '3', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 40.0, 'Total Goals': 14.0}"
+    },
+    {
+      "season": "1986",
+      "club": "Dynamo Kyiv",
+      "league_apps": 20,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1986', 'League Division': 'Vysshaya Liga', 'League Apps': 20.0, 'League Goals': 4.0, 'Cup Apps': '1', 'Cup Goals': '0', 'Europe Apps': '7', 'Europe Goals': '2', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 28.0, 'Total Goals': 6.0}"
+    },
+    {
+      "season": "1987",
+      "club": "Dynamo Kyiv",
+      "league_apps": 14,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1987', 'League Division': 'Vysshaya Liga', 'League Apps': 14.0, 'League Goals': 5.0, 'Cup Apps': '5', 'Cup Goals': '3', 'Europe Apps': '5', 'Europe Goals': '0', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 24.0, 'Total Goals': 8.0}"
+    },
+    {
+      "season": "1988",
+      "club": "Dynamo Kyiv",
+      "league_apps": 18,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1988', 'League Division': 'Vysshaya Liga', 'League Apps': 18.0, 'League Goals': 4.0, 'Cup Apps': '1', 'Cup Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 19.0, 'Total Goals': 4.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Dynamo Kyiv",
+      "league_apps": 136,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 136.0, 'League Goals': 36.0, 'Cup Apps': '15', 'Cup Goals': '7', 'Europe Apps': '19', 'Europe Goals': '5', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 170.0, 'Total Goals': 48.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Vysshaya Liga",
+      "league_apps": 223,
+      "league_goals": 56,
+      "raw": "{'Club Club': 'Vysshaya Liga', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 223.0, 'League Goals': 56.0, 'Cup Apps': '29', 'Cup Goals': '9', 'Europe Apps': '22', 'Europe Goals': '7', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 274.0, 'Total Goals': 72.0}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Juventus",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1988\u201389', 'League Division': 'Serie A', 'League Apps': 32.0, 'League Goals': 2.0, 'Cup Apps': '2', 'Cup Goals': '2', 'Europe Apps': '1', 'Europe Goals': '0', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 35.0, 'Total Goals': 4.0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Juventus",
+      "league_apps": 28,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1989\u201390', 'League Division': 'Serie A', 'League Apps': 28.0, 'League Goals': 5.0, 'Cup Apps': '6', 'Cup Goals': '3', 'Europe Apps': '7', 'Europe Goals': '1', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 41.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 60,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 60.0, 'League Goals': 7.0, 'Cup Apps': '8', 'Cup Goals': '5', 'Europe Apps': '8', 'Europe Goals': '1', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 76.0, 'Total Goals': 13.0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Nancy Lorraine",
+      "league_apps": 30,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Nancy Lorraine', 'Season Season': '1990\u201391', 'League Division': 'Division 1', 'League Apps': 30.0, 'League Goals': 7.0, 'Cup Apps': '2', 'Cup Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 32.0, 'Total Goals': 7.0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Nancy Lorraine",
+      "league_apps": 28,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Nancy Lorraine', 'Season Season': '1991\u201392', 'League Division': 'Division 1', 'League Apps': 28.0, 'League Goals': 3.0, 'Cup Apps': '4', 'Cup Goals': '1', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 32.0, 'Total Goals': 4.0}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Nancy Lorraine",
+      "league_apps": 28,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Nancy Lorraine', 'Season Season': '1992\u201393', 'League Division': 'Division 2', 'League Apps': 28.0, 'League Goals': 9.0, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 28.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Nancy Lorraine",
+      "league_apps": 22,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Nancy Lorraine', 'Season Season': '1993\u201394', 'League Division': 'Division 2', 'League Apps': 22.0, 'League Goals': 1.0, 'Cup Apps': '\u2013', 'Cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 22.0, 'Total Goals': 1.0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Nancy Lorraine",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Nancy Lorraine', 'Season Season': '1994\u201395', 'League Division': 'Division 2', 'League Apps': 26.0, 'League Goals': 3.0, 'Cup Apps': '2', 'Cup Goals': '1', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 28.0, 'Total Goals': 4.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Nancy Lorraine",
+      "league_apps": 134,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Nancy Lorraine', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 134.0, 'League Goals': 23.0, 'Cup Apps': '8', 'Cup Goals': '2', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 142.0, 'Total Goals': 25.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Division 1",
+      "league_apps": 58,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Division 1', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 58.0, 'League Goals': 10.0, 'Cup Apps': '6', 'Cup Goals': '1', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 64.0, 'Total Goals': 11.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Division 2",
+      "league_apps": 76,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Division 2', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 76.0, 'League Goals': 13.0, 'Cup Apps': '2', 'Cup Goals': '1', 'Europe Apps': '0', 'Europe Goals': '0', 'Other[a] Apps': '0', 'Other[a] Goals': '0', 'Total Apps': 78.0, 'Total Goals': 14.0}"
+    },
+    {
+      "season": "nan",
+      "club": "nan",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': nan, 'Season Season': nan, 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Other[a] Apps': nan, 'Other[a] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Oleksandr Zavarov - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"95757986-3509-4254-b6e0-0b3454b0698",
+  "season_id": "1989",
+  "award_year": 1989
+}

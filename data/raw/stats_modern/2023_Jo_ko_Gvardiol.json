@@ -1,0 +1,112 @@
+{
+  "player_name_raw": "Jo\u0161ko Gvardiol",
+  "fetch_status": "ok",
+  "wikipedia_title": "Jo\u0161ko_Gvardiol",
+  "url": "https://en.wikipedia.org/wiki/Jo\u0161ko_Gvardiol",
+  "position": "Centre-back left-back",
+  "birth_year": 2002,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2019\u201320",
+      "club": "Dinamo Zagreb II",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dinamo Zagreb II', 'Season Season': '2019\u201320', 'League Division': 'Druga HNL', 'League Apps': 3, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Dinamo Zagreb II",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dinamo Zagreb II', 'Season Season': '2020\u201321', 'League Division': 'Druga HNL', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Dinamo Zagreb II",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dinamo Zagreb II', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 4, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Dinamo Zagreb",
+      "league_apps": 11,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '2019\u201320', 'League Division': 'Prva HNL', 'League Apps': 11, 'League Goals': 1, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 12, 'Total Goals': 1}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Dinamo Zagreb",
+      "league_apps": 25,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '2020\u201321', 'League Division': 'Prva HNL', 'League Apps': 25, 'League Goals': 2, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '13[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Dinamo Zagreb",
+      "league_apps": 36,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 36, 'League Goals': 3, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '13', 'Europe Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 4}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "RB Leipzig",
+      "league_apps": 29,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'RB Leipzig', 'Season Season': '2021\u201322', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 2, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '12[d]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 2}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "RB Leipzig",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'RB Leipzig', 'Season Season': '2022\u201323', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 1, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '6[e]', 'Europe Goals': '2', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "RB Leipzig",
+      "league_apps": 59,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'RB Leipzig', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 59, 'League Goals': 3, 'National cup[a] Apps': '10', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '18', 'Europe Goals': '2', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 88, 'Total Goals': 5}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Manchester City",
+      "league_apps": 28,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2023\u201324', 'League Division': 'Premier League', 'League Apps': 28, 'League Goals': 4, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '6[e]', 'Europe Goals': '1', 'Other Apps': '3[g]', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 5}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Manchester City",
+      "league_apps": 37,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2024\u201325', 'League Division': 'Premier League', 'League Apps': 37, 'League Goals': 5, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '10[e]', 'Europe Goals': '0', 'Other Apps': '3[h]', 'Other Goals': '0', 'Total Apps': 55, 'Total Goals': 6}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Manchester City",
+      "league_apps": 18,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2025\u201326', 'League Division': 'Premier League', 'League Apps': 18, 'League Goals': 2, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '5[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester City",
+      "league_apps": 83,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 83, 'League Goals': 11, 'National cup[a] Apps': '7', 'National cup[a] Goals': '1', 'League cup[b] Apps': '5', 'League cup[b] Goals': '0', 'Europe Apps': '21', 'Europe Goals': '1', 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': 122, 'Total Goals': 13}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 182,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 182, 'League Goals': 17, 'National cup[a] Apps': '20', 'National cup[a] Goals': '1', 'League cup[b] Apps': '5', 'League cup[b] Goals': '0', 'Europe Apps': '52', 'Europe Goals': '4', 'Other Apps': '7', 'Other Goals': '0', 'Total Apps': 266, 'Total Goals': 22}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jo\u0161ko Gvardiol - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"014eb4f4-bc40-452e-abfb-84ab6cbd77a8\",",
+  "season_id": "2023",
+  "award_year": 2023
+}

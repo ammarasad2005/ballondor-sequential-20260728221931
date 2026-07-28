@@ -1,0 +1,196 @@
+{
+  "player_name_raw": "Juan Rom\u00e1n Riquelme",
+  "fetch_status": "ok",
+  "wikipedia_title": "Juan_Rom\u00e1n_Riquelme",
+  "url": "https://en.wikipedia.org/wiki/Juan_Rom\u00e1n_Riquelme",
+  "position": "Attacking midfielder",
+  "birth_year": 1978,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1996\u201397",
+      "club": "Boca Juniors",
+      "league_apps": 22,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '1996\u201397', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 22, 'League Goals': 4, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 22, 'Total Goals': 4}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Boca Juniors",
+      "league_apps": 19,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '1997\u201398', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 19, 'League Goals': 0, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': 2.0, 'Continental Goals': 0.0, 'Total Apps': 21, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Boca Juniors",
+      "league_apps": 37,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '1998\u201399', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 37, 'League Goals': 10, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': 5.0, 'Continental Goals': 0.0, 'Total Apps': 42, 'Total Goals': 10}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Boca Juniors",
+      "league_apps": 24,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '1999\u20132000', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 24, 'League Goals': 4, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': 16.0, 'Continental Goals': 3.0, 'Total Apps': 40, 'Total Goals': 7}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Boca Juniors",
+      "league_apps": 27,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2000\u201301', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 27, 'League Goals': 10, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': 14.0, 'Continental Goals': 3.0, 'Total Apps': 41, 'Total Goals': 13}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Boca Juniors",
+      "league_apps": 22,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2001\u201302', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 22, 'League Goals': 10, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': 6.0, 'Continental Goals': 0.0, 'Total Apps': 28, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Boca Juniors",
+      "league_apps": 151,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': 'Total', 'League League': 'Total', 'League Apps': 151, 'League Goals': 38, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': 43.0, 'Continental Goals': 6.0, 'Total Apps': 194, 'Total Goals': 44}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Barcelona",
+      "league_apps": 30,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2002\u201303', 'League League': 'La Liga', 'League Apps': 30, 'League Goals': 3, 'Cup Apps': 1.0, 'Cup Goals': 1.0, 'Continental Apps': 11.0, 'Continental Goals': 2.0, 'Total Apps': 42, 'Total Goals': 6}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Villarreal (loan)",
+      "league_apps": 33,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Villarreal (loan)', 'Season Season': '2003\u201304', 'League League': 'La Liga', 'League Apps': 33, 'League Goals': 8, 'Cup Apps': 3.0, 'Cup Goals': 1.0, 'Continental Apps': 12.0, 'Continental Goals': 4.0, 'Total Apps': 48, 'Total Goals': 13}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Villarreal (loan)",
+      "league_apps": 35,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Villarreal (loan)', 'Season Season': '2004\u201305', 'League League': 'La Liga', 'League Apps': 35, 'League Goals': 15, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 11.0, 'Continental Goals': 2.0, 'Total Apps': 46, 'Total Goals': 17}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Villarreal",
+      "league_apps": 25,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Villarreal', 'Season Season': '2005\u201306', 'League League': 'La Liga', 'League Apps': 25, 'League Goals': 12, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': 12.0, 'Continental Goals': 2.0, 'Total Apps': 38, 'Total Goals': 14}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Villarreal",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Villarreal', 'Season Season': '2006\u201307', 'League League': 'La Liga', 'League Apps': 13, 'League Goals': 1, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Total Apps': 13, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Villarreal",
+      "league_apps": 106,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Villarreal', 'Season Season': 'Total', 'League League': 'Total', 'League Apps': 106, 'League Goals': 36, 'Cup Apps': 4.0, 'Cup Goals': 1.0, 'Continental Apps': 35.0, 'Continental Goals': 8.0, 'Total Apps': 145, 'Total Goals': 45}"
+    },
+    {
+      "season": "2007",
+      "club": "Boca Juniors (loan)",
+      "league_apps": 15,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Boca Juniors (loan)', 'Season Season': '2007', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 15, 'League Goals': 2, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': 11.0, 'Continental Goals': 8.0, 'Total Apps': 26, 'Total Goals': 10}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Boca Juniors",
+      "league_apps": 10,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2007\u201308', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 10, 'League Goals': 1, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': 10.0, 'Continental Goals': 4.0, 'Total Apps': 20, 'Total Goals': 5}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Boca Juniors",
+      "league_apps": 28,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2008\u201309', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 28, 'League Goals': 5, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': 7.0, 'Continental Goals': 4.0, 'Total Apps': 35, 'Total Goals': 9}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Boca Juniors",
+      "league_apps": 24,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2009\u201310', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 24, 'League Goals': 3, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': 2.0, 'Continental Goals': 0.0, 'Total Apps': 26, 'Total Goals': 3}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Boca Juniors",
+      "league_apps": 13,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2010\u201311', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 13, 'League Goals': 4, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 13, 'Total Goals': 4}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Boca Juniors",
+      "league_apps": 23,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2011\u201312', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 23, 'League Goals': 4, 'Cup Apps': 2.0, 'Cup Goals': 1.0, 'Continental Apps': 13.0, 'Continental Goals': 3.0, 'Total Apps': 38, 'Total Goals': 8}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Boca Juniors",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2012\u201313', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 5, 'League Goals': 0, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': 7.0, 'Continental Goals': 2.0, 'Total Apps': 13, 'Total Goals': 2}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Boca Juniors",
+      "league_apps": 23,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2013\u201314', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 23, 'League Goals': 7, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Total Apps': 23, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Boca Juniors",
+      "league_apps": 141,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': 'Total', 'League League': 'Total', 'League Apps': 141, 'League Goals': 26, 'Cup Apps': 3.0, 'Cup Goals': 1.0, 'Continental Apps': 50.0, 'Continental Goals': 21.0, 'Total Apps': 194, 'Total Goals': 48}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Argentinos Juniors",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Argentinos Juniors', 'Season Season': '2013\u201314', 'League League': 'Argentine Primera Divisi\u00f3n', 'League Apps': 0, 'League Goals': 0, 'Cup Apps': 3.0, 'Cup Goals': 2.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Total Apps': 3, 'Total Goals': 2}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Argentinos Juniors",
+      "league_apps": 15,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Argentinos Juniors', 'Season Season': '2014\u201315', 'League League': 'Primera B Nacional', 'League Apps': 15, 'League Goals': 3, 'Cup Apps': 3.0, 'Cup Goals': 2.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Total Apps': 18, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Argentinos Juniors",
+      "league_apps": 15,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Argentinos Juniors', 'Season Season': 'Total', 'League League': 'Total', 'League Apps': 15, 'League Goals': 3, 'Cup Apps': 3.0, 'Cup Goals': 2.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Total Apps': 18, 'Total Goals': 5}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 443,
+      "league_goals": 106,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League League': 'Career total', 'League Apps': 443, 'League Goals': 106, 'Cup Apps': 14.0, 'Cup Goals': 7.0, 'Continental Apps': 139.0, 'Continental Goals': 37.0, 'Total Apps': 596, 'Total Goals': 150}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Juan Rom\u00e1n Riquelme - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"79825d38-4b14-4f26-b44a-ed1518682",
+  "season_id": "2005",
+  "award_year": 2005
+}

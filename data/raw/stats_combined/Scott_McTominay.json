@@ -1,0 +1,110 @@
+{
+  "player_name_raw": "Scott McTominay",
+  "fetch_status": "ok",
+  "wikipedia_title": "Scott_McTominay",
+  "url": "https://en.wikipedia.org/wiki/Scott_McTominay",
+  "position": "Midfielder",
+  "birth_year": 1996,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2016\u201317",
+      "club": "Manchester United",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2016\u201317[93]', 'League Division': 'Premier League', 'League Apps': 2, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Manchester United",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2017\u201318[94]', 'League Division': 'Premier League', 'League Apps': 13, 'League Goals': 0, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 23, 'Total Goals': 0}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Manchester United",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2018\u201319[95]', 'League Division': 'Premier League', 'League Apps': 16, 'League Goals': 2, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '3[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 2}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Manchester United",
+      "league_apps": 27,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2019\u201320[96]', 'League Division': 'Premier League', 'League Apps': 27, 'League Goals': 4, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '7[d]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 5}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Manchester United",
+      "league_apps": 32,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2020\u201321[97]', 'League Division': 'Premier League', 'League Apps': 32, 'League Goals': 4, 'National cup[a] Apps': '4', 'National cup[a] Goals': '2', 'League cup[b] Apps': '2', 'League cup[b] Goals': '1', 'Europe Apps': '11[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 7}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Manchester United",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2021\u201322[98]', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 1, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '5[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 2}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Manchester United",
+      "league_apps": 24,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2022\u201323[99]', 'League Division': 'Premier League', 'League Apps': 24, 'League Goals': 1, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '1', 'Europe Apps': '7[d]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 3}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Manchester United",
+      "league_apps": 32,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2023\u201324[100]', 'League Division': 'Premier League', 'League Apps': 32, 'League Goals': 7, 'National cup[a] Apps': '6', 'National cup[a] Goals': '2', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '5[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 10}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Manchester United",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2024\u201325[101]', 'League Division': 'Premier League', 'League Apps': 2, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester United",
+      "league_apps": 178,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 178, 'League Goals': 19, 'National cup[a] Apps': '24', 'National cup[a] Goals': '5', 'League cup[b] Apps': '10', 'League cup[b] Goals': '2', 'Europe Apps': '42', 'Europe Goals': '3', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 255, 'Total Goals': 29}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Napoli",
+      "league_apps": 34,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '2024\u201325[101]', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 12, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 13}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Napoli",
+      "league_apps": 33,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '2025\u201326[102]', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 10, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '8[c]', 'Europe Goals': '4', 'Other Apps': '2[g]', 'Other Goals': '0', 'Total Apps': 44, 'Total Goals': 14}"
+    },
+    {
+      "season": "Total",
+      "club": "Napoli",
+      "league_apps": 67,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 67, 'League Goals': 22, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '8', 'Europe Goals': '4', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 80, 'Total Goals': 27}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 245,
+      "league_goals": 41,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 245, 'League Goals': 41, 'National cup[a] Apps': '27', 'National cup[a] Goals': '6', 'League cup[b] Apps': '10', 'League cup[b] Goals': '2', 'Europe Apps': '50', 'Europe Goals': '7', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 335, 'Total Goals': 56}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Scott McTominay - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"beefe801-bb26-4ae3-b5fd-12bb7400daf5\""
+}

@@ -1,0 +1,203 @@
+{
+  "player_name_raw": "Dino Zoff",
+  "fetch_status": "ok",
+  "wikipedia_title": "Dino_Zoff",
+  "url": "https://en.wikipedia.org/wiki/Dino_Zoff",
+  "position": "Goalkeeper",
+  "birth_year": 1942,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1961\u201362",
+      "club": "Udinese",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Udinese', 'Season Season': '1961\u201362', 'League Division': 'Serie A', 'League Apps': 4, 'League Goals': 0, 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 0, 'Ref. Ref.': '[73]'}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Udinese",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Udinese', 'Season Season': '1962\u201363', 'League Division': 'Serie B', 'League Apps': 36, 'League Goals': 0, 'Coppa Italia Apps': 1, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 0, 'Ref. Ref.': '[73]'}"
+    },
+    {
+      "season": "Total",
+      "club": "Udinese",
+      "league_apps": 40,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Udinese', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 40, 'League Goals': 0, 'Coppa Italia Apps': 1, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 0, 'Ref. Ref.': '\u2013'}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Mantova",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mantova', 'Season Season': '1963\u201364', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 0, 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Mantova",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mantova', 'Season Season': '1964\u201365', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 0, 'Coppa Italia Apps': 1, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Mantova",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mantova', 'Season Season': '1965\u201366', 'League Division': 'Serie B', 'League Apps': 38, 'League Goals': 0, 'Coppa Italia Apps': 1, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 0, 'Ref. Ref.': '[73]'}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Mantova",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mantova', 'Season Season': '1966\u201367', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 0, 'Coppa Italia Apps': 1, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "Total",
+      "club": "Mantova",
+      "league_apps": 131,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mantova', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 131, 'League Goals': 0, 'Coppa Italia Apps': 3, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 134, 'Total Goals': 0, 'Ref. Ref.': '\u2013'}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Napoli",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1967\u201368', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 2, 'Coppa Italia Goals': 0, 'Europe Apps': '4', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Napoli",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1968\u201369', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 5, 'Coppa Italia Goals': 0, 'Europe Apps': '3', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Napoli",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1969\u201370', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 3, 'Coppa Italia Goals': 0, 'Europe Apps': '6', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Napoli",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1970\u201371', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 11, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Napoli",
+      "league_apps": 23,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1971\u201372', 'League Division': 'Serie A', 'League Apps': 23, 'League Goals': 0, 'Coppa Italia Apps': 11, 'Coppa Italia Goals': 0, 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "Total",
+      "club": "Napoli",
+      "league_apps": 143,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 143, 'League Goals': 0, 'Coppa Italia Apps': 32, 'Coppa Italia Goals': 0, 'Europe Apps': '15', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 190, 'Total Goals': 0, 'Ref. Ref.': '\u2013'}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1972\u201373', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 11, 'Coppa Italia Goals': 0, 'Europe Apps': '9', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1973\u201374', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 9, 'Coppa Italia Goals': 0, 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1974\u201375', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 10, 'Coppa Italia Goals': 0, 'Europe Apps': '10', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1975\u201376', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 4, 'Coppa Italia Goals': 0, 'Europe Apps': '4', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1976\u201377', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 5, 'Coppa Italia Goals': 0, 'Europe Apps': '12', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1977\u201378', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 4, 'Coppa Italia Goals': 0, 'Europe Apps': '7', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1978\u201379', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 9, 'Coppa Italia Goals': 0, 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1979\u201380', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 4, 'Coppa Italia Goals': 0, 'Europe Apps': '8', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1980\u201381', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 8, 'Coppa Italia Goals': 0, 'Europe Apps': '4', 'Europe Goals': '0', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1981\u201382', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 4, 'Coppa Italia Goals': 0, 'Europe Apps': '4', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1982\u201383', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 6, 'Coppa Italia Goals': 0, 'Europe Apps': '9', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 0, 'Ref. Ref.': '[74]'}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 330,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 330, 'League Goals': 0, 'Coppa Italia Apps': 74, 'Coppa Italia Goals': 0, 'Europe Apps': '71', 'Europe Goals': '0', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 479, 'Total Goals': 0, 'Ref. Ref.': '\u2013'}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 644,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 644, 'League Goals': 0, 'Coppa Italia Apps': 110, 'Coppa Italia Goals': 0, 'Europe Apps': '86', 'Europe Goals': '0', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 844, 'Total Goals': 0, 'Ref. Ref.': '\u2013'}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Dino Zoff - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"534829f0-e312-4cb9-b08e-d3bf747b7665\",\"wgCa",
+  "season_id": "1975",
+  "award_year": 1975
+}

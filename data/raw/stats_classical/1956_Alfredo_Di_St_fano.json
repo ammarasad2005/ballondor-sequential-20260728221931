@@ -1,0 +1,203 @@
+{
+  "player_name_raw": "Alfredo Di St\u00e9fano",
+  "fetch_status": "ok",
+  "wikipedia_title": "Alfredo_Di_St\u00e9fano",
+  "url": "https://en.wikipedia.org/wiki/Alfredo_Di_St\u00e9fano",
+  "position": "Forward midfielder",
+  "birth_year": 1926,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1945",
+      "club": "River Plate",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'River Plate', 'Season Season': '1945', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 1, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1946",
+      "club": "Hurac\u00e1n (loan)",
+      "league_apps": 25,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Hurac\u00e1n (loan)', 'Season Season': '1946', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 25, 'League Goals': 10, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 27, 'Total Goals': 10}"
+    },
+    {
+      "season": "1947",
+      "club": "River Plate",
+      "league_apps": 30,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'River Plate', 'Season Season': '1947', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 30, 'League Goals': 27, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 2, 'Continental Goals': 1, 'Total Apps': 32, 'Total Goals': 28}"
+    },
+    {
+      "season": "1948",
+      "club": "River Plate",
+      "league_apps": 23,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'River Plate', 'Season Season': '1948', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 23, 'League Goals': 13, 'Cup Apps': 1, 'Cup Goals': 1, 'Continental Apps': 6, 'Continental Goals': 4, 'Total Apps': 30, 'Total Goals': 18}"
+    },
+    {
+      "season": "1949",
+      "club": "River Plate",
+      "league_apps": 12,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'River Plate', 'Season Season': '1949', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 12, 'League Goals': 9, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 12, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "River Plate",
+      "league_apps": 66,
+      "league_goals": 49,
+      "raw": "{'Club Club': 'River Plate', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 66, 'League Goals': 49, 'Cup Apps': 1, 'Cup Goals': 1, 'Continental Apps': 8, 'Continental Goals': 5, 'Total Apps': 75, 'Total Goals': 55}"
+    },
+    {
+      "season": "1949",
+      "club": "Millonarios",
+      "league_apps": 15,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Millonarios', 'Season Season': '1949', 'League Division': 'Campeonato Profesional', 'League Apps': 15, 'League Goals': 15, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 14, 'Total Goals': 14}"
+    },
+    {
+      "season": "1950",
+      "club": "Millonarios",
+      "league_apps": 29,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Millonarios', 'Season Season': '1950', 'League Division': 'Campeonato Profesional', 'League Apps': 29, 'League Goals': 23, 'Cup Apps': 2, 'Cup Goals': 1, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 31, 'Total Goals': 24}"
+    },
+    {
+      "season": "1951",
+      "club": "Millonarios",
+      "league_apps": 34,
+      "league_goals": 31,
+      "raw": "{'Club Club': 'Millonarios', 'Season Season': '1951', 'League Division': 'Campeonato Profesional', 'League Apps': 34, 'League Goals': 31, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 34, 'Total Goals': 31}"
+    },
+    {
+      "season": "1952",
+      "club": "Millonarios",
+      "league_apps": 24,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Millonarios', 'Season Season': '1952', 'League Division': 'Campeonato Profesional', 'League Apps': 24, 'League Goals': 19, 'Cup Apps': 8, 'Cup Goals': 5, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 32, 'Total Goals': 24}"
+    },
+    {
+      "season": "Total",
+      "club": "Millonarios",
+      "league_apps": 102,
+      "league_goals": 88,
+      "raw": "{'Club Club': 'Millonarios', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 102, 'League Goals': 88, 'Cup Apps': 10, 'Cup Goals': 6, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 111, 'Total Goals': 93}"
+    },
+    {
+      "season": "1953\u201354",
+      "club": "Real Madrid",
+      "league_apps": 28,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1953\u201354', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 27, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 28, 'Total Goals': 27}"
+    },
+    {
+      "season": "1954\u201355",
+      "club": "Real Madrid",
+      "league_apps": 30,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1954\u201355', 'League Division': 'La Liga', 'League Apps': 30, 'League Goals': 25, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 2, 'Continental Goals': 0, 'Total Apps': 32, 'Total Goals': 25}"
+    },
+    {
+      "season": "1955\u201356",
+      "club": "Real Madrid",
+      "league_apps": 30,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1955\u201356', 'League Division': 'La Liga', 'League Apps': 30, 'League Goals': 24, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 7, 'Continental Goals': 5, 'Total Apps': 37, 'Total Goals': 29}"
+    },
+    {
+      "season": "1956\u201357",
+      "club": "Real Madrid",
+      "league_apps": 30,
+      "league_goals": 31,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1956\u201357', 'League Division': 'La Liga', 'League Apps': 30, 'League Goals': 31, 'Cup Apps': 3, 'Cup Goals': 3, 'Continental Apps': 10, 'Continental Goals': 9, 'Total Apps': 43, 'Total Goals': 43}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "Real Madrid",
+      "league_apps": 30,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1957\u201358', 'League Division': 'La Liga', 'League Apps': 30, 'League Goals': 19, 'Cup Apps': 7, 'Cup Goals': 7, 'Continental Apps': 7, 'Continental Goals': 10, 'Total Apps': 44, 'Total Goals': 36}"
+    },
+    {
+      "season": "1958\u201359",
+      "club": "Real Madrid",
+      "league_apps": 28,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1958\u201359', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 23, 'Cup Apps': 8, 'Cup Goals': 5, 'Continental Apps': 7, 'Continental Goals': 6, 'Total Apps': 43, 'Total Goals': 34}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "Real Madrid",
+      "league_apps": 23,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1959\u201360', 'League Division': 'La Liga', 'League Apps': 23, 'League Goals': 12, 'Cup Apps': 5, 'Cup Goals': 3, 'Continental Apps': 6, 'Continental Goals': 8, 'Total Apps': 34, 'Total Goals': 23}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Real Madrid",
+      "league_apps": 23,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1960\u201361', 'League Division': 'La Liga', 'League Apps': 23, 'League Goals': 21, 'Cup Apps': 9, 'Cup Goals': 8, 'Continental Apps': 4, 'Continental Goals': 1, 'Total Apps': 36, 'Total Goals': 30}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Real Madrid",
+      "league_apps": 23,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1961\u201362', 'League Division': 'La Liga', 'League Apps': 23, 'League Goals': 11, 'Cup Apps': 8, 'Cup Goals': 4, 'Continental Apps': 10, 'Continental Goals': 7, 'Total Apps': 41, 'Total Goals': 22}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Real Madrid",
+      "league_apps": 13,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1962\u201363', 'League Division': 'La Liga', 'League Apps': 13, 'League Goals': 12, 'Cup Apps': 9, 'Cup Goals': 9, 'Continental Apps': 2, 'Continental Goals': 1, 'Total Apps': 24, 'Total Goals': 22}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Real Madrid",
+      "league_apps": 24,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1963\u201364', 'League Division': 'La Liga', 'League Apps': 24, 'League Goals': 11, 'Cup Apps': 1, 'Cup Goals': 1, 'Continental Apps': 9, 'Continental Goals': 5, 'Total Apps': 34, 'Total Goals': 17}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 282,
+      "league_goals": 216,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 282, 'League Goals': 216, 'Cup Apps': 50, 'Cup Goals': 40, 'Continental Apps': 64, 'Continental Goals': 52, 'Total Apps': 396, 'Total Goals': 308}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Espanyol",
+      "league_apps": 24,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Espanyol', 'Season Season': '1964\u201365', 'League Division': 'La Liga', 'League Apps': 24, 'League Goals': 7, 'Cup Apps': 3, 'Cup Goals': 2, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 27, 'Total Goals': 9}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Espanyol",
+      "league_apps": 23,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Espanyol', 'Season Season': '1965\u201366', 'League Division': 'La Liga', 'League Apps': 23, 'League Goals': 4, 'Cup Apps': 4, 'Cup Goals': 1, 'Continental Apps': 6, 'Continental Goals': 0, 'Total Apps': 33, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Espanyol",
+      "league_apps": 47,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Espanyol', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 47, 'League Goals': 11, 'Cup Apps': 7, 'Cup Goals': 3, 'Continental Apps': 6, 'Continental Goals': 0, 'Total Apps': 60, 'Total Goals': 14}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 521,
+      "league_goals": 373,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 521, 'League Goals': 373, 'Cup Apps': 70, 'Cup Goals': 50, 'Continental Apps': 78, 'Continental Goals': 57, 'Total Apps': 669, 'Total Goals': 480}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Alfredo Di St\u00e9fano - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"f0a167c4-6fdf-41d1-bf12-6379f1bfcb",
+  "season_id": "1956",
+  "award_year": 1956
+}

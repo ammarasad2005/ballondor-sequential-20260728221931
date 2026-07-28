@@ -1,0 +1,161 @@
+{
+  "player_name_raw": "Viktor Gy\u00f6keres",
+  "fetch_status": "ok",
+  "wikipedia_title": "Viktor_Gy\u00f6keres",
+  "url": "https://en.wikipedia.org/wiki/Viktor_Gy\u00f6keres",
+  "position": "Striker",
+  "birth_year": 1998,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2015",
+      "club": "Brommapojkarna",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Brommapojkarna', 'Season Season': '2015[149]', 'League Division': 'Superettan', 'League Apps': '8', 'League Goals': '0', 'National cup[b] Apps': '4', 'National cup[b] Goals': '3', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 3}"
+    },
+    {
+      "season": "2016",
+      "club": "Brommapojkarna",
+      "league_apps": 19,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Brommapojkarna', 'Season Season': '2016[149]', 'League Division': 'Division 1', 'League Apps': '19', 'League Goals': '7', 'National cup[b] Apps': '6', 'National cup[b] Goals': '2', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 9}"
+    },
+    {
+      "season": "2017",
+      "club": "Brommapojkarna",
+      "league_apps": 29,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Brommapojkarna', 'Season Season': '2017[149]', 'League Division': 'Superettan', 'League Apps': '29', 'League Goals': '13', 'National cup[b] Apps': '1', 'National cup[b] Goals': '0', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 13}"
+    },
+    {
+      "season": "Total",
+      "club": "Brommapojkarna",
+      "league_apps": 56,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Brommapojkarna', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '56', 'League Goals': '20', 'National cup[b] Apps': '11', 'National cup[b] Goals': '5', 'League cup[c] Apps': '0', 'League cup[c] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 67, 'Total Goals': 25}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Brighton & Hove Albion U21",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Brighton & Hove Albion U21', 'Season Season': '2018\u201319[150]', 'League Division': '\u2014', 'League Apps': '\u2014', 'League Goals': '\u2014', 'National cup[b] Apps': '\u2014', 'National cup[b] Goals': '\u2014', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '3[d]', 'Other Goals': '0', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Brighton & Hove Albion",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Brighton & Hove Albion', 'Season Season': '2017\u201318[151]', 'League Division': 'Premier League', 'League Apps': '0', 'League Goals': '0', 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'League cup[c] Apps': '0', 'League cup[c] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Brighton & Hove Albion",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Brighton & Hove Albion', 'Season Season': '2018\u201319[150]', 'League Division': 'Premier League', 'League Apps': '0', 'League Goals': '0', 'National cup[b] Apps': '4', 'National cup[b] Goals': '0', 'League cup[c] Apps': '1', 'League cup[c] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Brighton & Hove Albion",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Brighton & Hove Albion', 'Season Season': '2019\u201320[152]', 'League Division': 'Premier League', 'League Apps': '0', 'League Goals': '0', 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'League cup[c] Apps': '0', 'League cup[c] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Brighton & Hove Albion",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Brighton & Hove Albion', 'Season Season': '2020\u201321[153]', 'League Division': 'Premier League', 'League Apps': '0', 'League Goals': '0', 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'League cup[c] Apps': '3', 'League cup[c] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 3, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Brighton & Hove Albion",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Brighton & Hove Albion', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '0', 'League Goals': '0', 'National cup[b] Apps': '4', 'National cup[b] Goals': '0', 'League cup[c] Apps': '4', 'League cup[c] Goals': '1', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 8, 'Total Goals': 1}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "FC St. Pauli (loan)",
+      "league_apps": 26,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'FC St. Pauli (loan)', 'Season Season': '2019\u201320[149]', 'League Division': '2. Bundesliga', 'League Apps': '26', 'League Goals': '7', 'National cup[b] Apps': '2', 'National cup[b] Goals': '0', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 7}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Swansea City (loan)",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Swansea City (loan)', 'Season Season': '2020\u201321[153]', 'League Division': 'Championship', 'League Apps': '11', 'League Goals': '0', 'National cup[b] Apps': '1', 'National cup[b] Goals': '1', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 1}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Coventry City (loan)",
+      "league_apps": 19,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Coventry City (loan)', 'Season Season': '2020\u201321[153]', 'League Division': 'Championship', 'League Apps': '19', 'League Goals': '3', 'National cup[b] Apps': '\u2014', 'National cup[b] Goals': '\u2014', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 3}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Coventry City",
+      "league_apps": 45,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Coventry City', 'Season Season': '2021\u201322[37]', 'League Division': 'Championship', 'League Apps': '45', 'League Goals': '17', 'National cup[b] Apps': '2', 'National cup[b] Goals': '1', 'League cup[c] Apps': '0', 'League cup[c] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 18}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Coventry City",
+      "league_apps": 46,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Coventry City', 'Season Season': '2022\u201323[154]', 'League Division': 'Championship', 'League Apps': '46', 'League Goals': '21', 'National cup[b] Apps': '1', 'National cup[b] Goals': '1', 'League cup[c] Apps': '0', 'League cup[c] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '3[e]', 'Other Goals': '0', 'Total Apps': 50, 'Total Goals': 22}"
+    },
+    {
+      "season": "Total",
+      "club": "Coventry City",
+      "league_apps": 91,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Coventry City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '91', 'League Goals': '38', 'National cup[b] Apps': '3', 'National cup[b] Goals': '2', 'League cup[c] Apps': '0', 'League cup[c] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 97, 'Total Goals': 40}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Sporting CP",
+      "league_apps": 33,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Sporting CP', 'Season Season': '2023\u201324[149]', 'League Division': 'Primeira Liga', 'League Apps': '33', 'League Goals': '29', 'National cup[b] Apps': '6', 'National cup[b] Goals': '6', 'League cup[c] Apps': '2', 'League cup[c] Goals': '3', 'Europe Apps': '9[f]', 'Europe Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 43}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Sporting CP",
+      "league_apps": 33,
+      "league_goals": 39,
+      "raw": "{'Club Club': 'Sporting CP', 'Season Season': '2024\u201325[149]', 'League Division': 'Primeira Liga', 'League Apps': '33', 'League Goals': '39', 'National cup[b] Apps': '7', 'National cup[b] Goals': '5', 'League cup[c] Apps': '3', 'League cup[c] Goals': '4', 'Europe Apps': '8[g]', 'Europe Goals': '6', 'Other Apps': '1[h]', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 54}"
+    },
+    {
+      "season": "Total",
+      "club": "Sporting CP",
+      "league_apps": 66,
+      "league_goals": 68,
+      "raw": "{'Club Club': 'Sporting CP', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '66', 'League Goals': '68', 'National cup[b] Apps': '13', 'National cup[b] Goals': '11', 'League cup[c] Apps': '5', 'League cup[c] Goals': '7', 'Europe Apps': '17', 'Europe Goals': '11', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 102, 'Total Goals': 97}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Arsenal",
+      "league_apps": 36,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2025\u201326[155]', 'League Division': 'Premier League', 'League Apps': '36', 'League Goals': '14', 'National cup[b] Apps': '2', 'National cup[b] Goals': '1', 'League cup[c] Apps': '4', 'League cup[c] Goals': '1', 'Europe Apps': '13[g]', 'Europe Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 55, 'Total Goals': 21}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 305,
+      "league_goals": 150,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '305', 'League Goals': '150', 'National cup[b] Apps': '36', 'National cup[b] Goals': '20', 'League cup[c] Apps': '13', 'League cup[c] Goals': '9', 'Europe Apps': '30', 'Europe Goals': '16', 'Other Apps': '7', 'Other Goals': '0', 'Total Apps': 391, 'Total Goals': 195}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Viktor Gy\u00f6keres - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"f2d76e2f-6ad5-40b7-a66d-3b33098fc0eb\"",
+  "season_id": "2025",
+  "award_year": 2025
+}

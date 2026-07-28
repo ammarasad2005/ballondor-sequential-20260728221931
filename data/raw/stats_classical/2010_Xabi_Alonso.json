@@ -1,0 +1,189 @@
+{
+  "player_name_raw": "Xabi Alonso",
+  "fetch_status": "ok",
+  "wikipedia_title": "Xabi_Alonso",
+  "url": "https://en.wikipedia.org/wiki/Xabi_Alonso",
+  "position": "Midfielder",
+  "birth_year": 1981,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1999\u20132000",
+      "club": "Real Sociedad",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '1999\u20132000[208][209]', 'League Division': 'La Liga', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '\u2013', 'Europe[c] Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Real Sociedad",
+      "league_apps": 18,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '2000\u201301[208]', 'League Division': 'La Liga', 'League Apps': 18, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '\u2013', 'Europe[c] Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 18, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Real Sociedad",
+      "league_apps": 29,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '2001\u201302[208]', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 3, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '\u2013', 'Europe[c] Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 29, 'Total Goals': 3}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Real Sociedad",
+      "league_apps": 33,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '2002\u201303[208]', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '\u2013', 'Europe[c] Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 3}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Real Sociedad",
+      "league_apps": 34,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': '2003\u201304[208]', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 3, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '8', 'Europe[c] Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 42, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Sociedad",
+      "league_apps": 114,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Real Sociedad', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 114, 'League Goals': 9, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '8', 'Europe[c] Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 124, 'Total Goals': 10}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Eibar (loan)",
+      "league_apps": 14,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Eibar (loan)', 'Season Season': '2000\u201301[208]', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 14, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '\u2013', 'Europe[c] Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 14, 'Total Goals': 0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Liverpool",
+      "league_apps": 24,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2004\u201305[210]', 'League Division': 'Premier League', 'League Apps': 24, 'League Goals': 2, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe[c] Apps': '8', 'Europe[c] Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 3}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Liverpool",
+      "league_apps": 35,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2005\u201306[210]', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 3, 'National cup[a] Apps': '5', 'National cup[a] Goals': '2', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe[c] Apps': '11', 'Europe[c] Goals': '0', 'Other Apps': '2[d]', 'Other Goals': '0', 'Total Apps': 53, 'Total Goals': 5}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Liverpool",
+      "league_apps": 32,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2006\u201307[210]', 'League Division': 'Premier League', 'League Apps': 32, 'League Goals': 4, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe[c] Apps': '15', 'Europe[c] Goals': '0', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 4}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Liverpool",
+      "league_apps": 19,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2007\u201308[210]', 'League Division': 'Premier League', 'League Apps': 19, 'League Goals': 2, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe[c] Apps': '4', 'Europe[c] Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 27, 'Total Goals': 2}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Liverpool",
+      "league_apps": 33,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2008\u201309[210]', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 4, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe[c] Apps': '10', 'Europe[c] Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 47, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Liverpool",
+      "league_apps": 143,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 143, 'League Goals': 15, 'National cup[a] Apps': '12', 'National cup[a] Goals': '2', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Europe[c] Apps': '48', 'Europe[c] Goals': '2', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 210, 'Total Goals': 19}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Real Madrid",
+      "league_apps": 34,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2009\u201310[211]', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 3, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '7', 'Europe[c] Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 41, 'Total Goals': 3}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Real Madrid",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2010\u201311[211]', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 0, 'National cup[a] Apps': '7', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '11', 'Europe[c] Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 52, 'Total Goals': 1}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Real Madrid",
+      "league_apps": 36,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2011\u201312[211]', 'League Division': 'La Liga', 'League Apps': 36, 'League Goals': 1, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '10', 'Europe[c] Goals': '0', 'Other Apps': '2[f]', 'Other Goals': '1', 'Total Apps': 52, 'Total Goals': 2}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Real Madrid",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2012\u201313[211]', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 0, 'National cup[a] Apps': '7', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '10', 'Europe[c] Goals': '0', 'Other Apps': '2[f]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Real Madrid",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2013\u201314[211]', 'League Division': 'La Liga', 'League Apps': 26, 'League Goals': 0, 'National cup[a] Apps': '7', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '9', 'Europe[c] Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Real Madrid",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2014\u201315[211]', 'League Division': 'La Liga', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '\u2014', 'Europe[c] Goals': '\u2014', 'Other Apps': '2[f]', 'Other Goals': '0', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 158,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 158, 'League Goals': 4, 'National cup[a] Apps': '25', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '47', 'Europe[c] Goals': '0', 'Other Apps': '6', 'Other Goals': '1', 'Total Apps': 236, 'Total Goals': 6}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Bayern Munich",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2014\u201315[212]', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 2, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '10', 'Europe[c] Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 4}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Bayern Munich",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2015\u201316[212]', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 0, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '8', 'Europe[c] Goals': '1', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 39, 'Total Goals': 2}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Bayern Munich",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2016\u201317[212]', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 3, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '7', 'Europe[c] Goals': '0', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 38, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 79,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 79, 'League Goals': 5, 'National cup[a] Apps': '11', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe[c] Apps': '25', 'Europe[c] Goals': '3', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 117, 'Total Goals': 9}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 508,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 508, 'League Goals': 33, 'National cup[a] Apps': '50', 'National cup[a] Goals': '4', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Europe[c] Apps': '128', 'Europe[c] Goals': '6', 'Other Apps': '11', 'Other Goals': '1', 'Total Apps': 701, 'Total Goals': 44}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Xabi Alonso - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"7ca69208-ff21-4fca-936e-f4e59e524f8d\",\"wg",
+  "season_id": "2010",
+  "award_year": 2010
+}

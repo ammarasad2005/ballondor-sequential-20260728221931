@@ -1,0 +1,187 @@
+{
+  "player_name_raw": "Georginio Wijnaldum",
+  "fetch_status": "ok",
+  "wikipedia_title": "Georginio_Wijnaldum",
+  "url": "https://en.wikipedia.org/wiki/Georginio_Wijnaldum",
+  "position": "Midfielder",
+  "birth_year": 1990,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2006\u201307",
+      "club": "Feyenoord",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '2006\u201307', 'League Division': 'Eredivisie', 'League Apps': 3, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Feyenoord",
+      "league_apps": 10,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '2007\u201308', 'League Division': 'Eredivisie', 'League Apps': 10, 'League Goals': 1, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 1}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Feyenoord",
+      "league_apps": 33,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '2008\u201309', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 4, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '6[c]', 'Continental Goals': '1', 'Other Apps': '3[d]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 5}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Feyenoord",
+      "league_apps": 31,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '2009\u201310', 'League Division': 'Eredivisie', 'League Apps': 31, 'League Goals': 4, 'National cup[a] Apps': 7, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 5}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Feyenoord",
+      "league_apps": 34,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '2010\u201311', 'League Division': 'Eredivisie', 'League Apps': 34, 'League Goals': 14, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '2[e]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 14}"
+    },
+    {
+      "season": "Total",
+      "club": "Feyenoord",
+      "league_apps": 111,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 111, 'League Goals': 23, 'National cup[a] Apps': 13, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8', 'Continental Goals': '1', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 135, 'Total Goals': 25}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "PSV Eindhoven",
+      "league_apps": 32,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '2011\u201312', 'League Division': 'Eredivisie', 'League Apps': 32, 'League Goals': 8, 'National cup[a] Apps': 6, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '12[e]', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 14}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "PSV Eindhoven",
+      "league_apps": 33,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '2012\u201313', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 14, 'National cup[a] Apps': 6, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '5[e]', 'Continental Goals': '4', 'Other Apps': '1[f]', 'Other Goals': '1', 'Total Apps': 45, 'Total Goals': 20}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "PSV Eindhoven",
+      "league_apps": 11,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '2013\u201314', 'League Division': 'Eredivisie', 'League Apps': 11, 'League Goals': 4, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '4[g]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 15, 'Total Goals': 4}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "PSV Eindhoven",
+      "league_apps": 33,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '2014\u201315', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 14, 'National cup[a] Apps': 3, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[e]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 18}"
+    },
+    {
+      "season": "Total",
+      "club": "PSV Eindhoven",
+      "league_apps": 109,
+      "league_goals": 40,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 109, 'League Goals': 40, 'National cup[a] Apps': 15, 'National cup[a] Goals': 5, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '29', 'Continental Goals': '10', 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': 154, 'Total Goals': 56}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Newcastle United",
+      "league_apps": 38,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '2015\u201316[98]', 'League Division': 'Premier League', 'League Apps': 38, 'League Goals': 11, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 11}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Liverpool",
+      "league_apps": 36,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2016\u201317[99]', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 6, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '5', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 6}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Liverpool",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2017\u201318[100]', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 1, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '14[g]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 2}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Liverpool",
+      "league_apps": 35,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2018\u201319[101]', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 3, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '12[g]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 5}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Liverpool",
+      "league_apps": 37,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2019\u201320[102]', 'League Division': 'Premier League', 'League Apps': 37, 'League Goals': 4, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '8[g]', 'Continental Goals': '2', 'Other Apps': '2[h]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 6}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Liverpool",
+      "league_apps": 38,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2020\u201321[103]', 'League Division': 'Premier League', 'League Apps': 38, 'League Goals': 2, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '9[g]', 'Continental Goals': '0', 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Liverpool",
+      "league_apps": 179,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 179, 'League Goals': 16, 'National cup[a] Apps': 5, 'National cup[a] Goals': 1, 'League cup[b] Apps': '7', 'League cup[b] Goals': '0', 'Continental Apps': '43', 'Continental Goals': '5', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 237, 'Total Goals': 22}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Paris Saint-Germain",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2021\u201322[104]', 'League Division': 'Ligue 1', 'League Apps': 31, 'League Goals': 1, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '5[g]', 'Continental Goals': '2', 'Other Apps': '1[j]', 'Other Goals': '0', 'Total Apps': 38, 'Total Goals': 3}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Roma (loan)",
+      "league_apps": 14,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Roma (loan)', 'Season Season': '2022\u201323[105]', 'League Division': 'Serie A', 'League Apps': 14, 'League Goals': 2, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '9[e]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 2}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Al-Ettifaq",
+      "league_apps": 29,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Al-Ettifaq', 'Season Season': '2023\u201324', 'League Division': 'Saudi Pro League', 'League Apps': 29, 'League Goals': 6, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 7}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Al-Ettifaq",
+      "league_apps": 34,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Al-Ettifaq', 'Season Season': '2024\u201325', 'League Division': 'Saudi Pro League', 'League Apps': 34, 'League Goals': 14, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '6[k]', 'Other Goals': '1', 'Total Apps': 42, 'Total Goals': 15}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Al-Ettifaq",
+      "league_apps": 33,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Al-Ettifaq', 'Season Season': '2025\u201326', 'League Division': 'Saudi Pro League', 'League Apps': 33, 'League Goals': 16, 'National cup[a] Apps': 1, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 17}"
+    },
+    {
+      "season": "Total",
+      "club": "Al-Ettifaq",
+      "league_apps": 96,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Al-Ettifaq', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 96, 'League Goals': 36, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '6', 'Other Goals': '1', 'Total Apps': 107, 'Total Goals': 39}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 577,
+      "league_goals": 129,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 577, 'League Goals': 129, 'National cup[a] Apps': 40, 'National cup[a] Goals': 9, 'League cup[b] Apps': '8', 'League cup[b] Goals': '0', 'Continental Apps': '94', 'Continental Goals': '18', 'Other Apps': '14', 'Other Goals': '2', 'Total Apps': 733, 'Total Goals': 158}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Georginio Wijnaldum - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"84c39648-c492-40d1-a024-58b25339f"
+}

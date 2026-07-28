@@ -1,0 +1,180 @@
+{
+  "player_name_raw": "Emmanuel Olisadebe",
+  "fetch_status": "ok",
+  "wikipedia_title": "Emmanuel_Olisadebe",
+  "url": "https://en.wikipedia.org/wiki/Emmanuel_Olisadebe",
+  "position": "Striker",
+  "birth_year": 1978,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1996",
+      "club": "Jasper United",
+      "league_apps": 32,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Jasper United', 'Season Season': '1996', 'League Division': 'Nigeria Professional League', 'League Apps': 32, 'League Goals': 17, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 17}"
+    },
+    {
+      "season": "1997",
+      "club": "Jasper United",
+      "league_apps": 8,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Jasper United', 'Season Season': '1997', 'League Division': 'Nigeria Professional League', 'League Apps': 8, 'League Goals': 3, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Jasper United",
+      "league_apps": 40,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Jasper United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 40, 'League Goals': 20, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 20}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Polonia Warsaw",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Polonia Warsaw', 'Season Season': '1997\u201398[17]', 'League Division': 'Ekstraklasa', 'League Apps': 13, 'League Goals': 1, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 15, 'Total Goals': 1}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Polonia Warsaw",
+      "league_apps": 16,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Polonia Warsaw', 'Season Season': '1998\u201399[18]', 'League Division': 'Ekstraklasa', 'League Apps': 16, 'League Goals': 4, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '3[c]', 'Continental Goals': '1', 'Total Apps': 19, 'Total Goals': 5}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Polonia Warsaw",
+      "league_apps": 24,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Polonia Warsaw', 'Season Season': '1999\u20132000[19]', 'League Division': 'Ekstraklasa', 'League Apps': 24, 'League Goals': 12, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': '4', 'League cup[b] Goals': '1', 'Continental Apps': '4[d]', 'Continental Goals': '1', 'Total Apps': 36, 'Total Goals': 15}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Polonia Warsaw",
+      "league_apps": 13,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Polonia Warsaw', 'Season Season': '2000\u201301[20]', 'League Division': 'Ekstraklasa', 'League Apps': 13, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '2', 'League cup[b] Apps': '2', 'League cup[b] Goals': '1', 'Continental Apps': '6[e]', 'Continental Goals': '3', 'Total Apps': 22, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "Polonia Warsaw",
+      "league_apps": 66,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Polonia Warsaw', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 66, 'League Goals': 20, 'National cup[a] Apps': '7', 'National cup[a] Goals': '3', 'League cup[b] Apps': '6', 'League cup[b] Goals': '2', 'Continental Apps': '13', 'Continental Goals': '5', 'Total Apps': 92, 'Total Goals': 30}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Panathinaikos",
+      "league_apps": 8,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '2000\u201301', 'League Division': 'Alpha Ethniki', 'League Apps': 8, 'League Goals': 4, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 9, 'Total Goals': 4}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Panathinaikos",
+      "league_apps": 19,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '2001\u201302', 'League Division': 'Alpha Ethniki', 'League Apps': 19, 'League Goals': 9, 'National cup[a] Apps': '5', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '10[f]', 'Continental Goals': '2', 'Total Apps': 34, 'Total Goals': 12}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Panathinaikos",
+      "league_apps": 19,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '2002\u201303', 'League Division': 'Alpha Ethniki', 'League Apps': 19, 'League Goals': 8, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '9[c]', 'Continental Goals': '4', 'Total Apps': 30, 'Total Goals': 13}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Panathinaikos",
+      "league_apps": 9,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '2003\u201304', 'League Division': 'Alpha Ethniki', 'League Apps': 9, 'League Goals': 3, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '2[g]', 'Continental Goals': '0', 'Total Apps': 13, 'Total Goals': 4}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Panathinaikos",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '2004\u201305', 'League Division': 'Alpha Ethniki', 'League Apps': 13, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '3[f]', 'Continental Goals': '1', 'Total Apps': 16, 'Total Goals': 1}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Panathinaikos",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '2005\u201306', 'League Division': 'Alpha Ethniki', 'League Apps': 6, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '2[f]', 'Continental Goals': '2', 'Total Apps': 8, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Panathinaikos",
+      "league_apps": 74,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 74, 'League Goals': 24, 'National cup[a] Apps': '10', 'National cup[a] Goals': '3', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '26', 'Continental Goals': '9', 'Total Apps': 110, 'Total Goals': 36}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Portsmouth",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Portsmouth', 'Season Season': '2005\u201306', 'League Division': 'Premier League', 'League Apps': 2, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Skoda Xanthi",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Skoda Xanthi', 'Season Season': '2006\u201307', 'League Division': 'Super League Greece', 'League Apps': 5, 'League Goals': 0, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '1[c]', 'Continental Goals': '0', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "APOP Kinyras Peyias",
+      "league_apps": 17,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'APOP Kinyras Peyias', 'Season Season': '2007\u201308', 'League Division': 'Cypriot First Division', 'League Apps': 17, 'League Goals': 6, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 6}"
+    },
+    {
+      "season": "2008",
+      "club": "Henan Construction",
+      "league_apps": 26,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Henan Construction', 'Season Season': '2008', 'League Division': 'Chinese Super League', 'League Apps': 26, 'League Goals': 12, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 12}"
+    },
+    {
+      "season": "2009",
+      "club": "Henan Construction",
+      "league_apps": 18,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Henan Construction', 'Season Season': '2009', 'League Division': 'Chinese Super League', 'League Apps': 18, 'League Goals': 10, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 10}"
+    },
+    {
+      "season": "2010",
+      "club": "Henan Construction",
+      "league_apps": 19,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Henan Construction', 'Season Season': '2010', 'League Division': 'Chinese Super League', 'League Apps': 19, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Henan Construction",
+      "league_apps": 63,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Henan Construction', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 63, 'League Goals': 24, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 63, 'Total Goals': 24}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Veria",
+      "league_apps": 9,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Veria', 'Season Season': '2011\u201312', 'League Division': 'Football League (Greece)', 'League Apps': 9, 'League Goals': 1, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 276,
+      "league_goals": 95,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 276, 'League Goals': 95, 'National cup[a] Apps': '20', 'National cup[a] Goals': '6', 'League cup[b] Apps': '6', 'League cup[b] Goals': '2', 'Continental Apps': '40', 'Continental Goals': '14', 'Total Apps': 342, 'Total Goals': 117}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Emmanuel Olisadebe - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"40cf1414-49dc-4a89-946f-0d55ef025a"
+}

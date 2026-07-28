@@ -1,0 +1,161 @@
+{
+  "player_name_raw": "Rob Rensenbrink",
+  "fetch_status": "ok",
+  "wikipedia_title": "Rob_Rensenbrink",
+  "url": "https://en.wikipedia.org/wiki/Rob_Rensenbrink",
+  "position": "Left winger forward",
+  "birth_year": 1947,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1965\u201366",
+      "club": "DWS",
+      "league_apps": 23,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'DWS', 'Season Season': '1965\u201366', 'League Division': 'Eredivisie', 'League Apps': 23, 'League Goals': 5, 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 26, 'Total Goals': 5}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "DWS",
+      "league_apps": 29,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'DWS', 'Season Season': '1966\u201367', 'League Division': 'Eredivisie', 'League Apps': 29, 'League Goals': 4, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 4}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "DWS",
+      "league_apps": 34,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'DWS', 'Season Season': '1967\u201368', 'League Division': 'Eredivisie', 'League Apps': 34, 'League Goals': 10, 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '2', 'Continental Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 11}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "DWS",
+      "league_apps": 34,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'DWS', 'Season Season': '1968\u201369', 'League Division': 'Eredivisie', 'League Apps': 34, 'League Goals': 15, 'National cup Apps': '4', 'National cup Goals': '3', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '5', 'Continental Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 43, 'Total Goals': 19}"
+    },
+    {
+      "season": "Total",
+      "club": "DWS",
+      "league_apps": 120,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'DWS', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 120, 'League Goals': 34, 'National cup Apps': '12', 'National cup Goals': '3', 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '9', 'Continental Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 141, 'Total Goals': 39}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Club Brugge",
+      "league_apps": 27,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1969\u201370', 'League Division': 'Belgian First Division', 'League Apps': 27, 'League Goals': 10, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '4', 'Continental Goals': '3', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 13}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Club Brugge",
+      "league_apps": 28,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1970\u201371', 'League Division': 'Belgian First Division', 'League Apps': 28, 'League Goals': 14, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '6', 'Continental Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Club Brugge",
+      "league_apps": 55,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 55, 'League Goals': 24, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '10', 'Continental Goals': '5', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 65, 'Total Goals': 29}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Anderlecht",
+      "league_apps": 30,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1971\u201372', 'League Division': 'Belgian First Division', 'League Apps': 30, 'League Goals': 16, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 16}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Anderlecht",
+      "league_apps": 24,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1972\u201373', 'League Division': 'Belgian First Division', 'League Apps': 24, 'League Goals': 16, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '4', 'Continental Goals': '4', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 20}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Anderlecht",
+      "league_apps": 29,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1973\u201374', 'League Division': 'Belgian First Division', 'League Apps': 29, 'League Goals': 20, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '2', 'Continental Goals': '3', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 23}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Anderlecht",
+      "league_apps": 35,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1974\u201375', 'League Division': 'Belgian First Division', 'League Apps': 35, 'League Goals': 19, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '6', 'Continental Goals': '3', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 41, 'Total Goals': 22}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Anderlecht",
+      "league_apps": 35,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1975\u201376', 'League Division': 'Belgian First Division', 'League Apps': 35, 'League Goals': 23, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '9', 'Continental Goals': '8', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 44, 'Total Goals': 31}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Anderlecht",
+      "league_apps": 34,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1976\u201377', 'League Division': 'Belgian First Division', 'League Apps': 34, 'League Goals': 16, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '9', 'Continental Goals': '7', 'Other Apps': '4[a]', 'Other Goals': '2', 'Total Apps': 43, 'Total Goals': 23}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Anderlecht",
+      "league_apps": 24,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1977\u201378', 'League Division': 'Belgian First Division', 'League Apps': 24, 'League Goals': 18, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '7', 'Continental Goals': '5', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 23}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Anderlecht",
+      "league_apps": 31,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1978\u201379', 'League Division': 'Belgian First Division', 'League Apps': 31, 'League Goals': 12, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '2[b]', 'Other Goals': '1', 'Total Apps': 33, 'Total Goals': 12}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Anderlecht",
+      "league_apps": 20,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': '1979\u201380', 'League Division': 'Belgian First Division', 'League Apps': 20, 'League Goals': 3, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '1', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 21, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Anderlecht",
+      "league_apps": 262,
+      "league_goals": 143,
+      "raw": "{'Club Club': 'Anderlecht', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 262, 'League Goals': 143, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '42', 'Continental Goals': '30', 'Other Apps': '4', 'Other Goals': '3', 'Total Apps': 308, 'Total Goals': 176}"
+    },
+    {
+      "season": "1980",
+      "club": "Portland Timbers",
+      "league_apps": 18,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Portland Timbers', 'Season Season': '1980', 'League Division': 'NASL', 'League Apps': 18, 'League Goals': 6, 'National cup Apps': '\u2013', 'National cup Goals': '\u2013', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 18, 'Total Goals': 6}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Toulouse",
+      "league_apps": 12,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Toulouse', 'Season Season': '1981\u201382', 'League Division': 'Division 2', 'League Apps': 12, 'League Goals': 1, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 12, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 467,
+      "league_goals": 208,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 467, 'League Goals': 208, 'National cup Apps': '12', 'National cup Goals': '3', 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '61', 'Continental Goals': '37', 'Other Apps': '4', 'Other Goals': '3', 'Total Apps': 544, 'Total Goals': 251}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Rob Rensenbrink - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"bdca2f5a-67d4-4de1-874b-8bbd2b0d70a1\"",
+  "season_id": "1977",
+  "award_year": 1977
+}

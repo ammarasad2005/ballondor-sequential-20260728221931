@@ -1,0 +1,196 @@
+{
+  "player_name_raw": "Johan Cruyff",
+  "fetch_status": "ok",
+  "wikipedia_title": "Johan_Cruyff",
+  "url": "https://en.wikipedia.org/wiki/Johan_Cruyff",
+  "position": "Forward attacking midfielder",
+  "birth_year": 1947,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1964\u201365",
+      "club": "Ajax",
+      "league_apps": 10,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1964\u201365', 'League Division': 'Eredivisie', 'League Apps': 10, 'League Goals': 4, 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 10, 'Total Goals': 4}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Ajax",
+      "league_apps": 19,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1965\u201366', 'League Division': 'Eredivisie', 'League Apps': 19, 'League Goals': 16, 'National cup[b] Apps': '4', 'National cup[b] Goals': '9', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 25}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Ajax",
+      "league_apps": 30,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1966\u201367', 'League Division': 'Eredivisie', 'League Apps': 30, 'League Goals': 33, 'National cup[b] Apps': '5', 'National cup[b] Goals': '5', 'Continental Apps': '6[c]', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 41}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Ajax",
+      "league_apps": 33,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1967\u201368', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 27, 'National cup[b] Apps': '5', 'National cup[b] Goals': '6', 'Continental Apps': '2[c]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 34}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Ajax",
+      "league_apps": 29,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1968\u201369', 'League Division': 'Eredivisie', 'League Apps': 29, 'League Goals': 24, 'National cup[b] Apps': '3', 'National cup[b] Goals': '3', 'Continental Apps': '10[c]', 'Continental Goals': '6', 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': 43, 'Total Goals': 34}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Ajax",
+      "league_apps": 33,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1969\u201370', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 23, 'National cup[b] Apps': '5', 'National cup[b] Goals': '6', 'Continental Apps': '8[d]', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 33}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Ajax",
+      "league_apps": 25,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1970\u201371', 'League Division': 'Eredivisie', 'League Apps': 25, 'League Goals': 21, 'National cup[b] Apps': '6', 'National cup[b] Goals': '5', 'Continental Apps': '6[c]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 27}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Ajax",
+      "league_apps": 32,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1971\u201372', 'League Division': 'Eredivisie', 'League Apps': 32, 'League Goals': 25, 'National cup[b] Apps': '4', 'National cup[b] Goals': '3', 'Continental Apps': '9[c]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 33}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Ajax",
+      "league_apps": 32,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1972\u201373', 'League Division': 'Eredivisie', 'League Apps': 32, 'League Goals': 17, 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'Continental Apps': '6[c]', 'Continental Goals': '3', 'Other Apps': '4[e]', 'Other Goals': '3', 'Total Apps': 42, 'Total Goals': 23}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Ajax",
+      "league_apps": 2,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1973\u201374', 'League Division': 'Eredivisie', 'League Apps': 2, 'League Goals': 3, 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 2, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Ajax",
+      "league_apps": 245,
+      "league_goals": 193,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 245, 'League Goals': 193, 'National cup[b] Apps': '32', 'National cup[b] Goals': '37', 'Continental Apps': '47', 'Continental Goals': '23', 'Other Apps': '5', 'Other Goals': '4', 'Total Apps': 329, 'Total Goals': 257}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Barcelona",
+      "league_apps": 26,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1973\u201374', 'League Division': 'La Liga', 'League Apps': 26, 'League Goals': 16, 'National cup[b] Apps': '12', 'National cup[b] Goals': '8', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 24}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Barcelona",
+      "league_apps": 30,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1974\u201375', 'League Division': 'La Liga', 'League Apps': 30, 'League Goals': 7, 'National cup[b] Apps': '12', 'National cup[b] Goals': '7', 'Continental Apps': '8[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 14}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Barcelona",
+      "league_apps": 29,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1975\u201376', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 6, 'National cup[b] Apps': '10', 'National cup[b] Goals': '3', 'Continental Apps': '9[f]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 11}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Barcelona",
+      "league_apps": 30,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1976\u201377', 'League Division': 'La Liga', 'League Apps': 30, 'League Goals': 14, 'National cup[b] Apps': '9', 'National cup[b] Goals': '6', 'Continental Apps': '7[f]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 25}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Barcelona",
+      "league_apps": 28,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1977\u201378', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 5, 'National cup[b] Apps': '7', 'National cup[b] Goals': '1', 'Continental Apps': '10[f]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 143,
+      "league_goals": 48,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 143, 'League Goals': 48, 'National cup[b] Apps': '50', 'National cup[b] Goals': '25', 'Continental Apps': '34', 'Continental Goals': '12', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 227, 'Total Goals': 85}"
+    },
+    {
+      "season": "1979",
+      "club": "Los Angeles Aztecs",
+      "league_apps": 22,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Los Angeles Aztecs', 'Season Season': '1979', 'League Division': 'NASL', 'League Apps': 22, 'League Goals': 14, 'National cup[b] Apps': '\u2014', 'National cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '4', 'Other Goals': '1', 'Total Apps': 26, 'Total Goals': 15}"
+    },
+    {
+      "season": "1980",
+      "club": "Washington Diplomats",
+      "league_apps": 24,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Washington Diplomats', 'Season Season': '1980', 'League Division': 'NASL', 'League Apps': 24, 'League Goals': 10, 'National cup[b] Apps': '\u2014', 'National cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 26, 'Total Goals': 10}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Levante",
+      "league_apps": 10,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Levante', 'Season Season': '1980\u201381', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 10, 'League Goals': 2, 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 10, 'Total Goals': 2}"
+    },
+    {
+      "season": "1981",
+      "club": "Washington Diplomats",
+      "league_apps": 5,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Washington Diplomats', 'Season Season': '1981', 'League Division': 'NASL', 'League Apps': 5, 'League Goals': 2, 'National cup[b] Apps': '\u2014', 'National cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 2}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Ajax",
+      "league_apps": 15,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1981\u201382', 'League Division': 'Eredivisie', 'League Apps': 15, 'League Goals': 7, 'National cup[b] Apps': '1', 'National cup[b] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 16, 'Total Goals': 7}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Ajax",
+      "league_apps": 21,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1982\u201383', 'League Division': 'Eredivisie', 'League Apps': 21, 'League Goals': 7, 'National cup[b] Apps': '7', 'National cup[b] Goals': '2', 'Continental Apps': '2[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "Ajax",
+      "league_apps": 36,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 36, 'League Goals': 14, 'National cup[b] Apps': '8', 'National cup[b] Goals': '2', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 16}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Feyenoord",
+      "league_apps": 33,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '1983\u201384', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 11, 'National cup[b] Apps': '7', 'National cup[b] Goals': '1', 'Continental Apps': '4[f]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 13}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 518,
+      "league_goals": 294,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 518, 'League Goals': 294, 'National cup[b] Apps': '97', 'National cup[b] Goals': '65', 'Continental Apps': '87', 'Continental Goals': '36', 'Other Apps': '11', 'Other Goals': '5', 'Total Apps': 713, 'Total Goals': 400}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Johan Cruyff - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"2f473f53-33b5-467c-aa51-6cec8225398f\",\"w",
+  "season_id": "1973",
+  "award_year": 1973
+}

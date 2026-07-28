@@ -1,0 +1,173 @@
+{
+  "player_name_raw": "Mario G\u00f6tze",
+  "fetch_status": "ok",
+  "wikipedia_title": "Mario_G\u00f6tze",
+  "url": "https://en.wikipedia.org/wiki/Mario_G\u00f6tze",
+  "position": "Attacking midfielder winger forward",
+  "birth_year": 1992,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2009\u201310",
+      "club": "Borussia Dortmund",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '2009\u201310[10]', 'League Division': 'Bundesliga', 'League Apps': 5, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Borussia Dortmund",
+      "league_apps": 33,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '2010\u201311[12]', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 6, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '6[b]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 8}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Borussia Dortmund",
+      "league_apps": 17,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '2011\u201312[14][18]', 'League Division': 'Bundesliga', 'League Apps': 17, 'League Goals': 6, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'Europe Apps': '6[c]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 26, 'Total Goals': 7}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Borussia Dortmund",
+      "league_apps": 28,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '2012\u201313[19][52]', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 10, 'National cup[a] Apps': 4, 'National cup[a] Goals': 4, 'Europe Apps': '11[c]', 'Europe Goals': '2', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 44, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Borussia Dortmund",
+      "league_apps": 83,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 83, 'League Goals': 22, 'National cup[a] Apps': 8, 'National cup[a] Goals': 5, 'Europe Apps': '23', 'Europe Goals': '4', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 116, 'Total Goals': 31}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Bayern Munich",
+      "league_apps": 27,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2013\u201314[46][47][52][53]', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 10, 'National cup[a] Apps': 4, 'National cup[a] Goals': 1, 'Europe Apps': '11[c]', 'Europe Goals': '3', 'Other Apps': '3[e]', 'Other Goals': '1', 'Total Apps': 45, 'Total Goals': 15}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2014\u201315[54][66]', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 9, 'National cup[a] Apps': 4, 'National cup[a] Goals': 2, 'Europe Apps': '11[c]', 'Europe Goals': '4', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 15}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Bayern Munich",
+      "league_apps": 14,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2015\u201316[67][73]', 'League Division': 'Bundesliga', 'League Apps': 14, 'League Goals': 3, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'Europe Apps': '4[c]', 'Europe Goals': '2', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 21, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 73,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 73, 'League Goals': 22, 'National cup[a] Apps': 10, 'National cup[a] Goals': 4, 'Europe Apps': '26', 'Europe Goals': '9', 'Other Apps': '5', 'Other Goals': '1', 'Total Apps': 114, 'Total Goals': 36}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Borussia Dortmund",
+      "league_apps": 11,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '2016\u201317[85]', 'League Division': 'Bundesliga', 'League Apps': 11, 'League Goals': 1, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '4[c]', 'Europe Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 16, 'Total Goals': 2}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Borussia Dortmund",
+      "league_apps": 23,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '2017\u201318[89]', 'League Division': 'Bundesliga', 'League Apps': 23, 'League Goals': 2, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '9[b]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 32, 'Total Goals': 2}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Borussia Dortmund",
+      "league_apps": 26,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '2018\u201319[53]', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 7, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '6[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 7}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Borussia Dortmund",
+      "league_apps": 15,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '2019\u201320[53]', 'League Division': 'Bundesliga', 'League Apps': 15, 'League Goals': 3, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 21, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Borussia Dortmund",
+      "league_apps": 75,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 75, 'League Goals': 13, 'National cup[a] Apps': 5, 'National cup[a] Goals': 0, 'Europe Apps': '23', 'Europe Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 103, 'Total Goals': 14}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "PSV Eindhoven",
+      "league_apps": 18,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '2020\u201321[53]', 'League Division': 'Eredivisie', 'League Apps': 18, 'League Goals': 5, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '6[b]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 6}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "PSV Eindhoven",
+      "league_apps": 29,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '2021\u201322[53]', 'League Division': 'Eredivisie', 'League Apps': 29, 'League Goals': 4, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'Europe Apps': '17[f]', 'Europe Goals': '5', 'Other Apps': '1[g]', 'Other Goals': '1', 'Total Apps': 52, 'Total Goals': 12}"
+    },
+    {
+      "season": "Total",
+      "club": "PSV Eindhoven",
+      "league_apps": 47,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 47, 'League Goals': 9, 'National cup[a] Apps': 6, 'National cup[a] Goals': 2, 'Europe Apps': '23', 'Europe Goals': '6', 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': 77, 'Total Goals': 18}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Eintracht Frankfurt",
+      "league_apps": 32,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Eintracht Frankfurt', 'Season Season': '2022\u201323[53]', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 3, 'National cup[a] Apps': 6, 'National cup[a] Goals': 0, 'Europe Apps': '7[c]', 'Europe Goals': '0', 'Other Apps': '1[h]', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 3}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Eintracht Frankfurt",
+      "league_apps": 30,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Eintracht Frankfurt', 'Season Season': '2023\u201324[53]', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 3, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'Europe Apps': '9[i]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 4}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Eintracht Frankfurt",
+      "league_apps": 24,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Eintracht Frankfurt', 'Season Season': '2024\u201325[53]', 'League Division': 'Bundesliga', 'League Apps': 24, 'League Goals': 3, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Europe Apps': '8[b]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 5}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Eintracht Frankfurt",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Eintracht Frankfurt', 'Season Season': '2025\u201326[53]', 'League Division': 'Bundesliga', 'League Apps': 21, 'League Goals': 0, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '7[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Eintracht Frankfurt",
+      "league_apps": 107,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Eintracht Frankfurt', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 107, 'League Goals': 9, 'National cup[a] Apps': 12, 'National cup[a] Goals': 1, 'Europe Apps': '31', 'Europe Goals': '2', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 151, 'Total Goals': 12}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 385,
+      "league_goals": 75,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 385, 'League Goals': 75, 'National cup[a] Apps': 41, 'National cup[a] Goals': 12, 'Europe Apps': '125', 'Europe Goals': '21', 'Other Apps': '11', 'Other Goals': '2', 'Total Apps': 560, 'Total Goals': 111}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Mario G\u00f6tze - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"0123d172-c4e2-4d9d-8fe3-9fd6dadec2fb\",\"wg"
+}

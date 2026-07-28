@@ -1,0 +1,196 @@
+{
+  "player_name_raw": "Chris Waddle",
+  "fetch_status": "ok",
+  "wikipedia_title": "Chris_Waddle",
+  "url": "https://en.wikipedia.org/wiki/Chris_Waddle",
+  "position": "Winger attacking midfielder",
+  "birth_year": 1960,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1980\u201381",
+      "club": "Newcastle United",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '1980\u201381', 'League Division': 'Second Division', 'League Apps': 13, 'League Goals': 1, 'National cup Apps': 4, 'National cup Goals': 2, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 3}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Newcastle United",
+      "league_apps": 42,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '1981\u201382', 'League Division': 'Second Division', 'League Apps': 42, 'League Goals': 7, 'National cup Apps': 3, 'National cup Goals': 1, 'League cup Apps': '2', 'League cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 8}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Newcastle United",
+      "league_apps": 37,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '1982\u201383', 'League Division': 'Second Division', 'League Apps': 37, 'League Goals': 7, 'National cup Apps': 2, 'National cup Goals': 0, 'League cup Apps': '1', 'League cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 7}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Newcastle United",
+      "league_apps": 42,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '1983\u201384', 'League Division': 'Second Division', 'League Apps': 42, 'League Goals': 18, 'National cup Apps': 1, 'National cup Goals': 0, 'League cup Apps': '2', 'League cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 18}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Newcastle United",
+      "league_apps": 36,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '1984\u201385', 'League Division': 'First Division', 'League Apps': 36, 'League Goals': 13, 'National cup Apps': 2, 'National cup Goals': 1, 'League cup Apps': '4', 'League cup Goals': '2', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Newcastle United",
+      "league_apps": 170,
+      "league_goals": 46,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 170, 'League Goals': 46, 'National cup Apps': 12, 'National cup Goals': 4, 'League cup Apps': '9', 'League cup Goals': '2', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 191, 'Total Goals': 52}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Tottenham Hotspur",
+      "league_apps": 39,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1985\u201386', 'League Division': 'First Division', 'League Apps': 39, 'League Goals': 11, 'National cup Apps': 5, 'National cup Goals': 2, 'League cup Apps': '6', 'League cup Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 14}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Tottenham Hotspur",
+      "league_apps": 39,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1986\u201387', 'League Division': 'First Division', 'League Apps': 39, 'League Goals': 6, 'National cup Apps': 6, 'National cup Goals': 2, 'League cup Apps': '9', 'League cup Goals': '3', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 54, 'Total Goals': 11}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Tottenham Hotspur",
+      "league_apps": 22,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1987\u201388', 'League Division': 'First Division', 'League Apps': 22, 'League Goals': 2, 'National cup Apps': 2, 'National cup Goals': 1, 'League cup Apps': '1', 'League cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 3}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Tottenham Hotspur",
+      "league_apps": 38,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1988\u201389', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 14, 'National cup Apps': 1, 'National cup Goals': 0, 'League cup Apps': '5', 'League cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 14}"
+    },
+    {
+      "season": "Total",
+      "club": "Tottenham Hotspur",
+      "league_apps": 138,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 138, 'League Goals': 33, 'National cup Apps': 14, 'National cup Goals': 5, 'League cup Apps': '21', 'League cup Goals': '4', 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 173, 'Total Goals': 42}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Marseille",
+      "league_apps": 37,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1989\u201390', 'League Division': 'Division 1', 'League Apps': 37, 'League Goals': 9, 'National cup Apps': 5, 'National cup Goals': 3, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '8', 'Europe Goals': '1', 'Total Apps': 50, 'Total Goals': 12}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Marseille",
+      "league_apps": 35,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1990\u201391', 'League Division': 'Division 1', 'League Apps': 35, 'League Goals': 6, 'National cup Apps': 5, 'National cup Goals': 0, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '9', 'Europe Goals': '2', 'Total Apps': 49, 'Total Goals': 8}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Marseille",
+      "league_apps": 35,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1991\u201392', 'League Division': 'Division 1', 'League Apps': 35, 'League Goals': 7, 'National cup Apps': 3, 'National cup Goals': 0, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '3', 'Europe Goals': '1', 'Total Apps': 41, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Marseille",
+      "league_apps": 107,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 107, 'League Goals': 22, 'National cup Apps': 13, 'National cup Goals': 3, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '20', 'Europe Goals': '4', 'Total Apps': 149, 'Total Goals': 29}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Sheffield Wednesday",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1992\u201393', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 1, 'National cup Apps': 8, 'National cup Goals': 2, 'League cup Apps': '9', 'League cup Goals': '0', 'Europe Apps': '4', 'Europe Goals': '1', 'Total Apps': 54, 'Total Goals': 4}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Sheffield Wednesday",
+      "league_apps": 19,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1993\u201394', 'League Division': 'Premier League', 'League Apps': 19, 'League Goals': 3, 'National cup Apps': 1, 'National cup Goals': 0, 'League cup Apps': '6', 'League cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 3}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Sheffield Wednesday",
+      "league_apps": 25,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1994\u201395', 'League Division': 'Premier League', 'League Apps': 25, 'League Goals': 4, 'National cup Apps': 3, 'National cup Goals': 1, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 5}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Sheffield Wednesday",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1995\u201396', 'League Division': 'Premier League', 'League Apps': 32, 'League Goals': 2, 'National cup Apps': 1, 'National cup Goals': 0, 'League cup Apps': '4', 'League cup Goals': '0', 'Europe Apps': '2', 'Europe Goals': '1', 'Total Apps': 39, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Sheffield Wednesday",
+      "league_apps": 109,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 109, 'League Goals': 10, 'National cup Apps': 13, 'National cup Goals': 3, 'League cup Apps': '19', 'League cup Goals': '0', 'Europe Apps': '6', 'Europe Goals': '2', 'Total Apps': 147, 'Total Goals': 15}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Falkirk",
+      "league_apps": 4,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Falkirk', 'Season Season': '1996\u201397', 'League Division': 'Division One', 'League Apps': 4, 'League Goals': 1, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 1}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Bradford City",
+      "league_apps": 26,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Bradford City', 'Season Season': '1996\u201397', 'League Division': 'First Division', 'League Apps': 26, 'League Goals': 5, 'National cup Apps': 3, 'National cup Goals': 1, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 6}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Sunderland",
+      "league_apps": 7,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Sunderland', 'Season Season': '1996\u201397', 'League Division': 'Premier League', 'League Apps': 7, 'League Goals': 1, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 7, 'Total Goals': 1}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Burnley",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1997\u201398', 'League Division': 'Second Division', 'League Apps': 32, 'League Goals': 1, 'National cup Apps': 2, 'National cup Goals': 0, 'League cup Apps': '2', 'League cup Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 2}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Torquay United",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Torquay United', 'Season Season': '1998\u201399', 'League Division': 'Third Division', 'League Apps': 7, 'League Goals': 0, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 600,
+      "league_goals": 119,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 600, 'League Goals': 119, 'National cup Apps': 57, 'National cup Goals': 16, 'League cup Apps': '51', 'League cup Goals': '7', 'Europe Apps': '26', 'Europe Goals': '6', 'Total Apps': 734, 'Total Goals': 148}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Chris Waddle - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"be72d68b-a8d0-4d9a-add0-bda90fccc8c9\",\"w",
+  "season_id": "1990",
+  "award_year": 1990
+}

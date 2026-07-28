@@ -1,0 +1,189 @@
+{
+  "player_name_raw": "Jaap Stam",
+  "fetch_status": "ok",
+  "wikipedia_title": "Jaap_Stam",
+  "url": "https://en.wikipedia.org/wiki/Jaap_Stam",
+  "position": "Centre-back",
+  "birth_year": 1972,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1992\u201393",
+      "club": "Zwolle",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Zwolle', 'Season Season': '1992\u201393', 'League Division': 'Eerste Divisie', 'League Apps': 32, 'League Goals': 1, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 1}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Cambuur",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Cambuur', 'Season Season': '1993\u201394', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 1, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 1}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Cambuur",
+      "league_apps": 33,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Cambuur', 'Season Season': '1994\u201395', 'League Division': 'Eerste Divisie', 'League Apps': 33, 'League Goals': 2, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Cambuur",
+      "league_apps": 66,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Cambuur', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 66, 'League Goals': 3, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 66, 'Total Goals': 3}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Willem II",
+      "league_apps": 19,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Willem II', 'Season Season': '1995\u201396', 'League Division': 'Eredivisie', 'League Apps': 19, 'League Goals': 1, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 1}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "PSV Eindhoven",
+      "league_apps": 14,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '1995\u201396', 'League Division': 'Eredivisie', 'League Apps': 14, 'League Goals': 1, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 1}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "PSV Eindhoven",
+      "league_apps": 33,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '1996\u201397', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 7, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '4[a]', 'Europe Goals': '0', 'Other Apps': '1[b]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 7}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "PSV Eindhoven",
+      "league_apps": 29,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '1997\u201398', 'League Division': 'Eredivisie', 'League Apps': 29, 'League Goals': 4, 'National cup Apps': '5', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '5[c]', 'Europe Goals': '0', 'Other Apps': '1[b]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "PSV Eindhoven",
+      "league_apps": 76,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 76, 'League Goals': 12, 'National cup Apps': '11', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '9', 'Europe Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 98, 'Total Goals': 12}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Manchester United",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1998\u201399', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 1, 'National cup Apps': '7', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '13[c]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 1}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Manchester United",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1999\u20132000', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 0, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '13[c]', 'Europe Goals': '0', 'Other Apps': '5[e]', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Manchester United",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2000\u201301', 'League Division': 'Premier League', 'League Apps': 15, 'League Goals': 0, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '6[c]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 23, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Manchester United",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2001\u201302', 'League Division': 'Premier League', 'League Apps': 1, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester United",
+      "league_apps": 79,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 79, 'League Goals': 1, 'National cup Apps': '8', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '32', 'Europe Goals': '0', 'Other Apps': '8', 'Other Goals': '0', 'Total Apps': 127, 'Total Goals': 1}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Lazio",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': '2001\u201302', 'League Division': 'Serie A', 'League Apps': 13, 'League Goals': 1, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '5[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 1}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Lazio",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': '2002\u201303', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 0, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '4[f]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Lazio",
+      "league_apps": 29,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': '2003\u201304', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 2, 'National cup Apps': '6', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '7[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Lazio",
+      "league_apps": 70,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 70, 'League Goals': 3, 'National cup Apps': '8', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '16', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 94, 'Total Goals': 4}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Milan",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Milan', 'Season Season': '2004\u201305', 'League Division': 'Serie A', 'League Apps': 17, 'League Goals': 0, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '8[c]', 'Europe Goals': '1', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 28, 'Total Goals': 1}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Milan",
+      "league_apps": 25,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Milan', 'Season Season': '2005\u201306', 'League Division': 'Serie A', 'League Apps': 25, 'League Goals': 1, 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '9[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Milan",
+      "league_apps": 42,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 42, 'League Goals': 1, 'National cup Apps': '5', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '17', 'Europe Goals': '1', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 65, 'Total Goals': 2}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Ajax",
+      "league_apps": 25,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '2006\u201307', 'League Division': 'Eredivisie', 'League Apps': 25, 'League Goals': 1, 'National cup Apps': '4', 'National cup Goals': '1', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '11[h]', 'Europe Goals': '0', 'Other Apps': '1[b]', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 2}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Ajax",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '2007\u201308', 'League Division': 'Eredivisie', 'League Apps': 6, 'League Goals': 0, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '4[f]', 'Europe Goals': '0', 'Other Apps': '1[b]', 'Other Goals': '0', 'Total Apps': 11, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Ajax",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 31, 'League Goals': 1, 'National cup Apps': '4', 'National cup Goals': '1', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Europe Apps': '15', 'Europe Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 2}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 415,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 415, 'League Goals': 23, 'National cup Apps': '36', 'National cup Goals': '1', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '89', 'Europe Goals': '2', 'Other Apps': '13', 'Other Goals': '0', 'Total Apps': 553, 'Total Goals': 26}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jaap Stam - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"f68971f6-daa6-4d51-bc41-0eca28688ac3\",\"wgCa",
+  "season_id": "1999",
+  "award_year": 1999
+}

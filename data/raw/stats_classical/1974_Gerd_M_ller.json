@@ -1,0 +1,182 @@
+{
+  "player_name_raw": "Gerd M\u00fcller",
+  "fetch_status": "ok",
+  "wikipedia_title": "Gerd_M\u00fcller",
+  "url": "https://en.wikipedia.org/wiki/Gerd_M\u00fcller",
+  "position": "Striker",
+  "birth_year": 1945,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1962\u201363",
+      "club": "TSV 1861 N\u00f6rdlingen",
+      "league_apps": 3,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'TSV 1861 N\u00f6rdlingen', 'Season Season': '1962\u201363', 'League Division': '2. Amateurliga Schwaben', 'League Apps': 3, 'League Goals': 4, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 3, 'Total Goals': 4}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "TSV 1861 N\u00f6rdlingen",
+      "league_apps": 28,
+      "league_goals": 47,
+      "raw": "{'Club Club': 'TSV 1861 N\u00f6rdlingen', 'Season Season': '1963\u201364', 'League Division': 'Bezirksliga Schwaben', 'League Apps': 28, 'League Goals': 47, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 47}"
+    },
+    {
+      "season": "Total",
+      "club": "TSV 1861 N\u00f6rdlingen",
+      "league_apps": 31,
+      "league_goals": 51,
+      "raw": "{'Club Club': 'TSV 1861 N\u00f6rdlingen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 31, 'League Goals': 51, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 51}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Bayern Munich",
+      "league_apps": 26,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1964\u201365', 'League Division': 'Regionalliga S\u00fcd', 'League Apps': 26, 'League Goals': 33, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '8[a]', 'Other Goals': '8', 'Total Apps': 34, 'Total Goals': 41}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Bayern Munich",
+      "league_apps": 33,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1965\u201366', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 15, 'DFB-Pokal Apps': '6', 'DFB-Pokal Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 16}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1966\u201367', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 28, 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '7', 'Continental Apps': '9[b]', 'Continental Goals': '8', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 43}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1967\u201368', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 19, 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '4', 'Continental Apps': '8[b]', 'Continental Goals': '7', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 30}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Bayern Munich",
+      "league_apps": 30,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1968\u201369', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 30, 'DFB-Pokal Apps': '5', 'DFB-Pokal Goals': '7', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 37}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Bayern Munich",
+      "league_apps": 33,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1969\u201370', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 38, 'DFB-Pokal Apps': '3', 'DFB-Pokal Goals': '4', 'Continental Apps': '2[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 42}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1970\u201371', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 22, 'DFB-Pokal Apps': '7', 'DFB-Pokal Goals': '10', 'Continental Apps': '8[d]', 'Continental Goals': '7', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 39}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 40,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1971\u201372', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 40, 'DFB-Pokal Apps': '6', 'DFB-Pokal Goals': '5', 'Continental Apps': '8[b]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 50}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Bayern Munich",
+      "league_apps": 33,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1972\u201373', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 36, 'DFB-Pokal Apps': '5', 'DFB-Pokal Goals': '7', 'Continental Apps': '6[c]', 'Continental Goals': '11', 'Other Apps': '5[e]', 'Other Goals': '12', 'Total Apps': 49, 'Total Goals': 66}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1973\u201374', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 30, 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '5', 'Continental Apps': '10[c]', 'Continental Goals': '8', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 43}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Bayern Munich",
+      "league_apps": 33,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1974\u201375', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 23, 'DFB-Pokal Apps': '3', 'DFB-Pokal Goals': '2', 'Continental Apps': '7[c]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 30}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Bayern Munich",
+      "league_apps": 22,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1975\u201376', 'League Division': 'Bundesliga', 'League Apps': 22, 'League Goals': 23, 'DFB-Pokal Apps': '6', 'DFB-Pokal Goals': '7', 'Continental Apps': '6[c]', 'Continental Goals': '5', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 35, 'Total Goals': 35}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Bayern Munich",
+      "league_apps": 25,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1976\u201377', 'League Division': 'Bundesliga', 'League Apps': 25, 'League Goals': 28, 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '11', 'Continental Apps': '4[c]', 'Continental Goals': '5', 'Other Apps': '4[g]', 'Other Goals': '4', 'Total Apps': 37, 'Total Goals': 48}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Bayern Munich",
+      "league_apps": 33,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1977\u201378', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 24, 'DFB-Pokal Apps': '3', 'DFB-Pokal Goals': '4', 'Continental Apps': '6[h]', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 32}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Bayern Munich",
+      "league_apps": 19,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1978\u201379', 'League Division': 'Bundesliga', 'League Apps': 19, 'League Goals': 9, 'DFB-Pokal Apps': '2', 'DFB-Pokal Goals': '4', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 21, 'Total Goals': 13}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 453,
+      "league_goals": 398,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 453, 'League Goals': 398, 'DFB-Pokal Apps': '62', 'DFB-Pokal Goals': '78', 'Continental Apps': '74', 'Continental Goals': '65', 'Other Apps': '18', 'Other Goals': '24', 'Total Apps': 607, 'Total Goals': 565}"
+    },
+    {
+      "season": "1979",
+      "club": "Fort Lauderdale Strikers",
+      "league_apps": 25,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Fort Lauderdale Strikers', 'Season Season': '1979', 'League Division': 'NASL', 'League Apps': 25, 'League Goals': 19, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '2[i]', 'Other Goals': '0', 'Total Apps': 27, 'Total Goals': 19}"
+    },
+    {
+      "season": "1980",
+      "club": "Fort Lauderdale Strikers",
+      "league_apps": 29,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Fort Lauderdale Strikers', 'Season Season': '1980', 'League Division': 'NASL', 'League Apps': 29, 'League Goals': 14, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '7[i]', 'Other Goals': '2', 'Total Apps': 36, 'Total Goals': 16}"
+    },
+    {
+      "season": "1981",
+      "club": "Fort Lauderdale Strikers",
+      "league_apps": 17,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Fort Lauderdale Strikers', 'Season Season': '1981', 'League Division': 'NASL', 'League Apps': 17, 'League Goals': 5, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Fort Lauderdale Strikers",
+      "league_apps": 71,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Fort Lauderdale Strikers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 71, 'League Goals': 38, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '9', 'Other Goals': '2', 'Total Apps': 80, 'Total Goals': 40}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 555,
+      "league_goals": 487,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 555, 'League Goals': 487, 'DFB-Pokal Apps': '62', 'DFB-Pokal Goals': '78', 'Continental Apps': '74', 'Continental Goals': '65', 'Other Apps': '27', 'Other Goals': '26', 'Total Apps': 718, 'Total Goals': 656}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Gerd M\u00fcller - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"a2cd31b9-71dc-472d-b9f0-90e2709a82a7\",\"wg",
+  "season_id": "1974",
+  "award_year": 1974
+}

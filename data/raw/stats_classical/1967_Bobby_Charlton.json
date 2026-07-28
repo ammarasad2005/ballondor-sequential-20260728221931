@@ -1,0 +1,182 @@
+{
+  "player_name_raw": "Bobby Charlton",
+  "fetch_status": "ok",
+  "wikipedia_title": "Bobby_Charlton",
+  "url": "https://en.wikipedia.org/wiki/Bobby_Charlton",
+  "position": "Midfielder forward",
+  "birth_year": 1937,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1956\u201357",
+      "club": "Manchester United",
+      "league_apps": 14,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1956\u201357', 'League Division': 'First Division', 'League Apps': 14, 'League Goals': 10, 'National cup Apps': 2, 'National cup Goals': 1, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '1', 'Continental Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 17, 'Total Goals': 12}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "Manchester United",
+      "league_apps": 21,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1957\u201358', 'League Division': 'First Division', 'League Apps': 21, 'League Goals': 8, 'National cup Apps': 7, 'National cup Goals': 5, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '2', 'Continental Goals': '3', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 30, 'Total Goals': 16}"
+    },
+    {
+      "season": "1958\u201359",
+      "club": "Manchester United",
+      "league_apps": 38,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1958\u201359', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 29, 'National cup Apps': 1, 'National cup Goals': 0, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 29}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "Manchester United",
+      "league_apps": 37,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1959\u201360', 'League Division': 'First Division', 'League Apps': 37, 'League Goals': 18, 'National cup Apps': 3, 'National cup Goals': 3, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 21}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Manchester United",
+      "league_apps": 39,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1960\u201361', 'League Division': 'First Division', 'League Apps': 39, 'League Goals': 21, 'National cup Apps': 3, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 21}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Manchester United",
+      "league_apps": 37,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1961\u201362', 'League Division': 'First Division', 'League Apps': 37, 'League Goals': 8, 'National cup Apps': 6, 'National cup Goals': 2, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 10}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Manchester United",
+      "league_apps": 28,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1962\u201363', 'League Division': 'First Division', 'League Apps': 28, 'League Goals': 7, 'National cup Apps': 6, 'National cup Goals': 2, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 9}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Manchester United",
+      "league_apps": 40,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1963\u201364', 'League Division': 'First Division', 'League Apps': 40, 'League Goals': 9, 'National cup Apps': 7, 'National cup Goals': 2, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '6', 'Continental Goals': '4', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 54, 'Total Goals': 15}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Manchester United",
+      "league_apps": 41,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1964\u201365', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 10, 'National cup Apps': 7, 'National cup Goals': 0, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '11', 'Continental Goals': '8', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 59, 'Total Goals': 18}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Manchester United",
+      "league_apps": 38,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1965\u201366', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 16, 'National cup Apps': 7, 'National cup Goals': 0, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '8', 'Continental Goals': '2', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 54, 'Total Goals': 18}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Manchester United",
+      "league_apps": 42,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1966\u201367', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 12, 'National cup Apps': 2, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 12}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Manchester United",
+      "league_apps": 41,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1967\u201368', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 15, 'National cup Apps': 2, 'National cup Goals': 1, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '9', 'Continental Goals': '2', 'Other Apps': '1', 'Other Goals': '2', 'Total Apps': 53, 'Total Goals': 20}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Manchester United",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1968\u201369', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 5, 'National cup Apps': 6, 'National cup Goals': 0, 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Continental Apps': '8', 'Continental Goals': '2', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 7}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Manchester United",
+      "league_apps": 40,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1969\u201370', 'League Division': 'First Division', 'League Apps': 40, 'League Goals': 12, 'National cup Apps': 9, 'National cup Goals': 1, 'League cup Apps': '8', 'League cup Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 57, 'Total Goals': 14}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Manchester United",
+      "league_apps": 42,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1970\u201371', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 5, 'National cup Apps': 2, 'National cup Goals': 0, 'League cup Apps': '6', 'League cup Goals': '3', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 8}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Manchester United",
+      "league_apps": 40,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1971\u201372', 'League Division': 'First Division', 'League Apps': 40, 'League Goals': 8, 'National cup Apps': 7, 'National cup Goals': 2, 'League cup Apps': '6', 'League cup Goals': '2', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 53, 'Total Goals': 12}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Manchester United",
+      "league_apps": 36,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1972\u201373', 'League Division': 'First Division', 'League Apps': 36, 'League Goals': 6, 'National cup Apps': 1, 'National cup Goals': 0, 'League cup Apps': '4', 'League cup Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester United",
+      "league_apps": 606,
+      "league_goals": 199,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 606, 'League Goals': 199, 'National cup Apps': 78, 'National cup Goals': 19, 'League cup Apps': '24', 'League cup Goals': '7', 'Continental Apps': '45', 'Continental Goals': '22', 'Other Apps': '5', 'Other Goals': '2', 'Total Apps': 758, 'Total Goals': 249}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Preston North End",
+      "league_apps": 38,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Preston North End', 'Season Season': '1974\u201375', 'League Division': 'Third Division', 'League Apps': 38, 'League Goals': 8, 'National cup Apps': 4, 'National cup Goals': 1, 'League cup Apps': '3', 'League cup Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 10}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Waterford United",
+      "league_apps": 3,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Waterford United', 'Season Season': '1975\u201376', 'League Division': 'League of Ireland', 'League Apps': 3, 'League Goals': 1, 'National cup Apps': 1, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 1}"
+    },
+    {
+      "season": "1978",
+      "club": "Newcastle KB United",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Newcastle KB United', 'Season Season': '1978', 'League Division': 'National Soccer League', 'League Apps': 1, 'League Goals': 0, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1979",
+      "club": "Perth Azzurri",
+      "league_apps": 3,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Perth Azzurri', 'Season Season': '1979', 'League Division': 'National Premier Leagues Western Australia', 'League Apps': 3, 'League Goals': 2, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 3, 'Total Goals': 2}"
+    },
+    {
+      "season": "1980",
+      "club": "Blacktown City",
+      "league_apps": 1,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Blacktown City', 'Season Season': '1980', 'League Division': 'National Soccer League', 'League Apps': 1, 'League Goals': 1, 'National cup Apps': 0, 'National cup Goals': 0, 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 652,
+      "league_goals": 211,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 652, 'League Goals': 211, 'National cup Apps': 83, 'National cup Goals': 20, 'League cup Apps': '27', 'League cup Goals': '8', 'Continental Apps': '45', 'Continental Goals': '22', 'Other Apps': '5', 'Other Goals': '2', 'Total Apps': 812, 'Total Goals': 263}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Bobby Charlton - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"905ed678-20db-47bf-be30-5bc2d8a3a386\",",
+  "season_id": "1967",
+  "award_year": 1967
+}

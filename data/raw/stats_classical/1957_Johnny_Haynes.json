@@ -1,0 +1,147 @@
+{
+  "player_name_raw": "Johnny Haynes",
+  "fetch_status": "ok",
+  "wikipedia_title": "Johnny_Haynes",
+  "url": "https://en.wikipedia.org/wiki/Johnny_Haynes",
+  "position": "Inside forward",
+  "birth_year": 1934,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1952\u201353",
+      "club": "Fulham",
+      "league_apps": 18,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1952\u201353', 'League Division': 'Second Division', 'League Apps': 18, 'League Goals': 1, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1953\u201354",
+      "club": "Fulham",
+      "league_apps": 41,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1953\u201354', 'League Division': 'Second Division', 'League Apps': 41, 'League Goals': 16, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1954\u201355",
+      "club": "Fulham",
+      "league_apps": 37,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1954\u201355', 'League Division': 'Second Division', 'League Apps': 37, 'League Goals': 8, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1955\u201356",
+      "club": "Fulham",
+      "league_apps": 40,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1955\u201356', 'League Division': 'Second Division', 'League Apps': 40, 'League Goals': 18, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1956\u201357",
+      "club": "Fulham",
+      "league_apps": 33,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1956\u201357', 'League Division': 'Second Division', 'League Apps': 33, 'League Goals': 5, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "Fulham",
+      "league_apps": 38,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1957\u201358', 'League Division': 'Second Division', 'League Apps': 38, 'League Goals': 15, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1958\u201359",
+      "club": "Fulham",
+      "league_apps": 34,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1958\u201359', 'League Division': 'Second Division', 'League Apps': 34, 'League Goals': 26, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "Fulham",
+      "league_apps": 31,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1959\u201360', 'League Division': 'First Division', 'League Apps': 31, 'League Goals': 10, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Fulham",
+      "league_apps": 39,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1960\u201361', 'League Division': 'First Division', 'League Apps': 39, 'League Goals': 9, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Fulham",
+      "league_apps": 38,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1961\u201362', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 5, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Fulham",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1962\u201363', 'League Division': 'First Division', 'League Apps': 8, 'League Goals': 0, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Fulham",
+      "league_apps": 40,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1963\u201364', 'League Division': 'First Division', 'League Apps': 40, 'League Goals': 8, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Fulham",
+      "league_apps": 39,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1964\u201365', 'League Division': 'First Division', 'League Apps': 39, 'League Goals': 5, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Fulham",
+      "league_apps": 33,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1965\u201366', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 6, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Fulham",
+      "league_apps": 36,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1966\u201367', 'League Division': 'First Division', 'League Apps': 36, 'League Goals': 6, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Fulham",
+      "league_apps": 34,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1967\u201368', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 5, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Fulham",
+      "league_apps": 28,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1968\u201369', 'League Division': 'Second Division', 'League Apps': 28, 'League Goals': 1, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Fulham",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1969\u201370', 'League Division': 'Third Division', 'League Apps': 27, 'League Goals': 3, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 594,
+      "league_goals": 147,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 594, 'League Goals': 147, 'FA Cup Apps': nan, 'FA Cup Goals': nan, 'League Cup Apps': nan, 'League Cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Johnny Haynes - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"4f0b10a3-0964-4ed9-803e-35f2794a957e\",\"",
+  "season_id": "1957",
+  "award_year": 1957
+}

@@ -1,0 +1,236 @@
+{
+  "player_name_raw": "Carlos Tevez",
+  "fetch_status": "ok",
+  "wikipedia_title": "Carlos_Tevez",
+  "url": "https://en.wikipedia.org/wiki/Carlos_Tevez",
+  "position": "Forward",
+  "birth_year": 1984,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2001\u201302",
+      "club": "Boca Juniors",
+      "league_apps": 11,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2001\u201302', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 11, 'League Goals': 1, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '4[c]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 15, 'Total Goals': 2}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Boca Juniors",
+      "league_apps": 32,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2002\u201303', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 32, 'League Goals': 11, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '9[d]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 16}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Boca Juniors",
+      "league_apps": 23,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2003\u201304', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 23, 'League Goals': 12, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '14[e]', 'Continental Goals': '3', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 38, 'Total Goals': 15}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Boca Juniors",
+      "league_apps": 9,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2004\u201305', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 9, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '6[g]', 'Continental Goals': '2', 'Other Apps': '1[h]', 'Other Goals': '1', 'Total Apps': 16, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Boca Juniors",
+      "league_apps": 75,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 75, 'League Goals': 26, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '33', 'Continental Goals': '11', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': 110, 'Total Goals': 38}"
+    },
+    {
+      "season": "2005",
+      "club": "Corinthians",
+      "league_apps": 29,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Corinthians', 'Season Season': '2005', 'League Division': 'S\u00e9rie A', 'League Apps': 29, 'League Goals': 20, 'National cup[a] Apps': '6', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '4[g]', 'Continental Goals': '0', 'Other Apps': '13[i]', 'Other Goals': '7', 'Total Apps': 52, 'Total Goals': 31}"
+    },
+    {
+      "season": "2006",
+      "club": "Corinthians",
+      "league_apps": 9,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Corinthians', 'Season Season': '2006', 'League Division': 'S\u00e9rie A', 'League Apps': 9, 'League Goals': 5, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[c]', 'Continental Goals': '4', 'Other Apps': '7[i]', 'Other Goals': '6', 'Total Apps': 24, 'Total Goals': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "Corinthians",
+      "league_apps": 38,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Corinthians', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 38, 'League Goals': 25, 'National cup[a] Apps': '6', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '12', 'Continental Goals': '4', 'Other Apps': '20', 'Other Goals': '13', 'Total Apps': 76, 'Total Goals': 46}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "West Ham United",
+      "league_apps": 26,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '2006\u201307', 'League Division': 'Premier League', 'League Apps': 26, 'League Goals': 7, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '2[j]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 7}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Manchester United (loan)",
+      "league_apps": 34,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Manchester United (loan)', 'Season Season': '2007\u201308', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 14, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '12[k]', 'Continental Goals': '4', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 19}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Manchester United (loan)",
+      "league_apps": 29,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Manchester United (loan)', 'Season Season': '2008\u201309', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 5, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'League cup[b] Apps': '6', 'League cup[b] Goals': '6', 'Continental Apps': '9[k]', 'Continental Goals': '2', 'Other Apps': '4[l]', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester United (loan)",
+      "league_apps": 63,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Manchester United (loan)', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 63, 'League Goals': 19, 'National cup[a] Apps': '5', 'National cup[a] Goals': '3', 'League cup[b] Apps': '6', 'League cup[b] Goals': '6', 'Continental Apps': '21', 'Continental Goals': '6', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 99, 'Total Goals': 34}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Manchester City",
+      "league_apps": 35,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2009\u201310', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 23, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '6', 'League cup[b] Goals': '6', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 29}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Manchester City",
+      "league_apps": 31,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2010\u201311', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 20, 'National cup[a] Apps': '6', 'National cup[a] Goals': '3', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '7[m]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 23}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Manchester City",
+      "league_apps": 13,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2011\u201312', 'League Division': 'Premier League', 'League Apps': 13, 'League Goals': 4, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '1[k]', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 15, 'Total Goals': 4}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Manchester City",
+      "league_apps": 34,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2012\u201313', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 11, 'National cup[a] Apps': '6', 'National cup[a] Goals': '5', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '5[k]', 'Continental Goals': '0', 'Other Apps': '1[n]', 'Other Goals': '1', 'Total Apps': 47, 'Total Goals': 17}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester City",
+      "league_apps": 113,
+      "league_goals": 58,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 113, 'League Goals': 58, 'National cup[a] Apps': '13', 'National cup[a] Goals': '8', 'League cup[b] Apps': '8', 'League cup[b] Goals': '6', 'Continental Apps': '13', 'Continental Goals': '0', 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': 148, 'Total Goals': 73}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Juventus",
+      "league_apps": 34,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2013\u201314', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 19, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '12[o]', 'Continental Goals': '1', 'Other Apps': '1[p]', 'Other Goals': '1', 'Total Apps': 48, 'Total Goals': 21}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Juventus",
+      "league_apps": 32,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2014\u201315', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 20, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '13[k]', 'Continental Goals': '7', 'Other Apps': '1[p]', 'Other Goals': '2', 'Total Apps': 47, 'Total Goals': 29}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 66,
+      "league_goals": 39,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 66, 'League Goals': 39, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '25', 'Continental Goals': '8', 'Other Apps': '2', 'Other Goals': '3', 'Total Apps': 95, 'Total Goals': 50}"
+    },
+    {
+      "season": "2015",
+      "club": "Boca Juniors",
+      "league_apps": 12,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2015', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 12, 'League Goals': 5, 'National cup[a] Apps': '5', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 9}"
+    },
+    {
+      "season": "2016",
+      "club": "Boca Juniors",
+      "league_apps": 11,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2016', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 11, 'League Goals': 4, 'National cup[a] Apps': '4', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '12[c]', 'Continental Goals': '5', 'Other Apps': '1[q]', 'Other Goals': '0', 'Total Apps': 28, 'Total Goals': 11}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Boca Juniors",
+      "league_apps": 11,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2016\u201317', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 11, 'League Goals': 5, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Boca Juniors",
+      "league_apps": 34,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 34, 'League Goals': 14, 'National cup[a] Apps': '9', 'National cup[a] Goals': '6', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '12', 'Continental Goals': '5', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 56, 'Total Goals': 25}"
+    },
+    {
+      "season": "2017",
+      "club": "Shanghai Shenhua",
+      "league_apps": 16,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Shanghai Shenhua', 'Season Season': '2017', 'League Division': 'Chinese Super League', 'League Apps': 16, 'League Goals': 4, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '1[r]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 4}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Boca Juniors",
+      "league_apps": 10,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2017\u201318', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 10, 'League Goals': 3, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '5[c]', 'Continental Goals': '2', 'Other Apps': '1[q]', 'Other Goals': '0', 'Total Apps': 16, 'Total Goals': 5}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Boca Juniors",
+      "league_apps": 21,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2018\u201319', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 21, 'League Goals': 5, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '6', 'League cup[b] Goals': '0', 'Continental Apps': '10[c]', 'Continental Goals': '2', 'Other Apps': '1[q]', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 8}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Boca Juniors",
+      "league_apps": 17,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2019\u201320', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 17, 'League Goals': 9, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '5[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 9}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Boca Juniors",
+      "league_apps": 18,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '2020\u201321', 'League Division': 'Copa de la Liga Profesional', 'League Apps': 18, 'League Goals': 5, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '15[c]', 'Continental Goals': '4', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 33, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "Boca Juniors",
+      "league_apps": 66,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 66, 'League Goals': 22, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': '6', 'League cup[b] Goals': '0', 'Continental Apps': '35', 'Continental Goals': '8', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 113, 'Total Goals': 31}"
+    },
+    {
+      "season": "Boca Juniors total",
+      "club": "Boca Juniors",
+      "league_apps": 175,
+      "league_goals": 62,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': 'Boca Juniors total', 'League Division': 'Boca Juniors total', 'League Apps': 175, 'League Goals': 62, 'National cup[a] Apps': '13', 'National cup[a] Goals': '7', 'League cup[b] Apps': '6', 'League cup[b] Goals': '0', 'Continental Apps': '80', 'Continental Goals': '24', 'Other Apps': '5', 'Other Goals': '1', 'Total Apps': 279, 'Total Goals': 94}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 497,
+      "league_goals": 214,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 497, 'League Goals': 214, 'National cup[a] Apps': '43', 'National cup[a] Goals': '22', 'League cup[b] Apps': '20', 'League cup[b] Goals': '12', 'Continental Apps': '154', 'Continental Goals': '42', 'Other Apps': '32', 'Other Goals': '18', 'Total Apps': 746, 'Total Goals': 308}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Carlos Tevez - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"8ae136c7-f963-431e-9e1e-6db52f74726f\",\"w"
+}

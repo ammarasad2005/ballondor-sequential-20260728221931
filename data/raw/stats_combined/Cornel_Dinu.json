@@ -1,0 +1,166 @@
+{
+  "player_name_raw": "Cornel Dinu",
+  "fetch_status": "ok",
+  "wikipedia_title": "Cornel_Dinu",
+  "url": "https://en.wikipedia.org/wiki/Cornel_Dinu",
+  "position": "Sweeper defensive midfielder",
+  "birth_year": 1948,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1964\u201365",
+      "club": "Metalul T\u00e2rgovi\u0219te",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Metalul T\u00e2rgovi\u0219te', 'Season Season': '1964\u201365', 'League Division': 'Divizia B', 'League Apps': nan, 'League Goals': nan, 'National Cup Apps': 2.0, 'National Cup Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 2.0, 'Total Goals': 0.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Metalul T\u00e2rgovi\u0219te",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Metalul T\u00e2rgovi\u0219te', 'Season Season': '1965\u201366', 'League Division': 'Divizia B', 'League Apps': nan, 'League Goals': nan, 'National Cup Apps': nan, 'National Cup Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Metalul T\u00e2rgovi\u0219te",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Metalul T\u00e2rgovi\u0219te', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': nan, 'League Goals': nan, 'National Cup Apps': 2.0, 'National Cup Goals': 0.0, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 2.0, 'Total Goals': 0.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 16,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1966\u201367', 'League Division': 'Divizia A', 'League Apps': 16.0, 'League Goals': 0.0, 'National Cup Apps': 2.0, 'National Cup Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 18.0, 'Total Goals': 0.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1967\u201368', 'League Division': 'Divizia A', 'League Apps': 26.0, 'League Goals': 6.0, 'National Cup Apps': 5.0, 'National Cup Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 31.0, 'Total Goals': 6.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 30,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1968\u201369', 'League Division': 'Divizia A', 'League Apps': 30.0, 'League Goals': 6.0, 'National Cup Apps': 5.0, 'National Cup Goals': 2.0, 'Continental Apps': '2[a]', 'Continental Goals': '0', 'Total Apps': 37.0, 'Total Goals': 8.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 23,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1969\u201370', 'League Division': 'Divizia A', 'League Apps': 23.0, 'League Goals': 4.0, 'National Cup Apps': 2.0, 'National Cup Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 27.0, 'Total Goals': 4.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 24,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1970\u201371', 'League Division': 'Divizia A', 'League Apps': 24.0, 'League Goals': 4.0, 'National Cup Apps': 6.0, 'National Cup Goals': 0.0, 'Continental Apps': '4[b]', 'Continental Goals': '0', 'Total Apps': 34.0, 'Total Goals': 4.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1971\u201372', 'League Division': 'Divizia A', 'League Apps': 26.0, 'League Goals': 2.0, 'National Cup Apps': 3.0, 'National Cup Goals': 2.0, 'Continental Apps': '4[c]', 'Continental Goals': '0', 'Total Apps': 33.0, 'Total Goals': 4.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 23,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1972\u201373', 'League Division': 'Divizia A', 'League Apps': 23.0, 'League Goals': 2.0, 'National Cup Apps': 2.0, 'National Cup Goals': 2.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 25.0, 'Total Goals': 4.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 32,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1973\u201374', 'League Division': 'Divizia A', 'League Apps': 32.0, 'League Goals': 3.0, 'National Cup Apps': 1.0, 'National Cup Goals': 0.0, 'Continental Apps': '3[c]', 'Continental Goals': '1', 'Total Apps': 36.0, 'Total Goals': 4.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 30,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1974\u201375', 'League Division': 'Divizia A', 'League Apps': 30.0, 'League Goals': 3.0, 'National Cup Apps': 1.0, 'National Cup Goals': 0.0, 'Continental Apps': '4[b]', 'Continental Goals': '2', 'Total Apps': 35.0, 'Total Goals': 5.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 25,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1975\u201376', 'League Division': 'Divizia A', 'League Apps': 25.0, 'League Goals': 2.0, 'National Cup Apps': 1.0, 'National Cup Goals': 0.0, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 26.0, 'Total Goals': 2.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 31,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1976\u201377', 'League Division': 'Divizia A', 'League Apps': 31.0, 'League Goals': 6.0, 'National Cup Apps': 1.0, 'National Cup Goals': 0.0, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 32.0, 'Total Goals': 6.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 24,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1977\u201378', 'League Division': 'Divizia A', 'League Apps': 24.0, 'League Goals': 7.0, 'National Cup Apps': 2.0, 'National Cup Goals': 0.0, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 26.0, 'Total Goals': 7.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 31,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1978\u201379', 'League Division': 'Divizia A', 'League Apps': 31.0, 'League Goals': 4.0, 'National Cup Apps': 4.0, 'National Cup Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 35.0, 'Total Goals': 4.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 28,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1979\u201380', 'League Division': 'Divizia A', 'League Apps': 28.0, 'League Goals': 3.0, 'National Cup Apps': 1.0, 'National Cup Goals': 1.0, 'Continental Apps': '4[b]', 'Continental Goals': '0', 'Total Apps': 33.0, 'Total Goals': 4.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1980\u201381', 'League Division': 'Divizia A', 'League Apps': 31.0, 'League Goals': 1.0, 'National Cup Apps': 1.0, 'National Cup Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 32.0, 'Total Goals': 1.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1981\u201382', 'League Division': 'Divizia A', 'League Apps': 29.0, 'League Goals': 0.0, 'National Cup Apps': 5.0, 'National Cup Goals': 0.0, 'Continental Apps': '6[b]', 'Continental Goals': '0', 'Total Apps': 40.0, 'Total Goals': 0.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': '1982\u201383', 'League Division': 'Divizia A', 'League Apps': 25.0, 'League Goals': 0.0, 'National Cup Apps': 2.0, 'National Cup Goals': 0.0, 'Continental Apps': '6[c]', 'Continental Goals': '0', 'Total Apps': 33.0, 'Total Goals': 0.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Dinamo Bucure\u0219ti",
+      "league_apps": 454,
+      "league_goals": 53,
+      "raw": "{'Club Club': 'Dinamo Bucure\u0219ti', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 454.0, 'League Goals': 53.0, 'National Cup Apps': 44.0, 'National Cup Goals': 7.0, 'Continental Apps': '33', 'Continental Goals': '3', 'Total Apps': 531.0, 'Total Goals': 63.0, 'Total Unnamed: 11_level_1': nan}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 454,
+      "league_goals": 53,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 454.0, 'League Goals': 53.0, 'National Cup Apps': 46.0, 'National Cup Goals': 7.0, 'Continental Apps': '33', 'Continental Goals': '3', 'Total Apps': 533.0, 'Total Goals': 63.0, 'Total Unnamed: 11_level_1': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Cornel Dinu - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"9337b08f-e4ea-474a-bf1d-ef0e87ffe232\",\"wg"
+}

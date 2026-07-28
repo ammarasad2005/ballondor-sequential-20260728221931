@@ -1,0 +1,103 @@
+{
+  "player_name_raw": "Cole Palmer",
+  "fetch_status": "ok",
+  "wikipedia_title": "Cole_Palmer",
+  "url": "https://en.wikipedia.org/wiki/Cole_Palmer",
+  "position": "Attacking midfielder winger",
+  "birth_year": 2002,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2019\u201320",
+      "club": "Manchester City U21",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Manchester City U21', 'Season Season': '2019\u201320[134]', 'League Division': '\u2014', 'League Apps': '\u2014', 'League Goals': '\u2014', 'FA Cup Apps': '\u2014', 'FA Cup Goals': '\u2014', 'EFL Cup Apps': '\u2014', 'EFL Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '2[a]', 'Other Goals': '0', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Manchester City U21",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Manchester City U21', 'Season Season': '2021\u201322[135]', 'League Division': '\u2014', 'League Apps': '\u2014', 'League Goals': '\u2014', 'FA Cup Apps': '\u2014', 'FA Cup Goals': '\u2014', 'EFL Cup Apps': '\u2014', 'EFL Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '1[a]', 'Other Goals': '1', 'Total Apps': 1, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester City U21",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Manchester City U21', 'Season Season': 'Total', 'League Division': '\u2014', 'League Apps': '\u2014', 'League Goals': '\u2014', 'FA Cup Apps': '\u2014', 'FA Cup Goals': '\u2014', 'EFL Cup Apps': '\u2014', 'EFL Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '3', 'Other Goals': '1', 'Total Apps': 3, 'Total Goals': 1}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Manchester City",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2020\u201321[136]', 'League Division': 'Premier League', 'League Apps': '0', 'League Goals': '0', 'FA Cup Apps': '0', 'FA Cup Goals': '0', 'EFL Cup Apps': '1', 'EFL Cup Goals': '0', 'Europe Apps': '1[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Manchester City",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2021\u201322[135]', 'League Division': 'Premier League', 'League Apps': '4', 'League Goals': '0', 'FA Cup Apps': '1', 'FA Cup Goals': '1', 'EFL Cup Apps': '2', 'EFL Cup Goals': '1', 'Europe Apps': '3[b]', 'Europe Goals': '1', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 11, 'Total Goals': 3}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Manchester City",
+      "league_apps": 14,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2022\u201323[137]', 'League Division': 'Premier League', 'League Apps': '14', 'League Goals': '0', 'FA Cup Apps': '4', 'FA Cup Goals': '1', 'EFL Cup Apps': '3', 'EFL Cup Goals': '0', 'Europe Apps': '4[b]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 25, 'Total Goals': 1}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Manchester City",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2023\u201324[29]', 'League Division': 'Premier League', 'League Apps': '1', 'League Goals': '0', 'FA Cup Apps': '\u2014', 'FA Cup Goals': '\u2014', 'EFL Cup Apps': '\u2014', 'EFL Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '2[d]', 'Other Goals': '2', 'Total Apps': 3, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester City",
+      "league_apps": 19,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '19', 'League Goals': '0', 'FA Cup Apps': '5', 'FA Cup Goals': '2', 'EFL Cup Apps': '6', 'EFL Cup Goals': '1', 'Europe Apps': '8', 'Europe Goals': '1', 'Other Apps': '3', 'Other Goals': '2', 'Total Apps': 41, 'Total Goals': 6}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Chelsea",
+      "league_apps": 33,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2023\u201324[29]', 'League Division': 'Premier League', 'League Apps': '33', 'League Goals': '22', 'FA Cup Apps': '6', 'FA Cup Goals': '1', 'EFL Cup Apps': '6', 'EFL Cup Goals': '2', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 25}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Chelsea",
+      "league_apps": 37,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2024\u201325[138]', 'League Division': 'Premier League', 'League Apps': '37', 'League Goals': '15', 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'EFL Cup Apps': '0', 'EFL Cup Goals': '0', 'Europe Apps': '8[e]', 'Europe Goals': '0', 'Other Apps': '6[f]', 'Other Goals': '3', 'Total Apps': 52, 'Total Goals': 18}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Chelsea",
+      "league_apps": 26,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2025\u201326[139]', 'League Division': 'Premier League', 'League Apps': '26', 'League Goals': '10', 'FA Cup Apps': '3', 'FA Cup Goals': '0', 'EFL Cup Apps': '1', 'EFL Cup Goals': '0', 'Europe Apps': '4[b]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "Chelsea",
+      "league_apps": 96,
+      "league_goals": 47,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '96', 'League Goals': '47', 'FA Cup Apps': '10', 'FA Cup Goals': '1', 'EFL Cup Apps': '7', 'EFL Cup Goals': '2', 'Europe Apps': '12', 'Europe Goals': '1', 'Other Apps': '6', 'Other Goals': '3', 'Total Apps': 131, 'Total Goals': 54}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 115,
+      "league_goals": 47,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '115', 'League Goals': '47', 'FA Cup Apps': '15', 'FA Cup Goals': '3', 'EFL Cup Apps': '13', 'EFL Cup Goals': '3', 'Europe Apps': '20', 'Europe Goals': '2', 'Other Apps': '12', 'Other Goals': '6', 'Total Apps': 175, 'Total Goals': 61}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Cole Palmer - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"b61347db-28a7-45d2-9df0-1adacda13a89\",\"wg"
+}

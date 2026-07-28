@@ -1,0 +1,112 @@
+{
+  "player_name_raw": "Nils Liedholm",
+  "fetch_status": "ok",
+  "wikipedia_title": "Nils_Liedholm",
+  "url": "https://en.wikipedia.org/wiki/Nils_Liedholm",
+  "position": "Attacking midfielder",
+  "birth_year": 1922,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1949\u201350",
+      "club": "AC Milan",
+      "league_apps": 37,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1949\u201350', 'League Division': 'Serie A', 'League Apps': 37.0, 'League Goals': 18.0, 'Cup Apps': '-', 'Cup Goals': '-', 'Europe[a] Apps': '-', 'Europe[a] Goals': '-', 'Other[b] Apps': '-', 'Other[b] Goals': '-', 'Total Apps': 37.0, 'Total Goals': 18.0}"
+    },
+    {
+      "season": "1950\u201351",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1950\u201351', 'League Division': 'Serie A', 'League Apps': 31.0, 'League Goals': 13.0, 'Cup Apps': '-', 'Cup Goals': '-', 'Europe[a] Apps': '-', 'Europe[a] Goals': '-', 'Other[b] Apps': '2', 'Other[b] Goals': '0', 'Total Apps': 33.0, 'Total Goals': 13.0}"
+    },
+    {
+      "season": "1951\u201352",
+      "club": "AC Milan",
+      "league_apps": 38,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1951\u201352', 'League Division': 'Serie A', 'League Apps': 38.0, 'League Goals': 9.0, 'Cup Apps': '-', 'Cup Goals': '-', 'Europe[a] Apps': '-', 'Europe[a] Goals': '-', 'Other[b] Apps': '-', 'Other[b] Goals': '-', 'Total Apps': 38.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "1952\u201353",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1952\u201353', 'League Division': 'Serie A', 'League Apps': 30.0, 'League Goals': 6.0, 'Cup Apps': '-', 'Cup Goals': '-', 'Europe[a] Apps': '-', 'Europe[a] Goals': '-', 'Other[b] Apps': '2', 'Other[b] Goals': '1', 'Total Apps': 32.0, 'Total Goals': 7.0}"
+    },
+    {
+      "season": "1953\u201354",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1953\u201354', 'League Division': 'Serie A', 'League Apps': 31.0, 'League Goals': 10.0, 'Cup Apps': '-', 'Cup Goals': '-', 'Europe[a] Apps': '-', 'Europe[a] Goals': '-', 'Other[b] Apps': '-', 'Other[b] Goals': '-', 'Total Apps': 31.0, 'Total Goals': 10.0}"
+    },
+    {
+      "season": "1954\u201355",
+      "club": "AC Milan",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1954\u201355', 'League Division': 'Serie A', 'League Apps': 28.0, 'League Goals': 6.0, 'Cup Apps': '-', 'Cup Goals': '-', 'Europe[a] Apps': '-', 'Europe[a] Goals': '-', 'Other[b] Apps': '1', 'Other[b] Goals': '1', 'Total Apps': 29.0, 'Total Goals': 7.0}"
+    },
+    {
+      "season": "1955\u201356",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1955\u201356', 'League Division': 'Serie A', 'League Apps': 31.0, 'League Goals': 1.0, 'Cup Apps': '-', 'Cup Goals': '-', 'Europe[a] Apps': '6', 'Europe[a] Goals': '0', 'Other[b] Apps': '2', 'Other[b] Goals': '0', 'Total Apps': 39.0, 'Total Goals': 1.0}"
+    },
+    {
+      "season": "1956\u201357",
+      "club": "AC Milan",
+      "league_apps": 26,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1956\u201357', 'League Division': 'Serie A', 'League Apps': 26.0, 'League Goals': 4.0, 'Cup Apps': '-', 'Cup Goals': '-', 'Europe[a] Apps': '-', 'Europe[a] Goals': '-', 'Other[b] Apps': '2', 'Other[b] Goals': '1', 'Total Apps': 28.0, 'Total Goals': 5.0}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "AC Milan",
+      "league_apps": 24,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1957\u201358', 'League Division': 'Serie A', 'League Apps': 24.0, 'League Goals': 7.0, 'Cup Apps': '-', 'Cup Goals': '-', 'Europe[a] Apps': '8', 'Europe[a] Goals': '2', 'Other[b] Apps': '-', 'Other[b] Goals': '-', 'Total Apps': 32.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "1958\u201359",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1958\u201359', 'League Division': 'Serie A', 'League Apps': 30.0, 'League Goals': 1.0, 'Cup Apps': '2', 'Cup Goals': '1', 'Europe[a] Apps': '-', 'Europe[a] Goals': '-', 'Other[b] Apps': '-', 'Other[b] Goals': '-', 'Total Apps': 32.0, 'Total Goals': 2.0}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "AC Milan",
+      "league_apps": 28,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1959\u201360', 'League Division': 'Serie A', 'League Apps': 28.0, 'League Goals': 3.0, 'Cup Apps': '-', 'Cup Goals': '-', 'Europe[a] Apps': '4', 'Europe[a] Goals': '0', 'Other[b] Apps': '3', 'Other[b] Goals': '2', 'Total Apps': 35.0, 'Total Goals': 5.0}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "AC Milan",
+      "league_apps": 25,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1960\u201361', 'League Division': 'Serie A', 'League Apps': 25.0, 'League Goals': 3.0, 'Cup Apps': '1', 'Cup Goals': '-', 'Europe[a] Apps': '-', 'Europe[a] Goals': '-', 'Other[b] Apps': '2', 'Other[b] Goals': '-', 'Total Apps': 28.0, 'Total Goals': 3.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 359,
+      "league_goals": 81,
+      "raw": "{'Club Club': 'Total', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 359.0, 'League Goals': 81.0, 'Cup Apps': '3', 'Cup Goals': '1', 'Europe[a] Apps': '18', 'Europe[a] Goals': '2', 'Other[b] Apps': '14', 'Other[b] Goals': '5', 'Total Apps': 394.0, 'Total Goals': 89.0}"
+    },
+    {
+      "season": "nan",
+      "club": "nan",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': nan, 'Season Season': nan, 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'Cup Apps': nan, 'Cup Goals': nan, 'Europe[a] Apps': nan, 'Europe[a] Goals': nan, 'Other[b] Apps': nan, 'Other[b] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Nils Liedholm - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"21cf3c6a-ca7e-4cdd-9d09-d66a012a340b\",\"",
+  "season_id": "1958",
+  "award_year": 1958
+}

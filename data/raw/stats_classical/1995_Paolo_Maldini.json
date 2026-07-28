@@ -1,0 +1,196 @@
+{
+  "player_name_raw": "Paolo Maldini",
+  "fetch_status": "ok",
+  "wikipedia_title": "Paolo_Maldini",
+  "url": "https://en.wikipedia.org/wiki/Paolo_Maldini",
+  "position": "Left-back centre-back",
+  "birth_year": 1968,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1984\u201385",
+      "club": "AC Milan",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1984\u201385', 'League Division': 'Serie A', 'League Apps': 1, 'League Goals': 0, 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "AC Milan",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1985\u201386', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 0, 'Coppa Italia Apps': 6, 'Coppa Italia Goals': 0, 'Europe Apps': '6[b]', 'Europe Goals': '0', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "AC Milan",
+      "league_apps": 29,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1986\u201387', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 1, 'Coppa Italia Apps': 7, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 1}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "AC Milan",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1987\u201388', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 2, 'Coppa Italia Apps': 1, 'Coppa Italia Goals': 0, 'Europe Apps': '2[b]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 29, 'Total Goals': 2}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "AC Milan",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1988\u201389', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 0, 'Coppa Italia Apps': 7, 'Coppa Italia Goals': 0, 'Europe Apps': '7[e]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1989\u201390', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 1, 'Coppa Italia Apps': 6, 'Coppa Italia Goals': 0, 'Europe Apps': '8[e]', 'Europe Goals': '0', 'Other Apps': '3[f]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 1}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "AC Milan",
+      "league_apps": 26,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1990\u201391', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 4, 'Coppa Italia Apps': 3, 'Coppa Italia Goals': 0, 'Europe Apps': '4[e]', 'Europe Goals': '0', 'Other Apps': '2[g]', 'Other Goals': '0', 'Total Apps': 35, 'Total Goals': 4}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1991\u201392', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 3, 'Coppa Italia Apps': 7, 'Coppa Italia Goals': 1, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 4}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1992\u201393', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 2, 'Coppa Italia Apps': 8, 'Coppa Italia Goals': 0, 'Europe Apps': '10[h]', 'Europe Goals': '1', 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 50, 'Total Goals': 3}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1993\u201394', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 1, 'Coppa Italia Apps': 2, 'Coppa Italia Goals': 0, 'Europe Apps': '10[h]', 'Europe Goals': '1', 'Other Apps': '4[j]', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 2}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "AC Milan",
+      "league_apps": 29,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 2, 'Coppa Italia Apps': 1, 'Coppa Italia Goals': 0, 'Europe Apps': '11[h]', 'Europe Goals': '0', 'Other Apps': '2[k]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 2}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 3, 'Coppa Italia Apps': 3, 'Coppa Italia Goals': 0, 'Europe Apps': '8[b]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 41, 'Total Goals': 3}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "AC Milan",
+      "league_apps": 26,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1996\u201397', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 1, 'Coppa Italia Apps': 3, 'Coppa Italia Goals': 0, 'Europe Apps': '6[h]', 'Europe Goals': '0', 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 1}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 7, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 37, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 1, 'Coppa Italia Apps': 2, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 1}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "AC Milan",
+      "league_apps": 27,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 1, 'Coppa Italia Apps': 4, 'Coppa Italia Goals': 0, 'Europe Apps': '6[h]', 'Europe Goals': '0', 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 38, 'Total Goals': 1}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2000\u201301', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 1, 'Coppa Italia Apps': 4, 'Coppa Italia Goals': 0, 'Europe Apps': '14[h]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 49, 'Total Goals': 1}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "AC Milan",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2001\u201302', 'League Division': 'Serie A', 'League Apps': 15, 'League Goals': 0, 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '4[b]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 19, 'Total Goals': 0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "AC Milan",
+      "league_apps": 29,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2002\u201303', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 2, 'Coppa Italia Apps': 1, 'Coppa Italia Goals': 0, 'Europe Apps': '19[h]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 49, 'Total Goals': 2}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2003\u201304', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '9[h]', 'Europe Goals': '0', 'Other Apps': '3[l]', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "AC Milan",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2004\u201305', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 0, 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '13[h]', 'Europe Goals': '1', 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 1}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "AC Milan",
+      "league_apps": 14,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2005\u201306', 'League Division': 'Serie A', 'League Apps': 14, 'League Goals': 2, 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '9[h]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 23, 'Total Goals': 2}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "AC Milan",
+      "league_apps": 18,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2006\u201307', 'League Division': 'Serie A', 'League Apps': 18, 'League Goals': 1, 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '9[h]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 27, 'Total Goals': 1}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "AC Milan",
+      "league_apps": 17,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2007\u201308', 'League Division': 'Serie A', 'League Apps': 17, 'League Goals': 1, 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '4[h]', 'Europe Goals': '0', 'Other Apps': '2[m]', 'Other Goals': '0', 'Total Apps': 23, 'Total Goals': 1}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2008\u201309', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 0, 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '2[b]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 647,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 647, 'League Goals': 29, 'Coppa Italia Apps': 72, 'Coppa Italia Goals': 1, 'Europe Apps': '161', 'Europe Goals': '3', 'Other Apps': '22', 'Other Goals': '0', 'Total Apps': 902, 'Total Goals': 33}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Paolo Maldini - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"de1fa01e-7111-4325-9260-22d106834af5\",\"",
+  "season_id": "1995",
+  "award_year": 1995
+}

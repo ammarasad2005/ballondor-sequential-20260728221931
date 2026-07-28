@@ -1,0 +1,224 @@
+{
+  "player_name_raw": "John Wark",
+  "fetch_status": "ok",
+  "wikipedia_title": "John_Wark",
+  "url": "https://en.wikipedia.org/wiki/John_Wark",
+  "position": "Midfielder",
+  "birth_year": 1957,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1974\u201375",
+      "club": "Ipswich Town",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1974\u201375', 'Appearances Football League': 3, 'Appearances FA Cup': 2, 'Appearances League Cup': 0, 'Appearances Other': 0, 'Goals Goals': 0}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Ipswich Town",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1975\u201376', 'Appearances Football League': 3, 'Appearances FA Cup': 1, 'Appearances League Cup': 0, 'Appearances Other': 0, 'Goals Goals': 0}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Ipswich Town",
+      "league_apps": 33,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1976\u201377', 'Appearances Football League': 33, 'Appearances FA Cup': 3, 'Appearances League Cup': 2, 'Appearances Other': 0, 'Goals Goals': 10}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Ipswich Town",
+      "league_apps": 18,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1977\u201378', 'Appearances Football League': 18, 'Appearances FA Cup': 7, 'Appearances League Cup': 0, 'Appearances Other': 1, 'Goals Goals': 7}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Ipswich Town",
+      "league_apps": 42,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1978\u201379', 'Appearances Football League': 42, 'Appearances FA Cup': 5, 'Appearances League Cup': 1, 'Appearances Other': 7, 'Goals Goals': 9}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Ipswich Town",
+      "league_apps": 41,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1979\u201380', 'Appearances Football League': 41, 'Appearances FA Cup': 4, 'Appearances League Cup': 2, 'Appearances Other': 3, 'Goals Goals': 15}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Ipswich Town",
+      "league_apps": 40,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1980\u201381', 'Appearances Football League': 40, 'Appearances FA Cup': 7, 'Appearances League Cup': 5, 'Appearances Other': 12, 'Goals Goals': 36}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Ipswich Town",
+      "league_apps": 42,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1981\u201382', 'Appearances Football League': 42, 'Appearances FA Cup': 3, 'Appearances League Cup': 8, 'Appearances Other': 2, 'Goals Goals': 23}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Ipswich Town",
+      "league_apps": 42,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1982\u201383', 'Appearances Football League': 42, 'Appearances FA Cup': 3, 'Appearances League Cup': 2, 'Appearances Other': 2, 'Goals Goals': 23}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Ipswich Town",
+      "league_apps": 32,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1983\u201384', 'Appearances Football League': 32, 'Appearances FA Cup': 2, 'Appearances League Cup': 4, 'Appearances Other': 0, 'Goals Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "Ipswich Town",
+      "league_apps": 266,
+      "league_goals": 134,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': 'Total', 'Appearances Football League': 266, 'Appearances FA Cup': 37, 'Appearances League Cup': 24, 'Appearances Other': 27, 'Goals Goals': 134}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Liverpool",
+      "league_apps": 9,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1983\u201384', 'Appearances Football League': 9, 'Appearances FA Cup': 0, 'Appearances League Cup': 0, 'Appearances Other': 0, 'Goals Goals': 2}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Liverpool",
+      "league_apps": 40,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1984\u201385', 'Appearances Football League': 40, 'Appearances FA Cup': 7, 'Appearances League Cup': 3, 'Appearances Other': 12, 'Goals Goals': 27}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Liverpool",
+      "league_apps": 9,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1985\u201386', 'Appearances Football League': 9, 'Appearances FA Cup': 4, 'Appearances League Cup': 3, 'Appearances Other': 2, 'Goals Goals': 6}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Liverpool",
+      "league_apps": 11,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1986\u201387', 'Appearances Football League': 11, 'Appearances FA Cup': 2, 'Appearances League Cup': 3, 'Appearances Other': 1, 'Goals Goals': 7}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Liverpool",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1987\u201388', 'Appearances Football League': 1, 'Appearances FA Cup': 0, 'Appearances League Cup': 1, 'Appearances Other': 0, 'Goals Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Liverpool",
+      "league_apps": 70,
+      "league_goals": 42,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': 'Total', 'Appearances Football League': 70, 'Appearances FA Cup': 13, 'Appearances League Cup': 10, 'Appearances Other': 15, 'Goals Goals': 42}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Ipswich Town",
+      "league_apps": 7,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1987\u201388', 'Appearances Football League': 7, 'Appearances FA Cup': 0, 'Appearances League Cup': 0, 'Appearances Other': 2, 'Goals Goals': 2}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Ipswich Town",
+      "league_apps": 41,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1988\u201389', 'Appearances Football League': 41, 'Appearances FA Cup': 1, 'Appearances League Cup': 3, 'Appearances Other': 4, 'Goals Goals': 13}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Ipswich Town",
+      "league_apps": 41,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1989\u201390', 'Appearances Football League': 41, 'Appearances FA Cup': 2, 'Appearances League Cup': 1, 'Appearances Other': 3, 'Goals Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Ipswich Town",
+      "league_apps": 89,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': 'Total', 'Appearances Football League': 89, 'Appearances FA Cup': 3, 'Appearances League Cup': 4, 'Appearances Other': 9, 'Goals Goals': 25}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Middlesbrough",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Middlesbrough', 'Season Season': '1990\u201391', 'Appearances Football League': 32, 'Appearances FA Cup': 2, 'Appearances League Cup': 5, 'Appearances Other': 0, 'Goals Goals': 2}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Ipswich Town",
+      "league_apps": 37,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1991\u201392', 'Appearances Football League': 37, 'Appearances FA Cup': 5, 'Appearances League Cup': 1, 'Appearances Other': 3, 'Goals Goals': 3}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Ipswich Town",
+      "league_apps": 37,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1992\u201393', 'Appearances Football League': 37, 'Appearances FA Cup': 4, 'Appearances League Cup': 7, 'Appearances Other': 0, 'Goals Goals': 7}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Ipswich Town",
+      "league_apps": 38,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1993\u201394', 'Appearances Football League': 38, 'Appearances FA Cup': 5, 'Appearances League Cup': 3, 'Appearances Other': 0, 'Goals Goals': 4}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Ipswich Town",
+      "league_apps": 26,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1994\u201395', 'Appearances Football League': 26, 'Appearances FA Cup': 2, 'Appearances League Cup': 0, 'Appearances Other': 0, 'Goals Goals': 4}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Ipswich Town",
+      "league_apps": 14,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1995\u201396', 'Appearances Football League': 14, 'Appearances FA Cup': 2, 'Appearances League Cup': 1, 'Appearances Other': 2, 'Goals Goals': 2}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Ipswich Town",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': '1996\u201397', 'Appearances Football League': 2, 'Appearances FA Cup': 0, 'Appearances League Cup': 1, 'Appearances Other': 0, 'Goals Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Ipswich Town",
+      "league_apps": 154,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Ipswich Town', 'Season Season': 'Total', 'Appearances Football League': 154, 'Appearances FA Cup': 18, 'Appearances League Cup': 13, 'Appearances Other': 5, 'Goals Goals': 20}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 611,
+      "league_goals": 223,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'Appearances Football League': 611, 'Appearances FA Cup': 73, 'Appearances League Cup': 56, 'Appearances Other': 56, 'Goals Goals': 223}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>John Wark - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ae9db986-2ec3-4fef-9865-955f066c794e\",\"wgCa",
+  "season_id": "1981",
+  "award_year": 1981
+}

@@ -1,0 +1,161 @@
+{
+  "player_name_raw": "Michael Owen",
+  "fetch_status": "ok",
+  "wikipedia_title": "Michael_Owen",
+  "url": "https://en.wikipedia.org/wiki/Michael_Owen",
+  "position": "Striker",
+  "birth_year": 1979,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1996\u201397",
+      "club": "Liverpool",
+      "league_apps": 2,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1996\u201397', 'League Division': 'Premier League', 'League Apps': 2, 'League Goals': 1, 'National Cup[a] Apps': 0, 'National Cup[a] Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 1}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Liverpool",
+      "league_apps": 36,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1997\u201398', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 18, 'National Cup[a] Apps': 0, 'National Cup[a] Goals': 0, 'League Cup Apps': '4', 'League Cup Goals': '4', 'Europe Apps': '4[b]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 23}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Liverpool",
+      "league_apps": 30,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1998\u201399', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 18, 'National Cup[a] Apps': 2, 'National Cup[a] Goals': 2, 'League Cup Apps': '2', 'League Cup Goals': '1', 'Europe Apps': '6[b]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 23}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Liverpool",
+      "league_apps": 27,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1999\u20132000', 'League Division': 'Premier League', 'League Apps': 27, 'League Goals': 11, 'National Cup[a] Apps': 1, 'National Cup[a] Goals': 0, 'League Cup Apps': '2', 'League Cup Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 12}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Liverpool",
+      "league_apps": 28,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2000\u201301', 'League Division': 'Premier League', 'League Apps': 28, 'League Goals': 16, 'National Cup[a] Apps': 5, 'National Cup[a] Goals': 3, 'League Cup Apps': '2', 'League Cup Goals': '1', 'Europe Apps': '11[b]', 'Europe Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 24}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Liverpool",
+      "league_apps": 29,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2001\u201302', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 19, 'National Cup[a] Apps': 2, 'National Cup[a] Goals': 2, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '10[c]', 'Europe Goals': '5', 'Other Apps': '2[d]', 'Other Goals': '2', 'Total Apps': 43, 'Total Goals': 28}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Liverpool",
+      "league_apps": 35,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2002\u201303', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 19, 'National Cup[a] Apps': 2, 'National Cup[a] Goals': 0, 'League Cup Apps': '4', 'League Cup Goals': '2', 'Europe Apps': '12[e]', 'Europe Goals': '7', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 54, 'Total Goals': 28}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Liverpool",
+      "league_apps": 29,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2003\u201304', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 16, 'National Cup[a] Apps': 3, 'National Cup[a] Goals': 1, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '6[b]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 19}"
+    },
+    {
+      "season": "Total",
+      "club": "Liverpool",
+      "league_apps": 216,
+      "league_goals": 118,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 216, 'League Goals': 118, 'National Cup[a] Apps': 15, 'National Cup[a] Goals': 8, 'League Cup Apps': '14', 'League Cup Goals': '9', 'Europe Apps': '49', 'Europe Goals': '21', 'Other Apps': '3', 'Other Goals': '2', 'Total Apps': 297, 'Total Goals': 158}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Real Madrid",
+      "league_apps": 36,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2004\u201305', 'League Division': 'La Liga', 'League Apps': 36, 'League Goals': 13, 'National Cup[a] Apps': 4, 'National Cup[a] Goals': 2, 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '5[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 16}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Newcastle United",
+      "league_apps": 11,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '2005\u201306', 'League Division': 'Premier League', 'League Apps': 11, 'League Goals': 7, 'National Cup[a] Apps': 0, 'National Cup[a] Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 7}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Newcastle United",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '2006\u201307', 'League Division': 'Premier League', 'League Apps': 3, 'League Goals': 0, 'National Cup[a] Apps': 0, 'National Cup[a] Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Newcastle United",
+      "league_apps": 29,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '2007\u201308', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 11, 'National Cup[a] Apps': 3, 'National Cup[a] Goals': 1, 'League Cup Apps': '1', 'League Cup Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 13}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Newcastle United",
+      "league_apps": 28,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '2008\u201309', 'League Division': 'Premier League', 'League Apps': 28, 'League Goals': 8, 'National Cup[a] Apps': 2, 'National Cup[a] Goals': 0, 'League Cup Apps': '2', 'League Cup Goals': '2', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Newcastle United",
+      "league_apps": 71,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 71, 'League Goals': 26, 'National Cup[a] Apps': 5, 'National Cup[a] Goals': 1, 'League Cup Apps': '3', 'League Cup Goals': '3', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 79, 'Total Goals': 30}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Manchester United",
+      "league_apps": 19,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2009\u201310', 'League Division': 'Premier League', 'League Apps': 19, 'League Goals': 3, 'National Cup[a] Apps': 1, 'National Cup[a] Goals': 0, 'League Cup Apps': '4', 'League Cup Goals': '2', 'Europe Apps': '6[c]', 'Europe Goals': '4', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 31, 'Total Goals': 9}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Manchester United",
+      "league_apps": 11,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2010\u201311', 'League Division': 'Premier League', 'League Apps': 11, 'League Goals': 2, 'National Cup[a] Apps': 2, 'National Cup[a] Goals': 1, 'League Cup Apps': '1', 'League Cup Goals': '2', 'Europe Apps': '2[c]', 'Europe Goals': '0', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 17, 'Total Goals': 5}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Manchester United",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2011\u201312', 'League Division': 'Premier League', 'League Apps': 1, 'League Goals': 0, 'National Cup[a] Apps': 0, 'National Cup[a] Goals': 0, 'League Cup Apps': '2', 'League Cup Goals': '3', 'Europe Apps': '1[c]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 4, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester United",
+      "league_apps": 31,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 31, 'League Goals': 5, 'National Cup[a] Apps': 3, 'National Cup[a] Goals': 1, 'League Cup Apps': '7', 'League Cup Goals': '7', 'Europe Apps': '9', 'Europe Goals': '4', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 17}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Stoke City",
+      "league_apps": 8,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '2012\u201313', 'League Division': 'Premier League', 'League Apps': 8, 'League Goals': 1, 'National Cup[a] Apps': 1, 'National Cup[a] Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 362,
+      "league_goals": 163,
+      "raw": "{'Club Club': 'Total', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 362, 'League Goals': 163, 'National Cup[a] Apps': 28, 'National Cup[a] Goals': 12, 'League Cup Apps': '24', 'League Cup Goals': '19', 'Europe Apps': '63', 'Europe Goals': '26', 'Other Apps': '5', 'Other Goals': '2', 'Total Apps': 482, 'Total Goals': 222}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Michael Owen - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"1467c386-1d1c-4cba-92f4-11d89215634d\",\"w",
+  "season_id": "2001",
+  "award_year": 2001
+}

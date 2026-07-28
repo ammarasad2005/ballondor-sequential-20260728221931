@@ -1,0 +1,217 @@
+{
+  "player_name_raw": "Ronaldinho",
+  "fetch_status": "ok",
+  "wikipedia_title": "Ronaldinho",
+  "url": "https://en.wikipedia.org/wiki/Ronaldinho",
+  "position": "Attacking midfielder left winger",
+  "birth_year": 1980,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1998",
+      "club": "Gr\u00eamio",
+      "league_apps": 14,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Gr\u00eamio[246][247]', 'Season Season': '1998', 'League Division': 'Brasileir\u00e3o', 'League Apps': '14', 'League Goals': '1', 'Regional league Apps': '7[a]', 'Regional league Goals': '2', 'Cup Apps': '2[b]', 'Cup Goals': '0', 'Continental Apps': '15[c]', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 6}"
+    },
+    {
+      "season": "1999",
+      "club": "Gr\u00eamio",
+      "league_apps": 17,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Gr\u00eamio[246][247]', 'Season Season': '1999', 'League Division': 'Brasileir\u00e3o', 'League Apps': '17', 'League Goals': '4', 'Regional league Apps': '17[a]', 'Regional league Goals': '15', 'Cup Apps': '3[b]', 'Cup Goals': '0', 'Continental Apps': '4[d]', 'Continental Goals': '2', 'Other Apps': '6[e]', 'Other Goals': '1', 'Total Apps': 47, 'Total Goals': 22}"
+    },
+    {
+      "season": "2000",
+      "club": "Gr\u00eamio",
+      "league_apps": 21,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Gr\u00eamio[246][247]', 'Season Season': '2000', 'League Division': 'Brasileir\u00e3o', 'League Apps': '21', 'League Goals': '14', 'Regional league Apps': '13[a]', 'Regional league Goals': '11', 'Cup Apps': '3[b]', 'Cup Goals': '3', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 28}"
+    },
+    {
+      "season": "2001",
+      "club": "Gr\u00eamio",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Gr\u00eamio[246][247]', 'Season Season': '2001', 'League Division': 'Brasileir\u00e3o', 'League Apps': '\u2014', 'League Goals': '\u2014', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '3[f]', 'Other Goals': '2', 'Total Apps': 3, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Gr\u00eamio",
+      "league_apps": 52,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Gr\u00eamio[246][247]', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '52', 'League Goals': '19', 'Regional league Apps': '37', 'Regional league Goals': '28', 'Cup Apps': '8', 'Cup Goals': '3', 'Continental Apps': '19', 'Continental Goals': '5', 'Other Apps': '9', 'Other Goals': '3', 'Total Apps': 125, 'Total Goals': 58}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Paris Saint-Germain",
+      "league_apps": 28,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Paris Saint-Germain[248]', 'Season Season': '2001\u201302', 'League Division': 'Ligue 1', 'League Apps': '28', 'League Goals': '9', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '6[g]', 'Cup Goals': '2', 'Continental Apps': '6[h]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 13}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Paris Saint-Germain",
+      "league_apps": 27,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Paris Saint-Germain[248]', 'Season Season': '2002\u201303', 'League Division': 'Ligue 1', 'League Apps': '27', 'League Goals': '8', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '6[i]', 'Cup Goals': '3', 'Continental Apps': '4[h]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 12}"
+    },
+    {
+      "season": "Total",
+      "club": "Paris Saint-Germain",
+      "league_apps": 55,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Paris Saint-Germain[248]', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '55', 'League Goals': '17', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '12', 'Cup Goals': '5', 'Continental Apps': '10', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 77, 'Total Goals': 25}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Barcelona",
+      "league_apps": 32,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Barcelona[246][248]', 'Season Season': '2003\u201304', 'League Division': 'La Liga', 'League Apps': '32', 'League Goals': '15', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '6[j]', 'Cup Goals': '3', 'Continental Apps': '7[h]', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 22}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Barcelona",
+      "league_apps": 35,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Barcelona[246][248]', 'Season Season': '2004\u201305', 'League Division': 'La Liga', 'League Apps': '35', 'League Goals': '9', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'Continental Apps': '7[k]', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 13}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Barcelona",
+      "league_apps": 29,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Barcelona[246][248]', 'Season Season': '2005\u201306', 'League Division': 'La Liga', 'League Apps': '29', 'League Goals': '17', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '2[j]', 'Cup Goals': '1', 'Continental Apps': '12[k]', 'Continental Goals': '7', 'Other Apps': '2[l]', 'Other Goals': '1', 'Total Apps': 45, 'Total Goals': 26}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Barcelona",
+      "league_apps": 32,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Barcelona[246][248]', 'Season Season': '2006\u201307', 'League Division': 'La Liga', 'League Apps': '32', 'League Goals': '21', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '4[j]', 'Cup Goals': '0', 'Continental Apps': '8[k]', 'Continental Goals': '2', 'Other Apps': '5[m]', 'Other Goals': '1', 'Total Apps': 49, 'Total Goals': 24}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Barcelona",
+      "league_apps": 17,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Barcelona[246][248]', 'Season Season': '2007\u201308', 'League Division': 'La Liga', 'League Apps': '17', 'League Goals': '8', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '1[j]', 'Cup Goals': '0', 'Continental Apps': '8[k]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 145,
+      "league_goals": 70,
+      "raw": "{'Club Club': 'Barcelona[246][248]', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '145', 'League Goals': '70', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '13', 'Cup Goals': '4', 'Continental Apps': '42', 'Continental Goals': '18', 'Other Apps': '7', 'Other Goals': '2', 'Total Apps': 207, 'Total Goals': 94}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "AC Milan",
+      "league_apps": 29,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'AC Milan[246][248]', 'Season Season': '2008\u201309', 'League Division': 'Serie A', 'League Apps': '29', 'League Goals': '8', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '1[n]', 'Cup Goals': '0', 'Continental Apps': '6[h]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 10}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "AC Milan",
+      "league_apps": 36,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'AC Milan[246][248]', 'Season Season': '2009\u201310', 'League Division': 'Serie A', 'League Apps': '36', 'League Goals': '12', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'Continental Apps': '7[k]', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 15}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "AC Milan",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan[246][248]', 'Season Season': '2010\u201311', 'League Division': 'Serie A', 'League Apps': '11', 'League Goals': '0', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'Continental Apps': '5[k]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 16, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 76,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'AC Milan[246][248]', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '76', 'League Goals': '20', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '1', 'Cup Goals': '0', 'Continental Apps': '18', 'Continental Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 95, 'Total Goals': 26}"
+    },
+    {
+      "season": "2011",
+      "club": "Flamengo",
+      "league_apps": 31,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Flamengo[248][249]', 'Season Season': '2011', 'League Division': 'Brasileir\u00e3o', 'League Apps': '31', 'League Goals': '14', 'Regional league Apps': '13[o]', 'Regional league Goals': '4', 'Cup Apps': '5[b]', 'Cup Goals': '1', 'Continental Apps': '3[p]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 52, 'Total Goals': 21}"
+    },
+    {
+      "season": "2012",
+      "club": "Flamengo",
+      "league_apps": 2,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Flamengo[248][249]', 'Season Season': '2012', 'League Division': 'Brasileir\u00e3o', 'League Apps': '2', 'League Goals': '1', 'Regional league Apps': '10[o]', 'Regional league Goals': '4', 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'Continental Apps': '8[q]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Flamengo",
+      "league_apps": 33,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Flamengo[248][249]', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '33', 'League Goals': '15', 'Regional league Apps': '23', 'Regional league Goals': '8', 'Cup Apps': '5', 'Cup Goals': '1', 'Continental Apps': '11', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 72, 'Total Goals': 28}"
+    },
+    {
+      "season": "2012",
+      "club": "Atl\u00e9tico Mineiro",
+      "league_apps": 32,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Atl\u00e9tico Mineiro[248][249]', 'Season Season': '2012', 'League Division': 'Brasileir\u00e3o', 'League Apps': '32', 'League Goals': '9', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 9}"
+    },
+    {
+      "season": "2013",
+      "club": "Atl\u00e9tico Mineiro",
+      "league_apps": 14,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Atl\u00e9tico Mineiro[248][249]', 'Season Season': '2013', 'League Division': 'Brasileir\u00e3o', 'League Apps': '14', 'League Goals': '7', 'Regional league Apps': '6[r]', 'Regional league Goals': '4', 'Cup Apps': '2[b]', 'Cup Goals': '0', 'Continental Apps': '14[q]', 'Continental Goals': '4', 'Other Apps': '2[s]', 'Other Goals': '2', 'Total Apps': 38, 'Total Goals': 17}"
+    },
+    {
+      "season": "2014",
+      "club": "Atl\u00e9tico Mineiro",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Atl\u00e9tico Mineiro[248][249]', 'Season Season': '2014', 'League Division': 'Brasileir\u00e3o', 'League Apps': '2', 'League Goals': '0', 'Regional league Apps': '4[r]', 'Regional league Goals': '0', 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'Continental Apps': '7[q]', 'Continental Goals': '1', 'Other Apps': '2[t]', 'Other Goals': '0', 'Total Apps': 15, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Atl\u00e9tico Mineiro",
+      "league_apps": 48,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Atl\u00e9tico Mineiro[248][249]', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '48', 'League Goals': '16', 'Regional league Apps': '10', 'Regional league Goals': '4', 'Cup Apps': '2', 'Cup Goals': '0', 'Continental Apps': '21', 'Continental Goals': '5', 'Other Apps': '4', 'Other Goals': '2', 'Total Apps': 85, 'Total Goals': 27}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Quer\u00e9taro",
+      "league_apps": 25,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Quer\u00e9taro[248]', 'Season Season': '2014\u201315', 'League Division': 'Liga MX', 'League Apps': '25', 'League Goals': '8', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '4[u]', 'Cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 8}"
+    },
+    {
+      "season": "2015",
+      "club": "Fluminense",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fluminense[248]', 'Season Season': '2015', 'League Division': 'Brasileir\u00e3o', 'League Apps': '7', 'League Goals': '0', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '2[b]', 'Cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "2026\u201327",
+      "club": "Ravenna FC",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ravenna FC', 'Season Season': '2026\u201327', 'League Division': 'Serie C', 'League Apps': '0', 'League Goals': '0', 'Regional league Apps': '\u2014', 'Regional league Goals': '\u2014', 'Cup Apps': '\u2014', 'Cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 441,
+      "league_goals": 165,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '441', 'League Goals': '165', 'Regional league Apps': '70', 'Regional league Goals': '40', 'Cup Apps': '47', 'Cup Goals': '13', 'Continental Apps': '121', 'Continental Goals': '41', 'Other Apps': '20', 'Other Goals': '7', 'Total Apps': 699, 'Total Goals': 266}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Ronaldinho - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"558656ba-7733-46d8-b0e4-6ec3eef1d327\",\"wgC",
+  "season_id": "2002",
+  "award_year": 2002
+}

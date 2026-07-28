@@ -1,0 +1,1630 @@
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+Loading ground truth
+Unique players to scrape: 835
+[1/835] Scraping Achraf Hakimi
+[2/835] Scraping Ademola Lookman
+[3/835] Scraping Adrian Mutu
+[4/835] Scraping Adriano
+[5/835] Scraping Agne Simonsson
+[6/835] Scraping Ake Johansson
+[7/835] Scraping Alain Giresse
+[8/835] Scraping Alan Ball
+[9/835] Scraping Alan Shearer
+[10/835] Scraping Albert Shesternyov
+[11/835] Scraping Alen Bokšić
+[12/835] Scraping Alessandro Altobelli
+[13/835] Scraping Alessandro Del Piero
+[14/835] Scraping Alessandro Nesta
+[15/835] Scraping Alexis Mac Allister
+[16/835] Scraping Alexis Sánchez
+[17/835] Scraping Alexsandr Chivadze
+[18/835] Scraping Alfredo Di Stéfano
+[19/835] Scraping Ali Kemal
+[20/835] Scraping Alisson
+[21/835] Scraping Allan Simonsen
+[22/835] Scraping Ally McCoist
+[23/835] Scraping Amancio
+[24/835] Scraping Anatoliy Byshovets
+[25/835] Scraping Anatoliy Demyanenko
+[26/835] Scraping Anders Linderoth
+[27/835] Scraping Andrea Pirlo
+[28/835] Scraping Andreas Brehme
+[29/835] Scraping Andreas Herzog
+[30/835] Scraping Andreas Köpke
+[31/835] Scraping Andreas Möller
+[32/835] Scraping Andreas Thom
+[33/835] Scraping Andrej Kvašňák
+[34/835] Scraping Andrey Arshavin
+[35/835] Scraping Andriy Shevchenko
+[36/835] Scraping András Törőcsik
+[37/835] Scraping André Lerond
+[38/835] Scraping André Onana
+[39/835] Scraping Andrés Iniesta
+[40/835] Scraping Andy Cole
+[41/835] Scraping Angelo Domenghini
+[42/835] Scraping Angelo Peruzzi
+[43/835] Scraping Angelo Sormani
+[44/835] Scraping Angelos Charisteas
+[45/835] Scraping Antal Dunai
+[46/835] Scraping Antoine Griezmann
+[47/835] Scraping Anton Ondruš
+[48/835] Scraping Antoni Ramallets
+[49/835] Scraping Antonio Angelillo
+[50/835] Scraping Antonio Cabrini
+[51/835] Scraping Antonio Maceda
+[52/835] Scraping Antonio Rüdiger
+[53/835] Scraping Antonios Nikopolidis
+[54/835] Scraping Antonín Panenka
+[55/835] Scraping António Oliveira
+[56/835] Scraping Archie Gemmill
+[57/835] Scraping Arie Haan
+[58/835] Scraping Arjen Robben
+[59/835] Scraping Artem Dovbyk
+[60/835] Scraping Arturo Vidal
+[61/835] Scraping Asamoah Gyan
+[62/835] Scraping Barry Hulshoff
+[63/835] Scraping Basile Boli
+[64/835] Scraping Bastian Schweinsteiger
+[65/835] Scraping Bebeto
+[66/835] Scraping Bengt Gustavsson
+[67/835] Scraping Benny Wendt
+[68/835] Scraping Bent Skammelsrud
+[69/835] Scraping Bernardo Silva
+[70/835] Scraping Bernd Schneider
+[71/835] Scraping Bernd Schuster
+[72/835] Scraping Berti Vogts
+[73/835] Scraping Billy Bremner
+[74/835] Scraping Billy Wright
+[75/835] Scraping Bixente Lizarazu
+[76/835] Scraping Blagoje Vidinić
+[77/835] Scraping Bobby Charlton
+[78/835] Scraping Bobby Moore
+[79/835] Scraping Bobby Smith
+[80/835] Scraping Bora Kostić
+[81/835] Scraping Branko Oblak
+[82/835] Scraping Brian Laudrup
+[83/835] Scraping Bruno Conti
+[84/835] Scraping Bruno Fernandes
+[85/835] Scraping Bruno Martini
+[86/835] Scraping Bruno Nicolè
+[87/835] Scraping Bruno Pezzey
+[88/835] Scraping Bryan Robson
+[89/835] Scraping Bukayo Saka
+[90/835] Scraping Břetislav Dolejší
+[91/835] Scraping Cafu
+[92/835] Scraping Carles Puyol
+[93/835] Scraping Carles Rexach
+[94/835] Scraping Carlos Manuel
+[95/835] Scraping Carlos Tevez
+[96/835] Scraping Casemiro
+[97/835] Scraping Cesar Azpilicueta
+[98/835] Scraping Cesare Maldini
+[99/835] Scraping Cesc Fàbregas
+[100/835] Scraping Charles Antenen
+[101/835] Scraping Chris Waddle
+[102/835] Scraping Christian Vieri
+[103/835] Scraping Christian Ziege
+[104/835] Scraping Christopher Nkunku
+[105/835] Scraping Ciriaco Sforza
+[106/835] Scraping Ciro Ferrara
+[107/835] Scraping Clarence Seedorf
+[108/835] Scraping Claude Makélélé
+[109/835] Scraping Claudio López
+[110/835] Scraping Coen Moulijn
+[111/835] Scraping Cole Palmer
+[112/835] Scraping Colin McDonald
+[113/835] Scraping Colin Todd
+[114/835] Scraping Cornel Dinu
+[115/835] Scraping Costa Pereira
+[116/835] Scraping Costică Ștefănescu
+[117/835] Scraping Cristiano Ronaldo
+[118/835] Scraping Damiano Tommasi
+[119/835] Scraping Dani Alves
+[120/835] Scraping Dani Carvajal
+[121/835] Scraping Dani Olmo
+[122/835] Scraping Danny Blanchflower
+[123/835] Scraping Darko Pančev
+[124/835] Scraping Darwin Núñez
+[125/835] Scraping David Beckham
+[126/835] Scraping David Ginola
+[127/835] Scraping David Kipiani
+[128/835] Scraping David Luiz
+[129/835] Scraping David O'Leary
+[130/835] Scraping David Platt
+[131/835] Scraping David Seaman
+[132/835] Scraping David Trezeguet
+[133/835] Scraping David Villa
+[134/835] Scraping David de Gea
+[135/835] Scraping Davor Šuker
+[136/835] Scraping Dean Saunders
+[137/835] Scraping Declan Rice
+[138/835] Scraping Deco
+[139/835] Scraping Dejan Savićević
+[140/835] Scraping Denis Law
+[141/835] Scraping Dennis Bergkamp
+[142/835] Scraping Denzel Dumfries
+[143/835] Scraping Des Walker
+[144/835] Scraping Dezső Bundzsák
+[145/835] Scraping Dida
+[146/835] Scraping Didier Deschamps
+[147/835] Scraping Didier Drogba
+[148/835] Scraping Didier Six
+[149/835] Scraping Diego
+[150/835] Scraping Diego Costa
+[151/835] Scraping Diego Forlán
+[152/835] Scraping Diego Godín
+[153/835] Scraping Dieter Müller
+[154/835] Scraping Dimitar Berbatov
+[155/835] Scraping Dimitri Payet
+[156/835] Scraping Dimitris Saravakos
+[157/835] Scraping Dino Baggio
+[158/835] Scraping Dino Zoff
+[159/835] Scraping Dominique Bathenay
+[160/835] Scraping Dominique Rocheteau
+[161/835] Scraping Don Givens
+[162/835] Scraping Donny van de Beek
+[163/835] Scraping Dragan Džajić
+[164/835] Scraping Dragan Stojković
+[165/835] Scraping Dragoslav Šekularac
+[166/835] Scraping Dries Mertens
+[167/835] Scraping Dudu Georgescu
+[168/835] Scraping Dumitru Macri
+[169/835] Scraping Duncan Edwards
+[170/835] Scraping Dušan Tadić
+[171/835] Scraping Dušan Vlahović
+[172/835] Scraping Dwight Yorke
+[173/835] Scraping Désiré Doué
+[174/835] Scraping Ebbe Sand
+[175/835] Scraping Eden Hazard
+[176/835] Scraping Edgar Davids
+[177/835] Scraping Edin Džeko
+[178/835] Scraping Edinson Cavani
+[179/835] Scraping Eduard Streltsov
+[180/835] Scraping Edwin van der Sar
+[181/835] Scraping El Hadji Diouf
+[182/835] Scraping Emil Kostadinov
+[183/835] Scraping Emiliano Martínez
+[184/835] Scraping Emilio Butragueño
+[185/835] Scraping Emlyn Hughes
+[186/835] Scraping Emmanuel Adebayor
+[187/835] Scraping Emmanuel Olisadebe
+[188/835] Scraping Emmanuel Petit
+[189/835] Scraping Enzo Scifo
+[190/835] Scraping Eric Abidal
+[191/835] Scraping Eric Cantona
+[192/835] Scraping Eric Carrière
+[193/835] Scraping Eric Gerets
+[194/835] Scraping Erich Hof
+[195/835] Scraping Erling Haaland
+[196/835] Scraping Ernst Ocwirk
+[197/835] Scraping Ernő Solymosi
+[198/835] Scraping Erwin Vandenbergh
+[199/835] Scraping Eusébio
+[200/835] Scraping Ezio Pascutti
+[201/835] Scraping Fabien Barthez
+[202/835] Scraping Fabinho
+[203/835] Scraping Fabio Cannavaro
+[204/835] Scraping Fabián Ruiz
+[205/835] Scraping Fabrizio Ravanelli
+[206/835] Scraping Federico Valverde
+[207/835] Scraping Fedor Cherenkov
+[208/835] Scraping Felix Magath
+[209/835] Scraping Ferenc Bene
+[210/835] Scraping Ferenc Puskás
+[211/835] Scraping Fernando Chalana
+[212/835] Scraping Fernando Gomes
+[213/835] Scraping Fernando Hierro
+[214/835] Scraping Fernando Morientes
+[215/835] Scraping Fernando Redondo
+[216/835] Scraping Fernando Torres
+[217/835] Scraping Filippo Inzaghi
+[218/835] Scraping Finidi George
+[219/835] Scraping Flemming Povlsen
+[220/835] Scraping Florea Dumitrache
+[221/835] Scraping Florent Malouda
+[222/835] Scraping Florian Wirtz
+[223/835] Scraping Flórián Albert
+[224/835] Scraping Francesco Graziani
+[225/835] Scraping Francesco Toldo
+[226/835] Scraping Francesco Totti
+[227/835] Scraping Francis Lee
+[228/835] Scraping Francisco Gento
+[229/835] Scraping Franck Ribéry
+[230/835] Scraping Franck Sauzée
+[231/835] Scraping Franco Baresi
+[232/835] Scraping Franco Causio
+[233/835] Scraping Frank Arnesen
+[234/835] Scraping Frank Lampard
+[235/835] Scraping Frank Rijkaard
+[236/835] Scraping Frank Stapleton
+[237/835] Scraping Frank de Boer
+[238/835] Scraping Franky Vercauteren
+[239/835] Scraping Frans Thijssen
+[240/835] Scraping Franz Beckenbauer
+[241/835] Scraping Franz Hasil
+[242/835] Scraping François Van Der Elst
+[243/835] Scraping Frenkie de Jong
+[244/835] Scraping Frédéric Kanouté
+[245/835] Scraping Gabriel Batistuta/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+
+[246/835] Scraping Gaetano Scirea
+[247/835] Scraping Gaizka Mendieta
+[248/835] Scraping Gareth Bale
+[249/835] Scraping Gary Lineker
+[250/835] Scraping Gary Pallister
+[251/835] Scraping Gary Stevens
+[252/835] Scraping Gennaro Gattuso
+[253/835] Scraping Geoff Hurst
+[254/835] Scraping George Best
+[255/835] Scraping George Weah
+[256/835] Scraping Georges Grün
+[257/835] Scraping Georgi Asparuhov
+[258/835] Scraping Georgi Dimitrov
+[259/835] Scraping Georgi Naydenov
+[260/835] Scraping Georginio Wijnaldum
+[261/835] Scraping Gerard Moreno
+[262/835] Scraping Gerard Piqué
+[263/835] Scraping Gerd Müller
+[264/835] Scraping Gerhard Hanappi
+[265/835] Scraping Germano
+[266/835] Scraping Gernot Fraydl
+[267/835] Scraping Gerrie Mühren
+[268/835] Scraping Gert Dörfel
+[269/835] Scraping Gheorghe Hagi
+[270/835] Scraping Giacinto Facchetti
+[271/835] Scraping Giampiero Boniperti
+[272/835] Scraping Giancarlo Antognoni
+[273/835] Scraping Gianfranco Zola
+[274/835] Scraping Gianluca Pagliuca
+[275/835] Scraping Gianluca Vialli
+[276/835] Scraping Gianluca Zambrotta
+[277/835] Scraping Gianluigi Buffon
+[278/835] Scraping Gianluigi Donnarumma
+[279/835] Scraping Gianni Rivera
+[280/835] Scraping Gigi Riva
+[281/835] Scraping Gilbert Gress
+[282/835] Scraping Giorgio Chiellini
+[283/835] Scraping Giorgio Chinaglia
+[284/835] Scraping Giorgos Sideris
+[285/835] Scraping Giovane Élber
+[286/835] Scraping Giovanni Trapattoni
+[287/835] Scraping Giuseppe Signori
+[288/835] Scraping Glenn Hoddle
+[289/835] Scraping Glenn Hysén
+[290/835] Scraping Gonzalo Higuaín
+[291/835] Scraping Gordon Banks
+[292/835] Scraping Gordon McQueen
+[293/835] Scraping Gordon Strachan
+[294/835] Scraping Graeme Souness
+[295/835] Scraping Granit Xhaka
+[296/835] Scraping Grzegorz Lato
+[297/835] Scraping Guido Buchwald
+[298/835] Scraping Guillermo Ochoa
+[299/835] Scraping Gunnar Gren
+[300/835] Scraping Guy Hellers
+[301/835] Scraping Gyula Grosics
+[302/835] Scraping Gérard Janvion
+[303/835] Scraping Günter Netzer
+[304/835] Scraping Hakan Çalhanoğlu
+[305/835] Scraping Hakan Şükür
+[306/835] Scraping Hans Krankl
+[307/835] Scraping Hans-Jürgen Kreische
+[308/835] Scraping Hans-Peter Briegel
+[309/835] Scraping Hansi Müller
+[310/835] Scraping Harald Schumacher
+[311/835] Scraping Harry Bild
+[312/835] Scraping Harry Gregg
+[313/835] Scraping Harry Kane
+[314/835] Scraping Harry Kewell
+[315/835] Scraping Hasan Şaş
+[316/835] Scraping Heinz Flohe
+[317/835] Scraping Heinz Hermann
+[318/835] Scraping Helmut Duckadam
+[319/835] Scraping Helmut Haller
+[320/835] Scraping Helmut Rahn
+[321/835] Scraping Henrik Andersen
+[322/835] Scraping Henrik Larsen
+[323/835] Scraping Henrik Larsson
+[324/835] Scraping Herbert Prohaska
+[325/835] Scraping Hernán Crespo
+[326/835] Scraping Hidetoshi Nakata
+[327/835] Scraping Horst Hrubesch
+[328/835] Scraping Horst Nemec
+[329/835] Scraping Horst Szymaniak
+[330/835] Scraping Hristo Bonev
+[331/835] Scraping Hristo Stoichkov
+[332/835] Scraping Hugo Lloris
+[333/835] Scraping Ian Rush
+[334/835] Scraping Ian Wright
+[335/835] Scraping Igor Belanov
+[336/835] Scraping Igor Chislenko
+[337/835] Scraping Igor Netto
+[338/835] Scraping Iker Casillas
+[339/835] Scraping Isco
+[340/835] Scraping Ivan Kolev
+[341/835] Scraping Ivan Rakitić
+[342/835] Scraping Ivan Ćurković
+[343/835] Scraping Ivica Osim
+[344/835] Scraping Ivo Viktor
+[345/835] Scraping Ivor Allchurch
+[346/835] Scraping Iván Helguera
+[347/835] Scraping Iván Zamorano
+[348/835] Scraping Jaap Stam
+[349/835] Scraping Jack Charlton
+[350/835] Scraping Jamal Musiala
+[351/835] Scraping James Rodríguez
+[352/835] Scraping Jamie Carragher
+[353/835] Scraping Jamie Vardy
+[354/835] Scraping Jan Ceulemans
+[355/835] Scraping Jan Koller
+[356/835] Scraping Jan Oblak
+[357/835] Scraping Jan Tomaszewski
+[358/835] Scraping Jari Litmanen
+[359/835] Scraping Jaroslav Pollák
+[360/835] Scraping Javier Mascherano
+[361/835] Scraping Jean Djorkaeff
+[362/835] Scraping Jean Nicolay
+[363/835] Scraping Jean Tigana
+[364/835] Scraping Jean-Marc Guillou
+[365/835] Scraping Jean-Marie Pfaff
+[366/835] Scraping Jean-Pierre Papin
+[367/835] Scraping Jef Jurion
+[368/835] Scraping Jens Lehmann
+[369/835] Scraping Jerzy Gorgoń
+[370/835] Scraping Jesper Olsen
+[371/835] Scraping Jesús Zamora
+[372/835] Scraping Jim Baxter
+[373/835] Scraping Jimmy Floyd Hasselbaink
+[374/835] Scraping Jimmy Greaves
+[375/835] Scraping Jimmy Johnstone
+[376/835] Scraping Jimmy McIlroy
+[377/835] Scraping Joachim Streich
+[378/835] Scraping Joan Segarra
+[379/835] Scraping Joaquín Peiró
+[380/835] Scraping Johan Cruyff
+[381/835] Scraping Johan Neeskens
+[382/835] Scraping John Barnes
+[383/835] Scraping John Charles
+[384/835] Scraping John Greig
+[385/835] Scraping John Jensen
+[386/835] Scraping John Sivebæk
+[387/835] Scraping John Terry
+[388/835] Scraping John Wark
+[389/835] Scraping Johnny Bjerregaard
+[390/835] Scraping Johnny Giles
+[391/835] Scraping Johnny Haynes
+[392/835] Scraping Johnny Rep
+[393/835] Scraping Jorginho
+[394/835] Scraping Josef Masopust
+[395/835] Scraping Joseph Ujlaki
+[396/835] Scraping Joshua Kimmich
+[397/835] Scraping Josip Katalinski
+[398/835] Scraping Josip Skoblar
+[399/835] Scraping José Altafini
+[400/835] Scraping José Augusto
+[401/835] Scraping José Luis Caminero
+[402/835] Scraping José Santamaría
+[403/835] Scraping José Torres
+[404/835] Scraping José Águas
+[405/835] Scraping Jozef Adamec
+[406/835] Scraping João Alves
+[407/835] Scraping João Cancelo
+[408/835] Scraping João Félix
+[409/835] Scraping João Neves
+[410/835] Scraping Joško Gvardiol
+[411/835] Scraping Juan Alberto Schiaffino
+[412/835] Scraping Juan Carlos Valerón
+[413/835] Scraping Juan Esnáider
+[414/835] Scraping Juan Manuel Asensi
+[415/835] Scraping Juan Román Riquelme
+[416/835] Scraping Juan Sebastián Verón
+[417/835] Scraping Jude Bellingham
+[418/835] Scraping Julio Salinas
+[419/835] Scraping Julián Álvarez
+[420/835] Scraping Juninho
+[421/835] Scraping Jupp Heynckes
+[422/835] Scraping Just Fontaine
+[423/835] Scraping Ján Pivarník
+[424/835] Scraping János Farkas
+[425/835] Scraping János Göröcs
+[426/835] Scraping Józef Młynarczyk
+[427/835] Scraping József Bozsik
+[428/835] Scraping Júlio Botelho
+[429/835] Scraping Júlio César
+[430/835] Scraping Jürgen Croy
+[431/835] Scraping Jürgen Grabowski
+[432/835] Scraping Jürgen Klinsmann
+[433/835] Scraping Jürgen Kohler
+[434/835] Scraping Jürgen Sparwasser
+[435/835] Scraping Kaká
+[436/835] Scraping Kalidou Koulibaly
+[437/835] Scraping Karel Poborský
+[438/835] Scraping Karim Benzema
+[439/835] Scraping Karl Koller
+[440/835] Scraping Karl Stotz
+[441/835] Scraping Karl-Heinz Riedle
+[442/835] Scraping Karl-Heinz Rummenigge
+[443/835] Scraping Karl-Heinz Schnellinger
+[444/835] Scraping Karlheinz Förster
+[445/835] Scraping Kazimierz Deyna
+[446/835] Scraping Kees Kist
+[447/835] Scraping Kees Rijvers
+[448/835] Scraping Ken Jones
+[449/835] Scraping Kennet Andersson
+[450/835] Scraping Kenny Dalglish
+[451/835] Scraping Kevin De Bruyne
+[452/835] Scraping Kevin Keegan
+[453/835] Scraping Khvicha Kvaratskhelia
+[454/835] Scraping Kim Min-jae
+[455/835] Scraping Klaus Allofs
+[456/835] Scraping Klaus Fischer
+[457/835] Scraping Klaus Urbanczyk
+[458/835] Scraping Koke
+[459/835] Scraping Kolo Touré
+[460/835] Scraping Krasimir Balakov
+[461/835] Scraping Kubilay Türkyilmaz
+[462/835] Scraping Kurt Hamrin
+[463/835] Scraping Kylian Mbappé
+[464/835] Scraping Károly Sándor
+[465/835] Scraping Köbi Kuhn
+[466/835] Scraping Ladislav Novák
+[467/835] Scraping Ladislav Vízek
+[468/835] Scraping Lajos Détári
+[469/835] Scraping Lajos Szűcs
+[470/835] Scraping Lajos Tichy
+[471/835] Scraping Lamine Yamal
+[472/835] Scraping Laurent Blanc
+[473/835] Scraping Lautaro Martínez
+[474/835] Scraping Lennart Skoglund
+[475/835] Scraping Leonardo Bonucci
+[476/835] Scraping Leonid Buryak
+[477/835] Scraping Lev Yashin
+[478/835] Scraping Liam Brady
+[479/835] Scraping Lilian Thuram
+[480/835] Scraping Lionel Messi
+[481/835] Scraping Lothar Matthäus
+[482/835] Scraping Louis Pilot
+[483/835] Scraping Luca Toni
+[484/835] Scraping Lucien Muller
+[485/835] Scraping Ludovic Giuly
+[486/835] Scraping Luis Arconada
+[487/835] Scraping Luis Díaz
+[488/835] Scraping Luis Enrique
+[489/835] Scraping Luis Fernández/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)
+/home/user/scrapers/stats_scraper.py:127: FutureWarning: Passing literal html to 'read_html' is deprecated and will be removed in a future version. To read from a literal string, wrap it in a 'StringIO' object.
+  tables=pd.read_html(html)

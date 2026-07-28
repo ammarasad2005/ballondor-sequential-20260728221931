@@ -1,0 +1,138 @@
+{
+  "player_name_raw": "Ademola Lookman",
+  "fetch_status": "ok",
+  "wikipedia_title": "Ademola_Lookman",
+  "url": "https://en.wikipedia.org/wiki/Ademola_Lookman",
+  "position": "Attacking midfielder winger second striker",
+  "birth_year": 1997,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2015\u201316",
+      "club": "Charlton Athletic",
+      "league_apps": 24,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Charlton Athletic', 'Season Season': '2015\u201316[69]', 'League Division': 'Championship', 'League Apps': 24, 'League Goals': 5, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 5}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Charlton Athletic",
+      "league_apps": 21,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Charlton Athletic', 'Season Season': '2016\u201317[70]', 'League Division': 'League One', 'League Apps': 21, 'League Goals': 5, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 25, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Charlton Athletic",
+      "league_apps": 45,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Charlton Athletic', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 45, 'League Goals': 10, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 49, 'Total Goals': 12}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Everton",
+      "league_apps": 8,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '2016\u201317[70]', 'League Division': 'Premier League', 'League Apps': 8, 'League Goals': 1, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 1}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Everton",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '2017\u201318[71]', 'League Division': 'Premier League', 'League Apps': 7, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '6[c]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 16, 'Total Goals': 2}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Everton",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Everton', 'Season Season': '2018\u201319[72]', 'League Division': 'Premier League', 'League Apps': 21, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Everton",
+      "league_apps": 36,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Everton', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 36, 'League Goals': 1, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Continental Apps': '6', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 4}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "RB Leipzig (loan)",
+      "league_apps": 11,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'RB Leipzig (loan)', 'Season Season': '2017\u201318[71]', 'League Division': 'Bundesliga', 'League Apps': 11, 'League Goals': 5, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 5}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "RB Leipzig",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'RB Leipzig', 'Season Season': '2019\u201320[73]', 'League Division': 'Bundesliga', 'League Apps': 11, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '1[d]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 0}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Fulham (loan)",
+      "league_apps": 34,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Fulham (loan)', 'Season Season': '2020\u201321[74]', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 4, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 4}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Leicester City (loan)",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Leicester City (loan)', 'Season Season': '2021\u201322[75]', 'League Division': 'Premier League', 'League Apps': 26, 'League Goals': 6, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '2', 'Continental Apps': '12[e]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 8}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Atalanta",
+      "league_apps": 31,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Atalanta', 'Season Season': '2022\u201323[76]', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 13, 'National cup[a] Apps': '2', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 15}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Atalanta",
+      "league_apps": 31,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Atalanta', 'Season Season': '2023\u201324[77]', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 11, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '11[c]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 17}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Atalanta",
+      "league_apps": 31,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Atalanta', 'Season Season': '2024\u201325[78]', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 15, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '7[d]', 'Continental Goals': '5', 'Other Apps': '2[f]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 20}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Atalanta",
+      "league_apps": 12,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Atalanta', 'Season Season': '2025\u201326[79]', 'League Division': 'Serie A', 'League Apps': 12, 'League Goals': 2, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '7[d]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Atalanta",
+      "league_apps": 105,
+      "league_goals": 41,
+      "raw": "{'Club Club': 'Atalanta', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 105, 'League Goals': 41, 'National cup[a] Apps': '5', 'National cup[a] Goals': '3', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '25', 'Continental Goals': '11', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 137, 'Total Goals': 55}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 12,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '2025\u201326[79]', 'League Division': 'La Liga', 'League Apps': 12, 'League Goals': 4, 'National cup[a] Apps': '4', 'National cup[a] Goals': '3', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[d]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 9}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 280,
+      "league_goals": 71,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 280, 'League Goals': 71, 'National cup[a] Apps': '18', 'National cup[a] Goals': '9', 'League cup[b] Apps': '7', 'League cup[b] Goals': '2', 'Continental Apps': '52', 'Continental Goals': '15', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 359, 'Total Goals': 97}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Ademola Lookman - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"2bd3f8f1-25f5-4787-8060-1f194943efa2\""
+}

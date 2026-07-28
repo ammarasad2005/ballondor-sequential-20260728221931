@@ -1,0 +1,175 @@
+{
+  "player_name_raw": "Eric Cantona",
+  "fetch_status": "ok",
+  "wikipedia_title": "Eric_Cantona",
+  "url": "https://en.wikipedia.org/wiki/Eric_Cantona",
+  "position": "Forward",
+  "birth_year": 1966,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1983\u201384",
+      "club": "Auxerre",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Auxerre', 'Season Season': '1983\u201384', 'League Division': 'Division 1', 'League Apps': 2, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Auxerre",
+      "league_apps": 5,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Auxerre', 'Season Season': '1984\u201385', 'League Division': 'Division 1', 'League Apps': 5, 'League Goals': 2, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 5, 'Total Goals': 2}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Auxerre",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Auxerre', 'Season Season': '1985\u201386', 'League Division': 'Division 1', 'League Apps': 7, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '1[c]', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Auxerre",
+      "league_apps": 36,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Auxerre', 'Season Season': '1986\u201387', 'League Division': 'Division 1', 'League Apps': 36, 'League Goals': 13, 'National cup[a] Apps': 4, 'National cup[a] Goals': 4, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 17}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Auxerre",
+      "league_apps": 32,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Auxerre', 'Season Season': '1987\u201388', 'League Division': 'Division 1', 'League Apps': 32, 'League Goals': 8, 'National cup[a] Apps': 5, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '2[c]', 'Continental Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Auxerre",
+      "league_apps": 82,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Auxerre', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 82, 'League Goals': 23, 'National cup[a] Apps': 9, 'National cup[a] Goals': 5, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '3', 'Continental Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 94, 'Total Goals': 29}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Martigues (loan)",
+      "league_apps": 15,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Martigues (loan)', 'Season Season': '1985\u201386', 'League Division': 'Division 2', 'League Apps': 15, 'League Goals': 4, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 15, 'Total Goals': 4}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Marseille",
+      "league_apps": 22,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1988\u201389', 'League Division': 'Division 1', 'League Apps': 22, 'League Goals': 5, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 5}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Marseille",
+      "league_apps": 18,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1990\u201391', 'League Division': 'Division 1', 'League Apps': 18, 'League Goals': 8, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '3[d]', 'Continental Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 21, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "Marseille",
+      "league_apps": 40,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 40, 'League Goals': 13, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '3', 'Continental Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 43, 'Total Goals': 14}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Bordeaux (loan)",
+      "league_apps": 11,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Bordeaux (loan)', 'Season Season': '1988\u201389', 'League Division': 'Ligue 1', 'League Apps': 11, 'League Goals': 6, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 12, 'Total Goals': 6}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Montpellier (loan)",
+      "league_apps": 33,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Montpellier (loan)', 'Season Season': '1989\u201390', 'League Division': 'Ligue 1', 'League Apps': 33, 'League Goals': 10, 'National cup[a] Apps': 6, 'National cup[a] Goals': 4, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 14}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "N\u00eemes",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'N\u00eemes', 'Season Season': '1991\u201392', 'League Division': 'Ligue 1', 'League Apps': 16, 'League Goals': 2, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 16, 'Total Goals': 2}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Leeds United",
+      "league_apps": 15,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1991\u201392', 'League Division': 'First Division', 'League Apps': 15, 'League Goals': 3, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 15, 'Total Goals': 3}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Leeds United",
+      "league_apps": 13,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1992\u201393', 'League Division': 'Premier League', 'League Apps': 13, 'League Goals': 6, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '5[e]', 'Continental Goals': '2', 'Other Apps': '1[f]', 'Other Goals': '3', 'Total Apps': 20, 'Total Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "Leeds United",
+      "league_apps": 28,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 28, 'League Goals': 9, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '5', 'Continental Goals': '2', 'Other Apps': '1', 'Other Goals': '3', 'Total Apps': 35, 'Total Goals': 14}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Manchester United",
+      "league_apps": 22,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1992\u201393', 'League Division': 'Premier League', 'League Apps': 22, 'League Goals': 9, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 23, 'Total Goals': 9}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Manchester United",
+      "league_apps": 34,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1993\u201394', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 18, 'National cup[a] Apps': 5, 'National cup[a] Goals': 4, 'League cup[b] Apps': '5', 'League cup[b] Goals': '1', 'Continental Apps': '4[e]', 'Continental Goals': '2', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 49, 'Total Goals': 25}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Manchester United",
+      "league_apps": 21,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1994\u201395', 'League Division': 'Premier League', 'League Apps': 21, 'League Goals': 12, 'National cup[a] Apps': 1, 'National cup[a] Goals': 1, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '2[e]', 'Continental Goals': '0', 'Other Apps': '1[f]', 'Other Goals': '1', 'Total Apps': 25, 'Total Goals': 14}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Manchester United",
+      "league_apps": 30,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1995\u201396', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 14, 'National cup[a] Apps': 7, 'National cup[a] Goals': 5, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 19}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Manchester United",
+      "league_apps": 36,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '1996\u201397', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 11, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '10[e]', 'Continental Goals': '3', 'Other Apps': '1[f]', 'Other Goals': '1', 'Total Apps': 50, 'Total Goals': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester United",
+      "league_apps": 143,
+      "league_goals": 64,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 143, 'League Goals': 64, 'National cup[a] Apps': 17, 'National cup[a] Goals': 10, 'League cup[b] Apps': '6', 'League cup[b] Goals': '1', 'Continental Apps': '16', 'Continental Goals': '5', 'Other Apps': '3', 'Other Goals': '2', 'Total Apps': 185, 'Total Goals': 82}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 368,
+      "league_goals": 131,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 368, 'League Goals': 131, 'National cup[a] Apps': 33, 'National cup[a] Goals': 19, 'League cup[b] Apps': '7', 'League cup[b] Goals': '1', 'Continental Apps': '27', 'Continental Goals': '9', 'Other Apps': '4', 'Other Goals': '5', 'Total Apps': 439, 'Total Goals': 165}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Eric Cantona - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"f58ea828-9da1-49a7-90d6-339f6ee4a054\",\"w",
+  "season_id": "1996",
+  "award_year": 1996
+}

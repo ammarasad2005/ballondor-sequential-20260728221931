@@ -1,0 +1,231 @@
+{
+  "player_name_raw": "Luka Modri\u0107",
+  "fetch_status": "ok",
+  "wikipedia_title": "Luka_Modri\u0107",
+  "url": "https://en.wikipedia.org/wiki/Luka_Modri\u0107",
+  "position": "Central midfielder",
+  "birth_year": 1985,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2003\u201304",
+      "club": "Dinamo Zagreb",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '2003\u201304', 'League Division': 'Prva HNL', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Dinamo Zagreb",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '2004\u201305', 'League Division': 'Prva HNL', 'League Apps': 7, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Dinamo Zagreb",
+      "league_apps": 32,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '2005\u201306', 'League Division': 'Prva HNL', 'League Apps': 32, 'League Goals': 7, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 7}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Dinamo Zagreb",
+      "league_apps": 30,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '2006\u201307', 'League Division': 'Prva HNL', 'League Apps': 30, 'League Goals': 6, 'National cup[a] Apps': '7', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '6[c]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '1', 'Total Apps': 44, 'Total Goals': 8}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Dinamo Zagreb",
+      "league_apps": 25,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '2007\u201308', 'League Division': 'Prva HNL', 'League Apps': 25, 'League Goals': 13, 'National cup[a] Apps': '8', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '12[e]', 'Europe Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 17}"
+    },
+    {
+      "season": "Total",
+      "club": "Dinamo Zagreb",
+      "league_apps": 94,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 94, 'League Goals': 26, 'National cup[a] Apps': '17', 'National cup[a] Goals': '2', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '18', 'Europe Goals': '3', 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': 130, 'Total Goals': 32}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Zrinjski Mostar (loan)",
+      "league_apps": 25,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Zrinjski Mostar (loan)', 'Season Season': '2003\u201304', 'League Division': 'Bosnian Premier League', 'League Apps': 25, 'League Goals': 8, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 8}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Inter Zapre\u0161i\u0107 (loan)",
+      "league_apps": 18,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Inter Zapre\u0161i\u0107 (loan)', 'Season Season': '2004\u201305', 'League Division': 'Prva HNL', 'League Apps': 18, 'League Goals': 4, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 4}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Tottenham Hotspur",
+      "league_apps": 34,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2008\u201309', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 3, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Europe Apps': '4[f]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 5}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Tottenham Hotspur",
+      "league_apps": 25,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2009\u201310', 'League Division': 'Premier League', 'League Apps': 25, 'League Goals': 3, 'National cup[a] Apps': '7', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 3}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Tottenham Hotspur",
+      "league_apps": 32,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2010\u201311', 'League Division': 'Premier League', 'League Apps': 32, 'League Goals': 3, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '9[g]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 4}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Tottenham Hotspur",
+      "league_apps": 36,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2011\u201312', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 4, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '2[h]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Tottenham Hotspur",
+      "league_apps": 127,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 127, 'League Goals': 13, 'National cup[a] Apps': '14', 'National cup[a] Goals': '1', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Europe Apps': '15', 'Europe Goals': '3', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 160, 'Total Goals': 17}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Real Madrid",
+      "league_apps": 33,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2012\u201313', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 3, 'National cup[a] Apps': '8', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '11[g]', 'Europe Goals': '1', 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 53, 'Total Goals': 4}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Real Madrid",
+      "league_apps": 34,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2013\u201314', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 1, 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '11[g]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 51, 'Total Goals': 2}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Real Madrid",
+      "league_apps": 16,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2014\u201315', 'League Division': 'La Liga', 'League Apps': 16, 'League Goals': 1, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '6[g]', 'Europe Goals': '0', 'Other Apps': '3[j]', 'Other Goals': '0', 'Total Apps': 25, 'Total Goals': 1}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Real Madrid",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2015\u201316', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 2, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '12[g]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 3}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Real Madrid",
+      "league_apps": 25,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2016\u201317', 'League Division': 'La Liga', 'League Apps': 25, 'League Goals': 1, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '11[g]', 'Europe Goals': '0', 'Other Apps': '3[k]', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 1}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Real Madrid",
+      "league_apps": 26,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2017\u201318', 'League Division': 'La Liga', 'League Apps': 26, 'League Goals': 1, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '11[g]', 'Europe Goals': '1', 'Other Apps': '4[l]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 2}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Real Madrid",
+      "league_apps": 34,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2018\u201319', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 3, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '6[g]', 'Europe Goals': '0', 'Other Apps': '3[m]', 'Other Goals': '1', 'Total Apps': 46, 'Total Goals': 4}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Real Madrid",
+      "league_apps": 31,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2019\u201320', 'League Division': 'La Liga', 'League Apps': 31, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '6[g]', 'Europe Goals': '1', 'Other Apps': '2[i]', 'Other Goals': '1', 'Total Apps': 40, 'Total Goals': 5}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Real Madrid",
+      "league_apps": 35,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2020\u201321', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 5, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '12[g]', 'Europe Goals': '1', 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 6}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Real Madrid",
+      "league_apps": 28,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2021\u201322', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 2, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '13[g]', 'Europe Goals': '0', 'Other Apps': '2[i]', 'Other Goals': '1', 'Total Apps': 45, 'Total Goals': 3}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Real Madrid",
+      "league_apps": 33,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2022\u201323', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 4, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '10[g]', 'Europe Goals': '2', 'Other Apps': '5[n]', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 6}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Real Madrid",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2023\u201324', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 2, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '11[g]', 'Europe Goals': '0', 'Other Apps': '2[i]', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 2}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Real Madrid",
+      "league_apps": 35,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2024\u201325', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 2, 'National cup[a] Apps': '5', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '14[g]', 'Europe Goals': '0', 'Other Apps': '9[o]', 'Other Goals': '0', 'Total Apps': 63, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 394,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 394, 'League Goals': 30, 'National cup[a] Apps': '34', 'National cup[a] Goals': '2', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '134', 'Europe Goals': '8', 'Other Apps': '35', 'Other Goals': '3', 'Total Apps': 597, 'Total Goals': 43}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "AC Milan",
+      "league_apps": 34,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2025\u201326', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 2, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '1[p]', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 2}"
+    },
+    {
+      "season": "2026\u201327",
+      "club": "AC Milan",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2026\u201327', 'League Division': 'Serie A', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 34,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 34, 'League Goals': 2, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 2}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 692,
+      "league_goals": 83,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 692, 'League Goals': 83, 'National cup[a] Apps': '67', 'National cup[a] Goals': '5', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Europe Apps': '167', 'Europe Goals': '14', 'Other Apps': '37', 'Other Goals': '4', 'Total Apps': 967, 'Total Goals': 106}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Luka Modri\u0107 - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"e69a57e2-bbbd-4566-8bab-781ed55fbc77\",\"wg",
+  "season_id": "2023",
+  "award_year": 2023
+}

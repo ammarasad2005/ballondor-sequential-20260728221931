@@ -1,0 +1,126 @@
+{
+  "player_name_raw": "Alexis Mac Allister",
+  "fetch_status": "ok",
+  "wikipedia_title": "Alexis_Mac_Allister",
+  "url": "https://en.wikipedia.org/wiki/Alexis_Mac_Allister",
+  "position": "Midfielder",
+  "birth_year": 1998,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2016\u201317",
+      "club": "Argentinos Juniors",
+      "league_apps": 23,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Argentinos Juniors', 'Season Season': '2016\u201317[27]', 'League Division': 'Primera B Nacional', 'League Apps': 23, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 3}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Argentinos Juniors",
+      "league_apps": 24,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Argentinos Juniors', 'Season Season': '2017\u201318[27]', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 24, 'League Goals': 2, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 3}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Argentinos Juniors",
+      "league_apps": 9,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Argentinos Juniors', 'Season Season': '2018\u201319[27]', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 9, 'League Goals': 3, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Argentinos Juniors",
+      "league_apps": 56,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Argentinos Juniors', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 56, 'League Goals': 8, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 60, 'Total Goals': 9}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Brighton & Hove Albion",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Brighton & Hove Albion', 'Season Season': '2019\u201320[108]', 'League Division': 'Premier League', 'League Apps': 9, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Brighton & Hove Albion",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Brighton & Hove Albion', 'Season Season': '2020\u201321[109]', 'League Division': 'Premier League', 'League Apps': 21, 'League Goals': 1, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '2', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 3}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Brighton & Hove Albion",
+      "league_apps": 33,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Brighton & Hove Albion', 'Season Season': '2021\u201322[110]', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 5, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 5}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Brighton & Hove Albion",
+      "league_apps": 35,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Brighton & Hove Albion', 'Season Season': '2022\u201323[111]', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 10, 'National cup[a] Apps': '5', 'National cup[a] Goals': '2', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 12}"
+    },
+    {
+      "season": "Total",
+      "club": "Brighton & Hove Albion",
+      "league_apps": 98,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Brighton & Hove Albion', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 98, 'League Goals': 16, 'National cup[a] Apps': '9', 'National cup[a] Goals': '2', 'League cup[b] Apps': '5', 'League cup[b] Goals': '2', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 112, 'Total Goals': 20}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Argentinos Juniors (loan)",
+      "league_apps": 10,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Argentinos Juniors (loan)', 'Season Season': '2018\u201319[27]', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 10, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '7', 'League cup[b] Goals': '1', 'Continental Apps': '4[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 21, 'Total Goals': 3}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Boca Juniors (loan)",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Boca Juniors (loan)', 'Season Season': '2019\u201320[27]', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 13, 'League Goals': 1, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '6[d]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 2}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Liverpool",
+      "league_apps": 33,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2023\u201324[112]', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 5, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Continental Apps': '6[e]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 7}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Liverpool",
+      "league_apps": 35,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2024\u201325[113]', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 5, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '6', 'League cup[b] Goals': '0', 'Continental Apps': '8[f]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 7}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Liverpool",
+      "league_apps": 37,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2025\u201326[114]', 'League Division': 'Premier League', 'League Apps': 37, 'League Goals': 2, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '12[f]', 'Continental Goals': '3', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 55, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Liverpool",
+      "league_apps": 105,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 105, 'League Goals': 12, 'National cup[a] Apps': '7', 'National cup[a] Goals': '1', 'League cup[b] Apps': '11', 'League cup[b] Goals': '0', 'Continental Apps': '26', 'Continental Goals': '6', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 150, 'Total Goals': 19}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 282,
+      "league_goals": 39,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 282, 'League Goals': 39, 'National cup[a] Apps': '21', 'National cup[a] Goals': '4', 'League cup[b] Apps': '23', 'League cup[b] Goals': '3', 'Continental Apps': '36', 'Continental Goals': '7', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 363, 'Total Goals': 53}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Alexis Mac Allister - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"902754ce-c01b-4c32-b83d-c6238098c",
+  "season_id": "2025",
+  "award_year": 2025
+}

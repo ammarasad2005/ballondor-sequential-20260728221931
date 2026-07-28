@@ -1,0 +1,126 @@
+{
+  "player_name_raw": "Declan Rice",
+  "fetch_status": "ok",
+  "wikipedia_title": "Declan_Rice",
+  "url": "https://en.wikipedia.org/wiki/Declan_Rice",
+  "position": "Midfielder",
+  "birth_year": 1999,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2016\u201317",
+      "club": "West Ham United U23",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'West Ham United U23', 'Season Season': '2016\u201317[126]', 'League Division': '\u2014', 'League Apps': '\u2014', 'League Goals': '\u2014', 'FA Cup Apps': '\u2014', 'FA Cup Goals': '\u2014', 'EFL Cup Apps': '\u2014', 'EFL Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '2[a]', 'Other Goals': '0', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "West Ham United U23",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'West Ham United U23', 'Season Season': '2017\u201318[127]', 'League Division': '\u2014', 'League Apps': '\u2014', 'League Goals': '\u2014', 'FA Cup Apps': '\u2014', 'FA Cup Goals': '\u2014', 'EFL Cup Apps': '\u2014', 'EFL Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '1[a]', 'Other Goals': '0', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "West Ham United U23",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'West Ham United U23', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '\u2014', 'League Goals': '\u2014', 'FA Cup Apps': '\u2014', 'FA Cup Goals': '\u2014', 'EFL Cup Apps': '\u2014', 'EFL Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "West Ham United",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '2016\u201317[126]', 'League Division': 'Premier League', 'League Apps': '1', 'League Goals': '0', 'FA Cup Apps': '0', 'FA Cup Goals': '0', 'EFL Cup Apps': '0', 'EFL Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "West Ham United",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '2017\u201318[127]', 'League Division': 'Premier League', 'League Apps': '26', 'League Goals': '0', 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'EFL Cup Apps': '4', 'EFL Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 0}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "West Ham United",
+      "league_apps": 34,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '2018\u201319[128]', 'League Division': 'Premier League', 'League Apps': '34', 'League Goals': '2', 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'EFL Cup Apps': '3', 'EFL Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 2}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "West Ham United",
+      "league_apps": 38,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '2019\u201320[129]', 'League Division': 'Premier League', 'League Apps': '38', 'League Goals': '1', 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'EFL Cup Apps': '0', 'EFL Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 1}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "West Ham United",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '2020\u201321[130]', 'League Division': 'Premier League', 'League Apps': '32', 'League Goals': '2', 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'EFL Cup Apps': '1', 'EFL Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 2}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "West Ham United",
+      "league_apps": 36,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '2021\u201322[131]', 'League Division': 'Premier League', 'League Apps': '36', 'League Goals': '1', 'FA Cup Apps': '3', 'FA Cup Goals': '1', 'EFL Cup Apps': '1', 'EFL Cup Goals': '0', 'Europe Apps': '10[b]', 'Europe Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 5}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "West Ham United",
+      "league_apps": 37,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '2022\u201323[132]', 'League Division': 'Premier League', 'League Apps': '37', 'League Goals': '4', 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'EFL Cup Apps': '0', 'EFL Cup Goals': '0', 'Europe Apps': '11[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "West Ham United",
+      "league_apps": 204,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '204', 'League Goals': '10', 'FA Cup Apps': '11', 'FA Cup Goals': '1', 'EFL Cup Apps': '9', 'EFL Cup Goals': '0', 'Europe Apps': '21', 'Europe Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 245, 'Total Goals': 15}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Arsenal",
+      "league_apps": 38,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2023\u201324[133]', 'League Division': 'Premier League', 'League Apps': '38', 'League Goals': '7', 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'EFL Cup Apps': '1', 'EFL Cup Goals': '0', 'Europe Apps': '10[d]', 'Europe Goals': '0', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 7}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Arsenal",
+      "league_apps": 35,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2024\u201325[134]', 'League Division': 'Premier League', 'League Apps': '35', 'League Goals': '4', 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'EFL Cup Apps': '3', 'EFL Cup Goals': '1', 'Europe Apps': '13[d]', 'Europe Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 52, 'Total Goals': 9}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Arsenal",
+      "league_apps": 36,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2025\u201326[135]', 'League Division': 'Premier League', 'League Apps': '36', 'League Goals': '4', 'FA Cup Apps': '0', 'FA Cup Goals': '0', 'EFL Cup Apps': '6', 'EFL Cup Goals': '0', 'Europe Apps': '13[d]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 55, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Arsenal",
+      "league_apps": 109,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '109', 'League Goals': '15', 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'EFL Cup Apps': '10', 'EFL Cup Goals': '1', 'Europe Apps': '36', 'Europe Goals': '5', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 158, 'Total Goals': 21}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 313,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '313', 'League Goals': '25', 'FA Cup Apps': '13', 'FA Cup Goals': '1', 'EFL Cup Apps': '19', 'EFL Cup Goals': '1', 'Europe Apps': '57', 'Europe Goals': '9', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 406, 'Total Goals': 36}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Declan Rice - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"61551a4b-bd72-420f-9486-c2314957677b\",\"wg",
+  "season_id": "2024",
+  "award_year": 2024
+}

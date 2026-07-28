@@ -1,0 +1,159 @@
+{
+  "player_name_raw": "Randal Kolo Muani",
+  "fetch_status": "ok",
+  "wikipedia_title": "Randal_Kolo_Muani",
+  "url": "https://en.wikipedia.org/wiki/Randal_Kolo_Muani",
+  "position": "Forward",
+  "birth_year": 1998,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2015\u201316",
+      "club": "Nantes B",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nantes B', 'Season Season': '2015\u201316', 'League Division': 'CFA', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Nantes B",
+      "league_apps": 21,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Nantes B', 'Season Season': '2016\u201317', 'League Division': 'CFA', 'League Apps': 21, 'League Goals': 8, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 21, 'Total Goals': 8}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Nantes B",
+      "league_apps": 21,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Nantes B', 'Season Season': '2017\u201318', 'League Division': 'Championnat National 3', 'League Apps': 21, 'League Goals': 6, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 21, 'Total Goals': 6}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Nantes B",
+      "league_apps": 17,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Nantes B', 'Season Season': '2018\u201319', 'League Division': 'Championnat National 2', 'League Apps': 17, 'League Goals': 5, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 5}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Nantes B",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nantes B', 'Season Season': '2019\u201320', 'League Division': 'Championnat National 2', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Nantes B",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nantes B', 'Season Season': '2020\u201321', 'League Division': 'Championnat National 2', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Nantes B",
+      "league_apps": 62,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Nantes B', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 62, 'League Goals': 19, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 62, 'Total Goals': 19}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Nantes",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '2018\u201319', 'League Division': 'Ligue 1', 'League Apps': 6, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Nantes",
+      "league_apps": 37,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '2020\u201321', 'League Division': 'Ligue 1', 'League Apps': 37, 'League Goals': 9, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '2[c]', 'Other Goals': '1', 'Total Apps': 40, 'Total Goals': 10}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Nantes",
+      "league_apps": 36,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '2021\u201322', 'League Division': 'Ligue 1', 'League Apps': 36, 'League Goals': 12, 'National cup[a] Apps': '5', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 13}"
+    },
+    {
+      "season": "Total",
+      "club": "Nantes",
+      "league_apps": 79,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 79, 'League Goals': 21, 'National cup[a] Apps': '6', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': 87, 'Total Goals': 23}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Boulogne (loan)",
+      "league_apps": 14,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Boulogne (loan)', 'Season Season': '2019\u201320', 'League Division': 'Championnat National', 'League Apps': 14, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 15, 'Total Goals': 3}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Eintracht Frankfurt",
+      "league_apps": 32,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Eintracht Frankfurt', 'Season Season': '2022\u201323', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 15, 'National cup[a] Apps': '6', 'National cup[a] Goals': '6', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '7[d]', 'Europe Goals': '2', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 23}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Eintracht Frankfurt",
+      "league_apps": 2,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Eintracht Frankfurt', 'Season Season': '2023\u201324', 'League Division': 'Bundesliga', 'League Apps': 2, 'League Goals': 1, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '1[f]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Eintracht Frankfurt",
+      "league_apps": 34,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Eintracht Frankfurt', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 34, 'League Goals': 16, 'National cup[a] Apps': '7', 'National cup[a] Goals': '7', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '8', 'Europe Goals': '3', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 50, 'Total Goals': 26}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Paris Saint-Germain",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2023\u201324', 'League Division': 'Ligue 1', 'League Apps': 26, 'League Goals': 6, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '10[d]', 'Europe Goals': '1', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 9}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Paris Saint-Germain",
+      "league_apps": 10,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2024\u201325', 'League Division': 'Ligue 1', 'League Apps': 10, 'League Goals': 2, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '4[d]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 14, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Paris Saint-Germain",
+      "league_apps": 36,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 36, 'League Goals': 8, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '14', 'Europe Goals': '1', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 54, 'Total Goals': 11}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Juventus (loan)",
+      "league_apps": 16,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Juventus (loan)', 'Season Season': '2024\u201325', 'League Division': 'Serie A', 'League Apps': 16, 'League Goals': 8, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '2[d]', 'Europe Goals': '0', 'Other Apps': '3[h]', 'Other Goals': '2', 'Total Apps': 22, 'Total Goals': 10}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Tottenham Hotspur (loan)",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Tottenham Hotspur (loan)', 'Season Season': '2025\u201326[80]', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 1, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '9[d]', 'Europe Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 5}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 271,
+      "league_goals": 74,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 271, 'League Goals': 74, 'National cup[a] Apps': '19', 'National cup[a] Goals': '10', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '33', 'Europe Goals': '8', 'Other Apps': '7', 'Other Goals': '3', 'Total Apps': 331, 'Total Goals': 95}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Randal Kolo Muani - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"82a72a34-6cd5-4ace-9f53-04a8dc160af"
+}

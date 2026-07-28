@@ -1,0 +1,140 @@
+{
+  "player_name_raw": "Jupp Heynckes",
+  "fetch_status": "ok",
+  "wikipedia_title": "Jupp_Heynckes",
+  "url": "https://en.wikipedia.org/wiki/Jupp_Heynckes",
+  "position": "Forward",
+  "birth_year": 1945,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1964\u201365",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 26,
+      "league_goals": 23,
+      "raw": "{'Club[186][187] Club[186][187]': 'Borussia M\u00f6nchengladbach', 'Season Season': '1964\u201365', 'League Division': 'Regionalliga West', 'League Apps': 26, 'League Goals': 23, 'DFB-Pokal Apps': 0, 'DFB-Pokal Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '6[a]', 'Other Goals': '6', 'Total Apps': 31, 'Total Goals': 29}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 27,
+      "league_goals": 12,
+      "raw": "{'Club[186][187] Club[186][187]': 'Borussia M\u00f6nchengladbach', 'Season Season': '1965\u201366', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 12, 'DFB-Pokal Apps': 2, 'DFB-Pokal Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 12}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 30,
+      "league_goals": 15,
+      "raw": "{'Club[186][187] Club[186][187]': 'Borussia M\u00f6nchengladbach', 'Season Season': '1966\u201367', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 15, 'DFB-Pokal Apps': 1, 'DFB-Pokal Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 83,
+      "league_goals": 50,
+      "raw": "{'Club[186][187] Club[186][187]': 'Borussia M\u00f6nchengladbach', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 83, 'League Goals': 50, 'DFB-Pokal Apps': 3, 'DFB-Pokal Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '6', 'Other Goals': '6', 'Total Apps': 91, 'Total Goals': 56}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Hannover 96",
+      "league_apps": 29,
+      "league_goals": 10,
+      "raw": "{'Club[186][187] Club[186][187]': 'Hannover 96', 'Season Season': '1967\u201368', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 10, 'DFB-Pokal Apps': 1, 'DFB-Pokal Goals': 0, 'Continental Apps': '1[b]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 10}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Hannover 96",
+      "league_apps": 34,
+      "league_goals": 9,
+      "raw": "{'Club[186][187] Club[186][187]': 'Hannover 96', 'Season Season': '1968\u201369', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 9, 'DFB-Pokal Apps': 4, 'DFB-Pokal Goals': 2, 'Continental Apps': '6[b]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 16}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Hannover 96",
+      "league_apps": 23,
+      "league_goals": 6,
+      "raw": "{'Club[186][187] Club[186][187]': 'Hannover 96', 'Season Season': '1969\u201370', 'League Division': 'Bundesliga', 'League Apps': 23, 'League Goals': 6, 'DFB-Pokal Apps': 1, 'DFB-Pokal Goals': 2, 'Continental Apps': '2[b]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "Hannover 96",
+      "league_apps": 86,
+      "league_goals": 25,
+      "raw": "{'Club[186][187] Club[186][187]': 'Hannover 96', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 86, 'League Goals': 25, 'DFB-Pokal Apps': 6, 'DFB-Pokal Goals': 4, 'Continental Apps': '9', 'Continental Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 101, 'Total Goals': 35}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 33,
+      "league_goals": 19,
+      "raw": "{'Club[186][187] Club[186][187]': 'Borussia M\u00f6nchengladbach', 'Season Season': '1970\u201371', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 19, 'DFB-Pokal Apps': 6, 'DFB-Pokal Goals': 2, 'Continental Apps': '4[c]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 23}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 31,
+      "league_goals": 19,
+      "raw": "{'Club[186][187] Club[186][187]': 'Borussia M\u00f6nchengladbach', 'Season Season': '1971\u201372', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 19, 'DFB-Pokal Apps': 5, 'DFB-Pokal Goals': 2, 'Continental Apps': '4[c]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 22}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 33,
+      "league_goals": 28,
+      "raw": "{'Club[186][187] Club[186][187]': 'Borussia M\u00f6nchengladbach', 'Season Season': '1972\u201373', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 28, 'DFB-Pokal Apps': 9, 'DFB-Pokal Goals': 7, 'Continental Apps': '11[d]', 'Continental Goals': '12', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 53, 'Total Goals': 47}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 33,
+      "league_goals": 30,
+      "raw": "{'Club[186][187] Club[186][187]': 'Borussia M\u00f6nchengladbach', 'Season Season': '1973\u201374', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 30, 'DFB-Pokal Apps': 3, 'DFB-Pokal Goals': 2, 'Continental Apps': '7[e]', 'Continental Goals': '8', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 40}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 31,
+      "league_goals": 27,
+      "raw": "{'Club[186][187] Club[186][187]': 'Borussia M\u00f6nchengladbach', 'Season Season': '1974\u201375', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 27, 'DFB-Pokal Apps': 2, 'DFB-Pokal Goals': 4, 'Continental Apps': '10[d]', 'Continental Goals': '11', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 42}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 24,
+      "league_goals": 12,
+      "raw": "{'Club[186][187] Club[186][187]': 'Borussia M\u00f6nchengladbach', 'Season Season': '1975\u201376', 'League Division': 'Bundesliga', 'League Apps': 24, 'League Goals': 12, 'DFB-Pokal Apps': 4, 'DFB-Pokal Goals': 1, 'Continental Apps': '6[c]', 'Continental Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 19}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 20,
+      "league_goals": 15,
+      "raw": "{'Club[186][187] Club[186][187]': 'Borussia M\u00f6nchengladbach', 'Season Season': '1976\u201377', 'League Division': 'Bundesliga', 'League Apps': 20, 'League Goals': 15, 'DFB-Pokal Apps': 0, 'DFB-Pokal Goals': 0, 'Continental Apps': '7[c]', 'Continental Goals': '1', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 27, 'Total Goals': 16}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 21,
+      "league_goals": 18,
+      "raw": "{'Club[186][187] Club[186][187]': 'Borussia M\u00f6nchengladbach', 'Season Season': '1977\u201378', 'League Division': 'Bundesliga', 'League Apps': 21, 'League Goals': 18, 'DFB-Pokal Apps': 0, 'DFB-Pokal Goals': 0, 'Continental Apps': '6[c]', 'Continental Goals': '4', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 27, 'Total Goals': 22}"
+    },
+    {
+      "season": "Total",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 226,
+      "league_goals": 168,
+      "raw": "{'Club[186][187] Club[186][187]': 'Borussia M\u00f6nchengladbach', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 226, 'League Goals': 168, 'DFB-Pokal Apps': 29, 'DFB-Pokal Goals': 18, 'Continental Apps': '54', 'Continental Goals': '45', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 309, 'Total Goals': 232}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 395,
+      "league_goals": 243,
+      "raw": "{'Club[186][187] Club[186][187]': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 395, 'League Goals': 243, 'DFB-Pokal Apps': 38, 'DFB-Pokal Goals': 22, 'Continental Apps': '63', 'Continental Goals': '51', 'Other Apps': '6', 'Other Goals': '6', 'Total Apps': 501, 'Total Goals': 324}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jupp Heynckes - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"5ce10783-94d0-4cfa-81aa-70e864087993\",\"",
+  "season_id": "1975",
+  "award_year": 1975
+}

@@ -1,0 +1,180 @@
+{
+  "player_name_raw": "Jimmy McIlroy",
+  "fetch_status": "ok",
+  "wikipedia_title": "Jimmy_McIlroy",
+  "url": "https://en.wikipedia.org/wiki/Jimmy_McIlroy",
+  "position": "Forward attacking midfielder",
+  "birth_year": 1931,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1950\u201351",
+      "club": "Burnley",
+      "league_apps": 30,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1950\u201351', 'Division Division': 'First Division', 'League Apps': 30, 'League Goals': 5, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 31, 'Total Goals': 5}"
+    },
+    {
+      "season": "1951\u201352",
+      "club": "Burnley",
+      "league_apps": 28,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1951\u201352', 'Division Division': 'First Division', 'League Apps': 28, 'League Goals': 4, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 28, 'Total Goals': 4}"
+    },
+    {
+      "season": "1952\u201353",
+      "club": "Burnley",
+      "league_apps": 38,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1952\u201353', 'Division Division': 'First Division', 'League Apps': 38, 'League Goals': 11, 'FA Cup Apps': 3, 'FA Cup Goals': 1, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 41, 'Total Goals': 12}"
+    },
+    {
+      "season": "1953\u201354",
+      "club": "Burnley",
+      "league_apps": 40,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1953\u201354', 'Division Division': 'First Division', 'League Apps': 40, 'League Goals': 17, 'FA Cup Apps': 3, 'FA Cup Goals': 1, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 43, 'Total Goals': 18}"
+    },
+    {
+      "season": "1954\u201355",
+      "club": "Burnley",
+      "league_apps": 40,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1954\u201355', 'Division Division': 'First Division', 'League Apps': 40, 'League Goals': 3, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 41, 'Total Goals': 3}"
+    },
+    {
+      "season": "1955\u201356",
+      "club": "Burnley",
+      "league_apps": 24,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1955\u201356', 'Division Division': 'First Division', 'League Apps': 24, 'League Goals': 4, 'FA Cup Apps': 5, 'FA Cup Goals': 1, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 29, 'Total Goals': 5}"
+    },
+    {
+      "season": "1956\u201357",
+      "club": "Burnley",
+      "league_apps": 40,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1956\u201357', 'Division Division': 'First Division', 'League Apps': 40, 'League Goals': 13, 'FA Cup Apps': 5, 'FA Cup Goals': 3, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 45, 'Total Goals': 16}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "Burnley",
+      "league_apps": 36,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1957\u201358', 'Division Division': 'First Division', 'League Apps': 36, 'League Goals': 16, 'FA Cup Apps': 3, 'FA Cup Goals': 3, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 39, 'Total Goals': 19}"
+    },
+    {
+      "season": "1958\u201359",
+      "club": "Burnley",
+      "league_apps": 40,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1958\u201359', 'Division Division': 'First Division', 'League Apps': 40, 'League Goals': 6, 'FA Cup Apps': 5, 'FA Cup Goals': 1, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 45, 'Total Goals': 7}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "Burnley",
+      "league_apps": 32,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1959\u201360', 'Division Division': 'First Division', 'League Apps': 32, 'League Goals': 6, 'FA Cup Apps': 6, 'FA Cup Goals': 1, 'League Cup Apps': '\u2013', 'League Cup Goals': '\u2013', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 38, 'Total Goals': 7}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Burnley",
+      "league_apps": 33,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1960\u201361', 'Division Division': 'First Division', 'League Apps': 33, 'League Goals': 10, 'FA Cup Apps': 7, 'FA Cup Goals': 1, 'League Cup Apps': '3', 'League Cup Goals': '1', 'Other[A] Apps': 5, 'Other[A] Goals': 1, 'Total Apps': 48, 'Total Goals': 13}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Burnley",
+      "league_apps": 36,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1961\u201362', 'Division Division': 'First Division', 'League Apps': 36, 'League Goals': 15, 'FA Cup Apps': 8, 'FA Cup Goals': 1, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 44, 'Total Goals': 16}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Burnley",
+      "league_apps": 22,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': '1962\u201363', 'Division Division': 'First Division', 'League Apps': 22, 'League Goals': 6, 'FA Cup Apps': 3, 'FA Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 25, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Burnley",
+      "league_apps": 439,
+      "league_goals": 116,
+      "raw": "{'Club Club': 'Burnley', 'Season Season': 'Total', 'Division Division': 'Total', 'League Apps': 439, 'League Goals': 116, 'FA Cup Apps': 50, 'FA Cup Goals': 13, 'League Cup Apps': '3', 'League Cup Goals': '1', 'Other[A] Apps': 5, 'Other[A] Goals': 1, 'Total Apps': 497, 'Total Goals': 131}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Stoke City",
+      "league_apps": 18,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1962\u201363', 'Division Division': 'Second Division', 'League Apps': 18, 'League Goals': 6, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 18, 'Total Goals': 6}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Stoke City",
+      "league_apps": 32,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1963\u201364', 'Division Division': 'First Division', 'League Apps': 32, 'League Goals': 9, 'FA Cup Apps': 4, 'FA Cup Goals': 3, 'League Cup Apps': '7', 'League Cup Goals': '0', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 43, 'Total Goals': 12}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Stoke City",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1964\u201365', 'Division Division': 'First Division', 'League Apps': 31, 'League Goals': 1, 'FA Cup Apps': 3, 'FA Cup Goals': 0, 'League Cup Apps': '2', 'League Cup Goals': '0', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 36, 'Total Goals': 1}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Stoke City",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1965\u201366', 'Division Division': 'First Division', 'League Apps': 17, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '2', 'League Cup Goals': '0', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 19, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Stoke City",
+      "league_apps": 98,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': 'Total', 'Division Division': 'Total', 'League Apps': 98, 'League Goals': 16, 'FA Cup Apps': 7, 'FA Cup Goals': 3, 'League Cup Apps': '11', 'League Cup Goals': '0', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 116, 'Total Goals': 19}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Oldham Athletic",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Oldham Athletic', 'Season Season': '1965\u201366', 'Division Division': 'Third Division', 'League Apps': 12, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '0', 'League Cup Goals': '0', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 12, 'Total Goals': 0}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Oldham Athletic",
+      "league_apps": 25,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Oldham Athletic', 'Season Season': '1966\u201367', 'Division Division': 'Third Division', 'League Apps': 25, 'League Goals': 1, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': '1', 'League Cup Goals': '0', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 27, 'Total Goals': 1}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Oldham Athletic",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Oldham Athletic', 'Season Season': '1967\u201368', 'Division Division': 'Third Division', 'League Apps': 2, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': '1', 'League Cup Goals': '0', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Oldham Athletic",
+      "league_apps": 39,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Oldham Athletic', 'Season Season': 'Total', 'Division Division': 'Total', 'League Apps': 39, 'League Goals': 1, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': '2', 'League Cup Goals': '0', 'Other[A] Apps': 0, 'Other[A] Goals': 0, 'Total Apps': 42, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career Total",
+      "club": "Career Total",
+      "league_apps": 576,
+      "league_goals": 133,
+      "raw": "{'Club Club': 'Career Total', 'Season Season': 'Career Total', 'Division Division': 'Career Total', 'League Apps': 576, 'League Goals': 133, 'FA Cup Apps': 58, 'FA Cup Goals': 16, 'League Cup Apps': '16', 'League Cup Goals': '1', 'Other[A] Apps': 5, 'Other[A] Goals': 1, 'Total Apps': 655, 'Total Goals': 151}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jimmy McIlroy - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"bf2b68f7-03a8-4d17-b538-6ca33a7b0404\",\""
+}

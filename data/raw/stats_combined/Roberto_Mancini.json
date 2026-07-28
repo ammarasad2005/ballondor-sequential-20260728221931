@@ -1,0 +1,173 @@
+{
+  "player_name_raw": "Roberto Mancini",
+  "fetch_status": "ok",
+  "wikipedia_title": "Roberto_Mancini",
+  "url": "https://en.wikipedia.org/wiki/Roberto_Mancini",
+  "position": "Forward attacking midfielder",
+  "birth_year": 1964,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1981\u201382",
+      "club": "Bologna",
+      "league_apps": 30,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Bologna', 'Season Season': '1981\u201382', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 9, 'National Cup[nb 1] Apps': 1, 'National Cup[nb 1] Goals': 0, 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 9}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Sampdoria",
+      "league_apps": 22,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1982\u201383', 'League Division': 'Serie A', 'League Apps': 22, 'League Goals': 4, 'National Cup[nb 1] Apps': 5, 'National Cup[nb 1] Goals': 1, 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 5}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Sampdoria",
+      "league_apps": 30,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1983\u201384', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 8, 'National Cup[nb 1] Apps': 8, 'National Cup[nb 1] Goals': 2, 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 10}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Sampdoria",
+      "league_apps": 24,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1984\u201385', 'League Division': 'Serie A', 'League Apps': 24, 'League Goals': 3, 'National Cup[nb 1] Apps': 11, 'National Cup[nb 1] Goals': 3, 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 6}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Sampdoria",
+      "league_apps": 23,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1985\u201386', 'League Division': 'Serie A', 'League Apps': 23, 'League Goals': 6, 'National Cup[nb 1] Apps': 11, 'National Cup[nb 1] Goals': 4, 'Continental[nb 2] Apps': '4', 'Continental[nb 2] Goals': '2', 'Total Apps': 38, 'Total Goals': 12}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Sampdoria",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1986\u201387', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 6, 'National Cup[nb 1] Apps': 5, 'National Cup[nb 1] Goals': 0, 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 6}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Sampdoria",
+      "league_apps": 30,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1987\u201388', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 5, 'National Cup[nb 1] Apps': 13, 'National Cup[nb 1] Goals': 3, 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 8}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Sampdoria",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1988\u201389', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 9, 'National Cup[nb 1] Apps': 11, 'National Cup[nb 1] Goals': 5, 'Continental[nb 2] Apps': '8', 'Continental[nb 2] Goals': '0', 'Total Apps': 48, 'Total Goals': 14}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Sampdoria",
+      "league_apps": 31,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1989\u201390', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 11, 'National Cup[nb 1] Apps': 4, 'National Cup[nb 1] Goals': 2, 'Continental[nb 2] Apps': '9', 'Continental[nb 2] Goals': '2', 'Total Apps': 44, 'Total Goals': 15}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Sampdoria",
+      "league_apps": 30,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1990\u201391', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 12, 'National Cup[nb 1] Apps': 10, 'National Cup[nb 1] Goals': 2, 'Continental[nb 2] Apps': '7', 'Continental[nb 2] Goals': '2', 'Total Apps': 47, 'Total Goals': 16}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Sampdoria",
+      "league_apps": 29,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1991\u201392', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 6, 'National Cup[nb 1] Apps': 7, 'National Cup[nb 1] Goals': 3, 'Continental[nb 2] Apps': '9', 'Continental[nb 2] Goals': '4', 'Total Apps': 45, 'Total Goals': 13}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Sampdoria",
+      "league_apps": 30,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1992\u201393', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 15, 'National Cup[nb 1] Apps': 2, 'National Cup[nb 1] Goals': 0, 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 15}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Sampdoria",
+      "league_apps": 30,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1993\u201394', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 12, 'National Cup[nb 1] Apps': 7, 'National Cup[nb 1] Goals': 0, 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 12}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Sampdoria",
+      "league_apps": 31,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 9, 'National Cup[nb 1] Apps': 3, 'National Cup[nb 1] Goals': 1, 'Continental[nb 2] Apps': '4', 'Continental[nb 2] Goals': '2', 'Total Apps': 38, 'Total Goals': 12}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Sampdoria",
+      "league_apps": 26,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 11, 'National Cup[nb 1] Apps': 2, 'National Cup[nb 1] Goals': 1, 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 12}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Sampdoria",
+      "league_apps": 33,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1996\u201397', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 15, 'National Cup[nb 1] Apps': 2, 'National Cup[nb 1] Goals': 0, 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "Sampdoria",
+      "league_apps": 424,
+      "league_goals": 132,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 424, 'League Goals': 132, 'National Cup[nb 1] Apps': 101, 'National Cup[nb 1] Goals': 27, 'Continental[nb 2] Apps': '19', 'Continental[nb 2] Goals': '12', 'Total Apps': 566, 'Total Goals': 168}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Lazio",
+      "league_apps": 34,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 5, 'National Cup[nb 1] Apps': 8, 'National Cup[nb 1] Goals': 1, 'Continental[nb 2] Apps': '10', 'Continental[nb 2] Goals': '3', 'Total Apps': 52, 'Total Goals': 9}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Lazio",
+      "league_apps": 33,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 10, 'National Cup[nb 1] Apps': 7, 'National Cup[nb 1] Goals': 2, 'Continental[nb 2] Apps': '7', 'Continental[nb 2] Goals': '0', 'Total Apps': 47, 'Total Goals': 12}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Lazio",
+      "league_apps": 20,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 20, 'League Goals': 0, 'National Cup[nb 1] Apps': 7, 'National Cup[nb 1] Goals': 3, 'Continental[nb 2] Apps': '10', 'Continental[nb 2] Goals': '0', 'Total Apps': 37, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Lazio",
+      "league_apps": 87,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Lazio', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 87, 'League Goals': 15, 'National Cup[nb 1] Apps': 22, 'National Cup[nb 1] Goals': 6, 'Continental[nb 2] Apps': '27', 'Continental[nb 2] Goals': '3', 'Total Apps': 136, 'Total Goals': 24}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Leicester City (loan)",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City (loan)', 'Season Season': '2000\u201301', 'League Division': 'Premier League', 'League Apps': 4, 'League Goals': 0, 'National Cup[nb 1] Apps': 1, 'National Cup[nb 1] Goals': 0, 'Continental[nb 2] Apps': '\u2014', 'Continental[nb 2] Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 545,
+      "league_goals": 156,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 545, 'League Goals': 156, 'National Cup[nb 1] Apps': 125, 'National Cup[nb 1] Goals': 33, 'Continental[nb 2] Apps': '46', 'Continental[nb 2] Goals': '15', 'Total Apps': 738, 'Total Goals': 201}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Roberto Mancini - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ff5dec19-42a7-477a-bff2-56d4ad4a6158\""
+}

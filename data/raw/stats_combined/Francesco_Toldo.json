@@ -1,0 +1,173 @@
+{
+  "player_name_raw": "Francesco Toldo",
+  "fetch_status": "ok",
+  "wikipedia_title": "Francesco_Toldo",
+  "url": "https://en.wikipedia.org/wiki/Francesco_Toldo",
+  "position": "Goalkeeper",
+  "birth_year": 1971,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1990\u201391",
+      "club": "Hellas Verona",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Hellas Verona', 'Season Season': '1990\u201391', 'League Division': 'Serie B', 'League Apps': 0, 'League Goals': '0', 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 0, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Trento",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Trento', 'Season Season': '1991\u201392', 'League Division': 'Serie C2', 'League Apps': 38, 'League Goals': '0', 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 38, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Ravenna",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ravenna', 'Season Season': '1992\u201393', 'League Division': 'Serie C1', 'League Apps': 31, 'League Goals': '0', 'Coppa Italia Apps': 0, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 31, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Fiorentina",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1993\u201394', 'League Division': 'Serie B', 'League Apps': 33, 'League Goals': '0', 'Coppa Italia Apps': 5, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 38, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Fiorentina",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': '0', 'Coppa Italia Apps': 5, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 39, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Fiorentina",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': '0', 'Coppa Italia Apps': 8, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 42, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Fiorentina",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1996\u201397', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': '0', 'Coppa Italia Apps': 3, 'Coppa Italia Goals': 0, 'Europe Apps': '8[a]', 'Europe Goals': '0', 'Other Apps': '1[b]', 'Other Goals': '0', 'Other Apps.1': 44, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Fiorentina",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': '0', 'Coppa Italia Apps': 3, 'Coppa Italia Goals': 0, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 37, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Fiorentina",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': '0', 'Coppa Italia Apps': 10, 'Coppa Italia Goals': 0, 'Europe Apps': '3[c]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 46, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Fiorentina",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': '0', 'Coppa Italia Apps': 3, 'Coppa Italia Goals': 0, 'Europe Apps': '13[d]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 50, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Fiorentina",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '2000\u201301', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': '0', 'Coppa Italia Apps': 6, 'Coppa Italia Goals': 0, 'Europe Apps': '2[c]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 40, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Fiorentina",
+      "league_apps": 266,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 266, 'League Goals': '0', 'Coppa Italia Apps': 43, 'Coppa Italia Goals': 0, 'Europe Apps': '26', 'Europe Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Other Apps.1': 336, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Inter Milan",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2001\u201302', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': '0', 'Coppa Italia Apps': 1, 'Coppa Italia Goals': 0, 'Europe Apps': '9[c]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 43, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Inter Milan",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2002\u201303', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': '0[e]', 'Coppa Italia Apps': 1, 'Coppa Italia Goals': 0, 'Europe Apps': '18[d]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 51, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Inter Milan",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2003\u201304', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': '0', 'Coppa Italia Apps': 2, 'Coppa Italia Goals': 0, 'Europe Apps': '11', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 45, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Inter Milan",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2004\u201305', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': '0', 'Coppa Italia Apps': 2, 'Coppa Italia Goals': 0, 'Europe Apps': '7[d]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Other Apps.1': 39, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Inter Milan",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2005\u201306', 'League Division': 'Serie A', 'League Apps': 9, 'League Goals': '0', 'Coppa Italia Apps': 5, 'Coppa Italia Goals': 0, 'Europe Apps': '5[d]', 'Europe Goals': '0', 'Other Apps': '1[b]', 'Other Goals': '0', 'Other Apps.1': 20, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Inter Milan",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2006\u201307', 'League Division': 'Serie A', 'League Apps': 6, 'League Goals': '0', 'Coppa Italia Apps': 9, 'Coppa Italia Goals': 0, 'Europe Apps': '2[d]', 'Europe Goals': '0', 'Other Apps': '1[b]', 'Other Goals': '0', 'Other Apps.1': 18, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Inter Milan",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2007\u201308', 'League Division': 'Serie A', 'League Apps': 3, 'League Goals': '0', 'Coppa Italia Apps': 5, 'Coppa Italia Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Other Apps.1': 8, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Inter Milan",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2008\u201309', 'League Division': 'Serie A', 'League Apps': 3, 'League Goals': '0', 'Coppa Italia Apps': 3, 'Coppa Italia Goals': 0, 'Europe Apps': '1[d]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Other Apps.1': 7, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Inter Milan",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2009\u201310', 'League Division': 'Serie A', 'League Apps': 0, 'League Goals': '0', 'Coppa Italia Apps': 3, 'Coppa Italia Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Other Apps.1': 3, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 148,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 148, 'League Goals': '0', 'Coppa Italia Apps': 31, 'Coppa Italia Goals': 0, 'Europe Apps': '53', 'Europe Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Other Apps.1': 234, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 483,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 483, 'League Goals': '0', 'Coppa Italia Apps': 74, 'Coppa Italia Goals': 0, 'Europe Apps': '79', 'Europe Goals': '0', 'Other Apps': '3', 'Other Goals': '0', 'Other Apps.1': 639, 'Total Goals': 0, 'Total Unnamed: 13_level_1': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Francesco Toldo - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"78cd41a8-4d31-4e38-8ed1-4ac0fb995912\""
+}

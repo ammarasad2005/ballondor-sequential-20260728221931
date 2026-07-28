@@ -1,0 +1,250 @@
+{
+  "player_name_raw": "Luca Toni",
+  "fetch_status": "ok",
+  "wikipedia_title": "Luca_Toni",
+  "url": "https://en.wikipedia.org/wiki/Luca_Toni",
+  "position": "Striker",
+  "birth_year": 1977,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1994\u201395",
+      "club": "Modena",
+      "league_apps": 7,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Modena', 'Season Season': '1994\u201395', 'League Division': 'Serie C1', 'League Apps': 7, 'League Goals': 2, 'National cup[a] Apps': '\u2013', 'National cup[a] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '2[b]', 'Other Goals': '1', 'Total Apps': 9, 'Total Goals': 3}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Modena",
+      "league_apps": 25,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Modena', 'Season Season': '1995\u201396', 'League Division': 'Serie C1', 'League Apps': 25, 'League Goals': 5, 'National cup[a] Apps': '\u2013', 'National cup[a] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 25, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Modena",
+      "league_apps": 32,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Modena', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 32, 'League Goals': 7, 'National cup[a] Apps': '\u2013', 'National cup[a] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': 34, 'Total Goals': 8}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Empoli",
+      "league_apps": 3,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Empoli', 'Season Season': '1996\u201397', 'League Division': 'Serie B', 'League Apps': 3, 'League Goals': 1, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 3, 'Total Goals': 1}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Fiorenzuola",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Fiorenzuola', 'Season Season': '1997\u201398', 'League Division': 'Serie C1', 'League Apps': 26, 'League Goals': 2, 'National cup[a] Apps': '\u2013', 'National cup[a] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '4[c]', 'Other Goals': '2', 'Total Apps': 30, 'Total Goals': 4}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Lodigiani",
+      "league_apps": 31,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Lodigiani', 'Season Season': '1998\u201399', 'League Division': 'Serie C1', 'League Apps': 31, 'League Goals': 15, 'National cup[a] Apps': '\u2013', 'National cup[a] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '2[c]', 'Other Goals': '1', 'Total Apps': 33, 'Total Goals': 16}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Treviso",
+      "league_apps": 35,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Treviso', 'Season Season': '1999\u20132000', 'League Division': 'Serie B', 'League Apps': 35, 'League Goals': 15, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 16}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Vicenza",
+      "league_apps": 31,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Vicenza', 'Season Season': '2000\u201301', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 9, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 9}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Brescia",
+      "league_apps": 28,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Brescia', 'Season Season': '2001\u201302', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 13, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'Continental Apps': '2[d]', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 14}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Brescia",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Brescia', 'Season Season': '2002\u201303', 'League Division': 'Serie A', 'League Apps': 16, 'League Goals': 2, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 16, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Brescia",
+      "league_apps": 44,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Brescia', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 44, 'League Goals': 15, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 50, 'Total Goals': 16}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Palermo",
+      "league_apps": 45,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Palermo', 'Season Season': '2003\u201304', 'League Division': 'Serie B', 'League Apps': 45, 'League Goals': 30, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 47, 'Total Goals': 30}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Palermo",
+      "league_apps": 35,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Palermo', 'Season Season': '2004\u201305', 'League Division': 'Serie A', 'League Apps': 35, 'League Goals': 20, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 21}"
+    },
+    {
+      "season": "Total",
+      "club": "Palermo",
+      "league_apps": 80,
+      "league_goals": 50,
+      "raw": "{'Club Club': 'Palermo', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 80, 'League Goals': 50, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 83, 'Total Goals': 51}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Fiorentina",
+      "league_apps": 38,
+      "league_goals": 31,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '2005\u201306', 'League Division': 'Serie A', 'League Apps': 38, 'League Goals': 31, 'National cup[a] Apps': '4', 'National cup[a] Goals': '2', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 42, 'Total Goals': 33}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Fiorentina",
+      "league_apps": 29,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '2006\u201307', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 16, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 29, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Fiorentina",
+      "league_apps": 67,
+      "league_goals": 47,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 67, 'League Goals': 47, 'National cup[a] Apps': '4', 'National cup[a] Goals': '2', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 71, 'Total Goals': 49}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Bayern Munich",
+      "league_apps": 31,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2007\u201308', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 24, 'National cup[a] Apps': '4', 'National cup[a] Goals': '5', 'Continental Apps': '11[e]', 'Continental Goals': '10', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 39}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Bayern Munich",
+      "league_apps": 25,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2008\u201309', 'League Division': 'Bundesliga', 'League Apps': 25, 'League Goals': 14, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'Continental Apps': '8[f]', 'Continental Goals': '3', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 18}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Bayern Munich",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2009\u201310', 'League Division': 'Bundesliga', 'League Apps': 4, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'Continental Apps': '2[f]', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 8, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 60,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 60, 'League Goals': 38, 'National cup[a] Apps': '8', 'National cup[a] Goals': '7', 'Continental Apps': '21', 'Continental Goals': '13', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 89, 'Total Goals': 58}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Bayern Munich II",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': '2009\u201310', 'League Division': '3. Liga', 'League Apps': 2, 'League Goals': 0, 'National cup[a] Apps': '\u2013', 'National cup[a] Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Roma",
+      "league_apps": 15,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '2009\u201310', 'League Division': 'Serie A', 'League Apps': 15, 'League Goals': 5, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 17, 'Total Goals': 5}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Genoa",
+      "league_apps": 16,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Genoa', 'Season Season': '2010\u201311', 'League Division': 'Serie A', 'League Apps': 16, 'League Goals': 3, 'National cup[a] Apps': '2', 'National cup[a] Goals': '4', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 18, 'Total Goals': 7}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Juventus",
+      "league_apps": 14,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2010\u201311', 'League Division': 'Serie A', 'League Apps': 14, 'League Goals': 2, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 15, 'Total Goals': 2}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Juventus",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2011\u201312', 'League Division': 'Serie A', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 14,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 14, 'League Goals': 2, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 15, 'Total Goals': 2}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Al Nasr",
+      "league_apps": 8,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Al Nasr', 'Season Season': '2011\u201312', 'League Division': 'UAE Pro League', 'League Apps': 8, 'League Goals': 3, 'National cup[a] Apps': '2', 'National cup[a] Goals': '2', 'Continental Apps': '3[g]', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 13, 'Total Goals': 5}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Fiorentina",
+      "league_apps": 27,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '2012\u201313', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 8, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 8}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Verona",
+      "league_apps": 34,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Verona', 'Season Season': '2013\u201314', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 20, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 21}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Verona",
+      "league_apps": 38,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Verona', 'Season Season': '2014\u201315', 'League Division': 'Serie A', 'League Apps': 38, 'League Goals': 22, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 23}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Verona",
+      "league_apps": 23,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Verona', 'Season Season': '2015\u201316', 'League Division': 'Serie A', 'League Apps': 23, 'League Goals': 6, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 25, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Verona",
+      "league_apps": 95,
+      "league_goals": 48,
+      "raw": "{'Club Club': 'Verona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 95, 'League Goals': 48, 'National cup[a] Apps': '5', 'National cup[a] Goals': '3', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 100, 'Total Goals': 51}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 584,
+      "league_goals": 267,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 584, 'League Goals': 267, 'National cup[a] Apps': '38', 'National cup[a] Goals': '21', 'Continental Apps': '26', 'Continental Goals': '13', 'Other Apps': '8', 'Other Goals': '4', 'Total Apps': 658, 'Total Goals': 306}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Luca Toni - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"61850e11-31e6-4137-a7dd-61fa7fe74d2f\",\"wgCa"
+}

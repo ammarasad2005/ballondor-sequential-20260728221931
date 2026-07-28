@@ -1,0 +1,117 @@
+{
+  "player_name_raw": "Horst Hrubesch",
+  "fetch_status": "ok",
+  "wikipedia_title": "Horst_Hrubesch",
+  "url": "https://en.wikipedia.org/wiki/Horst_Hrubesch",
+  "position": "Centre forward",
+  "birth_year": 1951,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1975\u201376",
+      "club": "Rot-Weiss Essen",
+      "league_apps": 22,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Rot-Weiss Essen', 'Season Season': '1975\u201376', 'League Division': 'Bundesliga', 'League Apps': 22, 'League Goals': 18, 'DFB-Pokal Apps': nan, 'DFB-Pokal Goals': nan, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 18}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Rot-Weiss Essen",
+      "league_apps": 26,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Rot-Weiss Essen', 'Season Season': '1976\u201377', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 20, 'DFB-Pokal Apps': nan, 'DFB-Pokal Goals': nan, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 20}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Rot-Weiss Essen",
+      "league_apps": 35,
+      "league_goals": 42,
+      "raw": "{'Club Club': 'Rot-Weiss Essen', 'Season Season': '1977\u201378', 'League Division': '2. Bundesliga', 'League Apps': 35, 'League Goals': 42, 'DFB-Pokal Apps': nan, 'DFB-Pokal Goals': nan, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 42}"
+    },
+    {
+      "season": "Total",
+      "club": "Rot-Weiss Essen",
+      "league_apps": 83,
+      "league_goals": 80,
+      "raw": "{'Club Club': 'Rot-Weiss Essen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 83, 'League Goals': 80, 'DFB-Pokal Apps': nan, 'DFB-Pokal Goals': nan, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 83, 'Total Goals': 80}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Hamburger SV",
+      "league_apps": 34,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1978\u201379', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 13, 'DFB-Pokal Apps': 1.0, 'DFB-Pokal Goals': 0.0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 13}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Hamburger SV",
+      "league_apps": 34,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1979\u201380', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 21, 'DFB-Pokal Apps': 3.0, 'DFB-Pokal Goals': 3.0, 'Europe Apps': '9[a]', 'Europe Goals': '7', 'Total Apps': 46, 'Total Goals': 31}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Hamburger SV",
+      "league_apps": 29,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1980\u201381', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 17, 'DFB-Pokal Apps': 5.0, 'DFB-Pokal Goals': 7.0, 'Europe Apps': '6[b]', 'Europe Goals': '7', 'Total Apps': 40, 'Total Goals': 31}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Hamburger SV",
+      "league_apps": 32,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1981\u201382', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 27, 'DFB-Pokal Apps': 6.0, 'DFB-Pokal Goals': 5.0, 'Europe Apps': '11[b]', 'Europe Goals': '5', 'Total Apps': 49, 'Total Goals': 37}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Hamburger SV",
+      "league_apps": 30,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1982\u201383', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 18, 'DFB-Pokal Apps': 4.0, 'DFB-Pokal Goals': 2.0, 'Europe Apps': '8[a]', 'Europe Goals': '2', 'Total Apps': 42, 'Total Goals': 22}"
+    },
+    {
+      "season": "Total",
+      "club": "Hamburger SV",
+      "league_apps": 159,
+      "league_goals": 96,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 159, 'League Goals': 96, 'DFB-Pokal Apps': 19.0, 'DFB-Pokal Goals': 17.0, 'Europe Apps': '34', 'Europe Goals': '21', 'Total Apps': 212, 'Total Goals': 134}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 23,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1983\u201384', 'League Division': 'Belgian First Division', 'League Apps': 23, 'League Goals': 9, 'DFB-Pokal Apps': nan, 'DFB-Pokal Goals': nan, 'Europe Apps': '2[a]', 'Europe Goals': '1', 'Total Apps': 25, 'Total Goals': 10}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 20,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1984\u201385', 'League Division': 'Belgian First Division', 'League Apps': 20, 'League Goals': 8, 'DFB-Pokal Apps': nan, 'DFB-Pokal Goals': nan, 'Europe Apps': '0', 'Europe Goals': '0', 'Total Apps': 20, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 43,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 43, 'League Goals': 17, 'DFB-Pokal Apps': nan, 'DFB-Pokal Goals': nan, 'Europe Apps': '2', 'Europe Goals': '1', 'Total Apps': 45, 'Total Goals': 18}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Borussia Dortmund",
+      "league_apps": 17,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1985\u201386', 'League Division': 'Bundesliga', 'League Apps': 17, 'League Goals': 2, 'DFB-Pokal Apps': nan, 'DFB-Pokal Goals': nan, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 2}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 302,
+      "league_goals": 195,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 302, 'League Goals': 195, 'DFB-Pokal Apps': 19.0, 'DFB-Pokal Goals': 17.0, 'Europe Apps': '36', 'Europe Goals': '22', 'Total Apps': 357, 'Total Goals': 234}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Horst Hrubesch - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"9ab8f64b-7ac4-4728-893a-3595bf6a5b71\","
+}

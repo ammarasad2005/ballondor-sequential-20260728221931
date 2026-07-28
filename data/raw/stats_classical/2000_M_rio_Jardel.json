@@ -1,0 +1,231 @@
+{
+  "player_name_raw": "M\u00e1rio Jardel",
+  "fetch_status": "ok",
+  "wikipedia_title": "M\u00e1rio_Jardel",
+  "url": "https://en.wikipedia.org/wiki/M\u00e1rio_Jardel",
+  "position": "Forward",
+  "birth_year": 1973,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1992",
+      "club": "Vasco da Gama",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Vasco da Gama', 'Season Season': '1992', 'League Division': 'S\u00e9rie A', 'League Apps': 0.0, 'League Goals': '0', 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 2.0, 'Other[a] Goals': 1.0, 'Total Apps': 2.0, 'Total Goals': 1.0}"
+    },
+    {
+      "season": "1993",
+      "club": "Vasco da Gama",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Vasco da Gama', 'Season Season': '1993', 'League Division': 'S\u00e9rie A', 'League Apps': 2.0, 'League Goals': '0', 'Cup Apps': 3.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 18.0, 'Other[a] Goals': 9.0, 'Total Apps': 23.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "1994",
+      "club": "Vasco da Gama",
+      "league_apps": 13,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Vasco da Gama', 'Season Season': '1994', 'League Division': 'S\u00e9rie A', 'League Apps': 13.0, 'League Goals': '3', 'Cup Apps': 7.0, 'Cup Goals': 3.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 14.0, 'Other[a] Goals': 4.0, 'Total Apps': 34.0, 'Total Goals': 10.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Vasco da Gama",
+      "league_apps": 15,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Vasco da Gama', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 15.0, 'League Goals': '3', 'Cup Apps': 10.0, 'Cup Goals': 3.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 34.0, 'Other[a] Goals': 14.0, 'Total Apps': 59.0, 'Total Goals': 20.0}"
+    },
+    {
+      "season": "1995",
+      "club": "Gr\u00eamio (loan)",
+      "league_apps": 13,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Gr\u00eamio (loan)', 'Season Season': '1995', 'League Division': 'S\u00e9rie A', 'League Apps': 13.0, 'League Goals': '10', 'Cup Apps': 13.0, 'Cup Goals': 6.0, 'Continental Apps': 14.0, 'Continental Goals': 12.0, 'Other[a] Apps': 24.0, 'Other[a] Goals': 14.0, 'Total Apps': 64.0, 'Total Goals': 42.0}"
+    },
+    {
+      "season": "1996",
+      "club": "Gr\u00eamio (loan)",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Gr\u00eamio (loan)', 'Season Season': '1996', 'League Division': 'S\u00e9rie A', 'League Apps': 0.0, 'League Goals': '0', 'Cup Apps': 5.0, 'Cup Goals': 1.0, 'Continental Apps': 7.0, 'Continental Goals': 5.0, 'Other[a] Apps': 17.0, 'Other[a] Goals': 8.0, 'Total Apps': 29.0, 'Total Goals': 14.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Gr\u00eamio (loan)",
+      "league_apps": 13,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Gr\u00eamio (loan)', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 13.0, 'League Goals': '10', 'Cup Apps': 18.0, 'Cup Goals': 7.0, 'Continental Apps': 21.0, 'Continental Goals': 17.0, 'Other[a] Apps': 41.0, 'Other[a] Goals': 22.0, 'Total Apps': 93.0, 'Total Goals': 55.0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Porto",
+      "league_apps": 31,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1996\u201397', 'League Division': 'Primeira Liga', 'League Apps': 31.0, 'League Goals': '30', 'Cup Apps': 6.0, 'Cup Goals': 3.0, 'Continental Apps': 8.0, 'Continental Goals': 4.0, 'Other[a] Apps': 1.0, 'Other[a] Goals': 0.0, 'Total Apps': 46.0, 'Total Goals': 37.0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Porto",
+      "league_apps": 30,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1997\u201398', 'League Division': 'Primeira Liga', 'League Apps': 30.0, 'League Goals': '26', 'Cup Apps': 3.0, 'Cup Goals': 10.0, 'Continental Apps': 5.0, 'Continental Goals': 3.0, 'Other[a] Apps': 2.0, 'Other[a] Goals': 0.0, 'Total Apps': 40.0, 'Total Goals': 39.0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Porto",
+      "league_apps": 32,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1998\u201399', 'League Division': 'Primeira Liga', 'League Apps': 32.0, 'League Goals': '36', 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 6.0, 'Continental Goals': 2.0, 'Other[a] Apps': 1.0, 'Other[a] Goals': 0.0, 'Total Apps': 39.0, 'Total Goals': 38.0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Porto",
+      "league_apps": 32,
+      "league_goals": 37,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1999\u20132000', 'League Division': 'Primeira Liga', 'League Apps': 32.0, 'League Goals': '37[b]', 'Cup Apps': 4.0, 'Cup Goals': 6.0, 'Continental Apps': 13.0, 'Continental Goals': 10.0, 'Other[a] Apps': 1.0, 'Other[a] Goals': 2.0, 'Total Apps': 50.0, 'Total Goals': 55.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Porto",
+      "league_apps": 125,
+      "league_goals": 129,
+      "raw": "{'Club Club': 'Porto', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 125.0, 'League Goals': '129', 'Cup Apps': 13.0, 'Cup Goals': 19.0, 'Continental Apps': 32.0, 'Continental Goals': 19.0, 'Other[a] Apps': 5.0, 'Other[a] Goals': 2.0, 'Total Apps': 175.0, 'Total Goals': 169.0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Galatasaray",
+      "league_apps": 24,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '2000\u201301', 'League Division': 'S\u00fcper Lig', 'League Apps': 24.0, 'League Goals': '22', 'Cup Apps': 2.0, 'Cup Goals': 1.0, 'Continental Apps': 16.0, 'Continental Goals': 9.0, 'Other[a] Apps': 1.0, 'Other[a] Goals': 2.0, 'Total Apps': 43.0, 'Total Goals': 34.0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Sporting CP",
+      "league_apps": 30,
+      "league_goals": 42,
+      "raw": "{'Club Club': 'Sporting CP', 'Season Season': '2001\u201302', 'League Division': 'Primeira Liga', 'League Apps': 30.0, 'League Goals': '42', 'Cup Apps': 6.0, 'Cup Goals': 7.0, 'Continental Apps': 6.0, 'Continental Goals': 6.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 42.0, 'Total Goals': 55.0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Sporting CP",
+      "league_apps": 19,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Sporting CP', 'Season Season': '2002\u201303', 'League Division': 'Primeira Liga', 'League Apps': 19.0, 'League Goals': '11', 'Cup Apps': 1.0, 'Cup Goals': 1.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 20.0, 'Total Goals': 12.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Sporting CP",
+      "league_apps": 49,
+      "league_goals": 53,
+      "raw": "{'Club Club': 'Sporting CP', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 49.0, 'League Goals': '53', 'Cup Apps': 7.0, 'Cup Goals': 8.0, 'Continental Apps': 6.0, 'Continental Goals': 6.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 62.0, 'Total Goals': 67.0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Bolton Wanderers",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '2003\u201304', 'League Division': 'Premier League', 'League Apps': 7.0, 'League Goals': '0', 'Cup Apps': 5.0, 'Cup Goals': 3.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 12.0, 'Total Goals': 3.0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Ancona (loan)",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ancona (loan)', 'Season Season': '2003\u201304', 'League Division': 'Serie A', 'League Apps': 3.0, 'League Goals': '0', 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 3.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Newell's Old Boys",
+      "league_apps": 3,
+      "league_goals": 3,
+      "raw": "{'Club Club': \"Newell's Old Boys\", 'Season Season': '2004\u201305', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 3.0, 'League Goals': '3', 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 3.0, 'Total Goals': 3.0}"
+    },
+    {
+      "season": "nan",
+      "club": "nan",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': nan, 'Season Season': nan, 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other[a] Apps': nan, 'Other[a] Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "2006",
+      "club": "Goi\u00e1s",
+      "league_apps": 4,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Goi\u00e1s', 'Season Season': '2006', 'League Division': 'S\u00e9rie A', 'League Apps': 4.0, 'League Goals': '1', 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 4.0, 'Total Goals': 1.0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Beira-Mar",
+      "league_apps": 12,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Beira-Mar', 'Season Season': '2006\u201307', 'League Division': 'Primeira Liga', 'League Apps': 12.0, 'League Goals': '3', 'Cup Apps': 1.0, 'Cup Goals': 1.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 13.0, 'Total Goals': 4.0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Anorthosis Famagusta",
+      "league_apps": 7,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Anorthosis Famagusta', 'Season Season': '2006\u201307', 'League Division': 'Cypriot First Division', 'League Apps': 7.0, 'League Goals': '2', 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 7.0, 'Total Goals': 2.0}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Newcastle Jets",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Newcastle Jets', 'Season Season': '2007\u201308', 'League Division': 'A-League', 'League Apps': 11.0, 'League Goals': '0', 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 11.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2008",
+      "club": "Crici\u00fama",
+      "league_apps": 16,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Crici\u00fama', 'Season Season': '2008', 'League Division': 'S\u00e9rie B', 'League Apps': 16.0, 'League Goals': '4', 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 16.0, 'Total Goals': 4.0}"
+    },
+    {
+      "season": "2009",
+      "club": "Ferrovi\u00e1rio",
+      "league_apps": 6,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Ferrovi\u00e1rio', 'Season Season': '2009', 'League Division': 'S\u00e9rie D', 'League Apps': 6.0, 'League Goals': '5', 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 6.0, 'Total Goals': 5.0}"
+    },
+    {
+      "season": "2009",
+      "club": "Am\u00e9rica",
+      "league_apps": 11,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Am\u00e9rica', 'Season Season': '2009', 'League Division': 'S\u00e9rie C (CE)', 'League Apps': 11.0, 'League Goals': '8', 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 11.0, 'Total Goals': 8.0}"
+    },
+    {
+      "season": "2010",
+      "club": "Flamengo (PI)",
+      "league_apps": 16,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Flamengo (PI)', 'Season Season': '2010', 'League Division': 'S\u00e9rie D', 'League Apps': 16.0, 'League Goals': '12', 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 16.0, 'Total Goals': 12.0}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Cherno More",
+      "league_apps": 8,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Cherno More', 'Season Season': '2010\u201311', 'League Division': 'Bulgarian First League', 'League Apps': 8.0, 'League Goals': '1', 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 8.0, 'Total Goals': 1.0}"
+    },
+    {
+      "season": "2011",
+      "club": "Rio Negro",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rio Negro', 'Season Season': '2011', 'League Division': 'Amazonense', 'League Apps': 0.0, 'League Goals': '0', 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Other[a] Apps': 0.0, 'Other[a] Goals': 0.0, 'Total Apps': 0.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 343,
+      "league_goals": 264,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 343.0, 'League Goals': '264', 'Cup Apps': 56.0, 'Cup Goals': 42.0, 'Continental Apps': 75.0, 'Continental Goals': 51.0, 'Other[a] Apps': 81.0, 'Other[a] Goals': 40.0, 'Total Apps': 542.0, 'Total Goals': 389.0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>M\u00e1rio Jardel - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"dd800273-fe7b-4077-aa7b-6835eaca9a33\",\"w",
+  "season_id": "2000",
+  "award_year": 2000
+}

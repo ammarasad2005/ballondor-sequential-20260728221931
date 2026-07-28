@@ -1,0 +1,154 @@
+{
+  "player_name_raw": "Jan Ceulemans",
+  "fetch_status": "ok",
+  "wikipedia_title": "Jan_Ceulemans",
+  "url": "https://en.wikipedia.org/wiki/Jan_Ceulemans",
+  "position": "Midfielder forward",
+  "birth_year": 1957,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1974\u201375",
+      "club": "Lierse",
+      "league_apps": 15,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': '1974\u201375', 'League Division': 'First Division', 'League Apps': 15, 'League Goals': 1, 'National cup Apps': 2.0, 'National cup Goals': '3', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 4}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Lierse",
+      "league_apps": 29,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': '1975\u201376', 'League Division': 'First Division', 'League Apps': 29, 'League Goals': 12, 'National cup Apps': 3.0, 'National cup Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 13}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Lierse",
+      "league_apps": 34,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': '1976\u201377', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 12, 'National cup Apps': 2.0, 'National cup Goals': '1', 'Europe Apps': '2[a]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 14}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Lierse",
+      "league_apps": 32,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': '1977\u201378', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 14, 'National cup Apps': nan, 'National cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': nan, 'Other Apps': '3[b]', 'Other Goals': '3', 'Total Apps': 39, 'Total Goals': 19}"
+    },
+    {
+      "season": "Total",
+      "club": "Lierse",
+      "league_apps": 110,
+      "league_goals": 39,
+      "raw": "{'Club Club': 'Lierse', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 110, 'League Goals': 39, 'National cup Apps': 11.0, 'National cup Goals': '7', 'Europe Apps': '2', 'Europe Goals': '1', 'Other Apps': '3', 'Other Goals': '3', 'Total Apps': 126, 'Total Goals': 50}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Club Brugge",
+      "league_apps": 34,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1978\u201379', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 13, 'National cup Apps': 8.0, 'National cup Goals': '9', 'Europe Apps': '2[c]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 24}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Club Brugge",
+      "league_apps": 34,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1979\u201380', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 29, 'National cup Apps': 5.0, 'National cup Goals': '4', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 33}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Club Brugge",
+      "league_apps": 32,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1980\u201381', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 12, 'National cup Apps': 3.0, 'National cup Goals': '1', 'Europe Apps': '2[c]', 'Europe Goals': '1', 'Other Apps': '1[d]', 'Other Goals': '1', 'Total Apps': 38, 'Total Goals': 15}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Club Brugge",
+      "league_apps": 29,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1981\u201382', 'League Division': 'First Division', 'League Apps': 29, 'League Goals': 11, 'National cup Apps': 2.0, 'National cup Goals': '0', 'Europe Apps': '2[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 11}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Club Brugge",
+      "league_apps": 33,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1982\u201383', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 14, 'National cup Apps': 8.0, 'National cup Goals': '6', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 20}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Club Brugge",
+      "league_apps": 31,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1983\u201384', 'League Division': 'First Division', 'League Apps': 31, 'League Goals': 15, 'National cup Apps': 2.0, 'National cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 15}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Club Brugge",
+      "league_apps": 27,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1984\u201385', 'League Division': 'First Division', 'League Apps': 27, 'League Goals': 17, 'National cup Apps': 4.0, 'National cup Goals': '3', 'Europe Apps': '3[e]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 21}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Club Brugge",
+      "league_apps": 33,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1985\u201386', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 13, 'National cup Apps': 9.0, 'National cup Goals': '7', 'Europe Apps': '4[e]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 21}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Club Brugge",
+      "league_apps": 28,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1986\u201387', 'League Division': 'First Division', 'League Apps': 28, 'League Goals': 12, 'National cup Apps': 2.0, 'National cup Goals': '1', 'Europe Apps': '2[a]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '1', 'Total Apps': 33, 'Total Goals': 14}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Club Brugge",
+      "league_apps": 30,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1987\u201388', 'League Division': 'First Division', 'League Apps': 30, 'League Goals': 13, 'National cup Apps': 3.0, 'National cup Goals': '2', 'Europe Apps': '9[e]', 'Europe Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 20}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Club Brugge",
+      "league_apps": 28,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1988\u201389', 'League Division': 'First Division', 'League Apps': 28, 'League Goals': 13, 'National cup Apps': 4.0, 'National cup Goals': '0', 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 13}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Club Brugge",
+      "league_apps": 34,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1989\u201390', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 15, 'National cup Apps': 2.0, 'National cup Goals': '3', 'Europe Apps': '4[e]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 19}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Club Brugge",
+      "league_apps": 33,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': '1990\u201391', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 14, 'National cup Apps': 7.0, 'National cup Goals': '3', 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 17}"
+    },
+    {
+      "season": "Total",
+      "club": "Club Brugge",
+      "league_apps": 406,
+      "league_goals": 191,
+      "raw": "{'Club Club': 'Club Brugge', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 406, 'League Goals': 191, 'National cup Apps': 59.0, 'National cup Goals': '39', 'Europe Apps': '36', 'Europe Goals': '11', 'Other Apps': '6', 'Other Goals': '2', 'Total Apps': 505, 'Total Goals': 243}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 516,
+      "league_goals": 230,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 516, 'League Goals': 230, 'National cup Apps': 70.0, 'National cup Goals': '46', 'Europe Apps': '38', 'Europe Goals': '12', 'Other Apps': '9', 'Other Goals': '5', 'Total Apps': 631, 'Total Goals': 293}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jan Ceulemans - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"c01ad2cb-b4db-4494-9496-730e1406fec7\",\"",
+  "season_id": "1985",
+  "award_year": 1985
+}

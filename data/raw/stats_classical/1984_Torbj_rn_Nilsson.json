@@ -1,0 +1,224 @@
+{
+  "player_name_raw": "Torbj\u00f6rn Nilsson",
+  "fetch_status": "ok",
+  "wikipedia_title": "Torbj\u00f6rn_Nilsson",
+  "url": "https://en.wikipedia.org/wiki/Torbj\u00f6rn_Nilsson",
+  "position": "Forward",
+  "birth_year": 1954,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1971",
+      "club": "Jonsereds IF",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Jonsereds IF', 'Season Season': '1971', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'National cup Apps': nan, 'National cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1972",
+      "club": "Jonsereds IF",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Jonsereds IF', 'Season Season': '1972', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'National cup Apps': nan, 'National cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1973",
+      "club": "Jonsereds IF",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Jonsereds IF', 'Season Season': '1973', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'National cup Apps': nan, 'National cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1974",
+      "club": "Jonsereds IF",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Jonsereds IF', 'Season Season': '1974', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'National cup Apps': nan, 'National cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Jonsereds IF",
+      "league_apps": 80,
+      "league_goals": 50,
+      "raw": "{'Club Club': 'Jonsereds IF', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '80', 'League Goals': 50.0, 'National cup Apps': nan, 'National cup Goals': nan, 'Europe Apps': '0', 'Europe Goals': 0.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 80.0, 'Total Goals': 50.0}"
+    },
+    {
+      "season": "1975",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 25,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': '1975', 'League Division': 'Allsvenskan', 'League Apps': '25', 'League Goals': 14.0, 'National cup Apps': 2.0, 'National cup Goals': 0.0, 'Europe Apps': '0', 'Europe Goals': 0.0, 'Other Apps': '15', 'Other Goals': '11', 'Total Apps': 42.0, 'Total Goals': 26.0}"
+    },
+    {
+      "season": "1976",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 24,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': '1976', 'League Division': 'Allsvenskan', 'League Apps': '24', 'League Goals': 20.0, 'National cup Apps': 1.0, 'National cup Goals': 3.0, 'Europe Apps': '0', 'Europe Goals': 0.0, 'Other Apps': '23', 'Other Goals': '25', 'Total Apps': 48.0, 'Total Goals': 48.0}"
+    },
+    {
+      "season": "Total",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 49,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '49', 'League Goals': 34.0, 'National cup Apps': 3.0, 'National cup Goals': 3.0, 'Europe Apps': '0', 'Europe Goals': 0.0, 'Other Apps': '38', 'Other Goals': '36', 'Total Apps': 90.0, 'Total Goals': 74.0}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "PSV Eindhoven",
+      "league_apps": 11,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '1976\u201377', 'League Division': 'Eredivisie', 'League Apps': '11', 'League Goals': 2.0, 'National cup Apps': nan, 'National cup Goals': nan, 'Europe Apps': '0', 'Europe Goals': 0.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 11.0, 'Total Goals': 2.0}"
+    },
+    {
+      "season": "1977",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 6,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': '1977', 'League Division': 'Allsvenskan', 'League Apps': '6', 'League Goals': 3.0, 'National cup Apps': 2.0, 'National cup Goals': 1.0, 'Europe Apps': '0', 'Europe Goals': 0.0, 'Other Apps': '4', 'Other Goals': '1', 'Total Apps': 12.0, 'Total Goals': 5.0}"
+    },
+    {
+      "season": "1978",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 25,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': '1978', 'League Division': 'Allsvenskan', 'League Apps': '25', 'League Goals': 8.0, 'National cup Apps': 5.0, 'National cup Goals': 7.0, 'Europe Apps': '0', 'Europe Goals': 0.0, 'Other Apps': '15', 'Other Goals': '16', 'Total Apps': 45.0, 'Total Goals': 31.0}"
+    },
+    {
+      "season": "1979",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 25,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': '1979', 'League Division': 'Allsvenskan', 'League Apps': '25', 'League Goals': 11.0, 'National cup Apps': 5.0, 'National cup Goals': 6.0, 'Europe Apps': '4[a]', 'Europe Goals': 0.0, 'Other Apps': '15', 'Other Goals': '10', 'Total Apps': 49.0, 'Total Goals': 27.0}"
+    },
+    {
+      "season": "1980",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 25,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': '1980', 'League Division': 'Allsvenskan', 'League Apps': '25', 'League Goals': 14.0, 'National cup Apps': 4.0, 'National cup Goals': 1.0, 'Europe Apps': '4[b]', 'Europe Goals': 4.0, 'Other Apps': '18', 'Other Goals': '14', 'Total Apps': 51.0, 'Total Goals': 33.0}"
+    },
+    {
+      "season": "1981",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 26,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': '1981', 'League Division': 'Allsvenskan', 'League Apps': '26', 'League Goals': 20.0, 'National cup Apps': 3.0, 'National cup Goals': 4.0, 'Europe Apps': '6[c]', 'Europe Goals': 7.0, 'Other Apps': '19', 'Other Goals': '18', 'Total Apps': 54.0, 'Total Goals': 49.0}"
+    },
+    {
+      "season": "1982",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 7,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': '1982', 'League Division': 'Allsvenskan', 'League Apps': '7', 'League Goals': 6.0, 'National cup Apps': 2.0, 'National cup Goals': 3.0, 'Europe Apps': '6[c]', 'Europe Goals': 2.0, 'Other Apps': '14', 'Other Goals': '17', 'Total Apps': 29.0, 'Total Goals': 28.0}"
+    },
+    {
+      "season": "Total",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 114,
+      "league_goals": 62,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '114', 'League Goals': 62.0, 'National cup Apps': 21.0, 'National cup Goals': 22.0, 'Europe Apps': '20', 'Europe Goals': 13.0, 'Other Apps': '85', 'Other Goals': '76', 'Total Apps': 240.0, 'Total Goals': 173.0}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 33,
+      "league_goals": 9,
+      "raw": "{'Club Club': '1. FC Kaiserslautern', 'Season Season': '1982\u201383[7]', 'League Division': 'Bundesliga', 'League Apps': '33', 'League Goals': 9.0, 'National cup Apps': 0.0, 'National cup Goals': 0.0, 'Europe Apps': '8[c]', 'Europe Goals': 4.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 41.0, 'Total Goals': 13.0}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 32,
+      "league_goals": 13,
+      "raw": "{'Club Club': '1. FC Kaiserslautern', 'Season Season': '1983\u201384[7]', 'League Division': 'Bundesliga', 'League Apps': '32', 'League Goals': 13.0, 'National cup Apps': 2.0, 'National cup Goals': 1.0, 'Europe Apps': '2[c]', 'Europe Goals': 2.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36.0, 'Total Goals': 16.0}"
+    },
+    {
+      "season": "Total",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 65,
+      "league_goals": 22,
+      "raw": "{'Club Club': '1. FC Kaiserslautern', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '65', 'League Goals': 22.0, 'National cup Apps': 12.0, 'National cup Goals': 7.0, 'Europe Apps': '10', 'Europe Goals': 6.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 87.0, 'Total Goals': 35.0}"
+    },
+    {
+      "season": "1984",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 17,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': '1984', 'League Division': 'Allsvenskan', 'League Apps': '17[d]', 'League Goals': 14.0, 'National cup Apps': 2.0, 'National cup Goals': 2.0, 'Europe Apps': '4[e]', 'Europe Goals': 6.0, 'Other Apps': '9', 'Other Goals': '6', 'Total Apps': 32.0, 'Total Goals': 28.0}"
+    },
+    {
+      "season": "1985",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 22,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': '1985', 'League Division': 'Allsvenskan', 'League Apps': '22[f]', 'League Goals': 8.0, 'National cup Apps': 3.0, 'National cup Goals': 2.0, 'Europe Apps': '6[e]', 'Europe Goals': 6.0, 'Other Apps': '17', 'Other Goals': '11', 'Total Apps': 48.0, 'Total Goals': 27.0}"
+    },
+    {
+      "season": "1986",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 10,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': '1986', 'League Division': 'Allsvenskan', 'League Apps': '10', 'League Goals': 9.0, 'National cup Apps': 3.0, 'National cup Goals': 1.0, 'Europe Apps': '4[e]', 'Europe Goals': 2.0, 'Other Apps': '17', 'Other Goals': '15', 'Total Apps': 34.0, 'Total Goals': 27.0}"
+    },
+    {
+      "season": "Total",
+      "club": "IFK G\u00f6teborg",
+      "league_apps": 49,
+      "league_goals": 31,
+      "raw": "{'Club Club': 'IFK G\u00f6teborg', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '49', 'League Goals': 31.0, 'National cup Apps': 8.0, 'National cup Goals': 5.0, 'Europe Apps': '14', 'Europe Goals': 14.0, 'Other Apps': '43', 'Other Goals': '32', 'Total Apps': 114.0, 'Total Goals': 82.0}"
+    },
+    {
+      "season": "1986",
+      "club": "Jonsereds IF",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Jonsereds IF', 'Season Season': '1986', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'National cup Apps': nan, 'National cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1987",
+      "club": "Jonsereds IF",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Jonsereds IF', 'Season Season': '1987', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'National cup Apps': nan, 'National cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1988",
+      "club": "Jonsereds IF",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Jonsereds IF', 'Season Season': '1988', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'National cup Apps': nan, 'National cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1989",
+      "club": "Jonsereds IF",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Jonsereds IF', 'Season Season': '1989', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'National cup Apps': nan, 'National cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1990",
+      "club": "Jonsereds IF",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Jonsereds IF', 'Season Season': '1990', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'National cup Apps': nan, 'National cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Jonsereds IF",
+      "league_apps": 40,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Jonsereds IF', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '40', 'League Goals': 14.0, 'National cup Apps': nan, 'National cup Goals': nan, 'Europe Apps': '0', 'Europe Goals': 0.0, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 40.0, 'Total Goals': 14.0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 277,
+      "league_goals": 149,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '277', 'League Goals': 149.0, 'National cup Apps': 46.0, 'National cup Goals': 38.0, 'Europe Apps': '44', 'Europe Goals': 33.0, 'Other Apps': '166', 'Other Goals': '144', 'Total Apps': 533.0, 'Total Goals': 365.0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Torbj\u00f6rn Nilsson - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d1fdfc40-c436-45e7-96c0-229d10ad46ce",
+  "season_id": "1984",
+  "award_year": 1984
+}

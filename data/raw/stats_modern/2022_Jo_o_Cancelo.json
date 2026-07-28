@@ -1,0 +1,175 @@
+{
+  "player_name_raw": "Jo\u00e3o Cancelo",
+  "fetch_status": "ok",
+  "wikipedia_title": "Jo\u00e3o_Cancelo",
+  "url": "https://en.wikipedia.org/wiki/Jo\u00e3o_Cancelo",
+  "position": "Full-back",
+  "birth_year": 1994,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2012\u201313",
+      "club": "Benfica B",
+      "league_apps": 20,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Benfica B', 'Season Season': '2012\u201313[78]', 'League Division': 'Segunda Liga', 'League Apps': 20, 'League Goals': 1, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 1}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Benfica B",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Benfica B', 'Season Season': '2013\u201314[78]', 'League Division': 'Segunda Liga', 'League Apps': 31, 'League Goals': 1, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Benfica B",
+      "league_apps": 51,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Benfica B', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 51, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 51, 'Total Goals': 2}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Benfica",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '2013\u201314[78]', 'League Division': 'Primeira Liga', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Valencia (loan)",
+      "league_apps": 10,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Valencia (loan)', 'Season Season': '2014\u201315[78]', 'League Division': 'La Liga', 'League Apps': 10, 'League Goals': 0, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 0}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Valencia",
+      "league_apps": 28,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '2015\u201316[78]', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 1, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '7[c]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 3}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Valencia",
+      "league_apps": 35,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '2016\u201317[78]', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 1, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 1}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Valencia",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '2017\u201318[78]', 'League Division': 'La Liga', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Valencia",
+      "league_apps": 74,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 74, 'League Goals': 2, 'National cup[a] Apps': '10', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '7', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 91, 'Total Goals': 4}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Inter Milan (loan)",
+      "league_apps": 26,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan (loan)', 'Season Season': '2017\u201318[78]', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 1, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 1}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Juventus",
+      "league_apps": 25,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2018\u201319[78]', 'League Division': 'Serie A', 'League Apps': 25, 'League Goals': 1, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '7[d]', 'Continental Goals': '0', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 34, 'Total Goals': 1}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Manchester City",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2019\u201320[143]', 'League Division': 'Premier League', 'League Apps': 17, 'League Goals': 0, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '1', 'Continental Apps': '8[d]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 1}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Manchester City",
+      "league_apps": 28,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2020\u201321[144]', 'League Division': 'Premier League', 'League Apps': 28, 'League Goals': 2, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Continental Apps': '9[d]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 3}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Manchester City",
+      "league_apps": 36,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2021\u201322[145]', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 1, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '9[d]', 'Continental Goals': '2', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 3}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Manchester City",
+      "league_apps": 17,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2022\u201323[146]', 'League Division': 'Premier League', 'League Apps': 17, 'League Goals': 2, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '6[d]', 'Continental Goals': '0', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 26, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester City",
+      "league_apps": 98,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 98, 'League Goals': 5, 'National cup[a] Apps': '13', 'National cup[a] Goals': '0', 'League cup[b] Apps': '9', 'League cup[b] Goals': '1', 'Continental Apps': '32', 'Continental Goals': '3', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 154, 'Total Goals': 9}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Bayern Munich (loan)",
+      "league_apps": 15,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich (loan)', 'Season Season': '2022\u201323[78]', 'League Division': 'Bundesliga', 'League Apps': 15, 'League Goals': 1, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '4[d]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 21, 'Total Goals': 1}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Barcelona (loan)",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Barcelona (loan)', 'Season Season': '2023\u201324[78]', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 2, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '10[d]', 'Continental Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 4}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Al Hilal",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Al Hilal', 'Season Season': '2024\u201325[78]', 'League Division': 'Saudi Pro League', 'League Apps': 22, 'League Goals': 0, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '9[g]', 'Continental Goals': '2', 'Other Apps': '5[h]', 'Other Goals': '0', 'Total Apps': 39, 'Total Goals': 2}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Al Hilal",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Al Hilal', 'Season Season': '2025\u201326[78]', 'League Division': 'Saudi Pro League', 'League Apps': 2, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '4[g]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 6, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Al Hilal",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Al Hilal', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 24, 'League Goals': 0, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '13', 'Continental Goals': '3', 'Other Apps': '5', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 3}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Barcelona (loan)",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Barcelona (loan)', 'Season Season': '2025\u201326[78]', 'League Division': 'La Liga', 'League Apps': 16, 'League Goals': 2, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '4[d]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 2}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 363,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 363, 'League Goals': 17, 'National cup[a] Apps': '34', 'National cup[a] Goals': '1', 'League cup[b] Apps': '10', 'League cup[b] Goals': '1', 'Continental Apps': '77', 'Continental Goals': '10', 'Other Apps': '7', 'Other Goals': '0', 'Total Apps': 490, 'Total Goals': 27}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jo\u00e3o Cancelo - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"df847620-de5e-43ca-b72a-aa5a53eb1841\",\"w",
+  "season_id": "2022",
+  "award_year": 2022
+}

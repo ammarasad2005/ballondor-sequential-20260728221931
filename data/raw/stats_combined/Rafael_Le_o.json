@@ -1,0 +1,110 @@
+{
+  "player_name_raw": "Rafael Le\u00e3o",
+  "fetch_status": "ok",
+  "wikipedia_title": "Rafael_Le\u00e3o",
+  "url": "https://en.wikipedia.org/wiki/Rafael_Le\u00e3o",
+  "position": "Left winger",
+  "birth_year": 1999,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2016\u201317",
+      "club": "Sporting CP B",
+      "league_apps": 1,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Sporting CP B', 'Season Season': '2016\u201317', 'League Division': 'LigaPro', 'League Apps': 1, 'League Goals': 1, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 1}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Sporting CP B",
+      "league_apps": 11,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Sporting CP B', 'Season Season': '2017\u201318', 'League Division': 'LigaPro', 'League Apps': 11, 'League Goals': 6, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Sporting CP B",
+      "league_apps": 12,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Sporting CP B', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 12, 'League Goals': 7, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 7}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Sporting CP",
+      "league_apps": 3,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Sporting CP', 'Season Season': '2017\u201318', 'League Division': 'Primeira Liga', 'League Apps': 3, 'League Goals': 1, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Europe Apps': '1[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 1}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Lille",
+      "league_apps": 24,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Lille', 'Season Season': '2018\u201319', 'League Division': 'Ligue 1', 'League Apps': 24, 'League Goals': 8, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 8}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "AC Milan",
+      "league_apps": 31,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2019\u201320', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 6, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 6}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "AC Milan",
+      "league_apps": 30,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2020\u201321', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 6, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Europe Apps': '8[b]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 7}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "AC Milan",
+      "league_apps": 34,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2021\u201322', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 11, 'National cup[a] Apps': '4', 'National cup[a] Goals': '2', 'Europe Apps': '4[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 14}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "AC Milan",
+      "league_apps": 35,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2022\u201323', 'League Division': 'Serie A', 'League Apps': 35, 'League Goals': 15, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe Apps': '11[c]', 'Europe Goals': '1', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 16}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "AC Milan",
+      "league_apps": 34,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2023\u201324', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 9, 'National cup[a] Apps': '2', 'National cup[a] Goals': '2', 'Europe Apps': '11[e]', 'Europe Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 15}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "AC Milan",
+      "league_apps": 34,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2024\u201325', 'League Division': 'Serie A', 'League Apps': 34, 'League Goals': 8, 'National cup[a] Apps': '5', 'National cup[a] Goals': '1', 'Europe Apps': '10[c]', 'Europe Goals': '3', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 50, 'Total Goals': 12}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "AC Milan",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2025\u201326', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 9, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 31, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 227,
+      "league_goals": 64,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 227, 'League Goals': 64, 'National cup[a] Apps': '18', 'National cup[a] Goals': '6', 'Europe Apps': '44', 'Europe Goals': '10', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 291, 'Total Goals': 80}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 266,
+      "league_goals": 80,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 266, 'League Goals': 80, 'National cup[a] Apps': '20', 'National cup[a] Goals': '6', 'Europe Apps': '45', 'Europe Goals': '10', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 333, 'Total Goals': 96}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Rafael Le\u00e3o - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"6e1b73ca-8b59-488c-a7a0-02ced834b14f\",\"wg"
+}

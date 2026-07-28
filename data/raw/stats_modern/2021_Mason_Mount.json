@@ -1,0 +1,105 @@
+{
+  "player_name_raw": "Mason Mount",
+  "fetch_status": "ok",
+  "wikipedia_title": "Mason_Mount",
+  "url": "https://en.wikipedia.org/wiki/Mason_Mount",
+  "position": "Midfielder",
+  "birth_year": 1999,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2016\u201317",
+      "club": "Chelsea U23",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Chelsea U23', 'Season Season': '2016\u201317[131]', 'League Division': '\u2014', 'League Apps': '\u2014', 'League Goals': '\u2014', 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '3[c]', 'Other Goals': '0', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Vitesse Arnhem (loan)",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Vitesse Arnhem (loan)', 'Season Season': '2017\u201318[16]', 'League Division': 'Eredivisie', 'League Apps': '29', 'League Goals': '9', 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '6[d]', 'Europe Goals': '0', 'Other Apps': '3[e]', 'Other Goals': '5', 'Total Apps': 39, 'Total Goals': 14}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Derby County (loan)",
+      "league_apps": 35,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Derby County (loan)', 'Season Season': '2018\u201319[132]', 'League Division': 'Championship', 'League Apps': '35', 'League Goals': '8', 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '2', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '3[f]', 'Other Goals': '1', 'Total Apps': 44, 'Total Goals': 11}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Chelsea",
+      "league_apps": 37,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2019\u201320[133]', 'League Division': 'Premier League', 'League Apps': '37', 'League Goals': '7', 'National cup[a] Apps': '6', 'National cup[a] Goals': '1', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '8[g]', 'Europe Goals': '0', 'Other Apps': '1[h]', 'Other Goals': '0', 'Total Apps': 53, 'Total Goals': 8}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Chelsea",
+      "league_apps": 36,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2020\u201321[134]', 'League Division': 'Premier League', 'League Apps': '36', 'League Goals': '6', 'National cup[a] Apps': '5', 'National cup[a] Goals': '1', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '11[g]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 54, 'Total Goals': 9}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Chelsea",
+      "league_apps": 32,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2021\u201322[135]', 'League Division': 'Premier League', 'League Apps': '32', 'League Goals': '11', 'National cup[a] Apps': '5', 'National cup[a] Goals': '1', 'League cup[b] Apps': '6', 'League cup[b] Goals': '0', 'Europe Apps': '7[g]', 'Europe Goals': '1', 'Other Apps': '3[i]', 'Other Goals': '0', 'Total Apps': 53, 'Total Goals': 13}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Chelsea",
+      "league_apps": 24,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2022\u201323[136]', 'League Division': 'Premier League', 'League Apps': '24', 'League Goals': '3', 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '9[g]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Chelsea",
+      "league_apps": 129,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '129', 'League Goals': '27', 'National cup[a] Apps': '17', 'National cup[a] Goals': '3', 'League cup[b] Apps': '10', 'League cup[b] Goals': '0', 'Europe Apps': '35', 'Europe Goals': '3', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 195, 'Total Goals': 33}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Manchester United",
+      "league_apps": 14,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2023\u201324[137]', 'League Division': 'Premier League', 'League Apps': '14', 'League Goals': '1', 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '2[g]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 1}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Manchester United",
+      "league_apps": 17,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2024\u201325[138]', 'League Division': 'Premier League', 'League Apps': '17', 'League Goals': '1', 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '9[d]', 'Europe Goals': '2', 'Other Apps': '1[j]', 'Other Goals': '0', 'Total Apps': 27, 'Total Goals': 3}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Manchester United",
+      "league_apps": 23,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2025\u201326[139]', 'League Division': 'Premier League', 'League Apps': '23', 'League Goals': '3', 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester United",
+      "league_apps": 54,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '54', 'League Goals': '5', 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '11', 'Europe Goals': '2', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 72, 'Total Goals': 7}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 247,
+      "league_goals": 49,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '247', 'League Goals': '49', 'National cup[a] Apps': '23', 'National cup[a] Goals': '3', 'League cup[b] Apps': '17', 'League cup[b] Goals': '2', 'Europe Apps': '52', 'Europe Goals': '5', 'Other Apps': '14', 'Other Goals': '6', 'Total Apps': 353, 'Total Goals': 65}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Mason Mount - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"79448e7b-ab1e-4e7e-881f-23524c4efea6\",\"wg",
+  "season_id": "2021",
+  "award_year": 2021
+}

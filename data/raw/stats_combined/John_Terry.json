@@ -1,0 +1,173 @@
+{
+  "player_name_raw": "John Terry",
+  "fetch_status": "ok",
+  "wikipedia_title": "John_Terry",
+  "url": "https://en.wikipedia.org/wiki/John_Terry",
+  "position": "Centre-back",
+  "birth_year": 1980,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1998\u201399",
+      "club": "Chelsea",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '1998\u201399[235]', 'League Division': 'Premier League', 'League Apps': 2, 'League Goals': 0, 'FA Cup Apps': '3', 'FA Cup Goals': '0', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '1[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Chelsea",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '1999\u20132000[236]', 'League Division': 'Premier League', 'League Apps': 4, 'League Goals': 0, 'FA Cup Apps': '4', 'FA Cup Goals': '1', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 1}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Chelsea",
+      "league_apps": 22,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2000\u201301[237]', 'League Division': 'Premier League', 'League Apps': 22, 'League Goals': 1, 'FA Cup Apps': '3', 'FA Cup Goals': '0', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 26, 'Total Goals': 1}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Chelsea",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2001\u201302[238]', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 1, 'FA Cup Apps': '5', 'FA Cup Goals': '2', 'League Cup Apps': '5', 'League Cup Goals': '0', 'Europe Apps': '4[b]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 4}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Chelsea",
+      "league_apps": 20,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2002\u201303[239]', 'League Division': 'Premier League', 'League Apps': 20, 'League Goals': 3, 'FA Cup Apps': '5', 'FA Cup Goals': '2', 'League Cup Apps': '3', 'League Cup Goals': '0', 'Europe Apps': '1[b]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 6}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Chelsea",
+      "league_apps": 33,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2003\u201304[240]', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 2, 'FA Cup Apps': '3', 'FA Cup Goals': '1', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '13[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 51, 'Total Goals': 3}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Chelsea",
+      "league_apps": 36,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2004\u201305[241]', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 3, 'FA Cup Apps': '1', 'FA Cup Goals': '1', 'League Cup Apps': '5', 'League Cup Goals': '0', 'Europe Apps': '11[c]', 'Europe Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 53, 'Total Goals': 8}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Chelsea",
+      "league_apps": 36,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2005\u201306[242]', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 4, 'FA Cup Apps': '4', 'FA Cup Goals': '2', 'League Cup Apps': '1', 'League Cup Goals': '1', 'Europe Apps': '8[c]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 50, 'Total Goals': 7}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Chelsea",
+      "league_apps": 28,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2006\u201307[243]', 'League Division': 'Premier League', 'League Apps': 28, 'League Goals': 1, 'FA Cup Apps': '4', 'FA Cup Goals': '0', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '10[c]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 1}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Chelsea",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2007\u201308[244]', 'League Division': 'Premier League', 'League Apps': 23, 'League Goals': 1, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '10[c]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 1}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Chelsea",
+      "league_apps": 35,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2008\u201309[245]', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 1, 'FA Cup Apps': '4', 'FA Cup Goals': '0', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '11[c]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 51, 'Total Goals': 3}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Chelsea",
+      "league_apps": 37,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2009\u201310[246]', 'League Division': 'Premier League', 'League Apps': 37, 'League Goals': 2, 'FA Cup Apps': '5', 'FA Cup Goals': '1', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '8[c]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 3}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Chelsea",
+      "league_apps": 33,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2010\u201311[247]', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 3, 'FA Cup Apps': '3', 'FA Cup Goals': '0', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '8[c]', 'Europe Goals': '1', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 4}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Chelsea",
+      "league_apps": 31,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2011\u201312[248]', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 6, 'FA Cup Apps': '4', 'FA Cup Goals': '0', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '8[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 7}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Chelsea",
+      "league_apps": 14,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2012\u201313[249]', 'League Division': 'Premier League', 'League Apps': 14, 'League Goals': 4, 'FA Cup Apps': '3', 'FA Cup Goals': '1', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '8[e]', 'Europe Goals': '1', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 27, 'Total Goals': 6}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Chelsea",
+      "league_apps": 34,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2013\u201314[250]', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 2, 'FA Cup Apps': '0', 'FA Cup Goals': '0', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '11[c]', 'Europe Goals': '0', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 2}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Chelsea",
+      "league_apps": 38,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2014\u201315[251]', 'League Division': 'Premier League', 'League Apps': 38, 'League Goals': 5, 'FA Cup Apps': '0', 'FA Cup Goals': '0', 'League Cup Apps': '4', 'League Cup Goals': '1', 'Europe Apps': '7[c]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 8}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Chelsea",
+      "league_apps": 24,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2015\u201316[252]', 'League Division': 'Premier League', 'League Apps': 24, 'League Goals': 1, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 33, 'Total Goals': 1}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Chelsea",
+      "league_apps": 9,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2016\u201317[253]', 'League Division': 'Premier League', 'League Apps': 9, 'League Goals': 1, 'FA Cup Apps': '3', 'FA Cup Goals': '0', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 14, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Chelsea",
+      "league_apps": 492,
+      "league_goals": 41,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 492, 'League Goals': 41, 'FA Cup Apps': '58', 'FA Cup Goals': '11', 'League Cup Apps': '37', 'League Cup Goals': '2', 'Europe Apps': '123', 'Europe Goals': '13', 'Other Apps': '7', 'Other Goals': '0', 'Total Apps': 717, 'Total Goals': 67}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Nottingham Forest (loan)",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest (loan)', 'Season Season': '1999\u20132000[236]', 'League Division': 'First Division', 'League Apps': 6, 'League Goals': 0, 'FA Cup Apps': '\u2014', 'FA Cup Goals': '\u2014', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Aston Villa",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Aston Villa', 'Season Season': '2017\u201318[254]', 'League Division': 'Championship', 'League Apps': 32, 'League Goals': 1, 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '3[g]', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 530,
+      "league_goals": 42,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 530, 'League Goals': 42, 'FA Cup Apps': '59', 'FA Cup Goals': '11', 'League Cup Apps': '37', 'League Cup Goals': '2', 'Europe Apps': '123', 'Europe Goals': '13', 'Other Apps': '10', 'Other Goals': '0', 'Total Apps': 759, 'Total Goals': 68}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>John Terry - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"90177de1-dba9-4da4-a6e3-a41defee05bd\",\"wgC"
+}

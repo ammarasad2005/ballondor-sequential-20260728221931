@@ -1,0 +1,173 @@
+{
+  "player_name_raw": "Harry Kane",
+  "fetch_status": "ok",
+  "wikipedia_title": "Harry_Kane",
+  "url": "https://en.wikipedia.org/wiki/Harry_Kane",
+  "position": "Striker",
+  "birth_year": 1993,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2010\u201311",
+      "club": "Tottenham Hotspur",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2010\u201311[418]', 'League Division': 'Premier League', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Tottenham Hotspur",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2011\u201312[419]', 'League Division': 'Premier League', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '6[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 6, 'Total Goals': 1}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Tottenham Hotspur",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2012\u201313[420]', 'League Division': 'Premier League', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Tottenham Hotspur",
+      "league_apps": 10,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2013\u201314[421]', 'League Division': 'Premier League', 'League Apps': 10, 'League Goals': 3, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '1', 'Europe Apps': '7[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 4}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Tottenham Hotspur",
+      "league_apps": 34,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2014\u201315[422]', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 21, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '6', 'League cup[b] Goals': '3', 'Europe Apps': '9[c]', 'Europe Goals': '7', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 51, 'Total Goals': 31}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Tottenham Hotspur",
+      "league_apps": 38,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2015\u201316[423]', 'League Division': 'Premier League', 'League Apps': 38, 'League Goals': 25, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '7[c]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 28}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Tottenham Hotspur",
+      "league_apps": 30,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2016\u201317[424]', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 29, 'National cup[a] Apps': '3', 'National cup[a] Goals': '4', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '5[d]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 35}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Tottenham Hotspur",
+      "league_apps": 37,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2017\u201318[425]', 'League Division': 'Premier League', 'League Apps': 37, 'League Goals': 30, 'National cup[a] Apps': '4', 'National cup[a] Goals': '4', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '7[e]', 'Europe Goals': '7', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 41}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Tottenham Hotspur",
+      "league_apps": 28,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2018\u201319[426]', 'League Division': 'Premier League', 'League Apps': 28, 'League Goals': 17, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'League cup[b] Apps': '2', 'League cup[b] Goals': '1', 'Europe Apps': '9[e]', 'Europe Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 24}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Tottenham Hotspur",
+      "league_apps": 29,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2019\u201320[427]', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 18, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '5[e]', 'Europe Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 24}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Tottenham Hotspur",
+      "league_apps": 35,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2020\u201321[428]', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 23, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '4', 'League cup[b] Goals': '1', 'Europe Apps': '8[c]', 'Europe Goals': '8', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 33}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Tottenham Hotspur",
+      "league_apps": 37,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2021\u201322[429]', 'League Division': 'Premier League', 'League Apps': 37, 'League Goals': 17, 'National cup[a] Apps': '3', 'National cup[a] Goals': '3', 'League cup[b] Apps': '5', 'League cup[b] Goals': '1', 'Europe Apps': '5[f]', 'Europe Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 27}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Tottenham Hotspur",
+      "league_apps": 38,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2022\u201323[430]', 'League Division': 'Premier League', 'League Apps': 38, 'League Goals': 30, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '8[e]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 32}"
+    },
+    {
+      "season": "Total",
+      "club": "Tottenham Hotspur",
+      "league_apps": 317,
+      "league_goals": 213,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 317, 'League Goals': 213, 'National cup[a] Apps': '21', 'National cup[a] Goals': '15', 'League cup[b] Apps': '21', 'League cup[b] Goals': '7', 'Europe Apps': '76', 'Europe Goals': '45', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 435, 'Total Goals': 280}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Leyton Orient (loan)",
+      "league_apps": 18,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Leyton Orient (loan)', 'Season Season': '2010\u201311[418]', 'League Division': 'League One', 'League Apps': 18, 'League Goals': 5, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 5}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Millwall (loan)",
+      "league_apps": 22,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Millwall (loan)', 'Season Season': '2011\u201312[419]', 'League Division': 'Championship', 'League Apps': 22, 'League Goals': 7, 'National cup[a] Apps': '5', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 9}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Norwich City (loan)",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Norwich City (loan)', 'Season Season': '2012\u201313[420]', 'League Division': 'Premier League', 'League Apps': 3, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Leicester City (loan)",
+      "league_apps": 13,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Leicester City (loan)', 'Season Season': '2012\u201313[420]', 'League Division': 'Championship', 'League Apps': 13, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '2[g]', 'Other Goals': '0', 'Total Apps': 15, 'Total Goals': 2}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2023\u201324[431]', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 36, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '12[e]', 'Europe Goals': '8', 'Other Apps': '1[h]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 44}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Bayern Munich",
+      "league_apps": 31,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2024\u201325[432]', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 26, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '13[e]', 'Europe Goals': '11', 'Other Apps': '5[i]', 'Other Goals': '3', 'Total Apps': 51, 'Total Goals': 41}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Bayern Munich",
+      "league_apps": 31,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2025\u201326[433]', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 36, 'National cup[a] Apps': '6', 'National cup[a] Goals': '10', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '13[e]', 'Europe Goals': '14', 'Other Apps': '1[h]', 'Other Goals': '1', 'Total Apps': 51, 'Total Goals': 61}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 94,
+      "league_goals": 98,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 94, 'League Goals': 98, 'National cup[a] Apps': '8', 'National cup[a] Goals': '11', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '38', 'Europe Goals': '33', 'Other Apps': '7', 'Other Goals': '4', 'Total Apps': 147, 'Total Goals': 146}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 468,
+      "league_goals": 325,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 468, 'League Goals': 325, 'National cup[a] Apps': '35', 'National cup[a] Goals': '28', 'League cup[b] Apps': '22', 'League cup[b] Goals': '7', 'Europe Apps': '114', 'Europe Goals': '78', 'Other Apps': '9', 'Other Goals': '4', 'Total Apps': 647, 'Total Goals': 442}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Harry Kane - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d1f656d7-7560-424c-be43-ee99073cafe5\",\"wgC"
+}

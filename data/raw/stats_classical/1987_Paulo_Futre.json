@@ -1,0 +1,168 @@
+{
+  "player_name_raw": "Paulo Futre",
+  "fetch_status": "ok",
+  "wikipedia_title": "Paulo_Futre",
+  "url": "https://en.wikipedia.org/wiki/Paulo_Futre",
+  "position": "Winger",
+  "birth_year": 1966,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1983\u201384",
+      "club": "Sporting CP",
+      "league_apps": 21,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Sporting CP', 'Season Season': '1983\u201384', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 21, 'League Goals': 3, 'National cup[a] Apps': 5, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '3[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 3}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Porto",
+      "league_apps": 30,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1984\u201385', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 30, 'League Goals': 6, 'National cup[a] Apps': 7, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '2[d]', 'Europe Goals': '1', 'Other Apps': '4[e]', 'Other Goals': '1', 'Total Apps': 43, 'Total Goals': 10}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Porto",
+      "league_apps": 26,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1985\u201386', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 26, 'League Goals': 7, 'National cup[a] Apps': 4, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '3[f]', 'Europe Goals': '0', 'Other Apps': '2[e]', 'Other Goals': '0', 'Total Apps': 35, 'Total Goals': 8}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Porto",
+      "league_apps": 25,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1986\u201387', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 25, 'League Goals': 10, 'National cup[a] Apps': 4, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '9[f]', 'Europe Goals': '2', 'Other Apps': '2[e]', 'Other Goals': '2', 'Total Apps': 40, 'Total Goals': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "Porto",
+      "league_apps": 81,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Porto', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 81, 'League Goals': 23, 'National cup[a] Apps': 15, 'National cup[a] Goals': 4, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '14', 'Europe Goals': '3', 'Other Apps': '8', 'Other Goals': '3', 'Total Apps': 118, 'Total Goals': 33}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 35,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '1987\u201388', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 8, 'National cup[a] Apps': 4, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 9}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 28,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '1988\u201389', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 5, 'National cup[a] Apps': 7, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '2[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 6}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 27,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '1989\u201390', 'League Division': 'La Liga', 'League Apps': 27, 'League Goals': 10, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '2[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 10}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '1990\u201391', 'League Division': 'La Liga', 'League Apps': 26, 'League Goals': 3, 'National cup[a] Apps': 6, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '2[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 4}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 31,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '1991\u201392', 'League Division': 'La Liga', 'League Apps': 31, 'League Goals': 6, 'National cup[a] Apps': 6, 'National cup[a] Goals': 5, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '6[d]', 'Europe Goals': '5', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 16}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 16,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '1992\u201393', 'League Division': 'La Liga', 'League Apps': 16, 'League Goals': 6, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '3[d]', 'Europe Goals': '1', 'Other Apps': '2[g]', 'Other Goals': '0', 'Total Apps': 21, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 163,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 163, 'League Goals': 38, 'National cup[a] Apps': 25, 'National cup[a] Goals': 7, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '15', 'Europe Goals': '7', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 205, 'Total Goals': 52}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Benfica",
+      "league_apps": 11,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '1992\u201393', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 11, 'League Goals': 3, 'National cup[a] Apps': 2, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 5}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Marseille",
+      "league_apps": 8,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1993\u201394', 'League Division': 'Ligue 1', 'League Apps': 8, 'League Goals': 2, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 2}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Reggiana",
+      "league_apps": 1,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Reggiana', 'Season Season': '1993\u201394', 'League Division': 'Serie A', 'League Apps': 1, 'League Goals': 1, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 1}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Reggiana",
+      "league_apps": 12,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Reggiana', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': 12, 'League Goals': 4, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Reggiana",
+      "league_apps": 13,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Reggiana', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 13, 'League Goals': 5, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 14, 'Total Goals': 5}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "AC Milan",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "West Ham United",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '1996\u201397', 'League Division': 'Premier League', 'League Apps': 9, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 10,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '1997\u201398', 'League Division': 'La Liga', 'League Apps': 10, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998",
+      "club": "Yokohama Fl\u00fcgels",
+      "league_apps": 13,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Yokohama Fl\u00fcgels', 'Season Season': '1998', 'League Division': 'J.League', 'League Apps': 13, 'League Goals': 3, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 16, 'Total Goals': 3}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 330,
+      "league_goals": 77,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 330, 'League Goals': 77, 'National cup[a] Apps': 48, 'National cup[a] Goals': 12, 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '32', 'Europe Goals': '10', 'Other Apps': '10', 'Other Goals': '3', 'Total Apps': 423, 'Total Goals': 103}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Paulo Futre - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"75c8a544-2095-40ae-bb8e-0d2046207d54\",\"wg",
+  "season_id": "1987",
+  "award_year": 1987
+}

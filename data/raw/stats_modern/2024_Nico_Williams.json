@@ -1,0 +1,84 @@
+{
+  "player_name_raw": "Nico Williams",
+  "fetch_status": "ok",
+  "wikipedia_title": "Nico_Williams",
+  "url": "https://en.wikipedia.org/wiki/Nico_Williams",
+  "position": "Winger",
+  "birth_year": 2002,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2019\u201320",
+      "club": "Basconia",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Basconia', 'Season Season': '2019\u201320', 'League Division': 'Tercera Divisi\u00f3n', 'League Apps': 3, 'League Goals': 0, 'Copa del Rey Apps': '\u2014', 'Copa del Rey Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '1[a]', 'Other Goals': '0', 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Athletic Bilbao B",
+      "league_apps": 24,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Athletic Bilbao B', 'Season Season': '2020\u201321', 'League Division': 'Segunda Divisi\u00f3n B', 'League Apps': 24, 'League Goals': 9, 'Copa del Rey Apps': '\u2014', 'Copa del Rey Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '2[b]', 'Other Goals': '0', 'Total Apps': 26, 'Total Goals': 9}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Athletic Bilbao",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Athletic Bilbao', 'Season Season': '2020\u201321', 'League Division': 'La Liga', 'League Apps': 2, 'League Goals': 0, 'Copa del Rey Apps': '0', 'Copa del Rey Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Athletic Bilbao",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Athletic Bilbao', 'Season Season': '2021\u201322', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 0, 'Copa del Rey Apps': '4', 'Copa del Rey Goals': '2', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '2[c]', 'Other Goals': '1', 'Total Apps': 40, 'Total Goals': 3}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Athletic Bilbao",
+      "league_apps": 36,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Athletic Bilbao', 'Season Season': '2022\u201323', 'League Division': 'La Liga', 'League Apps': 36, 'League Goals': 6, 'Copa del Rey Apps': '7', 'Copa del Rey Goals': '3', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 9}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Athletic Bilbao",
+      "league_apps": 31,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Athletic Bilbao', 'Season Season': '2023\u201324', 'League Division': 'La Liga', 'League Apps': 31, 'League Goals': 5, 'Copa del Rey Apps': '6', 'Copa del Rey Goals': '3', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 8}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Athletic Bilbao",
+      "league_apps": 29,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Athletic Bilbao', 'Season Season': '2024\u201325', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 5, 'Copa del Rey Apps': '2', 'Copa del Rey Goals': '1', 'Europe Apps': '13[d]', 'Europe Goals': '5', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 11}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Athletic Bilbao",
+      "league_apps": 25,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Athletic Bilbao', 'Season Season': '2025\u201326', 'League Division': 'La Liga', 'League Apps': 25, 'League Goals': 6, 'Copa del Rey Apps': '4', 'Copa del Rey Goals': '0', 'Europe Apps': '3[e]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 32, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Athletic Bilbao",
+      "league_apps": 157,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Athletic Bilbao', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 157, 'League Goals': 22, 'Copa del Rey Apps': '23', 'Copa del Rey Goals': '9', 'Europe Apps': '16', 'Europe Goals': '5', 'Other Apps': '3', 'Other Goals': '1', 'Total Apps': 199, 'Total Goals': 37}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 184,
+      "league_goals": 31,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 184, 'League Goals': 31, 'Copa del Rey Apps': '23', 'Copa del Rey Goals': '9', 'Europe Apps': '16', 'Europe Goals': '5', 'Other Apps': '6', 'Other Goals': '1', 'Total Apps': 229, 'Total Goals': 46}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Nico Williams - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"627035a7-8df0-4710-82db-0674d9fc2964\",\"",
+  "season_id": "2024",
+  "award_year": 2024
+}

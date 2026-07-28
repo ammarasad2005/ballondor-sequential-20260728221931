@@ -1,0 +1,203 @@
+{
+  "player_name_raw": "Robert Prosine\u010dki",
+  "fetch_status": "ok",
+  "wikipedia_title": "Robert_Prosine\u010dki",
+  "url": "https://en.wikipedia.org/wiki/Robert_Prosine\u010dki",
+  "position": "Midfielder",
+  "birth_year": 1969,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1986\u201387",
+      "club": "Dinamo Zagreb",
+      "league_apps": 2,
+      "league_goals": 1,
+      "raw": "{'Season Season Yugoslavia': '1986\u201387', 'Club Club Yugoslavia': 'Dinamo Zagreb', 'League Division League': 'Yugoslav First League', 'League Apps League': '2', 'League Goals League': '1', 'National cup Apps Cup': '0', 'National cup Goals Cup': '0', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '\u2014', 'Continental Goals Continental': '\u2014', 'Total Apps Total': '2', 'Total Goals Total': '1'}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Red Star Belgrade",
+      "league_apps": 23,
+      "league_goals": 4,
+      "raw": "{'Season Season Yugoslavia': '1987\u201388', 'Club Club Yugoslavia': 'Red Star Belgrade', 'League Division League': 'Yugoslav First League', 'League Apps League': '23', 'League Goals League': '4', 'National cup Apps Cup': '3', 'National cup Goals Cup': '2', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '4', 'Continental Goals Continental': '0', 'Total Apps Total': '30', 'Total Goals Total': '6'}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Red Star Belgrade",
+      "league_apps": 33,
+      "league_goals": 4,
+      "raw": "{'Season Season Yugoslavia': '1988\u201389', 'Club Club Yugoslavia': 'Red Star Belgrade', 'League Division League': 'Yugoslav First League', 'League Apps League': '33', 'League Goals League': '4', 'National cup Apps Cup': '2', 'National cup Goals Cup': '0', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '2', 'Continental Goals Continental': '0', 'Total Apps Total': '37', 'Total Goals Total': '4'}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Red Star Belgrade",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Season Season Yugoslavia': '1989\u201390', 'Club Club Yugoslavia': 'Red Star Belgrade', 'League Division League': 'Yugoslav First League', 'League Apps League': '32', 'League Goals League': '5', 'National cup Apps Cup': '8', 'National cup Goals Cup': '3', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '6', 'Continental Goals Continental': '1', 'Total Apps Total': '46', 'Total Goals Total': '9'}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Red Star Belgrade",
+      "league_apps": 29,
+      "league_goals": 12,
+      "raw": "{'Season Season Yugoslavia': '1990\u201391', 'Club Club Yugoslavia': 'Red Star Belgrade', 'League Division League': 'Yugoslav First League', 'League Apps League': '29', 'League Goals League': '12', 'National cup Apps Cup': '6', 'National cup Goals Cup': '2', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '9', 'Continental Goals Continental': '4', 'Total Apps Total': '44', 'Total Goals Total': '18'}"
+    },
+    {
+      "season": "Spain",
+      "club": "Spain",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Season Season Yugoslavia': 'Spain', 'Club Club Yugoslavia': 'Spain', 'League Division League': 'League', 'League Apps League': 'League', 'League Goals League': 'League', 'National cup Apps Cup': 'Copa del Rey', 'National cup Goals Cup': 'Copa del Rey', 'League cup Apps League Cup': 'Supercopa', 'League cup Goals League Cup': 'Supercopa', 'Continental Apps Continental': 'Europe', 'Continental Goals Continental': 'Europe', 'Total Apps Total': 'Total', 'Total Goals Total': 'Total'}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Real Madrid",
+      "league_apps": 3,
+      "league_goals": 1,
+      "raw": "{'Season Season Yugoslavia': '1991\u201392', 'Club Club Yugoslavia': 'Real Madrid', 'League Division League': 'La Liga', 'League Apps League': '3', 'League Goals League': '1', 'National cup Apps Cup': '0', 'National cup Goals Cup': '0', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '2', 'Continental Goals Continental': '1', 'Total Apps Total': '5', 'Total Goals Total': '2'}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Real Madrid",
+      "league_apps": 29,
+      "league_goals": 3,
+      "raw": "{'Season Season Yugoslavia': '1992\u201393', 'Club Club Yugoslavia': 'Real Madrid', 'League Division League': 'La Liga', 'League Apps League': '29', 'League Goals League': '3', 'National cup Apps Cup': '2', 'National cup Goals Cup': '1', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '5', 'Continental Goals Continental': '0', 'Total Apps Total': '36', 'Total Goals Total': '4'}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Real Madrid",
+      "league_apps": 23,
+      "league_goals": 6,
+      "raw": "{'Season Season Yugoslavia': '1993\u201394', 'Club Club Yugoslavia': 'Real Madrid', 'League Division League': 'La Liga', 'League Apps League': '23', 'League Goals League': '6', 'National cup Apps Cup': '4', 'National cup Goals Cup': '0', 'League cup Apps League Cup': '2', 'League cup Goals League Cup': '0', 'Continental Apps Continental': '5', 'Continental Goals Continental': '0', 'Total Apps Total': '32', 'Total Goals Total': '6'}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Real Oviedo",
+      "league_apps": 30,
+      "league_goals": 5,
+      "raw": "{'Season Season Yugoslavia': '1994\u201395', 'Club Club Yugoslavia': 'Real Oviedo', 'League Division League': 'La Liga', 'League Apps League': '30', 'League Goals League': '5', 'National cup Apps Cup': '2', 'National cup Goals Cup': '0', 'League cup Apps League Cup': '0', 'League cup Goals League Cup': '0', 'Continental Apps Continental': '\u2014', 'Continental Goals Continental': '\u2014', 'Total Apps Total': '32', 'Total Goals Total': '5'}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Barcelona",
+      "league_apps": 19,
+      "league_goals": 2,
+      "raw": "{'Season Season Yugoslavia': '1995\u201396', 'Club Club Yugoslavia': 'Barcelona', 'League Division League': 'La Liga', 'League Apps League': '19', 'League Goals League': '2', 'National cup Apps Cup': '4', 'National cup Goals Cup': '0', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '0', 'Continental Goals Continental': '0', 'Total Apps Total': '23', 'Total Goals Total': '2'}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Barcelona",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Season Season Yugoslavia': '1996\u201397', 'Club Club Yugoslavia': 'Barcelona', 'League Division League': 'La Liga', 'League Apps League': '\u2014', 'League Goals League': '\u2014', 'National cup Apps Cup': '\u2014', 'National cup Goals Cup': '\u2014', 'League cup Apps League Cup': '0', 'League cup Goals League Cup': '0', 'Continental Apps Continental': '3', 'Continental Goals Continental': '0', 'Total Apps Total': '3', 'Total Goals Total': '0'}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Sevilla",
+      "league_apps": 20,
+      "league_goals": 4,
+      "raw": "{'Season Season Yugoslavia': '1996\u201397', 'Club Club Yugoslavia': 'Sevilla', 'League Division League': 'La Liga', 'League Apps League': '20', 'League Goals League': '4', 'National cup Apps Cup': '2', 'National cup Goals Cup': '0', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '\u2014', 'Continental Goals Continental': '\u2014', 'Total Apps Total': '22', 'Total Goals Total': '4'}"
+    },
+    {
+      "season": "Croatia",
+      "club": "Croatia",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Season Season Yugoslavia': 'Croatia', 'Club Club Yugoslavia': 'Croatia', 'League Division League': 'League', 'League Apps League': 'League', 'League Goals League': 'League', 'National cup Apps Cup': 'Croatian Cup', 'National cup Goals Cup': 'Croatian Cup', 'League cup Apps League Cup': 'League Cup', 'League cup Goals League Cup': 'League Cup', 'Continental Apps Continental': 'Europe', 'Continental Goals Continental': 'Europe', 'Total Apps Total': 'Total', 'Total Goals Total': 'Total'}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Croatia Zagreb",
+      "league_apps": 16,
+      "league_goals": 5,
+      "raw": "{'Season Season Yugoslavia': '1997\u201398', 'Club Club Yugoslavia': 'Croatia Zagreb', 'League Division League': 'Prva HNL', 'League Apps League': '16', 'League Goals League': '5', 'National cup Apps Cup': '3', 'National cup Goals Cup': '1', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '10', 'Continental Goals Continental': '5', 'Total Apps Total': '29', 'Total Goals Total': '11'}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Croatia Zagreb",
+      "league_apps": 15,
+      "league_goals": 4,
+      "raw": "{'Season Season Yugoslavia': '1998\u201399', 'Club Club Yugoslavia': 'Croatia Zagreb', 'League Division League': 'Prva HNL', 'League Apps League': '15', 'League Goals League': '4', 'National cup Apps Cup': '0', 'National cup Goals Cup': '0', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '3', 'Continental Goals Continental': '2', 'Total Apps Total': '18', 'Total Goals Total': '6'}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Croatia Zagreb",
+      "league_apps": 19,
+      "league_goals": 5,
+      "raw": "{'Season Season Yugoslavia': '1999\u20132000', 'Club Club Yugoslavia': 'Croatia Zagreb', 'League Division League': 'Prva HNL', 'League Apps League': '19', 'League Goals League': '5', 'National cup Apps Cup': '3', 'National cup Goals Cup': '5', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '6', 'Continental Goals Continental': '1', 'Total Apps Total': '28', 'Total Goals Total': '11'}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Hrvatski Dragovoljac",
+      "league_apps": 4,
+      "league_goals": 1,
+      "raw": "{'Season Season Yugoslavia': '2000\u201301', 'Club Club Yugoslavia': 'Hrvatski Dragovoljac', 'League Division League': 'Prva HNL', 'League Apps League': '4', 'League Goals League': '1', 'National cup Apps Cup': '0', 'National cup Goals Cup': '0', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '\u2014', 'Continental Goals Continental': '\u2014', 'Total Apps Total': '4', 'Total Goals Total': '1'}"
+    },
+    {
+      "season": "Belgium",
+      "club": "Belgium",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Season Season Yugoslavia': 'Belgium', 'Club Club Yugoslavia': 'Belgium', 'League Division League': 'League', 'League Apps League': 'League', 'League Goals League': 'League', 'National cup Apps Cup': 'Belgian Cup', 'National cup Goals Cup': 'Belgian Cup', 'League cup Apps League Cup': 'League Cup', 'League cup Goals League Cup': 'League Cup', 'Continental Apps Continental': 'Europe', 'Continental Goals Continental': 'Europe', 'Total Apps Total': 'Total', 'Total Goals Total': 'Total'}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 21,
+      "league_goals": 4,
+      "raw": "{'Season Season Yugoslavia': '2000\u201301', 'Club Club Yugoslavia': 'Standard Li\u00e8ge', 'League Division League': 'Belgian First Division', 'League Apps League': '21', 'League Goals League': '4', 'National cup Apps Cup': '2', 'National cup Goals Cup': '1', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '\u2014', 'Continental Goals Continental': '\u2014', 'Total Apps Total': '23', 'Total Goals Total': '5'}"
+    },
+    {
+      "season": "England",
+      "club": "England",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Season Season Yugoslavia': 'England', 'Club Club Yugoslavia': 'England', 'League Division League': 'League', 'League Apps League': 'League', 'League Goals League': 'League', 'National cup Apps Cup': 'FA Cup', 'National cup Goals Cup': 'FA Cup', 'League cup Apps League Cup': 'League Cup', 'League cup Goals League Cup': 'League Cup', 'Continental Apps Continental': 'Europe', 'Continental Goals Continental': 'Europe', 'Total Apps Total': 'Total', 'Total Goals Total': 'Total'}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Portsmouth",
+      "league_apps": 33,
+      "league_goals": 9,
+      "raw": "{'Season Season Yugoslavia': '2001\u201302', 'Club Club Yugoslavia': 'Portsmouth', 'League Division League': 'English First Division', 'League Apps League': '33', 'League Goals League': '9', 'National cup Apps Cup': '1', 'National cup Goals Cup': '0', 'League cup Apps League Cup': '1', 'League cup Goals League Cup': '0', 'Continental Apps Continental': '\u2014', 'Continental Goals Continental': '\u2014', 'Total Apps Total': '35', 'Total Goals Total': '9'}"
+    },
+    {
+      "season": "Slovenia",
+      "club": "Slovenia",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Season Season Yugoslavia': 'Slovenia', 'Club Club Yugoslavia': 'Slovenia', 'League Division League': 'League', 'League Apps League': 'League', 'League Goals League': 'League', 'National cup Apps Cup': 'Slovenian Cup', 'National cup Goals Cup': 'Slovenian Cup', 'League cup Apps League Cup': 'League Cup', 'League cup Goals League Cup': 'League Cup', 'Continental Apps Continental': 'Europe', 'Continental Goals Continental': 'Europe', 'Total Apps Total': 'Total', 'Total Goals Total': 'Total'}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Olimpija Ljubljana",
+      "league_apps": 23,
+      "league_goals": 3,
+      "raw": "{'Season Season Yugoslavia': '2002\u201303', 'Club Club Yugoslavia': 'Olimpija Ljubljana', 'League Division League': 'Slovenian PrvaLiga', 'League Apps League': '23', 'League Goals League': '3', 'National cup Apps Cup': '4', 'National cup Goals Cup': '1', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '\u2014', 'Continental Goals Continental': '\u2014', 'Total Apps Total': '27', 'Total Goals Total': '4'}"
+    },
+    {
+      "season": "Croatia",
+      "club": "Croatia",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Season Season Yugoslavia': 'Croatia', 'Club Club Yugoslavia': 'Croatia', 'League Division League': 'League', 'League Apps League': 'League', 'League Goals League': 'League', 'National cup Apps Cup': 'Croatian Cup', 'National cup Goals Cup': 'Croatian Cup', 'League cup Apps League Cup': 'League Cup', 'League cup Goals League Cup': 'League Cup', 'Continental Apps Continental': 'Europe', 'Continental Goals Continental': 'Europe', 'Total Apps Total': 'Total', 'Total Goals Total': 'Total'}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "NK Zagreb",
+      "league_apps": 26,
+      "league_goals": 5,
+      "raw": "{'Season Season Yugoslavia': '2003\u201304', 'Club Club Yugoslavia': 'NK Zagreb', 'League Division League': 'Prva HNL', 'League Apps League': '26', 'League Goals League': '5', 'National cup Apps Cup': '1', 'National cup Goals Cup': '0', 'League cup Apps League Cup': '\u2014', 'League cup Goals League Cup': '\u2014', 'Continental Apps Continental': '0', 'Continental Goals Continental': '0', 'Total Apps Total': '27', 'Total Goals Total': '5'}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 400,
+      "league_goals": 83,
+      "raw": "{'Season Season Yugoslavia': 'Career total', 'Club Club Yugoslavia': 'Career total', 'League Division League': 'Career total', 'League Apps League': '400', 'League Goals League': '83', 'National cup Apps Cup': '47', 'National cup Goals Cup': '16', 'League cup Apps League Cup': '3', 'League cup Goals League Cup': '0', 'Continental Apps Continental': '55', 'Continental Goals Continental': '14', 'Total Apps Total': '505', 'Total Goals Total': '113'}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Robert Prosine\u010dki - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"9045e25a-e266-4262-9bb8-bd222339092",
+  "season_id": "1991",
+  "award_year": 1991
+}

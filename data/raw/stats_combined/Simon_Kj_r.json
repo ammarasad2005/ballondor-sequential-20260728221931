@@ -1,0 +1,194 @@
+{
+  "player_name_raw": "Simon Kj\u00e6r",
+  "fetch_status": "ok",
+  "wikipedia_title": "Simon_Kj\u00e6r",
+  "url": "https://en.wikipedia.org/wiki/Simon_Kj\u00e6r",
+  "position": "Centre-back",
+  "birth_year": 1989,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2007\u201308",
+      "club": "Midtjylland",
+      "league_apps": 19,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Midtjylland', 'Season Season': '2007\u201308', 'League Division': 'Danish Superliga', 'League Apps': 19, 'League Goals': 0, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 21, 'Total Goals': 0}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Palermo",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Palermo', 'Season Season': '2008\u201309', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 3, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 3}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Palermo",
+      "league_apps": 35,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Palermo', 'Season Season': '2009\u201310', 'League Division': 'Serie A', 'League Apps': 35, 'League Goals': 2, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Palermo",
+      "league_apps": 62,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Palermo', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 62, 'League Goals': 5, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 65, 'Total Goals': 5}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "VfL Wolfsburg",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'VfL Wolfsburg', 'Season Season': '2010\u201311', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 1, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 1}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "VfL Wolfsburg",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'VfL Wolfsburg', 'Season Season': '2011\u201312', 'League Division': 'Bundesliga', 'League Apps': 3, 'League Goals': 0, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "VfL Wolfsburg",
+      "league_apps": 22,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'VfL Wolfsburg', 'Season Season': '2012\u201313', 'League Division': 'Bundesliga', 'League Apps': 22, 'League Goals': 2, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "VfL Wolfsburg",
+      "league_apps": 57,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'VfL Wolfsburg', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 57, 'League Goals': 3, 'National cup[a] Apps': 6, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 63, 'Total Goals': 3}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Roma (loan)",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Roma (loan)', 'Season Season': '2011\u201312', 'League Division': 'Serie A', 'League Apps': 22, 'League Goals': 0, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 0}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Lille",
+      "league_apps": 35,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lille', 'Season Season': '2013\u201314', 'League Division': 'Ligue 1', 'League Apps': 35, 'League Goals': 0, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 1}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Lille",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Lille', 'Season Season': '2014\u201315', 'League Division': 'Ligue 1', 'League Apps': 31, 'League Goals': 1, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'Europe Apps': '9[b]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Lille",
+      "league_apps": 66,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Lille', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 66, 'League Goals': 1, 'National cup[a] Apps': 4, 'National cup[a] Goals': 2, 'Europe Apps': '9', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 79, 'Total Goals': 4}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Fenerbah\u00e7e",
+      "league_apps": 28,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Fenerbah\u00e7e', 'Season Season': '2015\u201316', 'League Division': 'S\u00fcper Lig', 'League Apps': 28, 'League Goals': 2, 'National cup[a] Apps': 6, 'National cup[a] Goals': 0, 'Europe Apps': '11[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 2}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Fenerbah\u00e7e",
+      "league_apps": 27,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Fenerbah\u00e7e', 'Season Season': '2016\u201317', 'League Division': 'S\u00fcper Lig', 'League Apps': 27, 'League Goals': 1, 'National cup[a] Apps': 5, 'National cup[a] Goals': 0, 'Europe Apps': '11[d]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Fenerbah\u00e7e",
+      "league_apps": 55,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Fenerbah\u00e7e', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 55, 'League Goals': 3, 'National cup[a] Apps': 11, 'National cup[a] Goals': 0, 'Europe Apps': '22', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 88, 'Total Goals': 5}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Sevilla",
+      "league_apps": 20,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': '2017\u201318', 'League Division': 'La Liga', 'League Apps': 20, 'League Goals': 2, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '6[e]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 3}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Sevilla",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': '2018\u201319', 'League Division': 'La Liga', 'League Apps': 26, 'League Goals': 0, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'Europe Apps': '7[f]', 'Europe Goals': '0', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Sevilla",
+      "league_apps": 46,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 46, 'League Goals': 2, 'National cup[a] Apps': 4, 'National cup[a] Goals': 0, 'Europe Apps': '13', 'Europe Goals': '1', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 64, 'Total Goals': 3}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Atalanta (loan)",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Atalanta (loan)', 'Season Season': '2019\u201320', 'League Division': 'Serie A', 'League Apps': 5, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '1[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Milan (loan)",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Milan (loan)', 'Season Season': '2019\u201320', 'League Division': 'Serie A', 'League Apps': 15, 'League Goals': 0, 'National cup[a] Apps': 4, 'National cup[a] Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 0}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Milan",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Milan', 'Season Season': '2020\u201321', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 0, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '10[f]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 1}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Milan",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Milan', 'Season Season': '2021\u201322', 'League Division': 'Serie A', 'League Apps': 11, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '3[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 14, 'Total Goals': 0}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Milan",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Milan', 'Season Season': '2022\u201323', 'League Division': 'Serie A', 'League Apps': 17, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'Europe Apps': '6[e]', 'Europe Goals': '0', 'Other Apps': '1[h]', 'Other Goals': '0', 'Total Apps': 24, 'Total Goals': 0}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Milan",
+      "league_apps": 20,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Milan', 'Season Season': '2023\u201324', 'League Division': 'Serie A', 'League Apps': 20, 'League Goals': 0, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'Europe Apps': '4[i]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Milan",
+      "league_apps": 91,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 91, 'League Goals': 0, 'National cup[a] Apps': 6, 'National cup[a] Goals': 0, 'Europe Apps': '23', 'Europe Goals': '1', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 121, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 422,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 422, 'League Goals': 14, 'National cup[a] Apps': 39, 'National cup[a] Goals': 2, 'Europe Apps': '68', 'Europe Goals': '5', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 531, 'Total Goals': 21}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Simon Kj\u00e6r - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"28b896a0-3b7a-451a-93b2-ff2a6d77746a\",\"wgC"
+}

@@ -1,0 +1,194 @@
+{
+  "player_name_raw": "Angelos Charisteas",
+  "fetch_status": "ok",
+  "wikipedia_title": "Angelos_Charisteas",
+  "url": "https://en.wikipedia.org/wiki/Angelos_Charisteas",
+  "position": "Forward",
+  "birth_year": 1980,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1997\u201398",
+      "club": "Aris",
+      "league_apps": 9,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Aris', 'Season Season': '1997\u201398', 'League Division': 'Beta Ethniki', 'League Apps': 9, 'League Goals': 2, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 11, 'Total Goals': 2}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Aris",
+      "league_apps": 12,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Aris', 'Season Season': '1998\u201399', 'League Division': 'Alpha Ethniki', 'League Apps': 12, 'League Goals': 4, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 14, 'Total Goals': 4}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Aris",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Aris', 'Season Season': '1999\u20132000', 'League Division': 'Alpha Ethniki', 'League Apps': 21, 'League Goals': 1, 'Cup Apps': 7, 'Cup Goals': 1, 'Continental Apps': 1, 'Continental Goals': 0, 'Total Apps': 29, 'Total Goals': 2}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Aris",
+      "league_apps": 28,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Aris', 'Season Season': '2000\u201301', 'League Division': 'Alpha Ethniki', 'League Apps': 28, 'League Goals': 8, 'Cup Apps': 9, 'Cup Goals': 2, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 37, 'Total Goals': 10}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Aris",
+      "league_apps": 19,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Aris', 'Season Season': '2001\u201302', 'League Division': 'Alpha Ethniki', 'League Apps': 19, 'League Goals': 4, 'Cup Apps': 9, 'Cup Goals': 2, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 28, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Aris",
+      "league_apps": 89,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Aris', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 89, 'League Goals': 19, 'Cup Apps': 29, 'Cup Goals': 5, 'Continental Apps': 1, 'Continental Goals': 0, 'Total Apps': 119, 'Total Goals': 24}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Athinaikos",
+      "league_apps": 7,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Athinaikos', 'Season Season': '1998\u201399', 'League Division': 'Beta Ethniki', 'League Apps': 7, 'League Goals': 1, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 7, 'Total Goals': 1}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Werder Bremen",
+      "league_apps": 31,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': '2002\u201303', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 9, 'Cup Apps': 4, 'Cup Goals': 4, 'Continental Apps': 4, 'Continental Goals': 2, 'Total Apps': 39, 'Total Goals': 15}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Werder Bremen",
+      "league_apps": 24,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': '2003\u201304', 'League Division': 'Bundesliga', 'League Apps': 24, 'League Goals': 4, 'Cup Apps': 5, 'Cup Goals': 2, 'Continental Apps': 3, 'Continental Goals': 1, 'Total Apps': 32, 'Total Goals': 7}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Werder Bremen",
+      "league_apps": 11,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': '2004\u201305', 'League Division': 'Bundesliga', 'League Apps': 11, 'League Goals': 5, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': 5, 'Continental Goals': 1, 'Total Apps': 18, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Werder Bremen",
+      "league_apps": 66,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 66, 'League Goals': 18, 'Cup Apps': 11, 'Cup Goals': 6, 'Continental Apps': 12, 'Continental Goals': 4, 'Total Apps': 89, 'Total Goals': 28}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Ajax",
+      "league_apps": 13,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '2004\u201305', 'League Division': 'Eredivisie', 'League Apps': 13, 'League Goals': 4, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 13, 'Total Goals': 4}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Ajax",
+      "league_apps": 17,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '2005\u201306', 'League Division': 'Eredivisie', 'League Apps': 17, 'League Goals': 8, 'Cup Apps': 3, 'Cup Goals': 1, 'Continental Apps': 4, 'Continental Goals': 0, 'Total Apps': 24, 'Total Goals': 9}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Ajax",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '2006\u201307', 'League Division': 'Eredivisie', 'League Apps': 1, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Ajax",
+      "league_apps": 31,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 31, 'League Goals': 12, 'Cup Apps': 3, 'Cup Goals': 1, 'Continental Apps': 4, 'Continental Goals': 0, 'Total Apps': 38, 'Total Goals': 13}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Feyenoord",
+      "league_apps": 28,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '2006\u201307', 'League Division': 'Eredivisie', 'League Apps': 28, 'League Goals': 9, 'Cup Apps': 3, 'Cup Goals': 1, 'Continental Apps': 5, 'Continental Goals': 1, 'Total Apps': 36, 'Total Goals': 11}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "1. FC N\u00fcrnberg",
+      "league_apps": 24,
+      "league_goals": 6,
+      "raw": "{'Club Club': '1. FC N\u00fcrnberg', 'Season Season': '2007\u201308', 'League Division': 'Bundesliga', 'League Apps': 24, 'League Goals': 6, 'Cup Apps': 1, 'Cup Goals': 2, 'Continental Apps': 6, 'Continental Goals': 3, 'Total Apps': 31, 'Total Goals': 11}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "1. FC N\u00fcrnberg",
+      "league_apps": 14,
+      "league_goals": 1,
+      "raw": "{'Club Club': '1. FC N\u00fcrnberg', 'Season Season': '2008\u201309', 'League Division': '2. Bundesliga', 'League Apps': 14, 'League Goals': 1, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 16, 'Total Goals': 1}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "1. FC N\u00fcrnberg",
+      "league_apps": 19,
+      "league_goals": 1,
+      "raw": "{'Club Club': '1. FC N\u00fcrnberg', 'Season Season': '2009\u201310', 'League Division': 'Bundesliga', 'League Apps': 19, 'League Goals': 1, 'Cup Apps': 1, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 20, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "1. FC N\u00fcrnberg",
+      "league_apps": 57,
+      "league_goals": 8,
+      "raw": "{'Club Club': '1. FC N\u00fcrnberg', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 57, 'League Goals': 8, 'Cup Apps': 4, 'Cup Goals': 2, 'Continental Apps': 6, 'Continental Goals': 3, 'Total Apps': 67, 'Total Goals': 13}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Bayer Leverkusen (loan)",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayer Leverkusen (loan)', 'Season Season': '2008\u201309', 'League Division': 'Bundesliga', 'League Apps': 13, 'League Goals': 1, 'Cup Apps': 3, 'Cup Goals': 1, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 16, 'Total Goals': 2}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Arles-Avignon",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arles-Avignon', 'Season Season': '2010\u201311', 'League Division': 'Ligue 1', 'League Apps': 6, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Schalke 04",
+      "league_apps": 4,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '2010\u201311', 'League Division': 'Bundesliga', 'League Apps': 4, 'League Goals': 1, 'Cup Apps': 1, 'Cup Goals': 0, 'Continental Apps': 1, 'Continental Goals': 0, 'Total Apps': 6, 'Total Goals': 1}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Panetolikos",
+      "league_apps": 24,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Panetolikos', 'Season Season': '2011\u201312', 'League Division': 'Super League Greece', 'League Apps': 24, 'League Goals': 4, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 26, 'Total Goals': 4}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Al-Nassr",
+      "league_apps": 7,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Al-Nassr', 'Season Season': '2012\u201313', 'League Division': 'Saudi Premier League', 'League Apps': 7, 'League Goals': 1, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 9, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 330,
+      "league_goals": 74,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 330, 'League Goals': 74, 'Cup Apps': 38, 'Cup Goals': 15, 'Continental Apps': 29, 'Continental Goals': 8, 'Total Apps': 397, 'Total Goals': 97}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Angelos Charisteas - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"f6f30e06-4f39-4ca1-a38a-c0671690a5"
+}

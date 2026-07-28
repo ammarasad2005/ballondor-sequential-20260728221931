@@ -1,0 +1,194 @@
+{
+  "player_name_raw": "Patrik Berger",
+  "fetch_status": "ok",
+  "wikipedia_title": "Patrik_Berger",
+  "url": "https://en.wikipedia.org/wiki/Patrik_Berger",
+  "position": "Left winger attacking midfielder",
+  "birth_year": 1973,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1991\u201392",
+      "club": "Slavia Prague",
+      "league_apps": 20,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Slavia Prague', 'Season Season': '1991\u201392', 'League Division': 'Czechoslovak First League', 'League Apps': 20, 'League Goals': 3, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 3}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Slavia Prague",
+      "league_apps": 29,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Slavia Prague', 'Season Season': '1992\u201393', 'League Division': 'Czechoslovak First League', 'League Apps': 29, 'League Goals': 10, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 31, 'Total Goals': 10}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Slavia Prague",
+      "league_apps": 12,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Slavia Prague', 'Season Season': '1993\u201394', 'League Division': 'Czech First League', 'League Apps': 12, 'League Goals': 4, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': 14, 'Total Goals': 5}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Slavia Prague",
+      "league_apps": 29,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Slavia Prague', 'Season Season': '1994\u201395', 'League Division': 'Czech First League', 'League Apps': 29, 'League Goals': 7, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Other Apps': '4', 'Other Goals': '1', 'Total Apps': 33, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Slavia Prague",
+      "league_apps": 90,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Slavia Prague', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 90, 'League Goals': 24, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Other Apps': '8', 'Other Goals': '2', 'Total Apps': 98, 'Total Goals': 26}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Borussia Dortmund",
+      "league_apps": 27,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Borussia Dortmund', 'Season Season': '1995\u201396', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 4, 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 4}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Liverpool",
+      "league_apps": 23,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1996\u201397', 'League Division': 'Premier League', 'League Apps': 23, 'League Goals': 6, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '3', 'League cup Goals': '1', 'Other Apps': '6', 'Other Goals': '2', 'Total Apps': 34, 'Total Goals': 9}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Liverpool",
+      "league_apps": 22,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1997\u201398', 'League Division': 'Premier League', 'League Apps': 22, 'League Goals': 3, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '2', 'League cup Goals': '1', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 27, 'Total Goals': 4}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Liverpool",
+      "league_apps": 32,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1998\u201399', 'League Division': 'Premier League', 'League Apps': 32, 'League Goals': 7, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '1', 'League cup Goals': '0', 'Other Apps': '6', 'Other Goals': '2', 'Total Apps': 41, 'Total Goals': 9}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Liverpool",
+      "league_apps": 34,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1999\u20132000', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 9, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '2', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 9}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Liverpool",
+      "league_apps": 14,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2000\u201301', 'League Division': 'Premier League', 'League Apps': 14, 'League Goals': 2, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '1', 'League cup Goals': '0', 'Other Apps': '5', 'Other Goals': '0', 'Total Apps': 21, 'Total Goals': 2}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Liverpool",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2001\u201302', 'League Division': 'Premier League', 'League Apps': 21, 'League Goals': 1, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Other Apps': '9', 'Other Goals': '0', 'Total Apps': 31, 'Total Goals': 1}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Liverpool",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2002\u201303', 'League Division': 'Premier League', 'League Apps': 2, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '1', 'League cup Goals': '1', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 4, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Liverpool",
+      "league_apps": 148,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 148, 'League Goals': 28, 'National cup Apps': '8', 'National cup Goals': '0', 'League cup Apps': '10', 'League cup Goals': '3', 'Other Apps': '29', 'Other Goals': '4', 'Total Apps': 195, 'Total Goals': 35}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Portsmouth",
+      "league_apps": 20,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Portsmouth', 'Season Season': '2003\u201304', 'League Division': 'Premier League', 'League Apps': 20, 'League Goals': 5, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '2', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 5}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Portsmouth",
+      "league_apps": 32,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Portsmouth', 'Season Season': '2004\u201305', 'League Division': 'Premier League', 'League Apps': 32, 'League Goals': 3, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '3', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Portsmouth",
+      "league_apps": 52,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Portsmouth', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 52, 'League Goals': 8, 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '5', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 60, 'Total Goals': 8}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Aston Villa",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Aston Villa', 'Season Season': '2005\u201306', 'League Division': 'Premier League', 'League Apps': 8, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '1', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Aston Villa",
+      "league_apps": 13,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Aston Villa', 'Season Season': '2006\u201307', 'League Division': 'Premier League', 'League Apps': 13, 'League Goals': 2, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '1', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 14, 'Total Goals': 2}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Aston Villa",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Aston Villa', 'Season Season': '2007\u201308', 'League Division': 'Premier League', 'League Apps': 8, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '1', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Aston Villa",
+      "league_apps": 29,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Aston Villa', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 29, 'League Goals': 2, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '3', 'League cup Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 2}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Stoke City (loan)",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City (loan)', 'Season Season': '2006\u201307', 'League Division': 'Championship', 'League Apps': 7, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Sparta Prague",
+      "league_apps": 21,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Sparta Prague', 'Season Season': '2008\u201309', 'League Division': 'Czech First League', 'League Apps': 21, 'League Goals': 6, 'National cup Apps': '4', 'National cup Goals': '2', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 29, 'Total Goals': 8}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Sparta Prague",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sparta Prague', 'Season Season': '2009\u201310', 'League Division': 'Czech First League', 'League Apps': 2, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Sparta Prague",
+      "league_apps": 23,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Sparta Prague', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 23, 'League Goals': 6, 'National cup Apps': '4', 'National cup Goals': '2', 'League cup Apps': '\u2014', 'League cup Goals': '\u2014', 'Other Apps': '5', 'Other Goals': '0', 'Total Apps': 32, 'Total Goals': 8}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 376,
+      "league_goals": 72,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 376, 'League Goals': 72, 'National cup Apps': '18', 'National cup Goals': '2', 'League cup Apps': '18', 'League cup Goals': '3', 'Other Apps': '48', 'Other Goals': '6', 'Total Apps': 460, 'Total Goals': 83}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Patrik Berger - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"10d1edae-3a5b-4bb4-966d-c5df10cf6ad6\",\""
+}

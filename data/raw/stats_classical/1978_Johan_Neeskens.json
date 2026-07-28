@@ -1,0 +1,231 @@
+{
+  "player_name_raw": "Johan Neeskens",
+  "fetch_status": "ok",
+  "wikipedia_title": "Johan_Neeskens",
+  "url": "https://en.wikipedia.org/wiki/Johan_Neeskens",
+  "position": "Midfielder",
+  "birth_year": 1951,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1968\u201369",
+      "club": "RCH",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'RCH', 'Season Season': '1968\u201369[28][29]', 'League Division': 'Eerste Divisie', 'League Apps': '34', 'League Goals': '0', 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': '35', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "RCH",
+      "league_apps": 34,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'RCH', 'Season Season': '1969\u201370[28][29]', 'League Division': 'Eerste Divisie', 'League Apps': '34', 'League Goals': '1', 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': '35', 'Total Goals': '1'}"
+    },
+    {
+      "season": "Total",
+      "club": "RCH",
+      "league_apps": 68,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'RCH', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '68', 'League Goals': '1', 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '70', 'Total Goals': '1'}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Ajax",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1970\u201371[29]', 'League Division': 'Eredivisie', 'League Apps': '33', 'League Goals': '1', 'National cup Apps': '6', 'National cup Goals': '2', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '9[a]', 'Continental Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': '48', 'Total Goals': '5'}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Ajax",
+      "league_apps": 28,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1971\u201372[29]', 'League Division': 'Eredivisie', 'League Apps': '28', 'League Goals': '10', 'National cup Apps': '5', 'National cup Goals': '2', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '8[a]', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': '41', 'Total Goals': '12'}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Ajax",
+      "league_apps": 32,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1972\u201373[29]', 'League Division': 'Eredivisie', 'League Apps': '32', 'League Goals': '7', 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '7[a]', 'Continental Goals': '0', 'Other Apps': '3[b]', 'Other Goals': '1', 'Total Apps': '43', 'Total Goals': '8'}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Ajax",
+      "league_apps": 31,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1973\u201374[29]', 'League Division': 'Eredivisie', 'League Apps': '31', 'League Goals': '14', 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '2[a]', 'Continental Goals': '0', 'Other Apps': '2[c]', 'Other Goals': '1', 'Total Apps': '37', 'Total Goals': '15'}"
+    },
+    {
+      "season": "Total",
+      "club": "Ajax",
+      "league_apps": 124,
+      "league_goals": 32,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '124', 'League Goals': '32', 'National cup Apps': '16', 'National cup Goals': '4', 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '24', 'Continental Goals': '2', 'Other Apps': '5', 'Other Goals': '2', 'Total Apps': '169', 'Total Goals': '40'}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Barcelona",
+      "league_apps": 27,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1974\u201375[30]', 'League Division': 'La Liga', 'League Apps': '27', 'League Goals': '7', 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '7[a]', 'Continental Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': '34', 'Total Goals': '8'}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Barcelona",
+      "league_apps": 32,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1975\u201376[30]', 'League Division': 'La Liga', 'League Apps': '32', 'League Goals': '12', 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '9[d]', 'Continental Goals': '6', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': '41', 'Total Goals': '18'}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Barcelona",
+      "league_apps": 33,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1976\u201377[30]', 'League Division': 'La Liga', 'League Apps': '33', 'League Goals': '8', 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '8[d]', 'Continental Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': '41', 'Total Goals': '9'}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Barcelona",
+      "league_apps": 18,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1977\u201378[30]', 'League Division': 'La Liga', 'League Apps': '18', 'League Goals': '2', 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '7[d]', 'Continental Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': '27', 'Total Goals': '3'}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Barcelona",
+      "league_apps": 30,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1978\u201379[30]', 'League Division': 'La Liga', 'League Apps': '30', 'League Goals': '6', 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '9[e]', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': '40', 'Total Goals': '6'}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 140,
+      "league_goals": 35,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '140', 'League Goals': '35', 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '40', 'Continental Goals': '9', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '183', 'Total Goals': '44'}"
+    },
+    {
+      "season": "1979",
+      "club": "New York Cosmos",
+      "league_apps": 13,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'New York Cosmos', 'Season Season': '1979[28]', 'League Division': 'NASL', 'League Apps': '13', 'League Goals': '4', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '5', 'Other Goals': '2', 'Total Apps': '18', 'Total Goals': '6'}"
+    },
+    {
+      "season": "1980",
+      "club": "New York Cosmos",
+      "league_apps": 17,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'New York Cosmos', 'Season Season': '1980[28]', 'League Division': 'NASL', 'League Apps': '17', 'League Goals': '4', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': '18', 'Total Goals': '4'}"
+    },
+    {
+      "season": "1981",
+      "club": "New York Cosmos",
+      "league_apps": 6,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'New York Cosmos', 'Season Season': '1981[28]', 'League Division': 'NASL', 'League Apps': '6', 'League Goals': '2', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '5', 'Other Goals': '1', 'Total Apps': '11', 'Total Goals': '3'}"
+    },
+    {
+      "season": "1982",
+      "club": "New York Cosmos",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'New York Cosmos', 'Season Season': '1982[28]', 'League Division': 'NASL', 'League Apps': '17', 'League Goals': '0', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': '18', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1983",
+      "club": "New York Cosmos",
+      "league_apps": 23,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'New York Cosmos', 'Season Season': '1983[28]', 'League Division': 'NASL', 'League Apps': '23', 'League Goals': '2', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': '24', 'Total Goals': '2'}"
+    },
+    {
+      "season": "1984",
+      "club": "New York Cosmos",
+      "league_apps": 18,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'New York Cosmos', 'Season Season': '1984[28]', 'League Division': 'NASL', 'League Apps': '18', 'League Goals': '5', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': '18', 'Total Goals': '5'}"
+    },
+    {
+      "season": "Total",
+      "club": "New York Cosmos",
+      "league_apps": 94,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'New York Cosmos', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '94', 'League Goals': '17', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '13', 'Other Goals': '2', 'Total Apps': '107', 'Total Goals': '20'}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Groningen",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Groningen', 'Season Season': '1984\u201385[29]', 'League Division': 'Eredivisie', 'League Apps': '7', 'League Goals': '0', 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': '7', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1985",
+      "club": "South Florida Sun",
+      "league_apps": 1,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'South Florida Sun', 'Season Season': '1985[citation needed]', 'League Division': 'USL', 'League Apps': '1', 'League Goals': '1', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': '1', 'Total Goals': '1'}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Kansas City Comets",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Kansas City Comets', 'Season Season': '1985\u201386[28]', 'League Division': 'MISL', 'League Apps': '23', 'League Goals': '1', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': '23', 'Total Goals': '1'}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "L\u00f6wenbrau",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'L\u00f6wenbrau', 'Season Season': '1986\u201387', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Baar",
+      "league_apps": 9,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Baar', 'Season Season': '1987\u201388[28]', 'League Division': nan, 'League Apps': '9', 'League Goals': '1', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': '9', 'Total Goals': '1'}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Baar",
+      "league_apps": 13,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Baar', 'Season Season': '1988\u201389[28]', 'League Division': nan, 'League Apps': '13', 'League Goals': '4', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': '13', 'Total Goals': '4'}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Baar",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Baar', 'Season Season': '1989\u201390[28]', 'League Division': nan, 'League Apps': '1', 'League Goals': '0', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': '1', 'Total Goals': '0'}"
+    },
+    {
+      "season": "Total",
+      "club": "Baar",
+      "league_apps": 23,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Baar', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '23', 'League Goals': '5', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': '23', 'Total Goals': '5'}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Zug",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Zug', 'Season Season': '1990\u201391[28]', 'League Division': nan, 'League Apps': '1', 'League Goals': '0', 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 450,
+      "league_goals": 91,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '450+', 'League Goals': '91+', 'National cup Apps': '21+', 'National cup Goals': '4+', 'League cup Apps': nan, 'League cup Goals': nan, 'Continental Apps': '64+', 'Continental Goals': '11+', 'Other Apps': '5+', 'Other Goals': '2+', 'Total Apps': '553+', 'Total Goals': '110+'}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Johan Neeskens - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"577bf486-bf34-44f9-a2aa-dd06c14f20bd\",",
+  "season_id": "1978",
+  "award_year": 1978
+}

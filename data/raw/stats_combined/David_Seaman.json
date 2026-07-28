@@ -1,0 +1,215 @@
+{
+  "player_name_raw": "David Seaman",
+  "fetch_status": "ok",
+  "wikipedia_title": "David_Seaman",
+  "url": "https://en.wikipedia.org/wiki/David_Seaman",
+  "position": "Goalkeeper",
+  "birth_year": 1963,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1981\u201382",
+      "club": "Leeds United",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '1981\u201382', 'League Division': 'First Division', 'League Apps': 0, 'League Goals': 0, 'FA Cup Apps': '0', 'FA Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Peterborough United",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Peterborough United', 'Season Season': '1982\u201383', 'League Division': 'Fourth Division', 'League Apps': 38, 'League Goals': 0, 'FA Cup Apps': '4', 'FA Cup Goals': '0', 'League Cup Apps': '4', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '3[a]', 'Other Goals': '0', 'Total Apps': 49, 'Total Goals': 0}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Peterborough United",
+      "league_apps": 45,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Peterborough United', 'Season Season': '1983\u201384', 'League Division': 'Fourth Division', 'League Apps': 45, 'League Goals': 0, 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'League Cup Apps': '4', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Peterborough United",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Peterborough United', 'Season Season': '1984\u201385', 'League Division': 'Fourth Division', 'League Apps': 8, 'League Goals': 0, 'FA Cup Apps': '\u2014', 'FA Cup Goals': '\u2014', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Peterborough United",
+      "league_apps": 91,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Peterborough United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 91, 'League Goals': 0, 'FA Cup Apps': '5', 'FA Cup Goals': '0', 'League Cup Apps': '10', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 109, 'Total Goals': 0}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Birmingham City",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': '1984\u201385', 'League Division': 'Second Division', 'League Apps': 33, 'League Goals': 0, 'FA Cup Apps': '4', 'FA Cup Goals': '0', 'League Cup Apps': '\u2014', 'League Cup Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 0}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Birmingham City",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': '1985\u201386', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 0, 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'League Cup Apps': '4', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Birmingham City",
+      "league_apps": 75,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 75, 'League Goals': 0, 'FA Cup Apps': '5', 'FA Cup Goals': '0', 'League Cup Apps': '4', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 84, 'Total Goals': 0}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Queens Park Rangers",
+      "league_apps": 41,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Queens Park Rangers', 'Season Season': '1986\u201387', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 0, 'FA Cup Apps': '4', 'FA Cup Goals': '0', 'League Cup Apps': '3', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Queens Park Rangers",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Queens Park Rangers', 'Season Season': '1987\u201388', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 0, 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'League Cup Apps': '3', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 0}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Queens Park Rangers",
+      "league_apps": 35,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Queens Park Rangers', 'Season Season': '1988\u201389', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 0, 'FA Cup Apps': '3', 'FA Cup Goals': '0', 'League Cup Apps': '4', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '4[b]', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Queens Park Rangers",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Queens Park Rangers', 'Season Season': '1989\u201390', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 0, 'FA Cup Apps': '9', 'FA Cup Goals': '0', 'League Cup Apps': '3', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Queens Park Rangers",
+      "league_apps": 141,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Queens Park Rangers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 141, 'League Goals': 0, 'FA Cup Apps': '17', 'FA Cup Goals': '0', 'League Cup Apps': '13', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 175, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Arsenal",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1990\u201391', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 0, 'FA Cup Apps': '8', 'FA Cup Goals': '0', 'League Cup Apps': '4', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Arsenal",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1991\u201392', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 0, 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'League Cup Apps': '3', 'League Cup Goals': '0', 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 0}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Arsenal",
+      "league_apps": 39,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1992\u201393', 'League Division': 'Premier League', 'League Apps': 39, 'League Goals': 0, 'FA Cup Apps': '8', 'FA Cup Goals': '0', 'League Cup Apps': '9', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 56, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Arsenal",
+      "league_apps": 39,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1993\u201394', 'League Division': 'Premier League', 'League Apps': 39, 'League Goals': 0, 'FA Cup Apps': '3', 'FA Cup Goals': '0', 'League Cup Apps': '5', 'League Cup Goals': '0', 'Europe Apps': '9[e]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 57, 'Total Goals': 0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Arsenal",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1994\u201395', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 0, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': '6', 'League Cup Goals': '0', 'Europe Apps': '9[e]', 'Europe Goals': '0', 'Other Apps': '2[f]', 'Other Goals': '0', 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Arsenal",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1995\u201396', 'League Division': 'Premier League', 'League Apps': 38, 'League Goals': 0, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': '7', 'League Cup Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Arsenal",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1996\u201397', 'League Division': 'Premier League', 'League Apps': 22, 'League Goals': 0, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': '2', 'League Cup Goals': '0', 'Europe Apps': '2[g]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Arsenal",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1997\u201398', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 0, 'FA Cup Apps': '4', 'FA Cup Goals': '0', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '2[g]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Arsenal",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1998\u201399', 'League Division': 'Premier League', 'League Apps': 32, 'League Goals': 0, 'FA Cup Apps': '5', 'FA Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '6[h]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Arsenal",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '1999\u20132000', 'League Division': 'Premier League', 'League Apps': 24, 'League Goals': 0, 'FA Cup Apps': '2', 'FA Cup Goals': '0', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '9[i]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Arsenal",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2000\u201301', 'League Division': 'Premier League', 'League Apps': 24, 'League Goals': 0, 'FA Cup Apps': '5', 'FA Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '10[h]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Arsenal",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2001\u201302', 'League Division': 'Premier League', 'League Apps': 17, 'League Goals': 0, 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '7[h]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Arsenal",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': '2002\u201303', 'League Division': 'Premier League', 'League Apps': 28, 'League Goals': 0, 'FA Cup Apps': '5', 'FA Cup Goals': '0', 'League Cup Apps': '0', 'League Cup Goals': '0', 'Europe Apps': '9[h]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Arsenal",
+      "league_apps": 405,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Arsenal', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 405, 'League Goals': 0, 'FA Cup Apps': '48', 'FA Cup Goals': '0', 'League Cup Apps': '38', 'League Cup Goals': '0', 'Europe Apps': '67', 'Europe Goals': '0', 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': 564, 'Total Goals': 0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Manchester City",
+      "league_apps": 19,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2003\u201304', 'League Division': 'Premier League', 'League Apps': 19, 'League Goals': 0, 'FA Cup Apps': '1', 'FA Cup Goals': '0', 'League Cup Apps': '1', 'League Cup Goals': '0', 'Europe Apps': '5[g]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 731,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 731, 'League Goals': 0, 'FA Cup Apps': '76', 'FA Cup Goals': '0', 'League Cup Apps': '66', 'League Cup Goals': '0', 'Europe Apps': '72', 'Europe Goals': '0', 'Other Apps': '13', 'Other Goals': '0', 'Total Apps': 958, 'Total Goals': 0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>David Seaman - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"a4475f9c-a96d-4b68-9703-fa90f93ab5bc\",\"w"
+}

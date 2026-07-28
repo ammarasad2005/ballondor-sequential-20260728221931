@@ -1,0 +1,322 @@
+{
+  "player_name_raw": "Peter Shilton",
+  "fetch_status": "ok",
+  "wikipedia_title": "Peter_Shilton",
+  "url": "https://en.wikipedia.org/wiki/Peter_Shilton",
+  "position": "Goalkeeper",
+  "birth_year": 1949,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1965\u201366",
+      "club": "Leicester City",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1965\u201366', 'League Division': 'First Division', 'League Apps': 1, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Leicester City",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1966\u201367', 'League Division': 'First Division', 'League Apps': 4, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Leicester City",
+      "league_apps": 35,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1967\u201368', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 1, 'FA Cup Apps': 4, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 39, 'Total Goals': 1}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Leicester City",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1968\u201369', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 0, 'FA Cup Apps': 8, 'FA Cup Goals': 0, 'League Cup Apps': 3, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 53, 'Total Goals': 0}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Leicester City",
+      "league_apps": 39,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1969\u201370', 'League Division': 'Second Division', 'League Apps': 39, 'League Goals': 0, 'FA Cup Apps': 5, 'FA Cup Goals': 0, 'League Cup Apps': 7, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 51, 'Total Goals': 0}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Leicester City",
+      "league_apps": 40,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1970\u201371', 'League Division': 'Second Division', 'League Apps': 40, 'League Goals': 0, 'FA Cup Apps': 5, 'FA Cup Goals': 0, 'League Cup Apps': 5, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Leicester City",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1971\u201372', 'League Division': 'First Division', 'League Apps': 37, 'League Goals': 0, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'League Cup Apps': 1, 'League Cup Goals': 0, 'Other[a] Apps': 2, 'Other[a] Goals': 0, 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Leicester City",
+      "league_apps": 41,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1972\u201373', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 0, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'League Cup Apps': 1, 'League Cup Goals': 0, 'Other[a] Apps': 3, 'Other[a] Goals': 0, 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Leicester City",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1973\u201374', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 0, 'FA Cup Apps': 7, 'FA Cup Goals': 0, 'League Cup Apps': 2, 'League Cup Goals': 0, 'Other[a] Apps': 4, 'Other[a] Goals': 0, 'Total Apps': 55, 'Total Goals': 0}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Leicester City",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1974\u201375', 'League Division': 'First Division', 'League Apps': 5, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 1, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Leicester City",
+      "league_apps": 286,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 286, 'League Goals': 1, 'FA Cup Apps': 33, 'FA Cup Goals': 0, 'League Cup Apps': 20, 'League Cup Goals': 0, 'Other[a] Apps': 9, 'Other[a] Goals': 0, 'Total Apps': 348, 'Total Goals': 1}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Stoke City",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1974\u201375', 'League Division': 'First Division', 'League Apps': 25, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 26, 'Total Goals': 0}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Stoke City",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1975\u201376', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 0, 'FA Cup Apps': 5, 'FA Cup Goals': 0, 'League Cup Apps': 1, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Stoke City",
+      "league_apps": 40,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1976\u201377', 'League Division': 'First Division', 'League Apps': 40, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': 2, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Stoke City",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1977\u201378', 'League Division': 'Second Division', 'League Apps': 3, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 1, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Stoke City",
+      "league_apps": 110,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 110, 'League Goals': 0, 'FA Cup Apps': 7, 'FA Cup Goals': 0, 'League Cup Apps': 4, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 121, 'Total Goals': 0}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Nottingham Forest",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1977\u201378', 'League Division': 'First Division', 'League Apps': 37, 'League Goals': 0, 'FA Cup Apps': 6, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Nottingham Forest",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1978\u201379', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 0, 'FA Cup Apps': 3, 'FA Cup Goals': 0, 'League Cup Apps': 8, 'League Cup Goals': 0, 'Other[a] Apps': 10, 'Other[a] Goals': 0, 'Total Apps': 63, 'Total Goals': 0}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Nottingham Forest",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1979\u201380', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 0, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'League Cup Apps': 10, 'League Cup Goals': 0, 'Other[a] Apps': 11, 'Other[a] Goals': 0, 'Total Apps': 65, 'Total Goals': 0}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Nottingham Forest",
+      "league_apps": 40,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1980\u201381', 'League Division': 'First Division', 'League Apps': 40, 'League Goals': 0, 'FA Cup Apps': 6, 'FA Cup Goals': 0, 'League Cup Apps': 3, 'League Cup Goals': 0, 'Other[a] Apps': 5, 'Other[a] Goals': 0, 'Total Apps': 54, 'Total Goals': 0}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Nottingham Forest",
+      "league_apps": 41,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1981\u201382', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': 5, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Nottingham Forest",
+      "league_apps": 202,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 202, 'League Goals': 0, 'FA Cup Apps': 18, 'FA Cup Goals': 0, 'League Cup Apps': 26, 'League Cup Goals': 0, 'Other[a] Apps': 26, 'Other[a] Goals': 0, 'Total Apps': 272, 'Total Goals': 0}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Southampton",
+      "league_apps": 39,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Southampton', 'Season Season': '1982\u201383', 'League Division': 'First Division', 'League Apps': 39, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': 5, 'League Cup Goals': 0, 'Other[a] Apps': 2, 'Other[a] Goals': 0, 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Southampton",
+      "league_apps": 42,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Southampton', 'Season Season': '1983\u201384', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 0, 'FA Cup Apps': 6, 'FA Cup Goals': 0, 'League Cup Apps': 2, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Southampton",
+      "league_apps": 41,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Southampton', 'Season Season': '1984\u201385', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 0, 'FA Cup Apps': 3, 'FA Cup Goals': 0, 'League Cup Apps': 7, 'League Cup Goals': 0, 'Other[a] Apps': 2, 'Other[a] Goals': 0, 'Total Apps': 53, 'Total Goals': 0}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Southampton",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Southampton', 'Season Season': '1985\u201386', 'League Division': 'First Division', 'League Apps': 37, 'League Goals': 0, 'FA Cup Apps': 6, 'FA Cup Goals': 0, 'League Cup Apps': 6, 'League Cup Goals': 0, 'Other[a] Apps': 3, 'Other[a] Goals': 0, 'Total Apps': 52, 'Total Goals': 0}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Southampton",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Southampton', 'Season Season': '1986\u201387', 'League Division': 'First Division', 'League Apps': 29, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': 8, 'League Cup Goals': 0, 'Other[a] Apps': 2, 'Other[a] Goals': 0, 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Southampton",
+      "league_apps": 188,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Southampton', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 188, 'League Goals': 0, 'FA Cup Apps': 17, 'FA Cup Goals': 0, 'League Cup Apps': 28, 'League Cup Goals': 0, 'Other[a] Apps': 9, 'Other[a] Goals': 0, 'Total Apps': 242, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Derby County",
+      "league_apps": 40,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Derby County', 'Season Season': '1987\u201388', 'League Division': 'First Division', 'League Apps': 40, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': 2, 'League Cup Goals': 0, 'Other[a] Apps': 2, 'Other[a] Goals': 0, 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Derby County",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Derby County', 'Season Season': '1988\u201389', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 0, 'FA Cup Apps': 3, 'FA Cup Goals': 0, 'League Cup Apps': 3, 'League Cup Goals': 0, 'Other[a] Apps': 3, 'Other[a] Goals': 0, 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Derby County",
+      "league_apps": 35,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Derby County', 'Season Season': '1989\u201390', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 0, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'League Cup Apps': 5, 'League Cup Goals': 0, 'Other[a] Apps': 2, 'Other[a] Goals': 0, 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Derby County",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Derby County', 'Season Season': '1990\u201391', 'League Division': 'First Division', 'League Apps': 31, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': 5, 'League Cup Goals': 0, 'Other[a] Apps': 1, 'Other[a] Goals': 0, 'Total Apps': 38, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Derby County",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Derby County', 'Season Season': '1991\u201392', 'League Division': 'Second Division', 'League Apps': 31, 'League Goals': 0, 'FA Cup Apps': 3, 'FA Cup Goals': 0, 'League Cup Apps': 3, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 37, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Derby County",
+      "league_apps": 175,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Derby County', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 175, 'League Goals': 0, 'FA Cup Apps': 10, 'FA Cup Goals': 0, 'League Cup Apps': 18, 'League Cup Goals': 0, 'Other[a] Apps': 8, 'Other[a] Goals': 0, 'Total Apps': 211, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Plymouth Argyle",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Plymouth Argyle', 'Season Season': '1991\u201392', 'League Division': 'Second Division', 'League Apps': 7, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Plymouth Argyle",
+      "league_apps": 23,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Plymouth Argyle', 'Season Season': '1992\u201393', 'League Division': 'Second Division', 'League Apps': 23, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': 6, 'League Cup Goals': 0, 'Other[a] Apps': 2, 'Other[a] Goals': 0, 'Total Apps': 32, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Plymouth Argyle",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Plymouth Argyle', 'Season Season': '1993\u201394', 'League Division': 'Second Division', 'League Apps': 4, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Plymouth Argyle",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Plymouth Argyle', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 34, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': 6, 'League Cup Goals': 0, 'Other[a] Apps': 2, 'Other[a] Goals': 0, 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Wimbledon",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Wimbledon', 'Season Season': '1994\u201395', 'League Division': 'Premier League', 'League Apps': 0, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Bolton Wanderers",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bolton Wanderers', 'Season Season': '1994\u201395', 'League Division': 'First Division', 'League Apps': 1, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other[a] Apps': 1, 'Other[a] Goals': 0, 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Coventry City",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Coventry City', 'Season Season': '1995\u201396', 'League Division': 'Premier League', 'League Apps': 0, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "West Ham United",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '1995\u201396', 'League Division': 'Premier League', 'League Apps': 0, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Leyton Orient",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leyton Orient', 'Season Season': '1996\u201397', 'League Division': 'Third Division', 'League Apps': 9, 'League Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career Total",
+      "club": "Career Total",
+      "league_apps": 1005,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Career Total', 'Season Season': 'Career Total', 'League Division': 'Career Total', 'League Apps': 1005, 'League Goals': 1, 'FA Cup Apps': 87, 'FA Cup Goals': 0, 'League Cup Apps': 102, 'League Cup Goals': 0, 'Other[a] Apps': 55, 'Other[a] Goals': 0, 'Total Apps': 1249, 'Total Goals': 1}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Peter Shilton - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"e4a3f2e5-890b-4280-949a-022f3f008be4\",\"",
+  "season_id": "1978",
+  "award_year": 1978
+}

@@ -1,0 +1,140 @@
+{
+  "player_name_raw": "Hasan \u015ea\u015f",
+  "fetch_status": "ok",
+  "wikipedia_title": "Hasan_\u015ea\u015f",
+  "url": "https://en.wikipedia.org/wiki/Hasan_\u015ea\u015f",
+  "position": "Winger",
+  "birth_year": 1976,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1994\u201395",
+      "club": "Adana Demirspor",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Adana Demirspor', 'Season Season': '1994\u201395', 'League Division': '1. Lig[d]', 'League Apps': 3, 'League Goals': 0, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '\u2014', 'Continental[c] Goals': '\u2014', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Ankarag\u00fcc\u00fc",
+      "league_apps": 19,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Ankarag\u00fcc\u00fc', 'Season Season': '1995\u201396', 'League Division': '1. Lig[d]', 'League Apps': 19, 'League Goals': 1, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '\u2014', 'Continental[c] Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 1}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Ankarag\u00fcc\u00fc",
+      "league_apps": 29,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Ankarag\u00fcc\u00fc', 'Season Season': '1996\u201397', 'League Division': '1. Lig[d]', 'League Apps': 29, 'League Goals': 6, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '\u2014', 'Continental[c] Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 6}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Ankarag\u00fcc\u00fc",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Ankarag\u00fcc\u00fc', 'Season Season': '1997\u201398', 'League Division': '1. Lig[d]', 'League Apps': 32, 'League Goals': 2, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '\u2014', 'Continental[c] Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Ankarag\u00fcc\u00fc",
+      "league_apps": 80,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Ankarag\u00fcc\u00fc', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 80, 'League Goals': 9, 'Cup[a] Apps': '0', 'Cup[a] Goals': '0', 'Other Cup[b] Apps': '0', 'Other Cup[b] Goals': '0', 'Continental[c] Apps': '0', 'Continental[c] Goals': '0', 'Total Apps': 80, 'Total Goals': 9}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Galatasaray",
+      "league_apps": 24,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1998\u201399', 'League Division': '1. Lig[d]', 'League Apps': 24, 'League Goals': 4, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '6', 'Continental[c] Goals': '0', 'Total Apps': 30, 'Total Goals': 4}"
+    },
+    {
+      "season": "1999\u201300",
+      "club": "Galatasaray",
+      "league_apps": 25,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1999\u201300', 'League Division': '1. Lig[d]', 'League Apps': 25, 'League Goals': 3, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '4', 'Continental[c] Goals': '0', 'Total Apps': 29, 'Total Goals': 3}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Galatasaray",
+      "league_apps": 30,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '2000\u201301', 'League Division': '1. Lig[d]', 'League Apps': 30, 'League Goals': 6, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '12', 'Continental[c] Goals': '2', 'Total Apps': 42, 'Total Goals': 8}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Galatasaray",
+      "league_apps": 27,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '2001\u201302', 'League Division': 'S\u00fcper Lig', 'League Apps': 27, 'League Goals': 2, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '11', 'Continental[c] Goals': '0', 'Total Apps': 38, 'Total Goals': 2}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Galatasaray",
+      "league_apps": 20,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '2002\u201303', 'League Division': 'S\u00fcper Lig', 'League Apps': 20, 'League Goals': 1, 'Cup[a] Apps': '1', 'Cup[a] Goals': '0', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '5', 'Continental[c] Goals': '1', 'Total Apps': 26, 'Total Goals': 2}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Galatasaray",
+      "league_apps": 22,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '2003\u201304', 'League Division': 'S\u00fcper Lig', 'League Apps': 22, 'League Goals': 2, 'Cup[a] Apps': '1', 'Cup[a] Goals': '0', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '7', 'Continental[c] Goals': '1', 'Total Apps': 30, 'Total Goals': 3}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Galatasaray",
+      "league_apps": 22,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '2004\u201305', 'League Division': 'S\u00fcper Lig', 'League Apps': 22, 'League Goals': 4, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '\u2014', 'Continental[c] Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 4}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Galatasaray",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '2005\u201306', 'League Division': 'S\u00fcper Lig', 'League Apps': 26, 'League Goals': 2, 'Cup[a] Apps': '4', 'Cup[a] Goals': '0', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '2', 'Continental[c] Goals': '0', 'Total Apps': 32, 'Total Goals': 2}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Galatasaray",
+      "league_apps": 20,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '2006\u201307', 'League Division': 'S\u00fcper Lig', 'League Apps': 20, 'League Goals': 2, 'Cup[a] Apps': '3', 'Cup[a] Goals': '0', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '4', 'Continental[c] Goals': '1', 'Total Apps': 27, 'Total Goals': 3}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Galatasaray",
+      "league_apps": 10,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '2007\u201308', 'League Division': 'S\u00fcper Lig', 'League Apps': 10, 'League Goals': 1, 'Cup[a] Apps': '4', 'Cup[a] Goals': '0', 'Other Cup[b] Apps': '1', 'Other Cup[b] Goals': '0', 'Continental[c] Apps': '4', 'Continental[c] Goals': '0', 'Total Apps': 19, 'Total Goals': 1}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Galatasaray",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '2008\u201309', 'League Division': 'S\u00fcper Lig', 'League Apps': 8, 'League Goals': 0, 'Cup[a] Apps': '0', 'Cup[a] Goals': '0', 'Other Cup[b] Apps': '\u2014', 'Other Cup[b] Goals': '\u2014', 'Continental[c] Apps': '4', 'Continental[c] Goals': '0', 'Total Apps': 12, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Galatasaray",
+      "league_apps": 234,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 234, 'League Goals': 27, 'Cup[a] Apps': '13', 'Cup[a] Goals': '0', 'Other Cup[b] Apps': '1', 'Other Cup[b] Goals': '0', 'Continental[c] Apps': '59', 'Continental[c] Goals': '5', 'Total Apps': 307, 'Total Goals': 32}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 317,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 317, 'League Goals': 36, 'Cup[a] Apps': '13', 'Cup[a] Goals': '0', 'Other Cup[b] Apps': '1', 'Other Cup[b] Goals': '0', 'Continental[c] Apps': '59', 'Continental[c] Goals': '5', 'Total Apps': 390, 'Total Goals': 41}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Hasan \u015ea\u015f - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"8a722397-1738-4c1b-b22d-f780dcda1d98\",\"wgCa",
+  "season_id": "2002",
+  "award_year": 2002
+}

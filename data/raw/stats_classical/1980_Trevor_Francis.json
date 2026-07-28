@@ -1,0 +1,273 @@
+{
+  "player_name_raw": "Trevor Francis",
+  "fetch_status": "ok",
+  "wikipedia_title": "Trevor_Francis",
+  "url": "https://en.wikipedia.org/wiki/Trevor_Francis",
+  "position": "Forward",
+  "birth_year": 1954,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1970\u201371",
+      "club": "Birmingham City",
+      "league_apps": 22,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': '1970\u201371[11]', 'League Division': 'Second Division', 'League Apps': 22, 'League Goals': 15, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 15}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Birmingham City",
+      "league_apps": 39,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': '1971\u201372[11]', 'League Division': 'Second Division', 'League Apps': 39, 'League Goals': 12, 'National cup[a] Apps': '6[c]', 'National cup[a] Goals': '2', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '2[d]', 'Other Goals': '1', 'Total Apps': 48, 'Total Goals': 15}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Birmingham City",
+      "league_apps": 31,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': '1972\u201373[11]', 'League Division': 'First Division', 'League Apps': 31, 'League Goals': 6, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '5', 'League cup[b] Goals': '2', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 8}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Birmingham City",
+      "league_apps": 37,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': '1973\u201374[11]', 'League Division': 'First Division', 'League Apps': 37, 'League Goals': 6, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '5', 'League cup[b] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '3[e]', 'Other Goals': '1', 'Total Apps': 47, 'Total Goals': 9}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Birmingham City",
+      "league_apps": 23,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': '1974\u201375[11]', 'League Division': 'First Division', 'League Apps': 23, 'League Goals': 13, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '2[e]', 'Other Goals': '1', 'Total Apps': 28, 'Total Goals': 14}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Birmingham City",
+      "league_apps": 35,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': '1975\u201376[11]', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 17, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 18}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Birmingham City",
+      "league_apps": 42,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': '1976\u201377[11]', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 21, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 21}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Birmingham City",
+      "league_apps": 42,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': '1977\u201378[11]', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 25, 'National cup[a] Apps': '2', 'National cup[a] Goals': '2', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '3[f]', 'Other Goals': '2', 'Total Apps': 48, 'Total Goals': 29}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Birmingham City",
+      "league_apps": 9,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': '1978\u201379[11]', 'League Division': 'First Division', 'League Apps': 9, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Birmingham City",
+      "league_apps": 280,
+      "league_goals": 118,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 280, 'League Goals': 118, 'National cup[a] Apps': '20', 'National cup[a] Goals': '6', 'League cup[b] Apps': '19', 'League cup[b] Goals': '4', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '10', 'Other Goals': '5', 'Total Apps': 329, 'Total Goals': 133}"
+    },
+    {
+      "season": "1978",
+      "club": "Detroit Express (loan)",
+      "league_apps": 19,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Detroit Express (loan)', 'Season Season': '1978[68]', 'League Division': 'NASL', 'League Apps': 19, 'League Goals': 22, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '3[g]', 'Other Goals': '3', 'Total Apps': 22, 'Total Goals': 25}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Nottingham Forest",
+      "league_apps": 20,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1978\u201379[11]', 'League Division': 'First Division', 'League Apps': 20, 'League Goals': 6, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '1[h]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 21, 'Total Goals': 7}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Nottingham Forest",
+      "league_apps": 30,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1979\u201380[11]', 'League Division': 'First Division', 'League Apps': 30, 'League Goals': 14, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '6', 'League cup[b] Goals': '0', 'Europe Apps': '6[i]', 'Europe Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 17}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Nottingham Forest",
+      "league_apps": 18,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1980\u201381[11]', 'League Division': 'First Division', 'League Apps': 18, 'League Goals': 6, 'National cup[a] Apps': '6', 'National cup[a] Goals': '5', 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Europe Apps': '1[j]', 'Europe Goals': '0', 'Other Apps': '1[k]', 'Other Goals': '0', 'Total Apps': 26, 'Total Goals': 11}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Nottingham Forest",
+      "league_apps": 2,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': '1981\u201382[11]', 'League Division': 'First Division', 'League Apps': 2, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Nottingham Forest",
+      "league_apps": 70,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Nottingham Forest', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 70, 'League Goals': 28, 'National cup[a] Apps': '8', 'National cup[a] Goals': '5', 'League cup[b] Apps': '6', 'League cup[b] Goals': '0', 'Europe Apps': '8', 'Europe Goals': '4', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 93, 'Total Goals': 37}"
+    },
+    {
+      "season": "1979",
+      "club": "Detroit Express (loan)",
+      "league_apps": 14,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Detroit Express (loan)', 'Season Season': '1979[68]', 'League Division': 'NASL', 'League Apps': 14, 'League Goals': 14, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '2[g]', 'Other Goals': '0', 'Total Apps': 16, 'Total Goals': 14}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Manchester City",
+      "league_apps": 26,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '1981\u201382[11]', 'League Division': 'First Division', 'League Apps': 26, 'League Goals': 12, 'National cup[a] Apps': '2', 'National cup[a] Goals': '2', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 14}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Sampdoria",
+      "league_apps": 14,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1982\u201383[citation needed]', 'League Division': 'Serie A', 'League Apps': 14, 'League Goals': 7, 'National cup[a] Apps': '5', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 8}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Sampdoria",
+      "league_apps": 15,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1983\u201384[citation needed]', 'League Division': 'Serie A', 'League Apps': 15, 'League Goals': 3, 'National cup[a] Apps': '7', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 5}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Sampdoria",
+      "league_apps": 24,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1984\u201385[citation needed]', 'League Division': 'Serie A', 'League Apps': 24, 'League Goals': 6, 'National cup[a] Apps': '11', 'National cup[a] Goals': '9', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 15}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Sampdoria",
+      "league_apps": 14,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1985\u201386[citation needed]', 'League Division': 'Serie A', 'League Apps': 14, 'League Goals': 1, 'National cup[a] Apps': '11', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '3[l]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Sampdoria",
+      "league_apps": 67,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 67, 'League Goals': 17, 'National cup[a] Apps': '34', 'National cup[a] Goals': '13', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '3', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 104, 'Total Goals': 30}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Atalanta",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Atalanta', 'Season Season': '1986\u201387[69]', 'League Division': 'Serie A', 'League Apps': 21, 'League Goals': 1, 'National cup[a] Apps': '9', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 3}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Rangers",
+      "league_apps": 18,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1987\u201388[70]', 'League Division': 'Scottish Premier Division', 'League Apps': 18, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '4[h]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Queens Park Rangers",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Queens Park Rangers', 'Season Season': '1987\u201388[11]', 'League Division': 'First Division', 'League Apps': 9, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Queens Park Rangers",
+      "league_apps": 19,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Queens Park Rangers', 'Season Season': '1988\u201389[11]', 'League Division': 'First Division', 'League Apps': 19, 'League Goals': 7, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '5', 'League cup[b] Goals': '3', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '1[m]', 'Other Goals': '0', 'Total Apps': 26, 'Total Goals': 10}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Queens Park Rangers",
+      "league_apps": 4,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Queens Park Rangers', 'Season Season': '1989\u201390[11]', 'League Division': 'First Division', 'League Apps': 4, 'League Goals': 5, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 7, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Queens Park Rangers",
+      "league_apps": 32,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Queens Park Rangers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 32, 'League Goals': 12, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '8', 'League cup[b] Goals': '3', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 15}"
+    },
+    {
+      "season": "1988",
+      "club": "Wollongong City (loan)",
+      "league_apps": 3,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Wollongong City (loan)', 'Season Season': '1988[47]', 'League Division': 'National Soccer League', 'League Apps': 3, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 3, 'Total Goals': 2}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Sheffield Wednesday",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1989\u201390[11]', 'League Division': 'First Division', 'League Apps': 12, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Sheffield Wednesday",
+      "league_apps": 38,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1990\u201391[11]', 'League Division': 'Second Division', 'League Apps': 38, 'League Goals': 4, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '6', 'League cup[b] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '1[n]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 6}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Sheffield Wednesday",
+      "league_apps": 20,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1991\u201392[11]', 'League Division': 'First Division', 'League Apps': 20, 'League Goals': 1, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '2', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 3}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Sheffield Wednesday",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1992\u201393[11]', 'League Division': 'Premier League', 'League Apps': 5, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '1[o]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Sheffield Wednesday",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': '1993\u201394[11]', 'League Division': 'Premier League', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Sheffield Wednesday",
+      "league_apps": 76,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Sheffield Wednesday', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 76, 'League Goals': 5, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': '8', 'League cup[b] Goals': '3', 'Europe Apps': '1', 'Europe Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 90, 'Total Goals': 9}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 626,
+      "league_goals": 231,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 626, 'League Goals': 231, 'National cup[a] Apps': '79', 'National cup[a] Goals': '29', 'League cup[b] Apps': '44', 'League cup[b] Goals': '10', 'Europe Apps': '16', 'Europe Goals': '4', 'Other Apps': '18', 'Other Goals': '8', 'Total Apps': 783, 'Total Goals': 282}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Trevor Francis - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"7e9f4a33-97bc-41f8-848d-ff5e96206630\",",
+  "season_id": "1980",
+  "award_year": 1980
+}

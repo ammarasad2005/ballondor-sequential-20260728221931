@@ -1,0 +1,175 @@
+{
+  "player_name_raw": "Kevin Keegan",
+  "fetch_status": "ok",
+  "wikipedia_title": "Kevin_Keegan",
+  "url": "https://en.wikipedia.org/wiki/Kevin_Keegan",
+  "position": "Attacking midfielder forward",
+  "birth_year": 1951,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1968\u201369",
+      "club": "Scunthorpe United",
+      "league_apps": 33,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Scunthorpe United', 'Season Season': '1968\u201369', 'League Division': 'Fourth Division', 'League Apps': 33, 'League Goals': 2, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '1', 'League cup Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 2}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Scunthorpe United",
+      "league_apps": 46,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Scunthorpe United', 'Season Season': '1969\u201370', 'League Division': 'Fourth Division', 'League Apps': 46, 'League Goals': 6, 'National cup Apps': '7', 'National cup Goals': '3', 'League cup Apps': '1', 'League cup Goals': '0', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 54, 'Total Goals': 9}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Scunthorpe United",
+      "league_apps": 45,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Scunthorpe United', 'Season Season': '1970\u201371', 'League Division': 'Fourth Division', 'League Apps': 45, 'League Goals': 10, 'National cup Apps': '6', 'National cup Goals': '0', 'League cup Apps': '1', 'League cup Goals': '1', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 52, 'Total Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "Scunthorpe United",
+      "league_apps": 124,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Scunthorpe United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 124, 'League Goals': 18, 'National cup Apps': '14', 'National cup Goals': '3', 'League cup Apps': '3', 'League cup Goals': '1', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 141, 'Total Goals': 22}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Liverpool",
+      "league_apps": 35,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1971\u201372', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 9, 'National cup Apps': '3', 'National cup Goals': '2', 'League cup Apps': '1', 'League cup Goals': '0', 'Continental Apps': '3[a]', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 11}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Liverpool",
+      "league_apps": 41,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1972\u201373', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 13, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '8', 'League cup Goals': '5', 'Continental Apps': '11[b]', 'Continental Goals': '4', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 64, 'Total Goals': 22}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Liverpool",
+      "league_apps": 42,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1973\u201374', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 12, 'National cup Apps': '9', 'National cup Goals': '6', 'League cup Apps': '6', 'League cup Goals': '1', 'Continental Apps': '4[c]', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 61, 'Total Goals': 19}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Liverpool",
+      "league_apps": 33,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1974\u201375', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 10, 'National cup Apps': '2', 'National cup Goals': '1', 'League cup Apps': '3', 'League cup Goals': '0', 'Continental Apps': '3[a]', 'Continental Goals': '1', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 12}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Liverpool",
+      "league_apps": 41,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1975\u201376', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 12, 'National cup Apps': '2', 'National cup Goals': '1', 'League cup Apps': '3', 'League cup Goals': '0', 'Continental Apps': '11[b]', 'Continental Goals': '3', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 57, 'Total Goals': 16}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Liverpool",
+      "league_apps": 38,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1976\u201377', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 12, 'National cup Apps': '8', 'National cup Goals': '4', 'League cup Apps': '2', 'League cup Goals': '0', 'Continental Apps': '8[c]', 'Continental Goals': '4', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 57, 'Total Goals': 20}"
+    },
+    {
+      "season": "Total",
+      "club": "Liverpool",
+      "league_apps": 230,
+      "league_goals": 68,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 230, 'League Goals': 68, 'National cup Apps': '28', 'National cup Goals': '14', 'League cup Apps': '23', 'League cup Goals': '6', 'Continental Apps': '40', 'Continental Goals': '12', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 323, 'Total Goals': 100}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Hamburger SV",
+      "league_apps": 25,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1977\u201378', 'League Division': 'Bundesliga', 'League Apps': 25, 'League Goals': 6, 'National cup Apps': '4', 'National cup Goals': '4', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '4[a]', 'Continental Goals': '2', 'Other Apps': '2[e]', 'Other Goals': '0', 'Total Apps': 35, 'Total Goals': 12}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Hamburger SV",
+      "league_apps": 34,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1978\u201379', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 17, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 35, 'Total Goals': 17}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Hamburger SV",
+      "league_apps": 31,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1979\u201380', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 9, 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '9[c]', 'Continental Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "Hamburger SV",
+      "league_apps": 90,
+      "league_goals": 32,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 90, 'League Goals': 32, 'National cup Apps': '8', 'National cup Goals': '4', 'League cup Apps': '0', 'League cup Goals': '0', 'Continental Apps': '13', 'Continental Goals': '4', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 113, 'Total Goals': 40}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Southampton",
+      "league_apps": 27,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Southampton', 'Season Season': '1980\u201381', 'League Division': 'First Division', 'League Apps': 27, 'League Goals': 11, 'National cup Apps': '4', 'National cup Goals': '1', 'League cup Apps': '1', 'League cup Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 32, 'Total Goals': 12}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Southampton",
+      "league_apps": 41,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Southampton', 'Season Season': '1981\u201382', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 26, 'National cup Apps': '1', 'National cup Goals': '1', 'League cup Apps': '2', 'League cup Goals': '1', 'Continental Apps': '4[b]', 'Continental Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 30}"
+    },
+    {
+      "season": "Total",
+      "club": "Southampton",
+      "league_apps": 68,
+      "league_goals": 37,
+      "raw": "{'Club Club': 'Southampton', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 68, 'League Goals': 37, 'National cup Apps': '5', 'National cup Goals': '2', 'League cup Apps': '3', 'League cup Goals': '1', 'Continental Apps': '4', 'Continental Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 80, 'Total Goals': 42}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Newcastle United",
+      "league_apps": 37,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '1982\u201383', 'League Division': 'Second Division', 'League Apps': 37, 'League Goals': 21, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '2', 'League cup Goals': '0', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 21}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Newcastle United",
+      "league_apps": 41,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '1983\u201384', 'League Division': 'Second Division', 'League Apps': 41, 'League Goals': 27, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '2', 'League cup Goals': '1', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 44, 'Total Goals': 28}"
+    },
+    {
+      "season": "Total",
+      "club": "Newcastle United",
+      "league_apps": 78,
+      "league_goals": 48,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 78, 'League Goals': 48, 'National cup Apps': '3', 'National cup Goals': '0', 'League cup Apps': '4', 'League cup Goals': '1', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 85, 'Total Goals': 49}"
+    },
+    {
+      "season": "1985",
+      "club": "Blacktown City",
+      "league_apps": 2,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Blacktown City', 'Season Season': '1985', 'League Division': 'National Soccer League', 'League Apps': 2, 'League Goals': 1, 'National cup Apps': '\u2013', 'National cup Goals': '\u2013', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 2, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 592,
+      "league_goals": 204,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 592, 'League Goals': 204, 'National cup Apps': '58', 'National cup Goals': '23', 'League cup Apps': '33', 'League cup Goals': '9', 'Continental Apps': '57', 'Continental Goals': '18', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 744, 'Total Goals': 254}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Kevin Keegan - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"59b91f5f-df07-400a-9b9a-a9b007c275ac\",\"w",
+  "season_id": "1978",
+  "award_year": 1978
+}

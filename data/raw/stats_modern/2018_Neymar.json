@@ -1,0 +1,189 @@
+{
+  "player_name_raw": "Neymar",
+  "fetch_status": "ok",
+  "wikipedia_title": "Neymar",
+  "url": "https://en.wikipedia.org/wiki/Neymar",
+  "position": "Attacking midfielder forward",
+  "birth_year": 1992,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2009",
+      "club": "Santos",
+      "league_apps": 33,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Santos', 'Season Season': '2009', 'League Division': 'S\u00e9rie A', 'League Apps': 33, 'League Goals': 10, 'State league[a] Apps': '12', 'State league[a] Goals': '3', 'National cup[b] Apps': '3', 'National cup[b] Goals': '1', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 14}"
+    },
+    {
+      "season": "2010",
+      "club": "Santos",
+      "league_apps": 31,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Santos', 'Season Season': '2010', 'League Division': 'S\u00e9rie A', 'League Apps': 31, 'League Goals': 17, 'State league[a] Apps': '19', 'State league[a] Goals': '14', 'National cup[b] Apps': '8', 'National cup[b] Goals': '11', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '2[d]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 60, 'Total Goals': 42}"
+    },
+    {
+      "season": "2011",
+      "club": "Santos",
+      "league_apps": 21,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Santos', 'Season Season': '2011', 'League Division': 'S\u00e9rie A', 'League Apps': 21, 'League Goals': 13, 'State league[a] Apps': '11', 'State league[a] Goals': '4', 'National cup[b] Apps': '\u2014', 'National cup[b] Goals': '\u2014', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '13[e]', 'Continental Goals': '6', 'Other Apps': '2[f]', 'Other Goals': '1', 'Total Apps': 47, 'Total Goals': 24}"
+    },
+    {
+      "season": "2012",
+      "club": "Santos",
+      "league_apps": 17,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Santos', 'Season Season': '2012', 'League Division': 'S\u00e9rie A', 'League Apps': 17, 'League Goals': 14, 'State league[a] Apps': '16', 'State league[a] Goals': '20', 'National cup[b] Apps': '\u2014', 'National cup[b] Goals': '\u2014', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '12[e]', 'Continental Goals': '8', 'Other Apps': '2[g]', 'Other Goals': '1', 'Total Apps': 47, 'Total Goals': 43}"
+    },
+    {
+      "season": "2013",
+      "club": "Santos",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Santos', 'Season Season': '2013', 'League Division': 'S\u00e9rie A', 'League Apps': 1, 'League Goals': 0, 'State league[a] Apps': '18', 'State league[a] Goals': '12', 'National cup[b] Apps': '4', 'National cup[b] Goals': '1', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 13}"
+    },
+    {
+      "season": "Total",
+      "club": "Santos",
+      "league_apps": 103,
+      "league_goals": 54,
+      "raw": "{'Club Club': 'Santos', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 103, 'League Goals': 54, 'State league[a] Apps': '76', 'State league[a] Goals': '53', 'National cup[b] Apps': '15', 'National cup[b] Goals': '13', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '27', 'Continental Goals': '14', 'Other Apps': '4', 'Other Goals': '2', 'Total Apps': 225, 'Total Goals': 136}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Barcelona",
+      "league_apps": 26,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2013\u201314', 'League Division': 'La Liga', 'League Apps': 26, 'League Goals': 9, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '3', 'National cup[b] Goals': '1', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '10[h]', 'Continental Goals': '4', 'Other Apps': '2[i]', 'Other Goals': '1', 'Total Apps': 41, 'Total Goals': 15}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Barcelona",
+      "league_apps": 33,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2014\u201315', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 22, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '6', 'National cup[b] Goals': '7', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '12[h]', 'Continental Goals': '10', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 51, 'Total Goals': 39}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Barcelona",
+      "league_apps": 34,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2015\u201316', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 24, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '5', 'National cup[b] Goals': '4', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '9[h]', 'Continental Goals': '3', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 49, 'Total Goals': 31}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Barcelona",
+      "league_apps": 30,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2016\u201317', 'League Division': 'La Liga', 'League Apps': 30, 'League Goals': 13, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '6', 'National cup[b] Goals': '3', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '9[h]', 'Continental Goals': '4', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 20}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 123,
+      "league_goals": 68,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 123, 'League Goals': 68, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '20', 'National cup[b] Goals': '15', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '40', 'Continental Goals': '21', 'Other Apps': '3', 'Other Goals': '1', 'Total Apps': 186, 'Total Goals': 105}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Paris Saint-Germain",
+      "league_apps": 20,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2017\u201318', 'League Division': 'Ligue 1', 'League Apps': 20, 'League Goals': 19, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '1', 'National cup[b] Goals': '2', 'League cup[c] Apps': '2', 'League cup[c] Goals': '1', 'Continental Apps': '7[h]', 'Continental Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 28}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Paris Saint-Germain",
+      "league_apps": 17,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2018\u201319', 'League Division': 'Ligue 1', 'League Apps': 17, 'League Goals': 15, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '3', 'National cup[b] Goals': '2', 'League cup[c] Apps': '1', 'League cup[c] Goals': '1', 'Continental Apps': '6[h]', 'Continental Goals': '5', 'Other Apps': '1[j]', 'Other Goals': '0', 'Total Apps': 28, 'Total Goals': 23}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Paris Saint-Germain",
+      "league_apps": 15,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2019\u201320', 'League Division': 'Ligue 1', 'League Apps': 15, 'League Goals': 13, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '2', 'National cup[b] Goals': '2', 'League cup[c] Apps': '3', 'League cup[c] Goals': '1', 'Continental Apps': '7[h]', 'Continental Goals': '3', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 27, 'Total Goals': 19}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Paris Saint-Germain",
+      "league_apps": 18,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2020\u201321', 'League Division': 'Ligue 1', 'League Apps': 18, 'League Goals': 9, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '3', 'National cup[b] Goals': '1', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '9[h]', 'Continental Goals': '6', 'Other Apps': '1[j]', 'Other Goals': '1', 'Total Apps': 31, 'Total Goals': 17}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Paris Saint-Germain",
+      "league_apps": 22,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2021\u201322', 'League Division': 'Ligue 1', 'League Apps': 22, 'League Goals': 13, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '6[h]', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 28, 'Total Goals': 13}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Paris Saint-Germain",
+      "league_apps": 20,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2022\u201323', 'League Division': 'Ligue 1', 'League Apps': 20, 'League Goals': 13, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '2', 'National cup[b] Goals': '1', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '6[h]', 'Continental Goals': '2', 'Other Apps': '1[j]', 'Other Goals': '2', 'Total Apps': 29, 'Total Goals': 18}"
+    },
+    {
+      "season": "Total",
+      "club": "Paris Saint-Germain",
+      "league_apps": 112,
+      "league_goals": 82,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 112, 'League Goals': 82, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '11', 'National cup[b] Goals': '8', 'League cup[c] Apps': '6', 'League cup[c] Goals': '3', 'Continental Apps': '41', 'Continental Goals': '22', 'Other Apps': '3', 'Other Goals': '3', 'Total Apps': 173, 'Total Goals': 118}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Al-Hilal",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Al-Hilal', 'Season Season': '2023\u201324', 'League Division': 'Saudi Pro League', 'League Apps': 3, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '2[k]', 'Continental Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 5, 'Total Goals': 1}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Al-Hilal",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Al-Hilal', 'Season Season': '2024\u201325', 'League Division': 'Saudi Pro League', 'League Apps': 0, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '2[k]', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Al-Hilal",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Al-Hilal', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 3, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': '0', 'National cup[b] Goals': '0', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '4', 'Continental Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 7, 'Total Goals': 1}"
+    },
+    {
+      "season": "2025",
+      "club": "Santos",
+      "league_apps": 20,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Santos', 'Season Season': '2025', 'League Division': 'S\u00e9rie A', 'League Apps': 20, 'League Goals': 8, 'State league[a] Apps': '7', 'State league[a] Goals': '3', 'National cup[b] Apps': '1', 'National cup[b] Goals': '0', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 11}"
+    },
+    {
+      "season": "2026",
+      "club": "Santos",
+      "league_apps": 9,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Santos', 'Season Season': '2026', 'League Division': 'S\u00e9rie A', 'League Apps': 9, 'League Goals': 6, 'State league[a] Apps': '2', 'State league[a] Goals': '0', 'National cup[b] Apps': '2', 'National cup[b] Goals': '0', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '3[d]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 16, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Santos",
+      "league_apps": 29,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Santos', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 29, 'League Goals': 14, 'State league[a] Apps': '9', 'State league[a] Goals': '3', 'National cup[b] Apps': '3', 'National cup[b] Goals': '0', 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '3', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 19}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 370,
+      "league_goals": 218,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 370, 'League Goals': 218, 'State league[a] Apps': '85', 'State league[a] Goals': '57', 'National cup[b] Apps': '49', 'National cup[b] Goals': '36', 'League cup[c] Apps': '6', 'League cup[c] Goals': '3', 'Continental Apps': '115', 'Continental Goals': '60', 'Other Apps': '10', 'Other Goals': '6', 'Total Apps': 635, 'Total Goals': 379}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Neymar - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"7b791d62-feda-499d-987f-7a82c6f474bb\",\"wgCanon",
+  "season_id": "2018",
+  "award_year": 2018
+}

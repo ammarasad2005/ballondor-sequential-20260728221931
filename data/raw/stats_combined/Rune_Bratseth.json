@@ -1,0 +1,159 @@
+{
+  "player_name_raw": "Rune Bratseth",
+  "fetch_status": "ok",
+  "wikipedia_title": "Rune_Bratseth",
+  "url": "https://en.wikipedia.org/wiki/Rune_Bratseth",
+  "position": "Libero",
+  "birth_year": 1961,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1979",
+      "club": "Nidelv",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Nidelv', 'Season Season': '1979', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan, 'Ref. Ref.': '[15]'}"
+    },
+    {
+      "season": "1980",
+      "club": "Nidelv",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Nidelv', 'Season Season': '1980', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan, 'Ref. Ref.': '[15]'}"
+    },
+    {
+      "season": "1981",
+      "club": "Nidelv",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Nidelv', 'Season Season': '1981', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan, 'Ref. Ref.': '[15]'}"
+    },
+    {
+      "season": "1982",
+      "club": "Nidelv",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Nidelv', 'Season Season': '1982', 'League Division': nan, 'League Apps': nan, 'League Goals': nan, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': nan, 'Total Goals': nan, 'Ref. Ref.': '[15]'}"
+    },
+    {
+      "season": "Total",
+      "club": "Nidelv",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Nidelv', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': nan, 'League Goals': nan, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan, 'Ref. Ref.': '\u2013'}"
+    },
+    {
+      "season": "1983",
+      "club": "Rosenborg",
+      "league_apps": 19,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Rosenborg', 'Season Season': '1983', 'League Division': '1. divisjon', 'League Apps': 19.0, 'League Goals': 1.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 19.0, 'Total Goals': 1.0, 'Ref. Ref.': '[15]'}"
+    },
+    {
+      "season": "1984",
+      "club": "Rosenborg",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Rosenborg', 'Season Season': '1984', 'League Division': '1. divisjon', 'League Apps': 21.0, 'League Goals': 1.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 21.0, 'Total Goals': 1.0, 'Ref. Ref.': '[15]'}"
+    },
+    {
+      "season": "1985",
+      "club": "Rosenborg",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rosenborg', 'Season Season': '1985', 'League Division': '1. divisjon', 'League Apps': 21.0, 'League Goals': 0.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 21.0, 'Total Goals': 0.0, 'Ref. Ref.': '[15]'}"
+    },
+    {
+      "season": "1986",
+      "club": "Rosenborg",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rosenborg', 'Season Season': '1986', 'League Division': '1. divisjon', 'League Apps': 22.0, 'League Goals': 0.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': '4', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 26.0, 'Total Goals': 0.0, 'Ref. Ref.': '[15][16]'}"
+    },
+    {
+      "season": "Total",
+      "club": "Rosenborg",
+      "league_apps": 83,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Rosenborg', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 83.0, 'League Goals': 2.0, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': '4', 'Continental Goals': '0', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 87.0, 'Total Goals': 2.0, 'Ref. Ref.': '\u2013'}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Werder Bremen",
+      "league_apps": 17,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': '1986\u201387', 'League Division': 'Bundesliga', 'League Apps': 17.0, 'League Goals': 1.0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 17.0, 'Total Goals': 1.0, 'Ref. Ref.': '[16]'}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Werder Bremen",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': '1987\u201388', 'League Division': 'Bundesliga', 'League Apps': 31.0, 'League Goals': 0.0, 'Cup Apps': 6.0, 'Cup Goals': 1.0, 'Continental Apps': '10', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 47.0, 'Total Goals': 1.0, 'Ref. Ref.': '[16]'}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Werder Bremen",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': '1988\u201389', 'League Division': 'Bundesliga', 'League Apps': 32.0, 'League Goals': 5.0, 'Cup Apps': 6.0, 'Cup Goals': 1.0, 'Continental Apps': '6', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 44.0, 'Total Goals': 6.0, 'Ref. Ref.': '[16]'}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Werder Bremen",
+      "league_apps": 29,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': '1989\u201390', 'League Division': 'Bundesliga', 'League Apps': 29.0, 'League Goals': 2.0, 'Cup Apps': 6.0, 'Cup Goals': 0.0, 'Continental Apps': '10', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 45.0, 'Total Goals': 2.0, 'Ref. Ref.': '[16]'}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Werder Bremen",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': '1990\u201391', 'League Division': 'Bundesliga', 'League Apps': 31.0, 'League Goals': 1.0, 'Cup Apps': 7.0, 'Cup Goals': 1.0, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 38.0, 'Total Goals': 2.0, 'Ref. Ref.': '[16]'}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Werder Bremen",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': '1991\u201392', 'League Division': 'Bundesliga', 'League Apps': 34.0, 'League Goals': 0.0, 'Cup Apps': 5.0, 'Cup Goals': 1.0, 'Continental Apps': '8', 'Continental Goals': '2', 'Other Apps': '1[a]', 'Other Goals': '0', 'Total Apps': 48.0, 'Total Goals': 3.0, 'Ref. Ref.': '[16]'}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Werder Bremen",
+      "league_apps": 29,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': '1992\u201393', 'League Division': 'Bundesliga', 'League Apps': 29.0, 'League Goals': 5.0, 'Cup Apps': 5.0, 'Cup Goals': 0.0, 'Continental Apps': '4', 'Continental Goals': '1', 'Other Apps': '2[b]', 'Other Goals': '0', 'Total Apps': 40.0, 'Total Goals': 6.0, 'Ref. Ref.': '[16]'}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Werder Bremen",
+      "league_apps": 26,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': '1993\u201394', 'League Division': 'Bundesliga', 'League Apps': 26.0, 'League Goals': 1.0, 'Cup Apps': 5.0, 'Cup Goals': 0.0, 'Continental Apps': '8', 'Continental Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 39.0, 'Total Goals': 2.0, 'Ref. Ref.': '[16]'}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Werder Bremen",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': '1994\u201395', 'League Division': 'Bundesliga', 'League Apps': 1.0, 'League Goals': 0.0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 1.0, 'Total Goals': 0.0, 'Ref. Ref.': '[16]'}"
+    },
+    {
+      "season": "Total",
+      "club": "Werder Bremen",
+      "league_apps": 230,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Werder Bremen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 230.0, 'League Goals': 15.0, 'Cup Apps': 40.0, 'Cup Goals': 4.0, 'Continental Apps': '46', 'Continental Goals': '4', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 319.0, 'Total Goals': 23.0, 'Ref. Ref.': '\u2013'}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 313,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 313.0, 'League Goals': 17.0, 'Cup Apps': 40.0, 'Cup Goals': 4.0, 'Continental Apps': '50', 'Continental Goals': '4', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 406.0, 'Total Goals': 25.0, 'Ref. Ref.': '\u2013'}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Rune Bratseth - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"bc4076da-5557-4104-97e7-ee2f937d2ca2\",\""
+}

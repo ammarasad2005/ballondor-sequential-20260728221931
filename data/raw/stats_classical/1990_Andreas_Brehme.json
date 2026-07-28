@@ -1,0 +1,175 @@
+{
+  "player_name_raw": "Andreas Brehme",
+  "fetch_status": "ok",
+  "wikipedia_title": "Andreas_Brehme",
+  "url": "https://en.wikipedia.org/wiki/Andreas_Brehme",
+  "position": "Left-back left wing-back defensive midfielder",
+  "birth_year": 1960,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1980\u201381",
+      "club": "1. FC Saarbr\u00fccken",
+      "league_apps": 36,
+      "league_goals": 3,
+      "raw": "{'Club[26] Club[26]': '1. FC Saarbr\u00fccken', 'Season Season': '1980\u201381', 'League Division': '2. Bundesliga', 'League Apps': 36, 'League Goals': 3, 'National cup Apps': '2', 'National cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 3}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 27,
+      "league_goals": 4,
+      "raw": "{'Club[26] Club[26]': '1. FC Kaiserslautern', 'Season Season': '1981\u201382', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 4, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'Continental Apps': '7', 'Continental Goals': '1', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 5}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 30,
+      "league_goals": 3,
+      "raw": "{'Club[26] Club[26]': '1. FC Kaiserslautern', 'Season Season': '1982\u201383', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 3, 'National cup Apps': '1', 'National cup Goals': '0', 'Continental Apps': '5', 'Continental Goals': '3', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 6}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 33,
+      "league_goals": 8,
+      "raw": "{'Club[26] Club[26]': '1. FC Kaiserslautern', 'Season Season': '1983\u201384', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 8, 'National cup Apps': '2', 'National cup Goals': '1', 'Continental Apps': '2', 'Continental Goals': '0', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 9}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 33,
+      "league_goals": 11,
+      "raw": "{'Club[26] Club[26]': '1. FC Kaiserslautern', 'Season Season': '1984\u201385', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 11, 'National cup Apps': '1', 'National cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 11}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 31,
+      "league_goals": 8,
+      "raw": "{'Club[26] Club[26]': '1. FC Kaiserslautern', 'Season Season': '1985\u201386', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 8, 'National cup Apps': '4', 'National cup Goals': '2', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 154,
+      "league_goals": 34,
+      "raw": "{'Club[26] Club[26]': '1. FC Kaiserslautern', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 154, 'League Goals': 34, 'National cup Apps': '8', 'National cup Goals': '3', 'Continental Apps': '14', 'Continental Goals': '4', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 176, 'Total Goals': 41}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Bayern Munich",
+      "league_apps": 31,
+      "league_goals": 4,
+      "raw": "{'Club[26] Club[26]': 'Bayern Munich', 'Season Season': '1986\u201387', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 4, 'National cup Apps': '2', 'National cup Goals': '0', 'Continental Apps': '8', 'Continental Goals': '0', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 4}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Bayern Munich",
+      "league_apps": 28,
+      "league_goals": 3,
+      "raw": "{'Club[26] Club[26]': 'Bayern Munich', 'Season Season': '1987\u201388', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 3, 'National cup Apps': '4', 'National cup Goals': '0', 'Continental Apps': '6', 'Continental Goals': '1', 'Super cup Apps': '1', 'Super cup Goals': '0', 'Total Apps': 39, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 59,
+      "league_goals": 7,
+      "raw": "{'Club[26] Club[26]': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 59, 'League Goals': 7, 'National cup Apps': '6', 'National cup Goals': '0', 'Continental Apps': '14', 'Continental Goals': '1', 'Super cup Apps': '1', 'Super cup Goals': '0', 'Total Apps': 80, 'Total Goals': 8}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Inter Milan",
+      "league_apps": 31,
+      "league_goals": 3,
+      "raw": "{'Club[26] Club[26]': 'Inter Milan', 'Season Season': '1988\u201389', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 3, 'National cup Apps': '7', 'National cup Goals': '0', 'Continental Apps': '6', 'Continental Goals': '0', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 3}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Inter Milan",
+      "league_apps": 32,
+      "league_goals": 6,
+      "raw": "{'Club[26] Club[26]': 'Inter Milan', 'Season Season': '1989\u201390', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 6, 'National cup Apps': '4', 'National cup Goals': '0', 'Continental Apps': '2', 'Continental Goals': '0', 'Super cup Apps': '1', 'Super cup Goals': '0', 'Total Apps': 39, 'Total Goals': 6}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Inter Milan",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club[26] Club[26]': 'Inter Milan', 'Season Season': '1990\u201391', 'League Division': 'Serie A', 'League Apps': 23, 'League Goals': 1, 'National cup Apps': '4', 'National cup Goals': '1', 'Continental Apps': '9', 'Continental Goals': '0', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 2}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Inter Milan",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club[26] Club[26]': 'Inter Milan', 'Season Season': '1991\u201392', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 1, 'National cup Apps': '4', 'National cup Goals': '0', 'Continental Apps': '2', 'Continental Goals': '0', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 116,
+      "league_goals": 11,
+      "raw": "{'Club[26] Club[26]': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 116, 'League Goals': 11, 'National cup Apps': '19', 'National cup Goals': '1', 'Continental Apps': '19', 'Continental Goals': '0', 'Super cup Apps': '1', 'Super cup Goals': '0', 'Total Apps': 155, 'Total Goals': 12}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Real Zaragoza",
+      "league_apps": 24,
+      "league_goals": 1,
+      "raw": "{'Club[26] Club[26]': 'Real Zaragoza', 'Season Season': '1992\u201393', 'League Division': 'La Liga', 'League Apps': 24, 'League Goals': 1, 'National cup Apps': '2', 'National cup Goals': '1', 'Continental Apps': '5', 'Continental Goals': '2', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 4}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club[26] Club[26]': '1. FC Kaiserslautern', 'Season Season': '1993\u201394', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 3, 'National cup Apps': '3', 'National cup Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 4}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 27,
+      "league_goals": 4,
+      "raw": "{'Club[26] Club[26]': '1. FC Kaiserslautern', 'Season Season': '1994\u201395', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 4, 'National cup Apps': '3', 'National cup Goals': '2', 'Continental Apps': '4', 'Continental Goals': '0', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 6}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 30,
+      "league_goals": 2,
+      "raw": "{'Club[26] Club[26]': '1. FC Kaiserslautern', 'Season Season': '1995\u201396', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 2, 'National cup Apps': '5', 'National cup Goals': '0', 'Continental Apps': '4', 'Continental Goals': '0', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 2}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club[26] Club[26]': '1. FC Kaiserslautern', 'Season Season': '1996\u201397', 'League Division': '2. Bundesliga', 'League Apps': 32, 'League Goals': 0, 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'Continental Apps': '2', 'Continental Goals': '0', 'Super cup Apps': '1', 'Super cup Goals': '0', 'Total Apps': 35, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club[26] Club[26]': '1. FC Kaiserslautern', 'Season Season': '1997\u201398', 'League Division': 'Bundesliga', 'League Apps': 5, 'League Goals': 0, 'National cup Apps': '1', 'National cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Super cup Apps': '\u2014', 'Super cup Goals': '\u2014', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "1. FC Kaiserslautern",
+      "league_apps": 120,
+      "league_goals": 9,
+      "raw": "{'Club[26] Club[26]': '1. FC Kaiserslautern', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 120, 'League Goals': 9, 'National cup Apps': '12', 'National cup Goals': '3', 'Continental Apps': '10', 'Continental Goals': '0', 'Super cup Apps': '1', 'Super cup Goals': '0', 'Total Apps': 143, 'Total Goals': 12}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 509,
+      "league_goals": 65,
+      "raw": "{'Club[26] Club[26]': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 509, 'League Goals': 65, 'National cup Apps': '49', 'National cup Goals': '8', 'Continental Apps': '62', 'Continental Goals': '7', 'Super cup Apps': '3', 'Super cup Goals': '0', 'Total Apps': 623, 'Total Goals': 80}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Andreas Brehme - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"f250b77c-54c9-412a-a90d-014321712faa\",",
+  "season_id": "1990",
+  "award_year": 1990
+}

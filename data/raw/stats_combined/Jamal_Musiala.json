@@ -1,0 +1,96 @@
+{
+  "player_name_raw": "Jamal Musiala",
+  "fetch_status": "ok",
+  "wikipedia_title": "Jamal_Musiala",
+  "url": "https://en.wikipedia.org/wiki/Jamal_Musiala",
+  "position": "Attacking midfielder",
+  "birth_year": 2003,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2019\u201320",
+      "club": "Bayern Munich II",
+      "league_apps": 8,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': '2019\u201320', 'League Division': '3. Liga', 'League Apps': 8, 'League Goals': 2, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 2}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Bayern Munich II",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': '2020\u201321', 'League Division': '3. Liga', 'League Apps': 2, 'League Goals': 0, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich II",
+      "league_apps": 10,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 10, 'League Goals': 2, 'DFB-Pokal Apps': '\u2014', 'DFB-Pokal Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 10, 'Total Goals': 2}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Bayern Munich",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2019\u201320', 'League Division': 'Bundesliga', 'League Apps': 1, 'League Goals': 0, 'DFB-Pokal Apps': '0', 'DFB-Pokal Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Bayern Munich",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2020\u201321', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 6, 'DFB-Pokal Apps': '2', 'DFB-Pokal Goals': '0', 'Europe Apps': '6[a]', 'Europe Goals': '1', 'Other Apps': '3[b]', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 7}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Bayern Munich",
+      "league_apps": 30,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2021\u201322', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 5, 'DFB-Pokal Apps': '1', 'DFB-Pokal Goals': '2', 'Europe Apps': '8[a]', 'Europe Goals': '1', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 8}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Bayern Munich",
+      "league_apps": 33,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2022\u201323', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 12, 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '3', 'Europe Apps': '9[a]', 'Europe Goals': '0', 'Other Apps': '1[c]', 'Other Goals': '1', 'Total Apps': 47, 'Total Goals': 16}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Bayern Munich",
+      "league_apps": 24,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2023\u201324', 'League Division': 'Bundesliga', 'League Apps': 24, 'League Goals': 10, 'DFB-Pokal Apps': '2', 'DFB-Pokal Goals': '0', 'Europe Apps': '11[a]', 'Europe Goals': '2', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 38, 'Total Goals': 12}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Bayern Munich",
+      "league_apps": 25,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2024\u201325', 'League Division': 'Bundesliga', 'League Apps': 25, 'League Goals': 12, 'DFB-Pokal Apps': '3', 'DFB-Pokal Goals': '3', 'Europe Apps': '12[a]', 'Europe Goals': '3', 'Other Apps': '4[d]', 'Other Goals': '3', 'Total Apps': 44, 'Total Goals': 21}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Bayern Munich",
+      "league_apps": 15,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2025\u201326', 'League Division': 'Bundesliga', 'League Apps': 15, 'League Goals': 3, 'DFB-Pokal Apps': '3', 'DFB-Pokal Goals': '0', 'Europe Apps': '6[a]', 'Europe Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 24, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 154,
+      "league_goals": 48,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 154, 'League Goals': 48, 'DFB-Pokal Apps': '15', 'DFB-Pokal Goals': '8', 'Europe Apps': '52', 'Europe Goals': '9', 'Other Apps': '10', 'Other Goals': '4', 'Total Apps': 231, 'Total Goals': 69}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 164,
+      "league_goals": 50,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 164, 'League Goals': 50, 'DFB-Pokal Apps': '15', 'DFB-Pokal Goals': '8', 'Europe Apps': '52', 'Europe Goals': '9', 'Other Apps': '10', 'Other Goals': '4', 'Total Apps': 241, 'Total Goals': 71}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jamal Musiala - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"54a3a25c-7c96-4c39-9cad-59ba74a06d3e\",\""
+}

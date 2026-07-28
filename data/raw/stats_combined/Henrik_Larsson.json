@@ -1,0 +1,236 @@
+{
+  "player_name_raw": "Henrik Larsson",
+  "fetch_status": "ok",
+  "wikipedia_title": "Henrik_Larsson",
+  "url": "https://en.wikipedia.org/wiki/Henrik_Larsson",
+  "position": "Striker",
+  "birth_year": 1971,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1989",
+      "club": "H\u00f6gaborg",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'H\u00f6gaborg', 'Season Season': '1989', 'League Division': 'Division 3 S\u00f6dra G\u00f6taland', 'League Apps': 21, 'League Goals': 1, 'National cup Apps': '\u2013', 'National cup Goals': '\u2013', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 21, 'Total Goals': 1}"
+    },
+    {
+      "season": "1990",
+      "club": "H\u00f6gaborg",
+      "league_apps": 21,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'H\u00f6gaborg', 'Season Season': '1990', 'League Division': 'Division 3 S\u00f6dra G\u00f6taland', 'League Apps': 21, 'League Goals': 7, 'National cup Apps': '\u2013', 'National cup Goals': '\u2013', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 21, 'Total Goals': 7}"
+    },
+    {
+      "season": "1991",
+      "club": "H\u00f6gaborg",
+      "league_apps": 22,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'H\u00f6gaborg', 'Season Season': '1991', 'League Division': 'Division 3 S\u00f6dra G\u00f6taland', 'League Apps': 22, 'League Goals': 15, 'National cup Apps': '\u2013', 'National cup Goals': '\u2013', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "H\u00f6gaborg",
+      "league_apps": 64,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'H\u00f6gaborg', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 64, 'League Goals': 23, 'National cup Apps': '\u2013', 'National cup Goals': '\u2013', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 64, 'Total Goals': 23}"
+    },
+    {
+      "season": "1992",
+      "club": "Helsingborg",
+      "league_apps": 31,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'Helsingborg', 'Season Season': '1992', 'League Division': 'Division 1 S\u00f6dra', 'League Apps': 31, 'League Goals': 34, 'National cup Apps': '\u2013', 'National cup Goals': '\u2013', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 34}"
+    },
+    {
+      "season": "1993",
+      "club": "Helsingborg",
+      "league_apps": 25,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Helsingborg', 'Season Season': '1993', 'League Division': 'Allsvenskan', 'League Apps': 25, 'League Goals': 16, 'National cup Apps': '5', 'National cup Goals': '1', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 17}"
+    },
+    {
+      "season": "Total",
+      "club": "Helsingborg",
+      "league_apps": 56,
+      "league_goals": 50,
+      "raw": "{'Club Club': 'Helsingborg', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 56, 'League Goals': 50, 'National cup Apps': '5', 'National cup Goals': '1', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 61, 'Total Goals': 51}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Feyenoord",
+      "league_apps": 15,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '1993\u201394', 'League Division': 'Eredivisie', 'League Apps': 15, 'League Goals': 1, 'National cup Apps': '12', 'National cup Goals': '5', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 27, 'Total Goals': 6}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Feyenoord",
+      "league_apps": 23,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '1994\u201395', 'League Division': 'Eredivisie', 'League Apps': 23, 'League Goals': 8, 'National cup Apps': '9', 'National cup Goals': '1', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '6', 'Europe Goals': '7', 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 39, 'Total Goals': 16}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Feyenoord",
+      "league_apps": 32,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '1995\u201396', 'League Division': 'Eredivisie', 'League Apps': 32, 'League Goals': 10, 'National cup Apps': '4', 'National cup Goals': '1', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '7', 'Europe Goals': '1', 'Other[a] Apps': '1', 'Other[a] Goals': '1', 'Total Apps': 44, 'Total Goals': 13}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Feyenoord",
+      "league_apps": 31,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': '1996\u201397', 'League Division': 'Eredivisie', 'League Apps': 31, 'League Goals': 7, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '6', 'Europe Goals': '1', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 41, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Feyenoord",
+      "league_apps": 101,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Feyenoord', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 101, 'League Goals': 26, 'National cup Apps': '29', 'National cup Goals': '7', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '19', 'Europe Goals': '9', 'Other[a] Apps': '2', 'Other[a] Goals': '1', 'Total Apps': 151, 'Total Goals': 43}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Celtic",
+      "league_apps": 35,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Celtic', 'Season Season': '1997\u201398', 'League Division': 'Scottish Premier Division', 'League Apps': 35, 'League Goals': 16, 'National cup Apps': '4', 'National cup Goals': '0', 'League cup Apps': '5', 'League cup Goals': '3', 'Europe Apps': '2', 'Europe Goals': '0', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 46, 'Total Goals': 19}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Celtic",
+      "league_apps": 35,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Celtic', 'Season Season': '1998\u201399', 'League Division': 'Scottish Premier League', 'League Apps': 35, 'League Goals': 29, 'National cup Apps': '5', 'National cup Goals': '5', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '8', 'Europe Goals': '4', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 48, 'Total Goals': 38}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Celtic",
+      "league_apps": 9,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Celtic', 'Season Season': '1999\u20132000', 'League Division': 'Scottish Premier League', 'League Apps': 9, 'League Goals': 7, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '4', 'Europe Goals': '5', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 13, 'Total Goals': 12}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Celtic",
+      "league_apps": 37,
+      "league_goals": 35,
+      "raw": "{'Club Club': 'Celtic', 'Season Season': '2000\u201301', 'League Division': 'Scottish Premier League', 'League Apps': 37, 'League Goals': 35, 'National cup Apps': '6', 'National cup Goals': '9', 'League cup Apps': '2', 'League cup Goals': '5', 'Europe Apps': '5', 'Europe Goals': '4', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 50, 'Total Goals': 53}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Celtic",
+      "league_apps": 33,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Celtic', 'Season Season': '2001\u201302', 'League Division': 'Scottish Premier League', 'League Apps': 33, 'League Goals': 29, 'National cup Apps': '3', 'National cup Goals': '2', 'League cup Apps': '1', 'League cup Goals': '0', 'Europe Apps': '10', 'Europe Goals': '4', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 47, 'Total Goals': 35}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Celtic",
+      "league_apps": 35,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Celtic', 'Season Season': '2002\u201303', 'League Division': 'Scottish Premier League', 'League Apps': 35, 'League Goals': 28, 'National cup Apps': '2', 'National cup Goals': '2', 'League cup Apps': '2', 'League cup Goals': '2', 'Europe Apps': '12', 'Europe Goals': '12', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 51, 'Total Goals': 44}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Celtic",
+      "league_apps": 37,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Celtic', 'Season Season': '2003\u201304', 'League Division': 'Scottish Premier League', 'League Apps': 37, 'League Goals': 30, 'National cup Apps': '5', 'National cup Goals': '5', 'League cup Apps': '1', 'League cup Goals': '0', 'Europe Apps': '15', 'Europe Goals': '6', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 58, 'Total Goals': 41}"
+    },
+    {
+      "season": "Total",
+      "club": "Celtic",
+      "league_apps": 221,
+      "league_goals": 174,
+      "raw": "{'Club Club': 'Celtic', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 221, 'League Goals': 174, 'National cup Apps': '25', 'National cup Goals': '23', 'League cup Apps': '11', 'League cup Goals': '10', 'Europe Apps': '56', 'Europe Goals': '35', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 313, 'Total Goals': 242}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Barcelona",
+      "league_apps": 12,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2004\u201305', 'League Division': 'La Liga', 'League Apps': 12, 'League Goals': 3, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '4', 'Europe Goals': '1', 'Other[a] Apps': '2', 'Other[a] Goals': '1', 'Total Apps': 19, 'Total Goals': 5}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Barcelona",
+      "league_apps": 28,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2005\u201306', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 10, 'National cup Apps': '4', 'National cup Goals': '4', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '10', 'Europe Goals': '1', 'Other[a] Apps': '2', 'Other[a] Goals': '2', 'Total Apps': 44, 'Total Goals': 17}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 40,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 40, 'League Goals': 13, 'National cup Apps': '5', 'National cup Goals': '4', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '14', 'Europe Goals': '2', 'Other[a] Apps': '4', 'Other[a] Goals': '3', 'Total Apps': 63, 'Total Goals': 22}"
+    },
+    {
+      "season": "2006",
+      "club": "Helsingborg",
+      "league_apps": 15,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Helsingborg', 'Season Season': '2006', 'League Division': 'Allsvenskan', 'League Apps': 15, 'League Goals': 8, 'National cup Apps': '5', 'National cup Goals': '4', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '3', 'Other[a] Goals': '2', 'Total Apps': 23, 'Total Goals': 14}"
+    },
+    {
+      "season": "2007",
+      "club": "Helsingborg",
+      "league_apps": 22,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Helsingborg', 'Season Season': '2007', 'League Division': 'Allsvenskan', 'League Apps': 22, 'League Goals': 9, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '9', 'Europe Goals': '9', 'Other[a] Apps': '1', 'Other[a] Goals': '0', 'Total Apps': 33, 'Total Goals': 18}"
+    },
+    {
+      "season": "2008",
+      "club": "Helsingborg",
+      "league_apps": 27,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Helsingborg', 'Season Season': '2008', 'League Division': 'Allsvenskan', 'League Apps': 27, 'League Goals': 14, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '2', 'Europe Goals': '0', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 14}"
+    },
+    {
+      "season": "2009",
+      "club": "Helsingborg",
+      "league_apps": 20,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Helsingborg', 'Season Season': '2009', 'League Division': 'Allsvenskan', 'League Apps': 20, 'League Goals': 7, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '4', 'Europe Goals': '3', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 25, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Helsingborg",
+      "league_apps": 84,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Helsingborg', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 84, 'League Goals': 38, 'National cup Apps': '8', 'National cup Goals': '4', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '15', 'Europe Goals': '12', 'Other[a] Apps': '4', 'Other[a] Goals': '2', 'Total Apps': 111, 'Total Goals': 56}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Manchester United (loan)",
+      "league_apps": 7,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester United (loan)', 'Season Season': '2006\u201307', 'League Division': 'Premier League', 'League Apps': 7, 'League Goals': 1, 'National cup Apps': '4', 'National cup Goals': '1', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '2', 'Europe Goals': '1', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 13, 'Total Goals': 3}"
+    },
+    {
+      "season": "2012",
+      "club": "R\u00e5\u00e5",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'R\u00e5\u00e5', 'Season Season': '2012', 'League Division': 'Division 3 \u00d6stra G\u00f6taland', 'League Apps': 1, 'League Goals': 0, 'National cup Apps': '\u2013', 'National cup Goals': '\u2013', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "2013",
+      "club": "H\u00f6gaborg",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'H\u00f6gaborg', 'Season Season': '2013', 'League Division': 'Division 2 V\u00e4stra G\u00f6taland', 'League Apps': 1, 'League Goals': 0, 'National cup Apps': '\u2013', 'National cup Goals': '\u2013', 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other[a] Apps': '\u2013', 'Other[a] Goals': '\u2013', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 575,
+      "league_goals": 325,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 575, 'League Goals': 325, 'National cup Apps': '76', 'National cup Goals': '40', 'League cup Apps': '11', 'League cup Goals': '10', 'Europe Apps': '106', 'Europe Goals': '59', 'Other[a] Apps': '10', 'Other[a] Goals': '6', 'Total Apps': 778, 'Total Goals': 440}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Henrik Larsson - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d85092a8-9ed8-4a53-b3a3-20ecf967f5e0\","
+}

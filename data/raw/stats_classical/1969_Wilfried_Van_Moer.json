@@ -1,0 +1,231 @@
+{
+  "player_name_raw": "Wilfried Van Moer",
+  "fetch_status": "ok",
+  "wikipedia_title": "Wilfried_Van_Moer",
+  "url": "https://en.wikipedia.org/wiki/Wilfried_Van_Moer",
+  "position": "Midfielder",
+  "birth_year": 1945,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1960\u201361",
+      "club": "Beveren",
+      "league_apps": 4,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1960\u201361', 'League Division': 'Fourth Division', 'League Apps': 4, 'League Goals': 2, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Beveren",
+      "league_apps": 28,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1961\u201362', 'League Division': 'Fourth Division', 'League Apps': 28, 'League Goals': 12, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Beveren",
+      "league_apps": 30,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1962\u201363', 'League Division': 'Fourth Division', 'League Apps': 30, 'League Goals': 23, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Beveren",
+      "league_apps": 30,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1963\u201364', 'League Division': 'Third Division', 'League Apps': 30, 'League Goals': 9, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Beveren",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1964\u201365', 'League Division': 'Third Division', 'League Apps': 29, 'League Goals': 9, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Beveren",
+      "league_apps": 121,
+      "league_goals": 56,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 121, 'League Goals': 56, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Antwerp",
+      "league_apps": 26,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Antwerp', 'Season Season': '1965\u201366', 'League Division': 'First Division', 'League Apps': 26, 'League Goals': 8, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Antwerp",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Antwerp', 'Season Season': '1966\u201367', 'League Division': 'First Division', 'League Apps': 26, 'League Goals': 3, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Antwerp",
+      "league_apps": 25,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Antwerp', 'Season Season': '1967\u201368', 'League Division': 'First Division', 'League Apps': 25, 'League Goals': 2, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Antwerp",
+      "league_apps": 77,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Antwerp', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 77, 'League Goals': 14, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 25,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1968\u201369', 'League Division': 'First Division', 'League Apps': 25, 'League Goals': 1, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1969\u201370', 'League Division': 'First Division', 'League Apps': 26, 'League Goals': 6, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1970\u201371', 'League Division': 'First Division', 'League Apps': 28, 'League Goals': 6, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1971\u201372', 'League Division': 'First Division', 'League Apps': 21, 'League Goals': 1, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 18,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1972\u201373', 'League Division': 'First Division', 'League Apps': 18, 'League Goals': 2, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 13,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1973\u201374', 'League Division': 'First Division', 'League Apps': 13, 'League Goals': 2, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 20,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1974\u201375', 'League Division': 'First Division', 'League Apps': 20, 'League Goals': 4, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 19,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1975\u201376', 'League Division': 'First Division', 'League Apps': 19, 'League Goals': 3, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 170,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 170, 'League Goals': 24, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Beringen",
+      "league_apps": 30,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Beringen', 'Season Season': '1976\u201377', 'League Division': 'First Division', 'League Apps': 30, 'League Goals': 5, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Beringen",
+      "league_apps": 28,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Beringen', 'Season Season': '1977\u201378', 'League Division': 'First Division', 'League Apps': 28, 'League Goals': 5, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Beringen",
+      "league_apps": 23,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Beringen', 'Season Season': '1978\u201379', 'League Division': 'First Division', 'League Apps': 23, 'League Goals': 5, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Beringen",
+      "league_apps": 29,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Beringen', 'Season Season': '1979\u201380', 'League Division': 'First Division', 'League Apps': 29, 'League Goals': 2, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Beringen",
+      "league_apps": 110,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Beringen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 110, 'League Goals': 17, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Beveren",
+      "league_apps": 21,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1980\u201381', 'League Division': 'First Division', 'League Apps': 21, 'League Goals': 2, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Beveren",
+      "league_apps": 28,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': '1981\u201382', 'League Division': 'First Division', 'League Apps': 28, 'League Goals': 4, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Beveren",
+      "league_apps": 49,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Beveren', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 49, 'League Goals': 6, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Sint-Truiden",
+      "league_apps": 18,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sint-Truiden', 'Season Season': '1982\u201383', 'League Division': 'Second Division', 'League Apps': 18, 'League Goals': 0, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Sint-Truiden",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sint-Truiden', 'Season Season': '1983\u201384', 'League Division': 'Second Division', 'League Apps': 8, 'League Goals': 0, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Sint-Truiden",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sint-Truiden', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 26, 'League Goals': 0, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 553,
+      "league_goals": 117,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 553, 'League Goals': 117, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': nan, 'Europe Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Wilfried Van Moer - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ba67026d-2b6e-4ba1-827d-a678fc790ec",
+  "season_id": "1969",
+  "award_year": 1969
+}

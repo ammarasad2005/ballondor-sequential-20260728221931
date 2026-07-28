@@ -1,0 +1,182 @@
+{
+  "player_name_raw": "J\u00fcrgen Klinsmann",
+  "fetch_status": "ok",
+  "wikipedia_title": "J\u00fcrgen_Klinsmann",
+  "url": "https://en.wikipedia.org/wiki/J\u00fcrgen_Klinsmann",
+  "position": "Striker",
+  "birth_year": 1964,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1981\u201382",
+      "club": "Stuttgarter Kickers",
+      "league_apps": 6,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Stuttgarter Kickers', 'Season Season': '1981\u201382', 'League Division': '2. Bundesliga', 'League Apps': 6, 'League Goals': 1, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 6, 'Total Goals': 1}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Stuttgarter Kickers",
+      "league_apps": 20,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Stuttgarter Kickers', 'Season Season': '1982\u201383', 'League Division': '2. Bundesliga', 'League Apps': 20, 'League Goals': 2, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 3}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Stuttgarter Kickers",
+      "league_apps": 35,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Stuttgarter Kickers', 'Season Season': '1983\u201384', 'League Division': '2. Bundesliga', 'League Apps': 35, 'League Goals': 19, 'National cup[a] Apps': 2, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 37, 'Total Goals': 21}"
+    },
+    {
+      "season": "Total",
+      "club": "Stuttgarter Kickers",
+      "league_apps": 61,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Stuttgarter Kickers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 61, 'League Goals': 22, 'National cup[a] Apps': 4, 'National cup[a] Goals': 3, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 65, 'Total Goals': 25}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "VfB Stuttgart",
+      "league_apps": 32,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'VfB Stuttgart', 'Season Season': '1984\u201385[94]', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 15, 'National cup[a] Apps': 4, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '2', 'Europe Goals': '0', 'Total Apps': 38, 'Total Goals': 17}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "VfB Stuttgart",
+      "league_apps": 33,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'VfB Stuttgart', 'Season Season': '1985\u201386[95]', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 16, 'National cup[a] Apps': 6, 'National cup[a] Goals': 4, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 20}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "VfB Stuttgart",
+      "league_apps": 32,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'VfB Stuttgart', 'Season Season': '1986\u201387[96]', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 16, 'National cup[a] Apps': 1, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '4[c]', 'Europe Goals': '1', 'Total Apps': 37, 'Total Goals': 19}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "VfB Stuttgart",
+      "league_apps": 34,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'VfB Stuttgart', 'Season Season': '1987\u201388[97]', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 19, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 19}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "VfB Stuttgart",
+      "league_apps": 25,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'VfB Stuttgart', 'Season Season': '1988\u201389[98]', 'League Division': 'Bundesliga', 'League Apps': 25, 'League Goals': 13, 'National cup[a] Apps': 4, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '8[d]', 'Europe Goals': '4', 'Total Apps': 37, 'Total Goals': 19}"
+    },
+    {
+      "season": "Total",
+      "club": "VfB Stuttgart",
+      "league_apps": 156,
+      "league_goals": 79,
+      "raw": "{'Club Club': 'VfB Stuttgart', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 156, 'League Goals': 79, 'National cup[a] Apps': 16, 'National cup[a] Goals': 10, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '14', 'Europe Goals': '5', 'Total Apps': 186, 'Total Goals': 94}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Inter Milan",
+      "league_apps": 31,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1989\u201390', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 13, 'National cup[a] Apps': 4, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '2[e]', 'Europe Goals': '0', 'Total Apps': 37, 'Total Goals': 15}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Inter Milan",
+      "league_apps": 33,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1990\u201391', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 14, 'National cup[a] Apps': 4, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '12[d]', 'Europe Goals': '3', 'Total Apps': 49, 'Total Goals': 17}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Inter Milan",
+      "league_apps": 31,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1991\u201392', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 7, 'National cup[a] Apps': 5, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '1[d]', 'Europe Goals': '0', 'Total Apps': 37, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 95,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 95, 'League Goals': 34, 'National cup[a] Apps': 13, 'National cup[a] Goals': 3, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '15', 'Europe Goals': '3', 'Total Apps': 123, 'Total Goals': 40}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Monaco",
+      "league_apps": 35,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': '1992\u201393', 'League Division': 'Division 1', 'League Apps': 35, 'League Goals': 20, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Total Apps': 41, 'Total Goals': 20}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Monaco",
+      "league_apps": 30,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': '1993\u201394', 'League Division': 'Division 1', 'League Apps': 30, 'League Goals': 10, 'National cup[a] Apps': 3, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '10[f]', 'Europe Goals': '4', 'Total Apps': 43, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Monaco",
+      "league_apps": 65,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 65, 'League Goals': 30, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '14', 'Europe Goals': '4', 'Total Apps': 84, 'Total Goals': 36}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Tottenham Hotspur",
+      "league_apps": 41,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1994\u201395', 'League Division': 'Premier League', 'League Apps': 41, 'League Goals': 20, 'National cup[a] Apps': 6, 'National cup[a] Goals': 5, 'League cup[b] Apps': '3', 'League cup[b] Goals': '4', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 50, 'Total Goals': 29}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1995\u201396[99]', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 16, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '12[d]', 'Europe Goals': '15', 'Total Apps': 45, 'Total Goals': 31}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Bayern Munich",
+      "league_apps": 33,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1996\u201397[100]', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 15, 'National cup[a] Apps': 4, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '2[d]', 'Europe Goals': '0', 'Total Apps': 39, 'Total Goals': 17}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 65,
+      "league_goals": 31,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 65, 'League Goals': 31, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '14', 'Europe Goals': '15', 'Total Apps': 84, 'Total Goals': 48}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Sampdoria",
+      "league_apps": 8,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 8, 'League Goals': 2, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '1', 'Europe Goals': '0', 'Total Apps': 10, 'Total Goals': 2}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Tottenham Hotspur (loan)",
+      "league_apps": 15,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Tottenham Hotspur (loan)', 'Season Season': '1997\u201398', 'League Division': 'Premier League', 'League Apps': 15, 'League Goals': 9, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 18, 'Total Goals': 9}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 506,
+      "league_goals": 227,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 506, 'League Goals': 227, 'National cup[a] Apps': 53, 'National cup[a] Goals': 25, 'League cup[b] Apps': '3', 'League cup[b] Goals': '4', 'Europe Apps': '58', 'Europe Goals': '27', 'Total Apps': 620, 'Total Goals': 284}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>J\u00fcrgen Klinsmann - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d9f3e64f-8844-4657-837a-84c15ce979aa",
+  "season_id": "1990",
+  "award_year": 1990
+}

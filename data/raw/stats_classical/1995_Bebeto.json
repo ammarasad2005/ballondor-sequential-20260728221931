@@ -1,0 +1,231 @@
+{
+  "player_name_raw": "Bebeto",
+  "fetch_status": "ok",
+  "wikipedia_title": "Bebeto",
+  "url": "https://en.wikipedia.org/wiki/Bebeto",
+  "position": "Forward",
+  "birth_year": 1964,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1983",
+      "club": "Flamengo",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Flamengo', 'Season Season': '1983', 'League Division': 'S\u00e9rie A', 'League Apps': '2', 'League Goals': '0', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 2.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "1984",
+      "club": "Flamengo",
+      "league_apps": 11,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Flamengo', 'Season Season': '1984', 'League Division': 'S\u00e9rie A', 'League Apps': '11', 'League Goals': '5', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': '7[b]', 'Continental Goals': '4', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 18.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "1985",
+      "club": "Flamengo",
+      "league_apps": 22,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Flamengo', 'Season Season': '1985', 'League Division': 'S\u00e9rie A', 'League Apps': '22', 'League Goals': '9', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 22.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "1986",
+      "club": "Flamengo",
+      "league_apps": 17,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Flamengo', 'Season Season': '1986', 'League Division': 'S\u00e9rie A', 'League Apps': '17', 'League Goals': '5', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 17.0, 'Total Goals': 5.0}"
+    },
+    {
+      "season": "1987",
+      "club": "Flamengo",
+      "league_apps": 14,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Flamengo', 'Season Season': '1987', 'League Division': 'S\u00e9rie A', 'League Apps': '14', 'League Goals': '6', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 14.0, 'Total Goals': 6.0}"
+    },
+    {
+      "season": "1988",
+      "club": "Flamengo",
+      "league_apps": 14,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Flamengo', 'Season Season': '1988', 'League Division': 'S\u00e9rie A', 'League Apps': '14', 'League Goals': '9', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 14.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Flamengo",
+      "league_apps": 80,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'Flamengo', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '80', 'League Goals': '34', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': '7', 'Continental Goals': '4', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 87.0, 'Total Goals': 38.0}"
+    },
+    {
+      "season": "1989",
+      "club": "Vasco da Gama",
+      "league_apps": 12,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Vasco da Gama', 'Season Season': '1989', 'League Division': 'S\u00e9rie A', 'League Apps': '12', 'League Goals': '6', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 12.0, 'Total Goals': 6.0}"
+    },
+    {
+      "season": "1990",
+      "club": "Vasco da Gama",
+      "league_apps": 8,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Vasco da Gama', 'Season Season': '1990', 'League Division': 'S\u00e9rie A', 'League Apps': '8', 'League Goals': '1', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': '5[b]', 'Continental Goals': '1', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 13.0, 'Total Goals': 2.0}"
+    },
+    {
+      "season": "1991",
+      "club": "Vasco da Gama",
+      "league_apps": 8,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Vasco da Gama', 'Season Season': '1991', 'League Division': 'S\u00e9rie A', 'League Apps': '8', 'League Goals': '3', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 8.0, 'Total Goals': 3.0}"
+    },
+    {
+      "season": "1992",
+      "club": "Vasco da Gama",
+      "league_apps": 25,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Vasco da Gama', 'Season Season': '1992', 'League Division': 'S\u00e9rie A', 'League Apps': '25', 'League Goals': '18', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 25.0, 'Total Goals': 18.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Vasco da Gama",
+      "league_apps": 53,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Vasco da Gama', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '53', 'League Goals': '28', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': '5', 'Continental Goals': '1', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 58.0, 'Total Goals': 29.0}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Deportivo La Coru\u00f1a",
+      "league_apps": 37,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Deportivo La Coru\u00f1a', 'Season Season': '1992\u201393', 'League Division': 'La Liga', 'League Apps': '37', 'League Goals': '29', 'State league Apps': '\u2013', 'State league Goals': '\u2013', 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 38.0, 'Total Goals': 29.0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Deportivo La Coru\u00f1a",
+      "league_apps": 34,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Deportivo La Coru\u00f1a', 'Season Season': '1993\u201394', 'League Division': 'La Liga', 'League Apps': '34', 'League Goals': '16', 'State league Apps': '\u2013', 'State league Goals': '\u2013', 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 0.0, 'Continental Apps': '4[c]', 'Continental Goals': '3', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 39.0, 'Total Goals': 19.0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Deportivo La Coru\u00f1a",
+      "league_apps": 26,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Deportivo La Coru\u00f1a', 'Season Season': '1994\u201395', 'League Division': 'La Liga', 'League Apps': '26', 'League Goals': '16', 'State league Apps': '\u2013', 'State league Goals': '\u2013', 'National cup[a] Apps': 1.0, 'National cup[a] Goals': 0.0, 'Continental Apps': '3[c]', 'Continental Goals': '4', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 33.0, 'Total Goals': 20.0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Deportivo La Coru\u00f1a",
+      "league_apps": 34,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Deportivo La Coru\u00f1a', 'Season Season': '1995\u201396', 'League Division': 'La Liga', 'League Apps': '34', 'League Goals': '25', 'State league Apps': '\u2013', 'State league Goals': '\u2013', 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 0.0, 'Continental Apps': '5[d]', 'Continental Goals': '6', 'Other Apps': '2[e]', 'Other Goals': '1', 'Total Apps': 43.0, 'Total Goals': 32.0}"
+    },
+    {
+      "season": "Total",
+      "club": "Deportivo La Coru\u00f1a",
+      "league_apps": 131,
+      "league_goals": 86,
+      "raw": "{'Club Club': 'Deportivo La Coru\u00f1a', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '131', 'League Goals': '86', 'State league Apps': '\u2013', 'State league Goals': '\u2013', 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 0.0, 'Continental Apps': '12', 'Continental Goals': '13', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': 150.0, 'Total Goals': 100.0}"
+    },
+    {
+      "season": "1996",
+      "club": "Flamengo",
+      "league_apps": 15,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Flamengo', 'Season Season': '1996', 'League Division': 'S\u00e9rie A', 'League Apps': '15', 'League Goals': '7', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 15.0, 'Total Goals': 7.0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Sevilla",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': '1996\u201397', 'League Division': 'La Liga', 'League Apps': '5', 'League Goals': '0', 'State league Apps': '\u2013', 'State league Goals': '\u2013', 'National cup[a] Apps': 0.0, 'National cup[a] Goals': 0.0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 5.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "1997",
+      "club": "Vit\u00f3ria",
+      "league_apps": 8,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Vit\u00f3ria', 'Season Season': '1997', 'League Division': 'S\u00e9rie A', 'League Apps': '8', 'League Goals': '8', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 8.0, 'Total Goals': 8.0}"
+    },
+    {
+      "season": "1998",
+      "club": "Botafogo",
+      "league_apps": 17,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Botafogo', 'Season Season': '1998', 'League Division': 'S\u00e9rie A', 'League Apps': '17', 'League Goals': '9', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 17.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "1999",
+      "club": "Botafogo",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Botafogo', 'Season Season': '1999', 'League Division': 'S\u00e9rie A', 'League Apps': '\u2013', 'League Goals': '\u2013', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Botafogo",
+      "league_apps": 17,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Botafogo', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '17', 'League Goals': '9', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 17.0, 'Total Goals': 9.0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Toros Neza",
+      "league_apps": 8,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Toros Neza', 'Season Season': '1998\u201399', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': '8', 'League Goals': '2', 'State league Apps': '\u2013', 'State league Goals': '\u2013', 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 8.0, 'Total Goals': 2.0}"
+    },
+    {
+      "season": "2000",
+      "club": "Kashima Antlers",
+      "league_apps": 8,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Kashima Antlers', 'Season Season': '2000', 'League Division': 'J1 League', 'League Apps': '8', 'League Goals': '1', 'State league Apps': '\u2013', 'State league Goals': '\u2013', 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 8.0, 'Total Goals': 1.0}"
+    },
+    {
+      "season": "2000",
+      "club": "Vit\u00f3ria",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Vit\u00f3ria', 'Season Season': '2000', 'League Division': 'S\u00e9rie A', 'League Apps': '3', 'League Goals': '0', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 3.0, 'Total Goals': 0.0}"
+    },
+    {
+      "season": "2001",
+      "club": "Vasco da Gama",
+      "league_apps": 8,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Vasco da Gama', 'Season Season': '2001', 'League Division': 'S\u00e9rie A', 'League Apps': '8', 'League Goals': '2', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 8.0, 'Total Goals': 2.0}"
+    },
+    {
+      "season": "2002",
+      "club": "Vasco da Gama",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Vasco da Gama', 'Season Season': '2002', 'League Division': 'S\u00e9rie A', 'League Apps': '\u2013', 'League Goals': '\u2013', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': nan, 'Total Goals': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Vasco da Gama",
+      "league_apps": 8,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Vasco da Gama', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '8', 'League Goals': '2', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 8.0, 'Total Goals': 2.0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Al-Ittihad",
+      "league_apps": 5,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Al-Ittihad', 'Season Season': '2002\u201303', 'League Division': 'Saudi Premier League', 'League Apps': '5', 'League Goals': '1', 'State league Apps': '\u2013', 'State league Goals': '\u2013', 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 5.0, 'Total Goals': 1.0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 341,
+      "league_goals": 178,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '341', 'League Goals': '178', 'State league Apps': nan, 'State league Goals': nan, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 0.0, 'Continental Apps': '24', 'Continental Goals': '18', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': 372.0, 'Total Goals': 197.0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Bebeto - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"8e6dbbea-1000-4f95-8cd4-f903a5225daa\",\"wgCanon",
+  "season_id": "1995",
+  "award_year": 1995
+}

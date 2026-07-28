@@ -1,0 +1,63 @@
+{
+  "player_name_raw": "Duncan Edwards",
+  "fetch_status": "ok",
+  "wikipedia_title": "Duncan_Edwards",
+  "url": "https://en.wikipedia.org/wiki/Duncan_Edwards",
+  "position": "Left half",
+  "birth_year": 1936,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1952\u201353",
+      "club": "Manchester United",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United[26]', 'Season Season': '1952\u201353', 'Football League First Division Apps': 1, 'Football League First Division Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'European Cup Apps': 0, 'European Cup Goals': 0, 'Charity Shield Apps': 0, 'Charity Shield Goals': 0, 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1953\u201354",
+      "club": "Manchester United",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchester United[26]', 'Season Season': '1953\u201354', 'Football League First Division Apps': 24, 'Football League First Division Goals': 0, 'FA Cup Apps': 1, 'FA Cup Goals': 0, 'European Cup Apps': 0, 'European Cup Goals': 0, 'Charity Shield Apps': 0, 'Charity Shield Goals': 0, 'Total Apps': 25, 'Total Goals': 0}"
+    },
+    {
+      "season": "1954\u201355",
+      "club": "Manchester United",
+      "league_apps": 33,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Manchester United[26]', 'Season Season': '1954\u201355', 'Football League First Division Apps': 33, 'Football League First Division Goals': 6, 'FA Cup Apps': 3, 'FA Cup Goals': 0, 'European Cup Apps': 0, 'European Cup Goals': 0, 'Charity Shield Apps': 0, 'Charity Shield Goals': 0, 'Total Apps': 36, 'Total Goals': 6}"
+    },
+    {
+      "season": "1955\u201356",
+      "club": "Manchester United",
+      "league_apps": 33,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Manchester United[26]', 'Season Season': '1955\u201356', 'Football League First Division Apps': 33, 'Football League First Division Goals': 3, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'European Cup Apps': 0, 'European Cup Goals': 0, 'Charity Shield Apps': 0, 'Charity Shield Goals': 0, 'Total Apps': 33, 'Total Goals': 3}"
+    },
+    {
+      "season": "1956\u201357",
+      "club": "Manchester United",
+      "league_apps": 34,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Manchester United[26]', 'Season Season': '1956\u201357', 'Football League First Division Apps': 34, 'Football League First Division Goals': 5, 'FA Cup Apps': 6, 'FA Cup Goals': 1, 'European Cup Apps': 7, 'European Cup Goals': 0, 'Charity Shield Apps': 1, 'Charity Shield Goals': 0, 'Total Apps': 48, 'Total Goals': 6}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "Manchester United",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Manchester United[26]', 'Season Season': '1957\u201358', 'Football League First Division Apps': 26, 'Football League First Division Goals': 6, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'European Cup Apps': 5, 'European Cup Goals': 0, 'Charity Shield Apps': 1, 'Charity Shield Goals': 0, 'Total Apps': 34, 'Total Goals': 6}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 151,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'Football League First Division Apps': 151, 'Football League First Division Goals': 20, 'FA Cup Apps': 12, 'FA Cup Goals': 1, 'European Cup Apps': 12, 'European Cup Goals': 0, 'Charity Shield Apps': 2, 'Charity Shield Goals': 0, 'Total Apps': 177, 'Total Goals': 21}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Duncan Edwards - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"93548079-cbf2-45bf-ac87-ef5da43a4f21\",",
+  "season_id": "1957",
+  "award_year": 1957
+}

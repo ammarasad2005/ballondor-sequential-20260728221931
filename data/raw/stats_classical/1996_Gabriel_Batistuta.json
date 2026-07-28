@@ -1,0 +1,168 @@
+{
+  "player_name_raw": "Gabriel Batistuta",
+  "fetch_status": "ok",
+  "wikipedia_title": "Gabriel_Batistuta",
+  "url": "https://en.wikipedia.org/wiki/Gabriel_Batistuta",
+  "position": "Striker",
+  "birth_year": 1969,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1988\u201389",
+      "club": "Newell's Old Boys",
+      "league_apps": 24,
+      "league_goals": 7,
+      "raw": "{'Club Club': \"Newell's Old Boys\", 'Season Season': '1988\u201389', 'Division Division': 'Primera Divisi\u00f3n', 'League Apps': 24, 'League Goals': 7, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '4', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 8}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "River Plate",
+      "league_apps": 21,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'River Plate', 'Season Season': '1989\u201390', 'Division Division': 'Primera Divisi\u00f3n', 'League Apps': 21, 'League Goals': 4, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 4}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Boca Juniors",
+      "league_apps": 34,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Boca Juniors', 'Season Season': '1990\u201391', 'Division Division': 'Primera Divisi\u00f3n', 'League Apps': 34, 'League Goals': 13, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '12', 'Continental Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 19}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Fiorentina",
+      "league_apps": 27,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1991\u201392', 'Division Division': 'Serie A', 'League Apps': 27, 'League Goals': 13, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 14}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Fiorentina",
+      "league_apps": 32,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1992\u201393', 'Division Division': 'Serie A', 'League Apps': 32, 'League Goals': 16, 'National cup[a] Apps': '3', 'National cup[a] Goals': '3', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 19}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Fiorentina",
+      "league_apps": 26,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1993\u201394', 'Division Division': 'Serie B', 'League Apps': 26, 'League Goals': 16, 'National cup[a] Apps': '3', 'National cup[a] Goals': '3', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 19}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Fiorentina",
+      "league_apps": 32,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1994\u201395', 'Division Division': 'Serie A', 'League Apps': 32, 'League Goals': 26, 'National cup[a] Apps': '5', 'National cup[a] Goals': '2', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 28}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Fiorentina",
+      "league_apps": 31,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1995\u201396', 'Division Division': 'Serie A', 'League Apps': 31, 'League Goals': 19, 'National cup[a] Apps': '8', 'National cup[a] Goals': '8', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 27}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Fiorentina",
+      "league_apps": 32,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1996\u201397', 'Division Division': 'Serie A', 'League Apps': 32, 'League Goals': 13, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Continental Apps': '7[b]', 'Continental Goals': '4', 'Other Apps': '1[c]', 'Other Goals': '2', 'Total Apps': 41, 'Total Goals': 19}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Fiorentina",
+      "league_apps": 31,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1997\u201398', 'Division Division': 'Serie A', 'League Apps': 31, 'League Goals': 21, 'National cup[a] Apps': '5', 'National cup[a] Goals': '3', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 24}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Fiorentina",
+      "league_apps": 28,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1998\u201399', 'Division Division': 'Serie A', 'League Apps': 28, 'League Goals': 21, 'National cup[a] Apps': '9', 'National cup[a] Goals': '4', 'Continental Apps': '4[d]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 26}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Fiorentina",
+      "league_apps": 30,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': '1999\u20132000', 'Division Division': 'Serie A', 'League Apps': 30, 'League Goals': 23, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Continental Apps': '11[e]', 'Continental Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 29}"
+    },
+    {
+      "season": "Total",
+      "club": "Fiorentina",
+      "league_apps": 269,
+      "league_goals": 167,
+      "raw": "{'Club Club': 'Fiorentina', 'Season Season': 'Total', 'Division Division': 'Total', 'League Apps': 269, 'League Goals': 167, 'National cup[a] Apps': '39', 'National cup[a] Goals': '24', 'Continental Apps': '22', 'Continental Goals': '10', 'Other Apps': '1', 'Other Goals': '2', 'Total Apps': 331, 'Total Goals': 204}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Roma",
+      "league_apps": 28,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '2000\u201301', 'Division Division': 'Serie A', 'League Apps': 28, 'League Goals': 20, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Continental Apps': '4[d]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 21}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Roma",
+      "league_apps": 23,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '2001\u201302', 'Division Division': 'Serie A', 'League Apps': 23, 'League Goals': 6, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Continental Apps': '11[e]', 'Continental Goals': '0', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 35, 'Total Goals': 6}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Roma",
+      "league_apps": 12,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '2002\u201303', 'Division Division': 'Serie A', 'League Apps': 12, 'League Goals': 4, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'Continental Apps': '6[e]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Roma",
+      "league_apps": 63,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Roma', 'Season Season': 'Total', 'Division Division': 'Total', 'League Apps': 63, 'League Goals': 30, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'Continental Apps': '21', 'Continental Goals': '2', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 87, 'Total Goals': 33}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Inter Milan (loan)",
+      "league_apps": 12,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Inter Milan (loan)', 'Season Season': '2002\u201303', 'Division Division': 'Serie A', 'League Apps': 12, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 2}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Al-Arabi",
+      "league_apps": 18,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Al-Arabi', 'Season Season': '2003\u201304', 'Division Division': 'Qatar Stars League', 'League Apps': 18, 'League Goals': 25, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 26}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Al-Arabi",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Al-Arabi', 'Season Season': '2004\u201305', 'Division Division': 'Qatar Stars League', 'League Apps': 3, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Al-Arabi",
+      "league_apps": 21,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Al-Arabi', 'Season Season': 'Total', 'Division Division': 'Total', 'League Apps': 21, 'League Goals': 25, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 29}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 444,
+      "league_goals": 248,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'Division Division': 'Career total', 'League Apps': 444, 'League Goals': 248, 'National cup[a] Apps': '44', 'National cup[a] Goals': '27', 'Continental Apps': '61', 'Continental Goals': '20', 'Other Apps': '2', 'Other Goals': '2', 'Total Apps': 551, 'Total Goals': 299}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Gabriel Batistuta - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"3352bacb-4811-4b1c-950f-b3b3d1d4a13",
+  "season_id": "1996",
+  "award_year": 1996
+}

@@ -1,0 +1,194 @@
+{
+  "player_name_raw": "Eric Gerets",
+  "fetch_status": "ok",
+  "wikipedia_title": "Eric_Gerets",
+  "url": "https://en.wikipedia.org/wiki/Eric_Gerets",
+  "position": "Right-back",
+  "birth_year": 1954,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1971\u201372",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1971\u201372', 'League Division': 'First Division', 'League Apps': 1, 'League Goals': 0, 'National cup[b] Apps': '\u2014', 'National cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1972\u201373', 'League Division': 'First Division', 'League Apps': 9, 'League Goals': 0, 'National cup[b] Apps': '2', 'National cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 0}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1973\u201374', 'League Division': 'First Division', 'League Apps': 30, 'League Goals': 1, 'National cup[b] Apps': '\u2014', 'National cup[b] Goals': '\u2014', 'Europe Apps': '12[c]', 'Europe Goals': '0', 'Other Apps': '2[d]', 'Other Goals': '0', 'Total Apps': 44, 'Total Goals': 1}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 37,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1974\u201375', 'League Division': 'First Division', 'League Apps': 37, 'League Goals': 5, 'National cup[b] Apps': '3', 'National cup[b] Goals': '1', 'Europe Apps': '1[e]', 'Europe Goals': '0', 'Other Apps': '2[d]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 6}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 34,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1975\u201376', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 6, 'National cup[b] Apps': '\u2014', 'National cup[b] Goals': '\u2014', 'Europe Apps': '1[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 6}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1976\u201377', 'League Division': 'First Division', 'League Apps': 31, 'League Goals': 1, 'National cup[b] Apps': '2', 'National cup[b] Goals': '0', 'Europe Apps': '6[e]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 2}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 25,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1977\u201378', 'League Division': 'First Division', 'League Apps': 25, 'League Goals': 2, 'National cup[b] Apps': '3', 'National cup[b] Goals': '0', 'Europe Apps': '6[f]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 2}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 33,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1978\u201379', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 4, 'National cup[b] Apps': '3', 'National cup[b] Goals': '0', 'Europe Apps': '4[f]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 4}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1979\u201380', 'League Division': 'First Division', 'League Apps': 27, 'League Goals': 3, 'National cup[b] Apps': '6', 'National cup[b] Goals': '0', 'Europe Apps': '9[g]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 3}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1980\u201381', 'League Division': 'First Division', 'League Apps': 29, 'League Goals': 0, 'National cup[b] Apps': '6', 'National cup[b] Goals': '0', 'Europe Apps': '10[h]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 31,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1981\u201382', 'League Division': 'First Division', 'League Apps': 31, 'League Goals': 3, 'National cup[b] Apps': '\u2014', 'National cup[b] Goals': '\u2014', 'Europe Apps': '10[i]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 3}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 33,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1982\u201383', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 2, 'National cup[b] Apps': '1', 'National cup[b] Goals': '0', 'Europe Apps': '1[j]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 320,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 320, 'League Goals': 27, 'National cup[b] Apps': '26', 'National cup[b] Goals': '1', 'Europe Apps': '60', 'Europe Goals': '2', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 410, 'Total Goals': 30}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "AC Milan",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1983\u201384', 'League Division': 'Serie A', 'League Apps': 13, 'League Goals': 1, 'National cup[b] Apps': '7', 'National cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 13, 'League Goals': 1, 'National cup[b] Apps': '7', 'National cup[b] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 20, 'Total Goals': 1}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "MVV Maastricht",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'MVV Maastricht', 'Season Season': '1984\u201385', 'League Division': 'Eredivisie', 'League Apps': 12, 'League Goals': 0, 'National cup[b] Apps': '2', 'National cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 14, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "MVV Maastricht",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'MVV Maastricht', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 12, 'League Goals': 0, 'National cup[b] Apps': '2', 'National cup[b] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 14, 'Total Goals': 0}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "PSV Eindhoven",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '1985\u201386', 'League Division': 'Eredivisie', 'League Apps': 29, 'League Goals': 0, 'National cup[b] Apps': '2', 'National cup[b] Goals': '0', 'Europe Apps': '3[f]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "PSV Eindhoven",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '1986\u201387', 'League Division': 'Eredivisie', 'League Apps': 30, 'League Goals': 1, 'National cup[b] Apps': '3', 'National cup[b] Goals': '0', 'Europe Apps': '2[j]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 1}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "PSV Eindhoven",
+      "league_apps": 30,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '1987\u201388', 'League Division': 'Eredivisie', 'League Apps': 30, 'League Goals': 4, 'National cup[b] Apps': '5', 'National cup[b] Goals': '2', 'Europe Apps': '9[j]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 6}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "PSV Eindhoven",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '1988\u201389', 'League Division': 'Eredivisie', 'League Apps': 31, 'League Goals': 1, 'National cup[b] Apps': '5', 'National cup[b] Goals': '0', 'Europe Apps': '5[k]', 'Europe Goals': '0', 'Other Apps': '2[l]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 1}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "PSV Eindhoven",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '1989\u201390', 'League Division': 'Eredivisie', 'League Apps': 33, 'League Goals': 1, 'National cup[b] Apps': '5', 'National cup[b] Goals': '0', 'Europe Apps': '6[j]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 1}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "PSV Eindhoven",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '1990\u201391', 'League Division': 'Eredivisie', 'League Apps': 24, 'League Goals': 0, 'National cup[b] Apps': '3', 'National cup[b] Goals': '0', 'Europe Apps': '1[m]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "PSV Eindhoven",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': '1991\u201392', 'League Division': 'Eredivisie', 'League Apps': 23, 'League Goals': 1, 'National cup[b] Apps': '1', 'National cup[b] Goals': '0', 'Europe Apps': '3[j]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "PSV Eindhoven",
+      "league_apps": 200,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'PSV Eindhoven', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 200, 'League Goals': 8, 'National cup[b] Apps': '24', 'National cup[b] Goals': '2', 'Europe Apps': '29', 'Europe Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 225, 'Total Goals': 10}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 545,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 545, 'League Goals': 36, 'National cup[b] Apps': '59', 'National cup[b] Goals': '3', 'Europe Apps': '89', 'Europe Goals': '2', 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': 699, 'Total Goals': 41}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Eric Gerets - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"2a0982a0-ab07-4647-934e-c66afa440065\",\"wg"
+}

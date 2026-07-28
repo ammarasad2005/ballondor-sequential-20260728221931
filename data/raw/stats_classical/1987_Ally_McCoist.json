@@ -1,0 +1,217 @@
+{
+  "player_name_raw": "Ally McCoist",
+  "fetch_status": "ok",
+  "wikipedia_title": "Ally_McCoist",
+  "url": "https://en.wikipedia.org/wiki/Ally_McCoist",
+  "position": "Striker",
+  "birth_year": 1962,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1978\u201379",
+      "club": "St Johnstone",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'St Johnstone', 'Season Season': '1978\u201379', 'League Division': 'Scottish First Division', 'League Apps': 4, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': 0, 'League cup[b] Goals': 0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "St Johnstone",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'St Johnstone', 'Season Season': '1979\u201380', 'League Division': 'Scottish First Division', 'League Apps': 15, 'League Goals': 0, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': 0, 'League cup[b] Goals': 0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 16, 'Total Goals': 0}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "St Johnstone",
+      "league_apps": 38,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'St Johnstone', 'Season Season': '1980\u201381', 'League Division': 'Scottish First Division', 'League Apps': 38, 'League Goals': 22, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'League cup[b] Apps': 2, 'League cup[b] Goals': 0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 43, 'Total Goals': 23}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "St Johnstone",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'St Johnstone', 'Season Season': '1981\u201382', 'League Division': 'Scottish First Division', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': 5, 'League cup[b] Goals': 4, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 5, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "St Johnstone",
+      "league_apps": 57,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'St Johnstone', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 57, 'League Goals': 22, 'National cup[a] Apps': 4, 'National cup[a] Goals': 1, 'League cup[b] Apps': 7, 'League cup[b] Goals': 4, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 68, 'Total Goals': 27}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Sunderland",
+      "league_apps": 28,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Sunderland', 'Season Season': '1981\u201382', 'League Division': 'First Division', 'League Apps': 28, 'League Goals': 2, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'League cup[b] Apps': 1, 'League cup[b] Goals': 0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 2}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Sunderland",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Sunderland', 'Season Season': '1982\u201383', 'League Division': 'First Division', 'League Apps': 28, 'League Goals': 6, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': 4, 'League cup[b] Goals': 1, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Sunderland",
+      "league_apps": 56,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Sunderland', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 56, 'League Goals': 8, 'National cup[a] Apps': 4, 'National cup[a] Goals': 0, 'League cup[b] Apps': 5, 'League cup[b] Goals': 1, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 65, 'Total Goals': 9}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Rangers",
+      "league_apps": 30,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1983\u201384', 'League Division': 'Scottish Premier Division', 'League Apps': 30, 'League Goals': 8, 'National cup[a] Apps': 4, 'National cup[a] Goals': 3, 'League cup[b] Apps': 10, 'League cup[b] Goals': 9, 'Continental Apps': '3[c]', 'Continental Goals': '0', 'Total Apps': 47, 'Total Goals': 20}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Rangers",
+      "league_apps": 25,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1984\u201385', 'League Division': 'Scottish Premier Division', 'League Apps': 25, 'League Goals': 12, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'League cup[b] Apps': 6, 'League cup[b] Goals': 5, 'Continental Apps': '4[d]', 'Continental Goals': '1', 'Total Apps': 38, 'Total Goals': 18}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Rangers",
+      "league_apps": 33,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1985\u201386', 'League Division': 'Scottish Premier Division', 'League Apps': 33, 'League Goals': 25, 'National cup[a] Apps': 1, 'National cup[a] Goals': 1, 'League cup[b] Apps': 4, 'League cup[b] Goals': 1, 'Continental Apps': '2[d]', 'Continental Goals': '0', 'Total Apps': 40, 'Total Goals': 27}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Rangers",
+      "league_apps": 44,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1986\u201387', 'League Division': 'Scottish Premier Division', 'League Apps': 44, 'League Goals': 34, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': 5, 'League cup[b] Goals': 2, 'Continental Apps': '6[d]', 'Continental Goals': '2', 'Total Apps': 56, 'Total Goals': 38}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Rangers",
+      "league_apps": 40,
+      "league_goals": 31,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1987\u201388', 'League Division': 'Scottish Premier Division', 'League Apps': 40, 'League Goals': 31, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'League cup[b] Apps': 5, 'League cup[b] Goals': 6, 'Continental Apps': '6[e]', 'Continental Goals': '4', 'Total Apps': 53, 'Total Goals': 42}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Rangers",
+      "league_apps": 19,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1988\u201389', 'League Division': 'Scottish Premier Division', 'League Apps': 19, 'League Goals': 9, 'National cup[a] Apps': 8, 'National cup[a] Goals': 5, 'League cup[b] Apps': 4, 'League cup[b] Goals': 4, 'Continental Apps': '2[d]', 'Continental Goals': '0', 'Total Apps': 33, 'Total Goals': 18}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Rangers",
+      "league_apps": 34,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1989\u201390', 'League Division': 'Scottish Premier Division', 'League Apps': 34, 'League Goals': 14, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': 4, 'League cup[b] Goals': 4, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 18}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Rangers",
+      "league_apps": 26,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1990\u201391', 'League Division': 'Scottish Premier Division', 'League Apps': 26, 'League Goals': 11, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'League cup[b] Apps': 4, 'League cup[b] Goals': 3, 'Continental Apps': '4[e]', 'Continental Goals': '3', 'Total Apps': 36, 'Total Goals': 18}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Rangers",
+      "league_apps": 38,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1991\u201392', 'League Division': 'Scottish Premier Division', 'League Apps': 38, 'League Goals': 34, 'National cup[a] Apps': 5, 'National cup[a] Goals': 4, 'League cup[b] Apps': 4, 'League cup[b] Goals': 1, 'Continental Apps': '2[e]', 'Continental Goals': '0', 'Total Apps': 49, 'Total Goals': 39}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Rangers",
+      "league_apps": 34,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1992\u201393', 'League Division': 'Scottish Premier Division', 'League Apps': 34, 'League Goals': 34, 'National cup[a] Apps': 4, 'National cup[a] Goals': 5, 'League cup[b] Apps': 5, 'League cup[b] Goals': 8, 'Continental Apps': '9[f]', 'Continental Goals': '2', 'Total Apps': 52, 'Total Goals': 49}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Rangers",
+      "league_apps": 21,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1993\u201394', 'League Division': 'Scottish Premier Division', 'League Apps': 21, 'League Goals': 7, 'National cup[a] Apps': 6, 'National cup[a] Goals': 3, 'League cup[b] Apps': 1, 'League cup[b] Goals': 1, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 11}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Rangers",
+      "league_apps": 9,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1994\u201395', 'League Division': 'Scottish Premier Division', 'League Apps': 9, 'League Goals': 1, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': 0, 'League cup[b] Goals': 0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 9, 'Total Goals': 1}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Rangers",
+      "league_apps": 25,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1995\u201396', 'League Division': 'Scottish Premier Division', 'League Apps': 25, 'League Goals': 16, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'League cup[b] Apps': 4, 'League cup[b] Goals': 3, 'Continental Apps': '6[f]', 'Continental Goals': '0', 'Total Apps': 37, 'Total Goals': 20}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Rangers",
+      "league_apps": 25,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1996\u201397', 'League Division': 'Scottish Premier Division', 'League Apps': 25, 'League Goals': 10, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'League cup[b] Apps': 3, 'League cup[b] Goals': 3, 'Continental Apps': '6[f]', 'Continental Goals': '6', 'Total Apps': 37, 'Total Goals': 20}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Rangers",
+      "league_apps": 15,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': '1997\u201398', 'League Division': 'Scottish Premier Division', 'League Apps': 15, 'League Goals': 5, 'National cup[a] Apps': 4, 'National cup[a] Goals': 4, 'League cup[b] Apps': 3, 'League cup[b] Goals': 4, 'Continental Apps': '4[f]', 'Continental Goals': '3', 'Total Apps': 26, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Rangers",
+      "league_apps": 418,
+      "league_goals": 251,
+      "raw": "{'Club Club': 'Rangers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 418, 'League Goals': 251, 'National cup[a] Apps': 47, 'National cup[a] Goals': 29, 'League cup[b] Apps': 62, 'League cup[b] Goals': 54, 'Continental Apps': '54', 'Continental Goals': '21', 'Total Apps': 581, 'Total Goals': 355}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Kilmarnock",
+      "league_apps": 26,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Kilmarnock', 'Season Season': '1998\u201399', 'League Division': 'Scottish Premier League', 'League Apps': 26, 'League Goals': 7, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': 2, 'League cup[b] Goals': 1, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 29, 'Total Goals': 8}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Kilmarnock",
+      "league_apps": 9,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Kilmarnock', 'Season Season': '1999\u20132000', 'League Division': 'Scottish Premier League', 'League Apps': 9, 'League Goals': 1, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': 1, 'League cup[b] Goals': 2, 'Continental Apps': '2[d]', 'Continental Goals': '0', 'Total Apps': 12, 'Total Goals': 3}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Kilmarnock",
+      "league_apps": 18,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Kilmarnock', 'Season Season': '2000\u201301', 'League Division': 'Scottish Premier League', 'League Apps': 18, 'League Goals': 1, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': 2, 'League cup[b] Goals': 2, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 22, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Kilmarnock",
+      "league_apps": 53,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Kilmarnock', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 53, 'League Goals': 9, 'National cup[a] Apps': 3, 'National cup[a] Goals': 0, 'League cup[b] Apps': 5, 'League cup[b] Goals': 5, 'Continental Apps': '2', 'Continental Goals': '0', 'Total Apps': 63, 'Total Goals': 14}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 584,
+      "league_goals": 290,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 584, 'League Goals': 290, 'National cup[a] Apps': 58, 'National cup[a] Goals': 30, 'League cup[b] Apps': 79, 'League cup[b] Goals': 64, 'Continental Apps': '56', 'Continental Goals': '21', 'Total Apps': 777, 'Total Goals': 405}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Ally McCoist - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"82d0f71c-5abf-4fa9-a213-7857b2c3d494\",\"w",
+  "season_id": "1987",
+  "award_year": 1987
+}

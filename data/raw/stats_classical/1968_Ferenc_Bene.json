@@ -1,0 +1,154 @@
+{
+  "player_name_raw": "Ferenc Bene",
+  "fetch_status": "ok",
+  "wikipedia_title": "Ferenc_Bene",
+  "url": "https://en.wikipedia.org/wiki/Ferenc_Bene",
+  "position": "Striker",
+  "birth_year": 1944,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1961\u201362",
+      "club": "1961\u201362",
+      "league_apps": 22,
+      "league_goals": 6,
+      "raw": "{'Club performance Season Hungary': '1961\u201362', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 22, 'League Goals League': 6, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "1962\u201363",
+      "league_apps": 26,
+      "league_goals": 23,
+      "raw": "{'Club performance Season Hungary': '1962\u201363', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 26, 'League Goals League': 23, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1963",
+      "club": "1963",
+      "league_apps": 13,
+      "league_goals": 6,
+      "raw": "{'Club performance Season Hungary': '1963', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 13, 'League Goals League': 6, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1964",
+      "club": "1964",
+      "league_apps": 26,
+      "league_goals": 20,
+      "raw": "{'Club performance Season Hungary': '1964', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 26, 'League Goals League': 20, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1965",
+      "club": "1965",
+      "league_apps": 25,
+      "league_goals": 20,
+      "raw": "{'Club performance Season Hungary': '1965', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 25, 'League Goals League': 20, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1966",
+      "club": "1966",
+      "league_apps": 26,
+      "league_goals": 24,
+      "raw": "{'Club performance Season Hungary': '1966', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 26, 'League Goals League': 24, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1967",
+      "club": "1967",
+      "league_apps": 30,
+      "league_goals": 22,
+      "raw": "{'Club performance Season Hungary': '1967', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 30, 'League Goals League': 22, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1968",
+      "club": "1968",
+      "league_apps": 26,
+      "league_goals": 22,
+      "raw": "{'Club performance Season Hungary': '1968', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 26, 'League Goals League': 22, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1969",
+      "club": "1969",
+      "league_apps": 29,
+      "league_goals": 27,
+      "raw": "{'Club performance Season Hungary': '1969', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 29, 'League Goals League': 27, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1970",
+      "club": "1970",
+      "league_apps": 14,
+      "league_goals": 10,
+      "raw": "{'Club performance Season Hungary': '1970', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 14, 'League Goals League': 10, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "1970\u201371",
+      "league_apps": 30,
+      "league_goals": 24,
+      "raw": "{'Club performance Season Hungary': '1970\u201371', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 30, 'League Goals League': 24, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "1971\u201372",
+      "league_apps": 30,
+      "league_goals": 29,
+      "raw": "{'Club performance Season Hungary': '1971\u201372', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 30, 'League Goals League': 29, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "1972\u201373",
+      "league_apps": 30,
+      "league_goals": 23,
+      "raw": "{'Club performance Season Hungary': '1972\u201373', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 30, 'League Goals League': 23, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "1973\u201374",
+      "league_apps": 29,
+      "league_goals": 14,
+      "raw": "{'Club performance Season Hungary': '1973\u201374', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 29, 'League Goals League': 14, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "1974\u201375",
+      "league_apps": 28,
+      "league_goals": 20,
+      "raw": "{'Club performance Season Hungary': '1974\u201375', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 28, 'League Goals League': 20, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "1975\u201376",
+      "league_apps": 18,
+      "league_goals": 7,
+      "raw": "{'Club performance Season Hungary': '1975\u201376', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 18, 'League Goals League': 7, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "1976\u201377",
+      "league_apps": 12,
+      "league_goals": 4,
+      "raw": "{'Club performance Season Hungary': '1976\u201377', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 12, 'League Goals League': 4, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "1977\u201378",
+      "league_apps": 3,
+      "league_goals": 2,
+      "raw": "{'Club performance Season Hungary': '1977\u201378', 'Club performance Club Hungary': '\u00dajpesti D\u00f3zsa', 'Club performance League Hungary': 'National Championship I', 'League Apps League': 3, 'League Goals League': 2, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 417,
+      "league_goals": 303,
+      "raw": "{'Club performance Season Hungary': 'Total', 'Club performance Club Hungary': 'Hungary', 'Club performance League Hungary': 'Hungary', 'League Apps League': 417, 'League Goals League': 303, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 417,
+      "league_goals": 303,
+      "raw": "{'Club performance Season Hungary': 'Career total', 'Club performance Club Hungary': 'Career total', 'Club performance League Hungary': 'Career total', 'League Apps League': 417, 'League Goals League': 303, 'Cup Apps Hungarian Cup': nan, 'Cup Goals Hungarian Cup': nan, 'League Cup Apps League Cup': nan, 'League Cup Goals League Cup': nan, 'Continental Apps Europe': nan, 'Continental Goals Europe': nan, 'Total Apps Total': nan, 'Total Goals Total': nan}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Ferenc Bene - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"3b13bd4d-a3e2-4082-aedb-e775ef696006\",\"wg",
+  "season_id": "1968",
+  "award_year": 1968
+}

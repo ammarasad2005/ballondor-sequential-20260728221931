@@ -1,0 +1,189 @@
+{
+  "player_name_raw": "Fabio Cannavaro",
+  "fetch_status": "ok",
+  "wikipedia_title": "Fabio_Cannavaro",
+  "url": "https://en.wikipedia.org/wiki/Fabio_Cannavaro",
+  "position": "Centre-back",
+  "birth_year": 1973,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1992\u201393",
+      "club": "Napoli",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1992\u201393', 'League Division': 'Serie A', 'League Apps': 2, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Napoli",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1993\u201394', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 0, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 29, 'Total Goals': 0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Napoli",
+      "league_apps": 29,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 1, 'Cup Apps': 4, 'Cup Goals': 0, 'Continental Apps': '3', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Napoli",
+      "league_apps": 58,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Napoli', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 58, 'League Goals': 1, 'Cup Apps': 7, 'Cup Goals': 0, 'Continental Apps': '3', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 68, 'Total Goals': 1}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Parma",
+      "league_apps": 29,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Parma', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': 29, 'League Goals': 1, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '6', 'Continental Goals': '0', 'Other Apps': '1[a]', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 1}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Parma",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Parma', 'Season Season': '1996\u201397', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Parma",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Parma', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 0, 'Cup Apps': 6, 'Cup Goals': 0, 'Continental Apps': '7', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Parma",
+      "league_apps": 30,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Parma', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 1, 'Cup Apps': 7, 'Cup Goals': 0, 'Continental Apps': '8', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 45, 'Total Goals': 1}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Parma",
+      "league_apps": 31,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Parma', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 2, 'Cup Apps': 3, 'Cup Goals': 0, 'Continental Apps': '9', 'Continental Goals': '1', 'Other Apps': '2[b]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 3}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Parma",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Parma', 'Season Season': '2000\u201301', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 0, 'Cup Apps': 7, 'Cup Goals': 0, 'Continental Apps': '6', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Parma",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Parma', 'Season Season': '2001\u201302', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 1, 'Cup Apps': 5, 'Cup Goals': 0, 'Continental Apps': '9', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Parma",
+      "league_apps": 212,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Parma', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 212, 'League Goals': 5, 'Cup Apps': 29, 'Cup Goals': 0, 'Continental Apps': '47', 'Continental Goals': '1', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 291, 'Total Goals': 5}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Inter Milan",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2002\u201303', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '12', 'Continental Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 1}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Inter Milan",
+      "league_apps": 22,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2003\u201304', 'League Division': 'Serie A', 'League Apps': 22, 'League Goals': 2, 'Cup Apps': 3, 'Cup Goals': 0, 'Continental Apps': '9', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 50,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 50, 'League Goals': 2, 'Cup Apps': 3, 'Cup Goals': 0, 'Continental Apps': '21', 'Continental Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 74, 'Total Goals': 3}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Juventus",
+      "league_apps": 38,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2004\u201305', 'League Division': 'Serie A', 'League Apps': 38, 'League Goals': 2, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '9', 'Continental Goals': '1', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 47, 'Total Goals': 3}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Juventus",
+      "league_apps": 36,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2005\u201306', 'League Division': 'Serie A', 'League Apps': 36, 'League Goals': 4, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': '9', 'Continental Goals': '0', 'Other Apps': '1[a]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 74,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 74, 'League Goals': 6, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': '18', 'Continental Goals': '1', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 95, 'Total Goals': 7}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Real Madrid",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2006\u201307', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Continental Apps': '6', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 0}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Real Madrid",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2007\u201308', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Continental Apps': '6', 'Continental Goals': '0', 'Other Apps': '2[c]', 'Other Goals': '1', 'Total Apps': 42, 'Total Goals': 1}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Real Madrid",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2008\u201309', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Continental Apps': '7', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 37, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 94,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 94, 'League Goals': 0, 'Cup Apps': 3, 'Cup Goals': 0, 'Continental Apps': '19', 'Continental Goals': '0', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': 118, 'Total Goals': 1}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Juventus",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2009\u201310', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Continental Apps': '5', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 0}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Al-Ahli Dubai",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Al-Ahli Dubai', 'Season Season': '2010\u201311', 'League Division': 'UAE Pro League', 'League Apps': 16, 'League Goals': 2, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 16, 'Total Goals': 2}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 531,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 531, 'League Goals': 16, 'Cup Apps': 45, 'Cup Goals': 0, 'Continental Apps': '113', 'Continental Goals': '3', 'Other Apps': '6', 'Other Goals': '1', 'Total Apps': 695, 'Total Goals': 19}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Fabio Cannavaro - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"264a32f0-5217-491b-9bf9-5b55b7a18c96\"",
+  "season_id": "2007",
+  "award_year": 2007
+}

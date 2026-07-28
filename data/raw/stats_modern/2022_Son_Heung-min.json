@@ -1,0 +1,203 @@
+{
+  "player_name_raw": "Son Heung-min",
+  "fetch_status": "ok",
+  "wikipedia_title": "Son_Heung-min",
+  "url": "https://en.wikipedia.org/wiki/Son_Heung-min",
+  "position": "Forward",
+  "birth_year": 1992,
+  "career_stats_raw_tables_count": 3,
+  "career_stats": [
+    {
+      "season": "2009\u201310",
+      "club": "Hamburger SV II",
+      "league_apps": 6,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Hamburger SV II', 'Season Season': '2009\u201310[227]', 'League Division': 'Regionalliga Nord', 'League Apps': 6, 'League Goals': 1, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 6, 'Total Goals': 1}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Hamburger SV",
+      "league_apps": 13,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '2010\u201311[227]', 'League Division': 'Bundesliga', 'League Apps': 13, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 14, 'Total Goals': 3}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Hamburger SV",
+      "league_apps": 27,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '2011\u201312[227]', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 5, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 5}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Hamburger SV",
+      "league_apps": 33,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '2012\u201313[227]', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 12, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 12}"
+    },
+    {
+      "season": "Total",
+      "club": "Hamburger SV",
+      "league_apps": 73,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 73, 'League Goals': 20, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 78, 'Total Goals': 20}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Bayer Leverkusen",
+      "league_apps": 31,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '2013\u201314[227]', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 10, 'National cup[a] Apps': '4', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 12}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Bayer Leverkusen",
+      "league_apps": 30,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '2014\u201315[227]', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 11, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '10[c]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 17}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Bayer Leverkusen",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '2015\u201316[227]', 'League Division': 'Bundesliga', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '1[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayer Leverkusen",
+      "league_apps": 62,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 62, 'League Goals': 21, 'National cup[a] Apps': '6', 'National cup[a] Goals': '3', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '19', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 87, 'Total Goals': 29}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Tottenham Hotspur",
+      "league_apps": 28,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2015\u201316[228]', 'League Division': 'Premier League', 'League Apps': 28, 'League Goals': 4, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '7[d]', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 8}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Tottenham Hotspur",
+      "league_apps": 34,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2016\u201317[229]', 'League Division': 'Premier League', 'League Apps': 34, 'League Goals': 14, 'National cup[a] Apps': '5', 'National cup[a] Goals': '6', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '8[e]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 21}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Tottenham Hotspur",
+      "league_apps": 37,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2017\u201318[230]', 'League Division': 'Premier League', 'League Apps': 37, 'League Goals': 12, 'National cup[a] Apps': '7', 'National cup[a] Goals': '2', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '7[c]', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 53, 'Total Goals': 18}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Tottenham Hotspur",
+      "league_apps": 31,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2018\u201319[231]', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 12, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'League cup[b] Apps': '4', 'League cup[b] Goals': '3', 'Continental Apps': '12[c]', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 20}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Tottenham Hotspur",
+      "league_apps": 30,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2019\u201320[232]', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 11, 'National cup[a] Apps': '4', 'National cup[a] Goals': '2', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '6[c]', 'Continental Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 18}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Tottenham Hotspur",
+      "league_apps": 37,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2020\u201321[233]', 'League Division': 'Premier League', 'League Apps': 37, 'League Goals': 17, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Continental Apps': '9[d]', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 51, 'Total Goals': 22}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Tottenham Hotspur",
+      "league_apps": 35,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2021\u201322[234]', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 23, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Continental Apps': '4[f]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 24}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Tottenham Hotspur",
+      "league_apps": 36,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2022\u201323[235]', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 10, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '8[c]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 14}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Tottenham Hotspur",
+      "league_apps": 35,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2023\u201324[236]', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 17, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 17}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Tottenham Hotspur",
+      "league_apps": 30,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '2024\u201325[237]', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 7, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '1', 'Continental Apps': '10[d]', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "Tottenham Hotspur",
+      "league_apps": 333,
+      "league_goals": 127,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 333, 'League Goals': 127, 'National cup[a] Apps': '30', 'National cup[a] Goals': '14', 'League cup[b] Apps': '21', 'League cup[b] Goals': '5', 'Continental Apps': '70', 'Continental Goals': '27', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 454, 'Total Goals': 173}"
+    },
+    {
+      "season": "2025",
+      "club": "Los Angeles FC",
+      "league_apps": 10,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Los Angeles FC', 'Season Season': '2025[227]', 'League Division': 'Major League Soccer', 'League Apps': 10, 'League Goals': 9, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '3[g]', 'Other Goals': '3', 'Total Apps': 13, 'Total Goals': 12}"
+    },
+    {
+      "season": "2026",
+      "club": "Los Angeles FC",
+      "league_apps": 16,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Los Angeles FC', 'Season Season': '2026[227]', 'League Division': 'Major League Soccer', 'League Apps': 16, 'League Goals': 3, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8[h]', 'Continental Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 24, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Los Angeles FC",
+      "league_apps": 26,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Los Angeles FC', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 26, 'League Goals': 12, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '8', 'Continental Goals': '2', 'Other Apps': '3', 'Other Goals': '3', 'Total Apps': 37, 'Total Goals': 17}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 500,
+      "league_goals": 181,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 500, 'League Goals': 181, 'National cup[a] Apps': '41', 'National cup[a] Goals': '17', 'League cup[b] Apps': '21', 'League cup[b] Goals': '5', 'Continental Apps': '97', 'Continental Goals': '34', 'Other Apps': '3', 'Other Goals': '3', 'Total Apps': 662, 'Total Goals': 240}"
+    },
+    {
+      "season": "2017: Can 2018: Boufal 2019: Townsend 2020: Son 2021: Lamela 2022: Salah 2023: Enciso 2024: Garnacho 2025: Marmoush 2026: Reed",
+      "club": null,
+      "league_apps": null,
+      "league_goals": 2017,
+      "raw": "{'vtePremier League Goal of the Season': '2017: Can 2018: Boufal 2019: Townsend 2020: Son 2021: Lamela 2022: Salah 2023: Enciso 2024: Garnacho 2025: Marmoush 2026: Reed', 'vtePremier League Goal of the Season.1': '2017: Can 2018: Boufal 2019: Townsend 2020: Son 2021: Lamela 2022: Salah 2023: Enciso 2024: Garnacho 2025: Marmoush 2026: Reed'}"
+    },
+    {
+      "season": "1970\u201371: Hunt 1971\u201372: Radford 1972\u201373: Osgood 1973\u201374: Mullery 1974\u201375: Walsh 1975\u201376: Francis 1976\u201377: McDermott 1977\u201378: Gemmill 1978\u201379: Kennedy 1979\u201380: Fashanu 1980\u201381: Morley 1981\u201382: Regis 1982\u201383: Dalglish 1983\u201384: D. Wallace 1984\u201385: Sharp 1985\u201386: Robson 1986\u201387: Houchen 1987\u201388: Aldridge 1988\u201389: Aldridge 1989\u201390: Wright 1990\u201391: Gascoigne 1991\u201392: Thomas 1992\u201393: Atkinson 1993\u201394: R. Wallace 1994\u201395: Le Tissier 1995\u201396: Yeboah 1996\u201397: Sinclair 1997\u201398: Bergkamp 1998\u201399: Giggs 1999\u20132000: Di Canio 2000\u201301: Bartlett 2001\u201302: Bergkamp 2002\u201303: Henry 2003\u201304: Hamann 2004\u201305: Rooney 2005\u201306: Gerrard 2006\u201307: Rooney 2007\u201308: Adebayor 2008\u201309: Johnson 2009\u201310: Figueroa 2010\u201311: Rooney 2011\u201312: Ciss\u00e9 2012\u201313: Van Persie 2013\u201314: Wilshere 2014\u201315: Wilshere 2015\u201316: Alli 2016\u201317: Can 2017\u201318: Vardy 2018\u201319: Kompany 2019\u201320: Son 2020\u201321: Lamela 2021\u201322: Salah 2022\u201323: Enciso 2023\u201324: Garnacho 2024\u201325: Mitoma 2025\u201326: Wilson",
+      "club": null,
+      "league_apps": null,
+      "league_goals": 1970,
+      "raw": "{\"vteMatch of the Day's Goal of the Season Award\": '1970\u201371: Hunt 1971\u201372: Radford 1972\u201373: Osgood 1973\u201374: Mullery 1974\u201375: Walsh 1975\u201376: Francis 1976\u201377: McDermott 1977\u201378: Gemmill 1978\u201379: Kennedy 1979\u201380: Fashanu 1980\u201381: Morley 1981\u201382: Regis 1982\u201383: Dalglish 1983\u201384: D. Wallace 1984\u201385: Sharp 1985\u201386: Robson 1986\u201387: Houchen 1987\u201388: Aldridge 1988\u201389: Aldridge 1989\u201390: Wright 1990\u201391: Gascoigne 1991\u201392: Thomas 1992\u201393: Atkinson 1993\u201394: R. Wallace 1994\u201395: Le Tissier 1995\u201396: Yeboah 1996"
+    },
+    {
+      "season": "Due to a transfer of broadcast rights, the entries for the 2001\u201302, 2002\u201303 and 2003\u201304 seasons were decided on ITV's The Premiership.",
+      "club": null,
+      "league_apps": null,
+      "league_goals": 2001,
+      "raw": "{\"vteMatch of the Day's Goal of the Season Award\": \"Due to a transfer of broadcast rights, the entries for the 2001\u201302, 2002\u201303 and 2003\u201304 seasons were decided on ITV's The Premiership.\", \"vteMatch of the Day's Goal of the Season Award.1\": \"Due to a transfer of broadcast rights, the entries for the 2001\u201302, 2002\u201303 and 2003\u201304 seasons were decided on ITV's The Premiership.\"}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Son Heung-min - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"dc79982b-ec30-453f-8173-57f3d278e846\",\"",
+  "season_id": "2022",
+  "award_year": 2022
+}

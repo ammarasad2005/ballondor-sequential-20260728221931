@@ -1,0 +1,196 @@
+{
+  "player_name_raw": "Michel Preud'homme",
+  "fetch_status": "ok",
+  "wikipedia_title": "Michel_Preud'homme",
+  "url": "https://en.wikipedia.org/wiki/Michel_Preud'homme",
+  "position": "Goalkeeper",
+  "birth_year": 1959,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1977\u201378",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1977\u201378', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 0, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'Europe Apps': '5[b]', 'Europe Goals': '0', 'Other Apps': '0[c]', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 0}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1978\u201379', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 0, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'Europe Apps': '4[b]', 'Europe Goals': '0', 'Other Apps': '0[c]', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 0}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1979\u201380', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 0, 'National cup[a] Apps': '7', 'National cup[a] Goals': '0', 'Europe Apps': '6[b]', 'Europe Goals': '0', 'Other Apps': '4[c]', 'Other Goals': '0', 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1980\u201381', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 0, 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'Europe Apps': '8[b]', 'Europe Goals': '0', 'Other Apps': '6[c]', 'Other Goals': '0', 'Total Apps': 54, 'Total Goals': 0}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1981\u201382', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Europe Apps': '9[d]', 'Europe Goals': '0', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1982\u201383', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe Apps': '4[e]', 'Europe Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1983\u201384', 'League Division': 'First Division', 'League Apps': 27, 'League Goals': 0, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'Europe Apps': '4[e]', 'Europe Goals': '0', 'Other Apps': '3[f]', 'Other Goals': '0', 'Total Apps': 39, 'Total Goals': 0}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1984\u201385', 'League Division': 'First Division', 'League Apps': 5, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '0[c]', 'Other Goals': '0', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1985\u201386', 'League Division': 'First Division', 'League Apps': 7, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '4[g]', 'Other Goals': '0', 'Total Apps': 13, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 239,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 239, 'League Goals': 0, 'National cup[a] Apps': '29', 'National cup[a] Goals': '0', 'Europe Apps': '40', 'Europe Goals': '0', 'Other Apps': '19', 'Other Goals': '0', 'Total Apps': 327, 'Total Goals': 0}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Mechelen",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mechelen', 'Season Season': '1986\u201387', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 0, 'National cup[a] Apps': '9', 'National cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Mechelen",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mechelen', 'Season Season': '1987\u201388', 'League Division': 'First Division', 'League Apps': 30, 'League Goals': 0, 'National cup[a] Apps': '7', 'National cup[a] Goals': '0', 'Europe Apps': '9[d]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Mechelen",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mechelen', 'Season Season': '1988\u201389', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 0, 'National cup[a] Apps': '8', 'National cup[a] Goals': '0', 'Europe Apps': '8[d]', 'Europe Goals': '0', 'Other Apps': '2[h]', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Mechelen",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mechelen', 'Season Season': '1989\u201390', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Europe Apps': '6[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Mechelen",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mechelen', 'Season Season': '1990\u201391', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 0, 'National cup[a] Apps': '7', 'National cup[a] Goals': '0', 'Europe Apps': '2[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Mechelen",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mechelen', 'Season Season': '1991\u201392', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 0, 'National cup[a] Apps': '7', 'National cup[a] Goals': '0', 'Europe Apps': '2[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Mechelen",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mechelen', 'Season Season': '1992\u201393', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Europe Apps': '4[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Mechelen",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mechelen', 'Season Season': '1993\u201394', 'League Division': 'First Division', 'League Apps': 30, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe Apps': '6[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Mechelen",
+      "league_apps": 263,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mechelen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 263, 'League Goals': 0, 'National cup[a] Apps': '43', 'National cup[a] Goals': '0', 'Europe Apps': '37', 'Europe Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 345, 'Total Goals': 0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Benfica",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '1994\u201395', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 31, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Europe Apps': '8[i]', 'Europe Goals': '0', 'Other Apps': '1[j]', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Benfica",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '1995\u201396', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 33, 'League Goals': 0, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'Europe Apps': '5[b]', 'Europe Goals': '0', 'Other Apps': '2[j]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Benfica",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '1996\u201397', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 34, 'League Goals': 0, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'Europe Apps': '6[d]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Benfica",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '1997\u201398', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 28, 'League Goals': 0, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'Europe Apps': '1[b]', 'Europe Goals': '0', 'Other Apps': '2[j]', 'Other Goals': '0', 'Total Apps': 35, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Benfica",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '1998\u201399', 'League Division': 'Primeira Divis\u00e3o', 'League Apps': 21, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Europe Apps': '4[i]', 'Europe Goals': '0', 'Other Apps': '2[k]', 'Other Goals': '0', 'Total Apps': 27, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Benfica",
+      "league_apps": 147,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 147, 'League Goals': 0, 'National cup[a] Apps': '14', 'National cup[a] Goals': '0', 'Europe Apps': '24', 'Europe Goals': '0', 'Other Apps': '7', 'Other Goals': '0', 'Total Apps': 192, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 649,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 649, 'League Goals': 0, 'National cup[a] Apps': '86', 'National cup[a] Goals': '0', 'Europe Apps': '101', 'Europe Goals': '0', 'Other Apps': '28', 'Other Goals': '0', 'Total Apps': 864, 'Total Goals': 0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Michel Preud'homme - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"e645299b-24d6-4ea4-b384-2323bf6753",
+  "season_id": "1994",
+  "award_year": 1994
+}

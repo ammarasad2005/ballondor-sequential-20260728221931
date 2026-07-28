@@ -1,0 +1,140 @@
+{
+  "player_name_raw": "Alisson",
+  "fetch_status": "ok",
+  "wikipedia_title": "Alisson",
+  "url": "https://en.wikipedia.org/wiki/Alisson",
+  "position": "Goalkeeper",
+  "birth_year": 1992,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2013",
+      "club": "Internacional",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Internacional', 'Season Season': '2013[138]', 'League Division': 'S\u00e9rie A', 'League Apps': 6, 'League Goals': 0, 'State league[a] Apps': '1', 'State league[a] Goals': '0', 'National cup[b] Apps': 2, 'National cup[b] Goals': 0, 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "2014",
+      "club": "Internacional",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Internacional', 'Season Season': '2014[138]', 'League Division': 'S\u00e9rie A', 'League Apps': 11, 'League Goals': 0, 'State league[a] Apps': '3', 'State league[a] Goals': '0', 'National cup[b] Apps': 0, 'National cup[b] Goals': 0, 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 14, 'Total Goals': 0}"
+    },
+    {
+      "season": "2015",
+      "club": "Internacional",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Internacional', 'Season Season': '2015[138]', 'League Division': 'S\u00e9rie A', 'League Apps': 26, 'League Goals': 0, 'State league[a] Apps': '15', 'State league[a] Goals': '0', 'National cup[b] Apps': 4, 'National cup[b] Goals': 0, 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '12[d]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 57, 'Total Goals': 0}"
+    },
+    {
+      "season": "2016",
+      "club": "Internacional",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Internacional', 'Season Season': '2016[138]', 'League Division': 'S\u00e9rie A', 'League Apps': 1, 'League Goals': 0, 'State league[a] Apps': '17', 'State league[a] Goals': '0', 'National cup[b] Apps': 0, 'National cup[b] Goals': 0, 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '3[e]', 'Other Goals': '0', 'Total Apps': 21, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Internacional",
+      "league_apps": 44,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Internacional', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 44, 'League Goals': 0, 'State league[a] Apps': '36', 'State league[a] Goals': '0', 'National cup[b] Apps': 6, 'National cup[b] Goals': 0, 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '12', 'Continental Goals': '0', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 101, 'Total Goals': 0}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Roma",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '2016\u201317[139]', 'League Division': 'Serie A', 'League Apps': 0, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 4, 'National cup[b] Goals': 0, 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '11[f]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 15, 'Total Goals': 0}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Roma",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '2017\u201318[140]', 'League Division': 'Serie A', 'League Apps': 37, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 0, 'National cup[b] Goals': 0, 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '12[g]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Roma",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Roma', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 37, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 4, 'National cup[b] Goals': 0, 'League cup[c] Apps': '\u2014', 'League cup[c] Goals': '\u2014', 'Continental Apps': '23', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 64, 'Total Goals': 0}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Liverpool",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2018\u201319[141]', 'League Division': 'Premier League', 'League Apps': 38, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 0, 'National cup[b] Goals': 0, 'League cup[c] Apps': '0', 'League cup[c] Goals': '0', 'Continental Apps': '13[g]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 51, 'Total Goals': 0}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Liverpool",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2019\u201320[142]', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 0, 'National cup[b] Goals': 0, 'League cup[c] Apps': '0', 'League cup[c] Goals': '0', 'Continental Apps': '5[g]', 'Continental Goals': '0', 'Other Apps': '3[h]', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 0}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Liverpool",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2020\u201321[143]', 'League Division': 'Premier League', 'League Apps': 33, 'League Goals': 1, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 1, 'National cup[b] Goals': 0, 'League cup[c] Apps': '0', 'League cup[c] Goals': '0', 'Continental Apps': '7[g]', 'Continental Goals': '0', 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 1}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Liverpool",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2021\u201322[144]', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 4, 'National cup[b] Goals': 0, 'League cup[c] Apps': '1', 'League cup[c] Goals': '0', 'Continental Apps': '13[g]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 54, 'Total Goals': 0}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Liverpool",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2022\u201323[145]', 'League Division': 'Premier League', 'League Apps': 37, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 2, 'National cup[b] Goals': 0, 'League cup[c] Apps': '0', 'League cup[c] Goals': '0', 'Continental Apps': '8[g]', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Liverpool",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2023\u201324[146]', 'League Division': 'Premier League', 'League Apps': 28, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 2, 'National cup[b] Goals': 0, 'League cup[c] Apps': '0', 'League cup[c] Goals': '0', 'Continental Apps': '2[j]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 0}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Liverpool",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2024\u201325[147]', 'League Division': 'Premier League', 'League Apps': 28, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 0, 'National cup[b] Goals': 0, 'League cup[c] Apps': '1', 'League cup[c] Goals': '0', 'Continental Apps': '6[g]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 0}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Liverpool",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2025\u201326[148]', 'League Division': 'Premier League', 'League Apps': 26, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 2, 'National cup[b] Goals': 0, 'League cup[c] Apps': '0', 'League cup[c] Goals': '0', 'Continental Apps': '6[g]', 'Continental Goals': '0', 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 35, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Liverpool",
+      "league_apps": 255,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 255, 'League Goals': 1, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 11, 'National cup[b] Goals': 0, 'League cup[c] Apps': '2', 'League cup[c] Goals': '0', 'Continental Apps': '60', 'Continental Goals': '0', 'Other Apps': '5', 'Other Goals': '0', 'Total Apps': 333, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 336,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 336, 'League Goals': 1, 'State league[a] Apps': '36', 'State league[a] Goals': '0', 'National cup[b] Apps': 21, 'National cup[b] Goals': 0, 'League cup[c] Apps': '2', 'League cup[c] Goals': '0', 'Continental Apps': '95', 'Continental Goals': '0', 'Other Apps': '8', 'Other Goals': '0', 'Total Apps': 498, 'Total Goals': 1}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Alisson Becker - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"7e805b92-7cd1-4294-bef4-6e6cf1128c32\",",
+  "season_id": "2018",
+  "award_year": 2018
+}

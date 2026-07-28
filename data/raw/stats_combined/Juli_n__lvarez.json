@@ -1,0 +1,103 @@
+{
+  "player_name_raw": "Juli\u00e1n \u00c1lvarez",
+  "fetch_status": "ok",
+  "wikipedia_title": "Juli\u00e1n_\u00c1lvarez",
+  "url": "https://en.wikipedia.org/wiki/Juli\u00e1n_\u00c1lvarez",
+  "position": "Forward",
+  "birth_year": 2000,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2018\u201319",
+      "club": "River Plate",
+      "league_apps": 5,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'River Plate', 'Season Season': '2018\u201319', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 5, 'League Goals': 5, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '1[c]', 'Continental Goals': 0, 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 8, 'Total Goals': 5}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "River Plate",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'River Plate', 'Season Season': '2019\u201320', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 7, 'League Goals': 0, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '5[c]', 'Continental Goals': 1, 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 2}"
+    },
+    {
+      "season": "2020",
+      "club": "River Plate",
+      "league_apps": 10,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'River Plate', 'Season Season': '2020', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 10, 'League Goals': 2, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '1', 'League cup[b] Goals': '1', 'Continental Apps': '11[c]', 'Continental Goals': 5, 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 9}"
+    },
+    {
+      "season": "2021",
+      "club": "River Plate",
+      "league_apps": 35,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'River Plate', 'Season Season': '2021', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 35, 'League Goals': 20, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '10[c]', 'Continental Goals': 2, 'Other Apps': '1[e]', 'Other Goals': '2', 'Total Apps': 46, 'Total Goals': 24}"
+    },
+    {
+      "season": "2022",
+      "club": "River Plate",
+      "league_apps": 17,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'River Plate', 'Season Season': '2022', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 17, 'League Goals': 11, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '8[c]', 'Continental Goals': 6, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 26, 'Total Goals': 18}"
+    },
+    {
+      "season": "Total",
+      "club": "River Plate",
+      "league_apps": 74,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'River Plate', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 74, 'League Goals': 34, 'National cup[a] Apps': '8', 'National cup[a] Goals': '3', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Continental Apps': '35', 'Continental Goals': 14, 'Other Apps': '2', 'Other Goals': '2', 'Total Apps': 122, 'Total Goals': 54}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Manchester City",
+      "league_apps": 31,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2022\u201323', 'League Division': 'Premier League', 'League Apps': 31, 'League Goals': 9, 'National cup[a] Apps': '5', 'National cup[a] Goals': '3', 'League cup[b] Apps': '2', 'League cup[b] Goals': '1', 'Continental Apps': '10[f]', 'Continental Goals': 3, 'Other Apps': '1[g]', 'Other Goals': '1', 'Total Apps': 49, 'Total Goals': 17}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Manchester City",
+      "league_apps": 36,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2023\u201324', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 11, 'National cup[a] Apps': '6', 'National cup[a] Goals': '1', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '7[f]', 'Continental Goals': 5, 'Other Apps': '4[h]', 'Other Goals': '2', 'Total Apps': 54, 'Total Goals': 19}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchester City",
+      "league_apps": 67,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 67, 'League Goals': 20, 'National cup[a] Apps': '11', 'National cup[a] Goals': '4', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Continental Apps': '17', 'Continental Goals': 8, 'Other Apps': '5', 'Other Goals': '3', 'Total Apps': 103, 'Total Goals': 36}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 37,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '2024\u201325', 'League Division': 'La Liga', 'League Apps': 37, 'League Goals': 17, 'National cup[a] Apps': '7', 'National cup[a] Goals': '5', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '10[f]', 'Continental Goals': 7, 'Other Apps': '3[d]', 'Other Goals': '0', 'Total Apps': 57, 'Total Goals': 29}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 29,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '2025\u201326', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 8, 'National cup[a] Apps': '4', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '15[f]', 'Continental Goals': 10, 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 49, 'Total Goals': 20}"
+    },
+    {
+      "season": "Total",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 66,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 66, 'League Goals': 25, 'National cup[a] Apps': '11', 'National cup[a] Goals': '7', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '25', 'Continental Goals': 17, 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 106, 'Total Goals': 49}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 207,
+      "league_goals": 79,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 207, 'League Goals': 79, 'National cup[a] Apps': '30', 'National cup[a] Goals': '14', 'League cup[b] Apps': '6', 'League cup[b] Goals': '2', 'Continental Apps': '77', 'Continental Goals': 39, 'Other Apps': '11', 'Other Goals': '5', 'Total Apps': 331, 'Total Goals': 139}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Juli\u00e1n Alvarez - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"5a8d8489-777c-451a-a138-85260523c640\","
+}

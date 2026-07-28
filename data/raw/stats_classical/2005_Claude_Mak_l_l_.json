@@ -1,0 +1,196 @@
+{
+  "player_name_raw": "Claude Mak\u00e9l\u00e9l\u00e9",
+  "fetch_status": "ok",
+  "wikipedia_title": "Claude_Mak\u00e9l\u00e9l\u00e9",
+  "url": "https://en.wikipedia.org/wiki/Claude_Mak\u00e9l\u00e9l\u00e9",
+  "position": "Defensive midfielder",
+  "birth_year": 1973,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1992\u201393",
+      "club": "Nantes",
+      "league_apps": 34,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1992\u201393', 'League Division': 'Division 1', 'League Apps': '34', 'League Goals': '1', 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 1}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Nantes",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1993\u201394', 'League Division': 'Division 1', 'League Apps': '30', 'League Goals': '0', 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '2[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 1}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Nantes",
+      "league_apps": 36,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1994\u201395', 'League Division': 'Division 1', 'League Apps': '36', 'League Goals': '3', 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '1', 'Europe Apps': '8[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 5}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Nantes",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1995\u201396', 'League Division': 'Division 1', 'League Apps': '33', 'League Goals': '0', 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '9[d]', 'Europe Goals': '0', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Nantes",
+      "league_apps": 36,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': '1996\u201397', 'League Division': 'Division 1', 'League Apps': '36', 'League Goals': '5', 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Nantes",
+      "league_apps": 169,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Nantes', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '169', 'League Goals': '9', 'National cup[a] Apps': '13', 'National cup[a] Goals': '1', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Europe Apps': '19', 'Europe Goals': '1', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 205, 'Total Goals': 12}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Marseille",
+      "league_apps": 32,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '1997\u201398', 'League Division': 'Division 1', 'League Apps': '32', 'League Goals': '2', 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 3}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Celta Vigo",
+      "league_apps": 36,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Celta Vigo', 'Season Season': '1998\u201399', 'League Division': 'La Liga', 'League Apps': '36', 'League Goals': '2', 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '7[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 2}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Celta Vigo",
+      "league_apps": 34,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Celta Vigo', 'Season Season': '1999\u20132000', 'League Division': 'La Liga', 'League Apps': '34', 'League Goals': '1', 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '9[c]', 'Europe Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Celta Vigo",
+      "league_apps": 70,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Celta Vigo', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '70', 'League Goals': '3', 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '16', 'Europe Goals': '3', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 88, 'Total Goals': 6}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Real Madrid",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2000\u201301', 'League Division': 'La Liga', 'League Apps': '33', 'League Goals': '0', 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '14[d]', 'Europe Goals': '1', 'Other Apps': '2[f]', 'Other Goals': '0', 'Total Apps': 49, 'Total Goals': 1}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Real Madrid",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2001\u201302', 'League Division': 'La Liga', 'League Apps': '32', 'League Goals': '1', 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '13[d]', 'Europe Goals': '0', 'Other Apps': '2[g]', 'Other Goals': '0', 'Total Apps': 53, 'Total Goals': 1}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Real Madrid",
+      "league_apps": 29,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2002\u201303', 'League Division': 'La Liga', 'League Apps': '29', 'League Goals': '0', 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '11[d]', 'Europe Goals': '0', 'Other Apps': '2[f]', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Real Madrid",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2003\u201304', 'League Division': 'La Liga', 'League Apps': '\u2014', 'League Goals': '\u2014', 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 94,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '94', 'League Goals': '1', 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '38', 'Europe Goals': '1', 'Other Apps': '7', 'Other Goals': '0', 'Total Apps': 145, 'Total Goals': 2}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Chelsea",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2003\u201304', 'League Division': 'Premier League', 'League Apps': '30', 'League Goals': '0', 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '11[d]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Chelsea",
+      "league_apps": 36,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2004\u201305', 'League Division': 'Premier League', 'League Apps': '36', 'League Goals': '1', 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Europe Apps': '10[d]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 1}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Chelsea",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2005\u201306', 'League Division': 'Premier League', 'League Apps': '31', 'League Goals': '0', 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '6[d]', 'Europe Goals': '0', 'Other Apps': '1[h]', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Chelsea",
+      "league_apps": 29,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2006\u201307', 'League Division': 'Premier League', 'League Apps': '29', 'League Goals': '1', 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '6', 'League cup[b] Goals': '0', 'Europe Apps': '9[d]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 1}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Chelsea",
+      "league_apps": 18,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2007\u201308', 'League Division': 'Premier League', 'League Apps': '18', 'League Goals': '0', 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '13[d]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Chelsea",
+      "league_apps": 144,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '144', 'League Goals': '2', 'National cup[a] Apps': '9', 'National cup[a] Goals': '0', 'League cup[b] Apps': '14', 'League cup[b] Goals': '0', 'Europe Apps': '49', 'Europe Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 217, 'Total Goals': 2}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Paris Saint-Germain",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2008\u201309', 'League Division': 'Ligue 1', 'League Apps': '34', 'League Goals': '0', 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '5[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Paris Saint-Germain",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2009\u201310', 'League Division': 'Ligue 1', 'League Apps': '31', 'League Goals': '1', 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 1}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Paris Saint-Germain",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2010\u201311', 'League Division': 'Ligue 1', 'League Apps': '33', 'League Goals': '0', 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '3[i]', 'Europe Goals': '0', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Paris Saint-Germain",
+      "league_apps": 98,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '98', 'League Goals': '1', 'National cup[a] Apps': '9', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '8', 'Europe Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 118, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 607,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '607', 'League Goals': '17', 'National cup[a] Apps': '34', 'National cup[a] Goals': '1', 'League cup[b] Apps': '21', 'League cup[b] Goals': '2', 'Europe Apps': '130', 'Europe Goals': '5', 'Other Apps': '10', 'Other Goals': '0', 'Total Apps': 809, 'Total Goals': 25}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Claude Mak\u00e9l\u00e9l\u00e9 - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"6a3305db-efa0-423e-9bdd-276058f240c4\"",
+  "season_id": "2005",
+  "award_year": 2005
+}

@@ -1,0 +1,273 @@
+{
+  "player_name_raw": "Jari Litmanen",
+  "fetch_status": "ok",
+  "wikipedia_title": "Jari_Litmanen",
+  "url": "https://en.wikipedia.org/wiki/Jari_Litmanen",
+  "position": "Attacking midfielder second striker",
+  "birth_year": 1971,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1987",
+      "club": "Reipas Lahti",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Reipas Lahti', 'Season Season': '1987', 'League Division': 'Mestaruussarja', 'League Apps': 9, 'League Goals': 0, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "1988",
+      "club": "Reipas Lahti",
+      "league_apps": 26,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Reipas Lahti', 'Season Season': '1988', 'League Division': 'Mestaruussarja', 'League Apps': 26, 'League Goals': 8, 'Cup Apps': 4.0, 'Cup Goals': 0.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 8}"
+    },
+    {
+      "season": "1989",
+      "club": "Reipas Lahti",
+      "league_apps": 25,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Reipas Lahti', 'Season Season': '1989', 'League Division': 'Mestaruussarja', 'League Apps': 25, 'League Goals': 6, 'Cup Apps': 4.0, 'Cup Goals': 2.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 8}"
+    },
+    {
+      "season": "1990",
+      "club": "Reipas Lahti",
+      "league_apps": 26,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Reipas Lahti', 'Season Season': '1990', 'League Division': 'Veikkausliiga', 'League Apps': 26, 'League Goals': 14, 'Cup Apps': 3.0, 'Cup Goals': 0.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 14}"
+    },
+    {
+      "season": "Total",
+      "club": "Reipas Lahti",
+      "league_apps": 86,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Reipas Lahti', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 86, 'League Goals': 28, 'Cup Apps': 12.0, 'Cup Goals': 2.0, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 98, 'Total Goals': 30}"
+    },
+    {
+      "season": "1991",
+      "club": "HJK Helsinki",
+      "league_apps": 27,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'HJK Helsinki', 'Season Season': '1991', 'League Division': 'Veikkausliiga', 'League Apps': 27, 'League Goals': 16, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 16}"
+    },
+    {
+      "season": "1992",
+      "club": "MyPa",
+      "league_apps": 18,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'MyPa', 'Season Season': '1992', 'League Division': 'Veikkausliiga', 'League Apps': 18, 'League Goals': 7, 'Cup Apps': 6.0, 'Cup Goals': 4.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 11}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Ajax",
+      "league_apps": 12,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1992\u201393', 'League Division': 'Eredivisie', 'League Apps': 12, 'League Goals': 1, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': '1', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 14, 'Total Goals': 1}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Ajax",
+      "league_apps": 30,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1993\u201394', 'League Division': 'Eredivisie', 'League Apps': 30, 'League Goals': 26, 'Cup Apps': 3.0, 'Cup Goals': 4.0, 'Continental Apps': '5', 'Continental Goals': '4', 'Other Apps': '1', 'Other Goals': '2', 'Total Apps': 39, 'Total Goals': 36}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Ajax",
+      "league_apps": 27,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1994\u201395', 'League Division': 'Eredivisie', 'League Apps': 27, 'League Goals': 17, 'Cup Apps': 4.0, 'Cup Goals': 2.0, 'Continental Apps': '11', 'Continental Goals': '6', 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': 43, 'Total Goals': 26}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Ajax",
+      "league_apps": 26,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1995\u201396', 'League Division': 'Eredivisie', 'League Apps': 26, 'League Goals': 14, 'Cup Apps': 2.0, 'Cup Goals': 0.0, 'Continental Apps': '12', 'Continental Goals': '9', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 40, 'Total Goals': 23}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Ajax",
+      "league_apps": 16,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1996\u201397', 'League Division': 'Eredivisie', 'League Apps': 16, 'League Goals': 6, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': '7', 'Continental Goals': '2', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 25, 'Total Goals': 8}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Ajax",
+      "league_apps": 25,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1997\u201398', 'League Division': 'Eredivisie', 'League Apps': 25, 'League Goals': 16, 'Cup Apps': 3.0, 'Cup Goals': 4.0, 'Continental Apps': '6', 'Continental Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 34, 'Total Goals': 22}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Ajax",
+      "league_apps": 23,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '1998\u201399', 'League Division': 'Eredivisie', 'League Apps': 23, 'League Goals': 11, 'Cup Apps': 5.0, 'Cup Goals': 1.0, 'Continental Apps': '4', 'Continental Goals': '1', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 33, 'Total Goals': 13}"
+    },
+    {
+      "season": "Total",
+      "club": "Ajax",
+      "league_apps": 159,
+      "league_goals": 91,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 159, 'League Goals': 91, 'Cup Apps': 19.0, 'Cup Goals': 11.0, 'Continental Apps': '46', 'Continental Goals': '24', 'Other Apps': '4', 'Other Goals': '3', 'Total Apps': 228, 'Total Goals': 129}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Barcelona",
+      "league_apps": 21,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1999\u20132000', 'League Division': 'La Liga', 'League Apps': 21, 'League Goals': 3, 'Cup Apps': 2.0, 'Cup Goals': 1.0, 'Continental Apps': '8', 'Continental Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 32, 'Total Goals': 4}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Barcelona",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2000\u201301', 'League Division': 'La Liga', 'League Apps': 0, 'League Goals': 0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 21,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 21, 'League Goals': 3, 'Cup Apps': 2.0, 'Cup Goals': 1.0, 'Continental Apps': '8', 'Continental Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 32, 'Total Goals': 4}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Liverpool",
+      "league_apps": 5,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2000\u201301', 'League Division': 'Premier League', 'League Apps': 5, 'League Goals': 1, 'Cup Apps': 2.0, 'Cup Goals': 1.0, 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 11, 'Total Goals': 2}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Liverpool",
+      "league_apps": 21,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '2001\u201302', 'League Division': 'Premier League', 'League Apps': 21, 'League Goals': 4, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': '9', 'Continental Goals': '3', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 32, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Liverpool",
+      "league_apps": 26,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 26, 'League Goals': 5, 'Cup Apps': 3.0, 'Cup Goals': 1.0, 'Continental Apps': '11', 'Continental Goals': '3', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 9}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Ajax",
+      "league_apps": 14,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '2002\u201303', 'League Division': 'Eredivisie', 'League Apps': 14, 'League Goals': 5, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': '7', 'Continental Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 22, 'Total Goals': 7}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Ajax",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': '2003\u201304', 'League Division': 'Eredivisie', 'League Apps': 6, 'League Goals': 0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': '3', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Ajax",
+      "league_apps": 20,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Ajax', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 20, 'League Goals': 5, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': '10', 'Continental Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 31, 'Total Goals': 7}"
+    },
+    {
+      "season": "2004",
+      "club": "Lahti",
+      "league_apps": 11,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Lahti', 'Season Season': '2004', 'League Division': 'Veikkausliiga', 'League Apps': 11, 'League Goals': 3, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': '1', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 3}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Hansa Rostock",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Hansa Rostock', 'Season Season': '2004\u201305', 'League Division': 'Bundesliga', 'League Apps': 13, 'League Goals': 1, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 14, 'Total Goals': 1}"
+    },
+    {
+      "season": "2005",
+      "club": "Malm\u00f6 FF",
+      "league_apps": 2,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Malm\u00f6 FF', 'Season Season': '2005', 'League Division': 'Allsvenskan', 'League Apps': 2, 'League Goals': 1, 'Cup Apps': nan, 'Cup Goals': 0.0, 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 1}"
+    },
+    {
+      "season": "2006",
+      "club": "Malm\u00f6 FF",
+      "league_apps": 8,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Malm\u00f6 FF', 'Season Season': '2006', 'League Division': 'Allsvenskan', 'League Apps': 8, 'League Goals': 2, 'Cup Apps': nan, 'Cup Goals': 0.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 2}"
+    },
+    {
+      "season": "2007",
+      "club": "Malm\u00f6 FF",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Malm\u00f6 FF', 'Season Season': '2007', 'League Division': 'Allsvenskan', 'League Apps': 0, 'League Goals': 0, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Malm\u00f6 FF",
+      "league_apps": 10,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Malm\u00f6 FF', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 10, 'League Goals': 3, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 12, 'Total Goals': 3}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Fulham",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '2007\u201308', 'League Division': 'Premier League', 'League Apps': 0, 'League Goals': 0, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "2008",
+      "club": "Lahti",
+      "league_apps": 6,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Lahti', 'Season Season': '2008', 'League Division': 'Veikkausliiga', 'League Apps': 6, 'League Goals': 3, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 6, 'Total Goals': 3}"
+    },
+    {
+      "season": "2009",
+      "club": "Lahti",
+      "league_apps": 13,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Lahti', 'Season Season': '2009', 'League Division': 'Veikkausliiga', 'League Apps': 13, 'League Goals': 2, 'Cup Apps': 2.0, 'Cup Goals': 0.0, 'Continental Apps': '6', 'Continental Goals': '1', 'Other Apps': '3', 'Other Goals': '1', 'Total Apps': 24, 'Total Goals': 4}"
+    },
+    {
+      "season": "2010",
+      "club": "Lahti",
+      "league_apps": 21,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Lahti', 'Season Season': '2010', 'League Division': 'Veikkausliiga', 'League Apps': 21, 'League Goals': 5, 'Cup Apps': 0.0, 'Cup Goals': 0.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 23, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Lahti",
+      "league_apps": 40,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Lahti', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 40, 'League Goals': 10, 'Cup Apps': 2.0, 'Cup Goals': 0.0, 'Continental Apps': '6', 'Continental Goals': '1', 'Other Apps': '5', 'Other Goals': '1', 'Total Apps': 53, 'Total Goals': 12}"
+    },
+    {
+      "season": "2011",
+      "club": "HJK Helsinki",
+      "league_apps": 18,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'HJK Helsinki', 'Season Season': '2011', 'League Division': 'Veikkausliiga', 'League Apps': 18, 'League Goals': 1, 'Cup Apps': 1.0, 'Cup Goals': 1.0, 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 22, 'Total Goals': 2}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 449,
+      "league_goals": 173,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 449, 'League Goals': 173, 'Cup Apps': 48.0, 'Cup Goals': 20.0, 'Continental Apps': '15', 'Continental Goals': '4', 'Other Apps': '87', 'Other Goals': '30', 'Total Apps': 599, 'Total Goals': 227}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Jari Litmanen - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"466d68f4-b6d5-4846-a75a-cfc31f7278d5\",\"",
+  "season_id": "1994",
+  "award_year": 1994
+}

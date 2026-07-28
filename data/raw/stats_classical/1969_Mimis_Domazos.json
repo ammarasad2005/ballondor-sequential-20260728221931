@@ -1,0 +1,189 @@
+{
+  "player_name_raw": "Mimis Domazos",
+  "fetch_status": "ok",
+  "wikipedia_title": "Mimis_Domazos",
+  "url": "https://en.wikipedia.org/wiki/Mimis_Domazos",
+  "position": "Attacking midfielder",
+  "birth_year": 1942,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1959\u201360",
+      "club": "Panathinaikos",
+      "league_apps": 29,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1959\u201360', 'League Division': 'Alpha Ethniki', 'League Apps': 29, 'League Goals': 7, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '0', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '29', 'Total Goals': '7'}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Panathinaikos",
+      "league_apps": 30,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1960\u201361', 'League Division': 'Alpha Ethniki', 'League Apps': 30, 'League Goals': 8, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '2[a]', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '40', 'Total Goals': '8'}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Panathinaikos",
+      "league_apps": 27,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1961\u201362', 'League Division': 'Alpha Ethniki', 'League Apps': 27, 'League Goals': 16, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '2[a]', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '\u2014', 'Total Apps': '29', 'Total Goals': '16'}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Panathinaikos",
+      "league_apps": 28,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1962\u201363', 'League Division': 'Alpha Ethniki', 'League Apps': 28, 'League Goals': 7, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '2[a]', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '30', 'Total Goals': '7'}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Panathinaikos",
+      "league_apps": 27,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1963\u201364', 'League Division': 'Alpha Ethniki', 'League Apps': 27, 'League Goals': 5, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '0', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '27', 'Total Goals': '5'}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Panathinaikos",
+      "league_apps": 19,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1964\u201365', 'League Division': 'Alpha Ethniki', 'League Apps': 19, 'League Goals': 5, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '4[a]', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '23', 'Total Goals': '5'}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Panathinaikos",
+      "league_apps": 30,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1965\u201366', 'League Division': 'Alpha Ethniki', 'League Apps': 30, 'League Goals': 11, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '4[a]', 'Continental Goals': 2, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '34', 'Total Goals': '13'}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Panathinaikos",
+      "league_apps": 19,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1966\u201367', 'League Division': 'Alpha Ethniki', 'League Apps': 19, 'League Goals': 6, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '0', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '19', 'Total Goals': '6'}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Panathinaikos",
+      "league_apps": 34,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1967\u201368', 'League Division': 'Alpha Ethniki', 'League Apps': 34, 'League Goals': 9, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '2[b]', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '36', 'Total Goals': '9'}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Panathinaikos",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1968\u201369', 'League Division': 'Alpha Ethniki', 'League Apps': 32, 'League Goals': 5, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '4[c]', 'Continental Goals': 0, 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': '40', 'Total Goals': '5'}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Panathinaikos",
+      "league_apps": 30,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1969\u201370', 'League Division': 'Alpha Ethniki', 'League Apps': 30, 'League Goals': 6, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '2[a]', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '32', 'Total Goals': '6'}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Panathinaikos",
+      "league_apps": 32,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1970\u201371', 'League Division': 'Alpha Ethniki', 'League Apps': 32, 'League Goals': 20, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '9[a]', 'Continental Goals': 1, 'Other Apps': '2[d]', 'Other Goals': '0', 'Total Apps': '43', 'Total Goals': '20'}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Panathinaikos",
+      "league_apps": 30,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1971\u201372', 'League Division': 'Alpha Ethniki', 'League Apps': 30, 'League Goals': 5, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '2', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '32', 'Total Goals': '5'}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Panathinaikos",
+      "league_apps": 21,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1972\u201373', 'League Division': 'Alpha Ethniki', 'League Apps': 21, 'League Goals': 6, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '2[a]', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '23', 'Total Goals': '6'}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "Panathinaikos",
+      "league_apps": 27,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1973\u201374', 'League Division': 'Alpha Ethniki', 'League Apps': 27, 'League Goals': 7, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '1[e]', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '28', 'Total Goals': '7'}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Panathinaikos",
+      "league_apps": 29,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1974\u201375', 'League Division': 'Alpha Ethniki', 'League Apps': 29, 'League Goals': 6, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '2[e]', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '31', 'Total Goals': '6'}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Panathinaikos",
+      "league_apps": 15,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1975\u201376', 'League Division': 'Alpha Ethniki', 'League Apps': 15, 'League Goals': 3, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '1[b]', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '16', 'Total Goals': '3'}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Panathinaikos",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1976\u201377', 'League Division': 'Alpha Ethniki', 'League Apps': 26, 'League Goals': 2, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '0', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '26', 'Total Goals': '2'}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Panathinaikos",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1977\u201378', 'League Division': 'Alpha Ethniki', 'League Apps': 5, 'League Goals': 0, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '2[a]', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '7', 'Total Goals': '0'}"
+    },
+    {
+      "season": "Total",
+      "club": "Panathinaikos",
+      "league_apps": 490,
+      "league_goals": 134,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 490, 'League Goals': 134, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '41', 'Continental Goals': 3, 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': '537+', 'Total Goals': '137+'}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "AEK Athens",
+      "league_apps": 29,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'AEK Athens[27]', 'Season Season': '1978\u201379', 'League Division': 'Alpha Ethniki', 'League Apps': 29, 'League Goals': 5, 'Greek Cup Apps': 4.0, 'Greek Cup Goals': 0.0, 'Continental Apps': '2[a]', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '35', 'Total Goals': '5'}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "AEK Athens",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AEK Athens[27]', 'Season Season': '1979\u201380', 'League Division': 'Alpha Ethniki', 'League Apps': 5, 'League Goals': 0, 'Greek Cup Apps': 1.0, 'Greek Cup Goals': 0.0, 'Continental Apps': '1[a]', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '7', 'Total Goals': '0'}"
+    },
+    {
+      "season": "Total",
+      "club": "AEK Athens",
+      "league_apps": 34,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'AEK Athens[27]', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 34, 'League Goals': 5, 'Greek Cup Apps': 5.0, 'Greek Cup Goals': 0.0, 'Continental Apps': '3', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '42', 'Total Goals': '5'}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Panathinaikos",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Panathinaikos', 'Season Season': '1979\u201380', 'League Division': 'Alpha Ethniki', 'League Apps': 12, 'League Goals': 0, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '0', 'Continental Goals': 0, 'Other Apps': '0', 'Other Goals': '\u2014', 'Total Apps': '12', 'Total Goals': '0'}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 536,
+      "league_goals": 139,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 536, 'League Goals': 139, 'Greek Cup Apps': nan, 'Greek Cup Goals': nan, 'Continental Apps': '43', 'Continental Goals': 3, 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': '585+', 'Total Goals': '142+'}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Mimis Domazos - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"730e0f36-6342-441e-8d0a-0e36b2c7ce04\",\"",
+  "season_id": "1969",
+  "award_year": 1969
+}

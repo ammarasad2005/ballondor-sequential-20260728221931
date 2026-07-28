@@ -1,0 +1,154 @@
+{
+  "player_name_raw": "Raphinha",
+  "fetch_status": "ok",
+  "wikipedia_title": "Raphinha",
+  "url": "https://en.wikipedia.org/wiki/Raphinha",
+  "position": "Winger",
+  "birth_year": 1996,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2015\u201316",
+      "club": "Vit\u00f3ria Guimar\u00e3es B",
+      "league_apps": 16,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Vit\u00f3ria Guimar\u00e3es B', 'Season Season': '2015\u201316', 'League Division': 'LigaPro', 'League Apps': 16, 'League Goals': 5, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 16, 'Total Goals': 5}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Vit\u00f3ria Guimar\u00e3es",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Vit\u00f3ria Guimar\u00e3es', 'Season Season': '2015\u201316', 'League Division': 'Primeira Liga', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Vit\u00f3ria Guimar\u00e3es",
+      "league_apps": 32,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Vit\u00f3ria Guimar\u00e3es', 'Season Season': '2016\u201317', 'League Division': 'Primeira Liga', 'League Apps': 32, 'League Goals': 4, 'National cup[a] Apps': '7', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 4}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Vit\u00f3ria Guimar\u00e3es",
+      "league_apps": 32,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Vit\u00f3ria Guimar\u00e3es', 'Season Season': '2017\u201318', 'League Division': 'Primeira Liga', 'League Apps': 32, 'League Goals': 15, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Continental Apps': '6[c]', 'Continental Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '1', 'Total Apps': 43, 'Total Goals': 18}"
+    },
+    {
+      "season": "Total",
+      "club": "Vit\u00f3ria Guimar\u00e3es",
+      "league_apps": 65,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Vit\u00f3ria Guimar\u00e3es', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 65, 'League Goals': 19, 'National cup[a] Apps': '8', 'National cup[a] Goals': '1', 'League cup[b] Apps': '5', 'League cup[b] Goals': '1', 'Continental Apps': '6', 'Continental Goals': '0', 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': 85, 'Total Goals': 22}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Sporting CP",
+      "league_apps": 24,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Sporting CP', 'Season Season': '2018\u201319', 'League Division': 'Primeira Liga', 'League Apps': 24, 'League Goals': 4, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '2', 'Continental Apps': '4[c]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 7}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Sporting CP",
+      "league_apps": 4,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Sporting CP', 'Season Season': '2019\u201320', 'League Division': 'Primeira Liga', 'League Apps': 4, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 5, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Sporting CP",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Sporting CP', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 28, 'League Goals': 6, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '2', 'Continental Apps': '4', 'Continental Goals': '1', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 41, 'Total Goals': 9}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Rennes",
+      "league_apps": 22,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Rennes', 'Season Season': '2019\u201320', 'League Division': 'Ligue 1', 'League Apps': 22, 'League Goals': 5, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '4[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 7}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Rennes",
+      "league_apps": 6,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Rennes', 'Season Season': '2020\u201321', 'League Division': 'Ligue 1', 'League Apps': 6, 'League Goals': 1, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 6, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Rennes",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Rennes', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 28, 'League Goals': 6, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '4', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 8}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Leeds United",
+      "league_apps": 30,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '2020\u201321', 'League Division': 'Premier League', 'League Apps': 30, 'League Goals': 6, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 6}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Leeds United",
+      "league_apps": 35,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': '2021\u201322', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 11, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "Leeds United",
+      "league_apps": 65,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Leeds United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 65, 'League Goals': 17, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 67, 'Total Goals': 17}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Barcelona",
+      "league_apps": 36,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2022\u201323', 'League Division': 'La Liga', 'League Apps': 36, 'League Goals': 7, 'National cup[a] Apps': '5', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '7[e]', 'Continental Goals': '1', 'Other Apps': '2[f]', 'Other Goals': '0', 'Total Apps': 50, 'Total Goals': 10}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Barcelona",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2023\u201324', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 6, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '7[g]', 'Continental Goals': '3', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 10}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Barcelona",
+      "league_apps": 36,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2024\u201325', 'League Division': 'La Liga', 'League Apps': 36, 'League Goals': 18, 'National cup[a] Apps': '5', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '14[g]', 'Continental Goals': '13', 'Other Apps': '2[f]', 'Other Goals': '2', 'Total Apps': 57, 'Total Goals': 34}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "Barcelona",
+      "league_apps": 22,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2025\u201326', 'League Division': 'La Liga', 'League Apps': 22, 'League Goals': 13, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '7[g]', 'Continental Goals': '3', 'Other Apps': '2[f]', 'Other Goals': '4', 'Total Apps': 33, 'Total Goals': 21}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 122,
+      "league_goals": 44,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 122, 'League Goals': 44, 'National cup[a] Apps': '13', 'National cup[a] Goals': '5', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '35', 'Continental Goals': '20', 'Other Apps': '7', 'Other Goals': '6', 'Total Apps': 177, 'Total Goals': 75}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 324,
+      "league_goals": 97,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 324, 'League Goals': 97, 'National cup[a] Apps': '30', 'National cup[a] Goals': '8', 'League cup[b] Apps': '10', 'League cup[b] Goals': '3', 'Continental Apps': '49', 'Continental Goals': '21', 'Other Apps': '9', 'Other Goals': '7', 'Total Apps': 422, 'Total Goals': 136}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Raphinha - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"e2a20c03-e2ce-415a-99a4-caa5cfa81ed5\",\"wgCan",
+  "season_id": "2025",
+  "award_year": 2025
+}

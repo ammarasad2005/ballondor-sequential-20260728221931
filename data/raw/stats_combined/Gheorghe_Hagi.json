@@ -1,0 +1,201 @@
+{
+  "player_name_raw": "Gheorghe Hagi",
+  "fetch_status": "ok",
+  "wikipedia_title": "Gheorghe_Hagi",
+  "url": "https://en.wikipedia.org/wiki/Gheorghe_Hagi",
+  "position": "Attacking midfielder",
+  "birth_year": 1965,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1982\u201383",
+      "club": "FC Constan\u021ba",
+      "league_apps": 18,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'FC Constan\u021ba', 'Season Season': '1982\u201383', 'League Division': 'Divizia A', 'League Apps': 18, 'League Goals': 7, 'National cup[b] Apps': 0, 'National cup[b] Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 7}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Sportul Studen\u021besc",
+      "league_apps": 31,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Sportul Studen\u021besc', 'Season Season': '1983\u201384', 'League Division': 'Divizia A', 'League Apps': 31, 'League Goals': 2, 'National cup[b] Apps': 4, 'National cup[b] Goals': 0, 'Continental Apps': '2[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 2}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Sportul Studen\u021besc",
+      "league_apps": 30,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Sportul Studen\u021besc', 'Season Season': '1984\u201385', 'League Division': 'Divizia A', 'League Apps': 30, 'League Goals': 20, 'National cup[b] Apps': 2, 'National cup[b] Goals': 1, 'Continental Apps': '2[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 21}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Sportul Studen\u021besc",
+      "league_apps": 31,
+      "league_goals": 31,
+      "raw": "{'Club Club': 'Sportul Studen\u021besc', 'Season Season': '1985\u201386', 'League Division': 'Divizia A', 'League Apps': 31, 'League Goals': 31, 'National cup[b] Apps': 0, 'National cup[b] Goals': 0, 'Continental Apps': '2[c]', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 34}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Sportul Studen\u021besc",
+      "league_apps": 16,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Sportul Studen\u021besc', 'Season Season': '1986\u201387', 'League Division': 'Divizia A', 'League Apps': 16, 'League Goals': 5, 'National cup[b] Apps': 1, 'National cup[b] Goals': 0, 'Continental Apps': '4[c]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 21, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Sportul Studen\u021besc",
+      "league_apps": 108,
+      "league_goals": 58,
+      "raw": "{'Club Club': 'Sportul Studen\u021besc', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 108, 'League Goals': 58, 'National cup[b] Apps': 7, 'National cup[b] Goals': 1, 'Continental Apps': '10', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 125, 'Total Goals': 63}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Steaua Bucure\u0219ti",
+      "league_apps": 14,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Steaua Bucure\u0219ti', 'Season Season': '1986\u201387', 'League Division': 'Divizia A', 'League Apps': 14, 'League Goals': 10, 'National cup[b] Apps': 4, 'National cup[b] Goals': 1, 'Continental Apps': '1[d]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 12}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Steaua Bucure\u0219ti",
+      "league_apps": 31,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Steaua Bucure\u0219ti', 'Season Season': '1987\u201388', 'League Division': 'Divizia A', 'League Apps': 31, 'League Goals': 25, 'National cup[b] Apps': 4, 'National cup[b] Goals': 2, 'Continental Apps': '8[e]', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 31}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Steaua Bucure\u0219ti",
+      "league_apps": 30,
+      "league_goals": 31,
+      "raw": "{'Club Club': 'Steaua Bucure\u0219ti', 'Season Season': '1988\u201389', 'League Division': 'Divizia A', 'League Apps': 30, 'League Goals': 31, 'National cup[b] Apps': 3, 'National cup[b] Goals': 1, 'Continental Apps': '9[e]', 'Continental Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 38}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Steaua Bucure\u0219ti",
+      "league_apps": 22,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Steaua Bucure\u0219ti', 'Season Season': '1989\u201390', 'League Division': 'Divizia A', 'League Apps': 22, 'League Goals': 10, 'National cup[b] Apps': 0, 'National cup[b] Goals': 0, 'Continental Apps': '3[e]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "Steaua Bucure\u0219ti",
+      "league_apps": 97,
+      "league_goals": 76,
+      "raw": "{'Club Club': 'Steaua Bucure\u0219ti', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 97, 'League Goals': 76, 'National cup[b] Apps': 11, 'National cup[b] Goals': 4, 'Continental Apps': '21', 'Continental Goals': '12', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 129, 'Total Goals': 92}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Real Madrid",
+      "league_apps": 29,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1990\u201391', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 4, 'National cup[b] Apps': 0, 'National cup[b] Goals': 0, 'Continental Apps': '4[e]', 'Continental Goals': '0', 'Other Apps': '1[f]', 'Other Goals': '0', 'Total Apps': 34, 'Total Goals': 4}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Real Madrid",
+      "league_apps": 35,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1991\u201392', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 12, 'National cup[b] Apps': 5, 'National cup[b] Goals': 1, 'Continental Apps': '10[c]', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 64,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 64, 'League Goals': 16, 'National cup[b] Apps': 5, 'National cup[b] Goals': 1, 'Continental Apps': '14', 'Continental Goals': '3', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 84, 'Total Goals': 20}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Brescia",
+      "league_apps": 31,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Brescia', 'Season Season': '1992\u201393', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 5, 'National cup[b] Apps': 2, 'National cup[b] Goals': 1, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 6}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Brescia",
+      "league_apps": 30,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Brescia', 'Season Season': '1993\u201394', 'League Division': 'Serie B', 'League Apps': 30, 'League Goals': 9, 'National cup[b] Apps': 2, 'National cup[b] Goals': 1, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Brescia",
+      "league_apps": 61,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Brescia', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 61, 'League Goals': 14, 'National cup[b] Apps': 4, 'National cup[b] Goals': 2, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 65, 'Total Goals': 16}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Barcelona",
+      "league_apps": 17,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1994\u201395', 'League Division': 'La Liga', 'League Apps': 17, 'League Goals': 4, 'National cup[b] Apps': 2, 'National cup[b] Goals': 1, 'Continental Apps': '2[e]', 'Continental Goals': '0', 'Other Apps': '2[f]', 'Other Goals': '0', 'Total Apps': 23, 'Total Goals': 5}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Barcelona",
+      "league_apps": 19,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1995\u201396', 'League Division': 'La Liga', 'League Apps': 19, 'League Goals': 3, 'National cup[b] Apps': 4, 'National cup[b] Goals': 0, 'Continental Apps': '5[c]', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 36,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 36, 'League Goals': 7, 'National cup[b] Apps': 6, 'National cup[b] Goals': 1, 'Continental Apps': '7', 'Continental Goals': '3', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 11}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Galatasaray",
+      "league_apps": 30,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1996\u201397', 'League Division': '1.Lig', 'League Apps': 30, 'League Goals': 14, 'National cup[b] Apps': 1, 'National cup[b] Goals': 0, 'Continental Apps': '3[g]', 'Continental Goals': '1', 'Other Apps': '2[h]', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 15}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Galatasaray",
+      "league_apps": 30,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1997\u201398', 'League Division': '1.Lig', 'League Apps': 30, 'League Goals': 8, 'National cup[b] Apps': 6, 'National cup[b] Goals': 0, 'Continental Apps': '6[e]', 'Continental Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 9}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Galatasaray",
+      "league_apps": 28,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1998\u201399', 'League Division': '1.Lig', 'League Apps': 28, 'League Goals': 14, 'National cup[b] Apps': 4, 'National cup[b] Goals': 1, 'Continental Apps': '8[e]', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 18}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Galatasaray",
+      "league_apps": 19,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '1999\u20132000', 'League Division': '1.Lig', 'League Apps': 19, 'League Goals': 12, 'National cup[b] Apps': 3, 'National cup[b] Goals': 1, 'Continental Apps': '15[i]', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 17}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Galatasaray",
+      "league_apps": 25,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': '2000\u201301', 'League Division': '1.Lig', 'League Apps': 25, 'League Goals': 11, 'National cup[b] Apps': 1, 'National cup[b] Goals': 0, 'Continental Apps': '11[j]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 13}"
+    },
+    {
+      "season": "Total",
+      "club": "Galatasaray",
+      "league_apps": 132,
+      "league_goals": 59,
+      "raw": "{'Club Club': 'Galatasaray', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 132, 'League Goals': 59, 'National cup[b] Apps': 15, 'National cup[b] Goals': 2, 'Continental Apps': '43', 'Continental Goals': '11', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 192, 'Total Goals': 72}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 516,
+      "league_goals": 237,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 516, 'League Goals': 237, 'National cup[b] Apps': 48, 'National cup[b] Goals': 11, 'Continental Apps': '95', 'Continental Goals': '33', 'Other Apps': '5', 'Other Goals': '0', 'Total Apps': 664, 'Total Goals': 281}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Gheorghe Hagi - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"a8550bc8-555e-422e-82e3-ad1a1a7f1254\",\""
+}

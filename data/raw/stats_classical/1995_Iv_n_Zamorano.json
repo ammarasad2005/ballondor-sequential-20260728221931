@@ -1,0 +1,231 @@
+{
+  "player_name_raw": "Iv\u00e1n Zamorano",
+  "fetch_status": "ok",
+  "wikipedia_title": "Iv\u00e1n_Zamorano",
+  "url": "https://en.wikipedia.org/wiki/Iv\u00e1n_Zamorano",
+  "position": "Striker",
+  "birth_year": 1967,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1985",
+      "club": "Cobresal",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Cobresal', 'Season Season': '1985', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 2, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 2, 'Total Goals': '0'}"
+    },
+    {
+      "season": "1986",
+      "club": "Cobresal",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Cobresal', 'Season Season': '1986', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 0, 'League Goals': 0, 'Cup Apps': 3, 'Cup Goals': 1, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 3, 'Total Goals': '1'}"
+    },
+    {
+      "season": "Total",
+      "club": "Cobresal",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Cobresal', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 2, 'League Goals': 0, 'Cup Apps': 3, 'Cup Goals': 1, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 5, 'Total Goals': '1'}"
+    },
+    {
+      "season": "1986",
+      "club": "Cobreandino",
+      "league_apps": 29,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Cobreandino', 'Season Season': '1986', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 29, 'League Goals': 27, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 29, 'Total Goals': '27'}"
+    },
+    {
+      "season": "1987",
+      "club": "Cobresal",
+      "league_apps": 14,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Cobresal', 'Season Season': '1987', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 14, 'League Goals': 14, 'Cup Apps': 14, 'Cup Goals': 13, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 28, 'Total Goals': '27'}"
+    },
+    {
+      "season": "1988",
+      "club": "Cobresal",
+      "league_apps": 29,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Cobresal', 'Season Season': '1988', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 29, 'League Goals': 8, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 29, 'Total Goals': '8'}"
+    },
+    {
+      "season": "Total",
+      "club": "Cobresal",
+      "league_apps": 43,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Cobresal', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 43, 'League Goals': 22, 'Cup Apps': 14, 'Cup Goals': 13, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 57, 'Total Goals': '35'}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "St. Gallen",
+      "league_apps": 17,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'St. Gallen', 'Season Season': '1988\u201389', 'League Division': 'Swiss Super League', 'League Apps': 17, 'League Goals': 10, 'Cup Apps': 1, 'Cup Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 18, 'Total Goals': '10'}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "St. Gallen",
+      "league_apps": 33,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'St. Gallen', 'Season Season': '1989\u201390', 'League Division': 'Swiss Super League', 'League Apps': 33, 'League Goals': 23, 'Cup Apps': 3, 'Cup Goals': 2, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 36, 'Total Goals': '25'}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "St. Gallen",
+      "league_apps": 6,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'St. Gallen', 'Season Season': '1990\u201391', 'League Division': 'Swiss Super League', 'League Apps': 6, 'League Goals': 1, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '4', 'Continental Goals': '2', 'Total Apps': 10, 'Total Goals': '3'}"
+    },
+    {
+      "season": "Total",
+      "club": "St. Gallen",
+      "league_apps": 56,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'St. Gallen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 56, 'League Goals': 34, 'Cup Apps': 4, 'Cup Goals': 2, 'Continental Apps': '4', 'Continental Goals': '2', 'Total Apps': 64, 'Total Goals': '38'}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Sevilla",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': '1990\u201391', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 9, 'Cup Apps': 3, 'Cup Goals': 1, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 32, 'Total Goals': '10'}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Sevilla",
+      "league_apps": 30,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': '1991\u201392', 'League Division': 'La Liga', 'League Apps': 30, 'League Goals': 12, 'Cup Apps': 1, 'Cup Goals': 1, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 31, 'Total Goals': '13'}"
+    },
+    {
+      "season": "Total",
+      "club": "Sevilla",
+      "league_apps": 59,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Sevilla', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 59, 'League Goals': 21, 'Cup Apps': 4, 'Cup Goals': 2, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 63, 'Total Goals': '23'}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Real Madrid",
+      "league_apps": 34,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1992\u201393', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 26, 'Cup Apps': 4, 'Cup Goals': 6, 'Continental Apps': '7', 'Continental Goals': '5', 'Total Apps': 45, 'Total Goals': '37'}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Real Madrid",
+      "league_apps": 36,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1993\u201394', 'League Division': 'La Liga', 'League Apps': 36, 'League Goals': 11, 'Cup Apps': 6, 'Cup Goals': 4, 'Continental Apps': '5', 'Continental Goals': '2', 'Total Apps': 47, 'Total Goals': '17'}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Real Madrid",
+      "league_apps": 38,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1994\u201395', 'League Division': 'La Liga', 'League Apps': 38, 'League Goals': 28, 'Cup Apps': 1, 'Cup Goals': 0, 'Continental Apps': '5', 'Continental Goals': '3', 'Total Apps': 44, 'Total Goals': '31'}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Real Madrid",
+      "league_apps": 29,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1995\u201396', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 12, 'Cup Apps': 4, 'Cup Goals': 0, 'Continental Apps': '5', 'Continental Goals': '4', 'Total Apps': 38, 'Total Goals': '16'}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 137,
+      "league_goals": 77,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 137, 'League Goals': 77, 'Cup Apps': 15, 'Cup Goals': 10, 'Continental Apps': '22', 'Continental Goals': '14', 'Total Apps': 174, 'Total Goals': '101'}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Inter Milan",
+      "league_apps": 31,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1996\u201397', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 7, 'Cup Apps': 6, 'Cup Goals': 4, 'Continental Apps': '10', 'Continental Goals': '2', 'Total Apps': 47, 'Total Goals': '13'}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Inter Milan",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 13, 'League Goals': 1, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': '5', 'Continental Goals': '2', 'Total Apps': 20, 'Total Goals': '3'}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Inter Milan",
+      "league_apps": 25,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': 25, 'League Goals': 9, 'Cup Apps': 3, 'Cup Goals': 2, 'Continental Apps': '10', 'Continental Goals': '3', 'Total Apps': 38, 'Total Goals': '14'}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Inter Milan",
+      "league_apps": 30,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 7, 'Cup Apps': 5, 'Cup Goals': 1, 'Continental Apps': '\u2013', 'Continental Goals': '\u2013', 'Total Apps': 35, 'Total Goals': '8'}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Inter Milan",
+      "league_apps": 2,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '2000\u201301', 'League Division': 'Serie A', 'League Apps': 2, 'League Goals': 1, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': '4', 'Continental Goals': '0', 'Total Apps': 8, 'Total Goals': '1'}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 101,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 101, 'League Goals': 25, 'Cup Apps': 18, 'Cup Goals': 7, 'Continental Apps': '29', 'Continental Goals': '7', 'Total Apps': 148, 'Total Goals': '39'}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Am\u00e9rica",
+      "league_apps": 17,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Am\u00e9rica', 'Season Season': '2000\u201301', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 17, 'League Goals': 11, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 17, 'Total Goals': '11'}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Am\u00e9rica",
+      "league_apps": 35,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Am\u00e9rica', 'Season Season': '2001\u201302', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 35, 'League Goals': 18, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '9', 'Continental Goals': '4', 'Total Apps': 44, 'Total Goals': '22'}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Am\u00e9rica",
+      "league_apps": 11,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Am\u00e9rica', 'Season Season': '2002\u201303', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 11, 'League Goals': 4, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 11, 'Total Goals': '4'}"
+    },
+    {
+      "season": "Total",
+      "club": "Am\u00e9rica",
+      "league_apps": 63,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Am\u00e9rica', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 63, 'League Goals': 33, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '9', 'Continental Goals': '4', 'Total Apps': 72, 'Total Goals': '37'}"
+    },
+    {
+      "season": "2003",
+      "club": "Colo-Colo",
+      "league_apps": 14,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Colo-Colo', 'Season Season': '2003', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 14, 'League Goals': 8, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '4', 'Continental Goals': '0', 'Total Apps': 18, 'Total Goals': '8'}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 490,
+      "league_goals": 233,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 490, 'League Goals': 233, 'Cup Apps': 73, 'Cup Goals': 50, 'Continental Apps': '59', 'Continental Goals': '25', 'Total Apps': 622, 'Total Goals': '349[32]'}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Iv\u00e1n Zamorano - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"0ddc9868-357d-44ff-a1e5-6d77189e045c\",\"",
+  "season_id": "1995",
+  "award_year": 1995
+}

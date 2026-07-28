@@ -1,0 +1,257 @@
+{
+  "player_name_raw": "Shunsuke Nakamura",
+  "fetch_status": "ok",
+  "wikipedia_title": "Shunsuke_Nakamura",
+  "url": "https://en.wikipedia.org/wiki/Shunsuke_Nakamura",
+  "position": "Attacking midfielder",
+  "birth_year": 1978,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1997",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 27,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': '1997', 'League Division': 'J1 League', 'League Apps': 27, 'League Goals': 5, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 5}"
+    },
+    {
+      "season": "1998",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 33,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': '1998', 'League Division': 'J1 League', 'League Apps': 33, 'League Goals': 9, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '4', 'League cup[b] Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 10}"
+    },
+    {
+      "season": "1999",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 26,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': '1999', 'League Division': 'J1 League', 'League Apps': 26, 'League Goals': 7, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 8}"
+    },
+    {
+      "season": "2000",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 30,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': '2000', 'League Division': 'J1 League', 'League Apps': 30, 'League Goals': 5, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '4', 'League cup[b] Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '2[c]', 'Other Goals': '0', 'Total Apps': 38, 'Total Goals': 6}"
+    },
+    {
+      "season": "2001",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 24,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': '2001', 'League Division': 'J1 League', 'League Apps': 24, 'League Goals': 3, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '6', 'League cup[b] Goals': '2', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 5}"
+    },
+    {
+      "season": "2002",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 8,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': '2002', 'League Division': 'J1 League', 'League Apps': 8, 'League Goals': 4, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 148,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 148, 'League Goals': 33, 'National cup[a] Apps': 7, 'National cup[a] Goals': 1, 'League cup[b] Apps': '21', 'League cup[b] Goals': '4', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 178, 'Total Goals': 38}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Reggina",
+      "league_apps": 31,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Reggina', 'Season Season': '2002\u201303', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 7, 'National cup[a] Apps': 4, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 8}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Reggina",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Reggina', 'Season Season': '2003\u201304', 'League Division': 'Serie A', 'League Apps': 16, 'League Goals': 2, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 2}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Reggina",
+      "league_apps": 33,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Reggina', 'Season Season': '2004\u201305', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 2, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Reggina",
+      "league_apps": 80,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Reggina', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 80, 'League Goals': 11, 'National cup[a] Apps': 6, 'National cup[a] Goals': 1, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 87, 'Total Goals': 12}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Celtic",
+      "league_apps": 33,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Celtic', 'Season Season': '2005\u201306', 'League Division': 'Scottish Premier League', 'League Apps': 33, 'League Goals': 6, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 6}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Celtic",
+      "league_apps": 37,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Celtic', 'Season Season': '2006\u201307', 'League Division': 'Scottish Premier League', 'League Apps': 37, 'League Goals': 9, 'National cup[a] Apps': 5, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '8[e]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 11}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Celtic",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Celtic', 'Season Season': '2007\u201308', 'League Division': 'Scottish Premier League', 'League Apps': 26, 'League Goals': 6, 'National cup[a] Apps': 4, 'National cup[a] Goals': 1, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '6[e]', 'Continental Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 8}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Celtic",
+      "league_apps": 32,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Celtic', 'Season Season': '2008\u201309', 'League Division': 'Scottish Premier League', 'League Apps': 32, 'League Goals': 8, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Continental Apps': '5[e]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "Celtic",
+      "league_apps": 128,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Celtic', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 128, 'League Goals': 29, 'National cup[a] Apps': 12, 'National cup[a] Goals': 1, 'League cup[b] Apps': '7', 'League cup[b] Goals': '1', 'Continental Apps': '19', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 166, 'Total Goals': 34}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Espanyol",
+      "league_apps": 13,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Espanyol', 'Season Season': '2009\u201310', 'League Division': 'La Liga', 'League Apps': 13, 'League Goals': 0, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 15, 'Total Goals': 0}"
+    },
+    {
+      "season": "2010",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': '2010', 'League Division': 'J1 League', 'League Apps': 32, 'League Goals': 5, 'National cup[a] Apps': 2, 'National cup[a] Goals': 1, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 6}"
+    },
+    {
+      "season": "2011",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 24,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': '2011', 'League Division': 'J1 League', 'League Apps': 24, 'League Goals': 4, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 6}"
+    },
+    {
+      "season": "2012",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 31,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': '2012', 'League Division': 'J1 League', 'League Apps': 31, 'League Goals': 6, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 8}"
+    },
+    {
+      "season": "2013",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 33,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': '2013', 'League Division': 'J1 League', 'League Apps': 33, 'League Goals': 10, 'National cup[a] Apps': 5, 'National cup[a] Goals': 1, 'League cup[b] Apps': '10', 'League cup[b] Goals': '2', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 13}"
+    },
+    {
+      "season": "2014",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 32,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': '2014', 'League Division': 'J1 League', 'League Apps': 32, 'League Goals': 3, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '5[f]', 'Continental Goals': '0', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 39, 'Total Goals': 3}"
+    },
+    {
+      "season": "2015",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 19,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': '2015', 'League Division': 'J1 League', 'League Apps': 19, 'League Goals': 3, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 3}"
+    },
+    {
+      "season": "2016",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 19,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': '2016', 'League Division': 'J1 League', 'League Apps': 19, 'League Goals': 4, 'National cup[a] Apps': 3, 'National cup[a] Goals': 1, 'League cup[b] Apps': '1', 'League cup[b] Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Yokohama F. Marinos",
+      "league_apps": 190,
+      "league_goals": 35,
+      "raw": "{'Club Club': 'Yokohama F. Marinos', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 190, 'League Goals': 35, 'National cup[a] Apps': 22, 'National cup[a] Goals': 7, 'League cup[b] Apps': '19', 'League cup[b] Goals': '3', 'Continental Apps': '5', 'Continental Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 237, 'Total Goals': 45}"
+    },
+    {
+      "season": "2017",
+      "club": "J\u00fabilo Iwata",
+      "league_apps": 30,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'J\u00fabilo Iwata', 'Season Season': '2017', 'League Division': 'J1 League', 'League Apps': 30, 'League Goals': 5, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 5}"
+    },
+    {
+      "season": "2018",
+      "club": "J\u00fabilo Iwata",
+      "league_apps": 16,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'J\u00fabilo Iwata', 'Season Season': '2018', 'League Division': 'J1 League', 'League Apps': 16, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 0}"
+    },
+    {
+      "season": "2019",
+      "club": "J\u00fabilo Iwata",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'J\u00fabilo Iwata', 'Season Season': '2019', 'League Division': 'J1 League', 'League Apps': 2, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "J\u00fabilo Iwata",
+      "league_apps": 48,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'J\u00fabilo Iwata', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 48, 'League Goals': 5, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 51, 'Total Goals': 5}"
+    },
+    {
+      "season": "2019",
+      "club": "Yokohama FC",
+      "league_apps": 10,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Yokohama FC', 'Season Season': '2019', 'League Division': 'J2 League', 'League Apps': 10, 'League Goals': 1, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 1}"
+    },
+    {
+      "season": "2020",
+      "club": "Yokohama FC",
+      "league_apps": 10,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Yokohama FC', 'Season Season': '2020', 'League Division': 'J1 League', 'League Apps': 10, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 10, 'Total Goals': 0}"
+    },
+    {
+      "season": "2021",
+      "club": "Yokohama FC",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Yokohama FC', 'Season Season': '2021', 'League Division': 'J1 League', 'League Apps': 12, 'League Goals': 0, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 14, 'Total Goals': 0}"
+    },
+    {
+      "season": "2022",
+      "club": "Yokohama FC",
+      "league_apps": 6,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Yokohama FC', 'Season Season': '2022', 'League Division': 'J2 League', 'League Apps': 6, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Yokohama FC",
+      "league_apps": 38,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Yokohama FC', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 38, 'League Goals': 1, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 41, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 657,
+      "league_goals": 115,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 657, 'League Goals': 115, 'National cup[a] Apps': 50, 'National cup[a] Goals': 11, 'League cup[b] Apps': '49', 'League cup[b] Goals': '8', 'Continental Apps': '24', 'Continental Goals': '3', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 795, 'Total Goals': 136}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Shunsuke Nakamura - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d6a99d1f-6f12-40ad-ad63-be07399d26b"
+}

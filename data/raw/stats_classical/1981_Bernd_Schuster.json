@@ -1,0 +1,196 @@
+{
+  "player_name_raw": "Bernd Schuster",
+  "fetch_status": "ok",
+  "wikipedia_title": "Bernd_Schuster",
+  "url": "https://en.wikipedia.org/wiki/Bernd_Schuster",
+  "position": "Midfielder",
+  "birth_year": 1959,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1978\u201379",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 24,
+      "league_goals": 1,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1978\u201379[38]', 'League Division': 'Bundesliga', 'League Apps': 24, 'League Goals': 1, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '5', 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 1}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 32,
+      "league_goals": 9,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1979\u201380[38]', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 9, 'National cup[a] Apps': 8.0, 'National cup[a] Goals': 4.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '0', 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 40, 'Total Goals': 13}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': '1980\u201381[38]', 'League Division': 'Bundesliga', 'League Apps': 5, 'League Goals': 0, 'National cup[a] Apps': 0.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "1. FC K\u00f6ln",
+      "league_apps": 61,
+      "league_goals": 10,
+      "raw": "{'Club Club': '1. FC K\u00f6ln', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 61, 'League Goals': 10, 'National cup[a] Apps': 10.0, 'National cup[a] Goals': 4.0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '5', 'Continental Goals': 0.0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 76, 'Total Goals': 14}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Barcelona",
+      "league_apps": 23,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1980\u201381[39]', 'League Division': 'La Liga', 'League Apps': 23, 'League Goals': 11, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '0', 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 11}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Barcelona",
+      "league_apps": 13,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1981\u201382[39]', 'League Division': 'La Liga', 'League Apps': 13, 'League Goals': 8, 'National cup[a] Apps': 0.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '4[c]', 'Continental Goals': 2.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 17, 'Total Goals': 10}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Barcelona",
+      "league_apps": 28,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1982\u201383[39]', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 7, 'National cup[a] Apps': 6.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '6', 'League cup[b] Goals': '1', 'Continental Apps': '5[d]', 'Continental Goals': 5.0, 'Other Apps': '2[e]', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 14}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Barcelona",
+      "league_apps": 22,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1983\u201384[39]', 'League Division': 'La Liga', 'League Apps': 22, 'League Goals': 7, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '1', 'Continental Apps': '4[d]', 'Continental Goals': 1.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 29, 'Total Goals': 10}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Barcelona",
+      "league_apps": 32,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1984\u201385[39]', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 11, 'National cup[a] Apps': 7.0, 'National cup[a] Goals': 7.0, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '2[d]', 'Continental Goals': 1.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 42, 'Total Goals': 19}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Barcelona",
+      "league_apps": 22,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1985\u201386[39]', 'League Division': 'La Liga', 'League Apps': 22, 'League Goals': 10, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '6[f]', 'Continental Goals': 1.0, 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 32, 'Total Goals': 12}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Barcelona",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1986\u201387[39]', 'League Division': 'La Liga', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': 0.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '0', 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Barcelona",
+      "league_apps": 30,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1987\u201388[39]', 'League Division': 'La Liga', 'League Apps': 30, 'League Goals': 9, 'National cup[a] Apps': 8.0, 'National cup[a] Goals': 3.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '8[c]', 'Continental Goals': 1.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 46, 'Total Goals': 13}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 170,
+      "league_goals": 63,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 170, 'League Goals': 63, 'National cup[a] Apps': 31.0, 'National cup[a] Goals': 13.0, 'League cup[b] Apps': '8', 'League cup[b] Goals': '2', 'Continental Apps': '29', 'Continental Goals': 11.0, 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 241, 'Total Goals': 89}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Real Madrid",
+      "league_apps": 33,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1988\u201389[39]', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 7, 'National cup[a] Apps': 9.0, 'National cup[a] Goals': 3.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '8[f]', 'Continental Goals': 0.0, 'Other Apps': '2[g]', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 10}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Real Madrid",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1989\u201390[39]', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 6, 'National cup[a] Apps': 6.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '2[f]', 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 61,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 61, 'League Goals': 13, 'National cup[a] Apps': 15.0, 'National cup[a] Goals': 3.0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '10', 'Continental Goals': 0.0, 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 88, 'Total Goals': 16}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 29,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '1990\u201391[39]', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 4, 'National cup[a] Apps': 7.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '0', 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 5}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 34,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '1991\u201392[39]', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 6, 'National cup[a] Apps': 6.0, 'National cup[a] Goals': 2.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '6[d]', 'Continental Goals': 4.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 46, 'Total Goals': 12}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 22,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '1992\u201393[39]', 'League Division': 'La Liga', 'League Apps': 22, 'League Goals': 1, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '6[d]', 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 85,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 85, 'League Goals': 11, 'National cup[a] Apps': 15.0, 'National cup[a] Goals': 3.0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '12', 'Continental Goals': 4.0, 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 112, 'Total Goals': 18}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Bayer Leverkusen",
+      "league_apps": 28,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '1993\u201394[38]', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 5, 'National cup[a] Apps': 4.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '1[d]', 'Continental Goals': 1.0, 'Other Apps': '1[h]', 'Other Goals': '0', 'Total Apps': 34, 'Total Goals': 6}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Bayer Leverkusen",
+      "league_apps": 23,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '1994\u201395[38]', 'League Division': 'Bundesliga', 'League Apps': 23, 'League Goals': 2, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '9[c]', 'Continental Goals': 2.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 5}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Bayer Leverkusen",
+      "league_apps": 8,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': '1995\u201396[38]', 'League Division': 'Bundesliga', 'League Apps': 8, 'League Goals': 1, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 0.0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Continental Apps': '4', 'Continental Goals': 0.0, 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 15, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayer Leverkusen",
+      "league_apps": 59,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Bayer Leverkusen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 59, 'League Goals': 8, 'National cup[a] Apps': 9.0, 'National cup[a] Goals': 1.0, 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '14', 'Continental Goals': 3.0, 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 83, 'Total Goals': 12}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Universidad Nacional",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Universidad Nacional', 'Season Season': '1996\u201397', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 9, 'League Goals': 0, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'League cup[b] Apps': nan, 'League cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 445,
+      "league_goals": 105,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 445, 'League Goals': 105, 'National cup[a] Apps': 80.0, 'National cup[a] Goals': 24.0, 'League cup[b] Apps': '8', 'League cup[b] Goals': '2', 'Continental Apps': '70', 'Continental Goals': 18.0, 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': 609, 'Total Goals': 149}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Bernd Schuster - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"cc87e7bb-e246-4268-bab5-4865ce20e861\",",
+  "season_id": "1981",
+  "award_year": 1981
+}

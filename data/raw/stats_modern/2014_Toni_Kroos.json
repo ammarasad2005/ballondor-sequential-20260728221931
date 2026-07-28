@@ -1,0 +1,189 @@
+{
+  "player_name_raw": "Toni Kroos",
+  "fetch_status": "ok",
+  "wikipedia_title": "Toni_Kroos",
+  "url": "https://en.wikipedia.org/wiki/Toni_Kroos",
+  "position": "Midfielder",
+  "birth_year": 1990,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2007\u201308",
+      "club": "Bayern Munich II",
+      "league_apps": 12,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': '2007\u201308[161]', 'League Division': 'Regionalliga S\u00fcd', 'League Apps': 12, 'League Goals': 3, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Europe[b] Apps': '\u2014', 'Europe[b] Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 3}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Bayern Munich II",
+      "league_apps": 1,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': '2008\u201309[162]', 'League Division': '3. Liga', 'League Apps': 1, 'League Goals': 1, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Europe[b] Apps': '\u2014', 'Europe[b] Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich II",
+      "league_apps": 13,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Bayern Munich II', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 13, 'League Goals': 4, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Europe[b] Apps': '\u2014', 'Europe[b] Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 4}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Bayern Munich",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2007\u201308[161]', 'League Division': 'Bundesliga', 'League Apps': 12, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Europe[b] Apps': '6[c]', 'Europe[b] Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 1}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Bayern Munich",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2008\u201309[162]', 'League Division': 'Bundesliga', 'League Apps': 7, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'Europe[b] Apps': '1', 'Europe[b] Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 1}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Bayern Munich",
+      "league_apps": 27,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2010\u201311[163]', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 1, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'Europe[b] Apps': '7', 'Europe[b] Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 3}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Bayern Munich",
+      "league_apps": 31,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2011\u201312[164]', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 4, 'National cup[a] Apps': '6', 'National cup[a] Goals': '1', 'Europe[b] Apps': '14', 'Europe[b] Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 51, 'Total Goals': 7}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Bayern Munich",
+      "league_apps": 24,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2012\u201313[165][166]', 'League Division': 'Bundesliga', 'League Apps': 24, 'League Goals': 6, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'Europe[b] Apps': '9', 'Europe[b] Goals': '3', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 9}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Bayern Munich",
+      "league_apps": 29,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2013\u201314[36][167]', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 2, 'National cup[a] Apps': '6', 'National cup[a] Goals': '1', 'Europe[b] Apps': '12', 'Europe[b] Goals': '1', 'Other Apps': '4[e]', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 130,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 130, 'League Goals': 13, 'National cup[a] Apps': '21', 'National cup[a] Goals': '4', 'Europe[b] Apps': '49', 'Europe[b] Goals': '8', 'Other Apps': '5', 'Other Goals': '0', 'Total Apps': 205, 'Total Goals': 25}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Bayer Leverkusen (loan)",
+      "league_apps": 10,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayer Leverkusen (loan)', 'Season Season': '2008\u201309[162]', 'League Division': 'Bundesliga', 'League Apps': 10, 'League Goals': 1, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'Europe[b] Apps': '\u2014', 'Europe[b] Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 1}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Bayer Leverkusen (loan)",
+      "league_apps": 33,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Bayer Leverkusen (loan)', 'Season Season': '2009\u201310[168]', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 9, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Europe[b] Apps': '\u2014', 'Europe[b] Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 9}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayer Leverkusen (loan)",
+      "league_apps": 43,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Bayer Leverkusen (loan)', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 43, 'League Goals': 10, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'Europe[b] Apps': '\u2014', 'Europe[b] Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 10}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Real Madrid",
+      "league_apps": 36,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2014\u201315[36]', 'League Division': 'La Liga', 'League Apps': 36, 'League Goals': 2, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Europe[b] Apps': '12', 'Europe[b] Goals': '0', 'Other Apps': '5[f]', 'Other Goals': '0', 'Total Apps': 55, 'Total Goals': 2}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Real Madrid",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2015\u201316[36]', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 1, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Europe[b] Apps': '12', 'Europe[b] Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 1}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Real Madrid",
+      "league_apps": 29,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2016\u201317[36]', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 3, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'Europe[b] Apps': '12', 'Europe[b] Goals': '1', 'Other Apps': '2[g]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 4}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Real Madrid",
+      "league_apps": 27,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2017\u201318[36]', 'League Division': 'La Liga', 'League Apps': 27, 'League Goals': 5, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'Europe[b] Apps': '12', 'Europe[b] Goals': '0', 'Other Apps': '4[h]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 5}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Real Madrid",
+      "league_apps": 28,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2018\u201319[36]', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 0, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'Europe[b] Apps': '8', 'Europe[b] Goals': '1', 'Other Apps': '3[i]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 1}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Real Madrid",
+      "league_apps": 35,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2019\u201320[36]', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 4, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'Europe[b] Apps': '6', 'Europe[b] Goals': '1', 'Other Apps': '2[j]', 'Other Goals': '1', 'Total Apps': 45, 'Total Goals': 6}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Real Madrid",
+      "league_apps": 28,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2020\u201321[36]', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe[b] Apps': '12', 'Europe[b] Goals': '0', 'Other Apps': '1[j]', 'Other Goals': '0', 'Total Apps': 42, 'Total Goals': 3}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Real Madrid",
+      "league_apps": 28,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2021\u201322[36]', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 1, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'Europe[b] Apps': '12', 'Europe[b] Goals': '2', 'Other Apps': '2[j]', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 3}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Real Madrid",
+      "league_apps": 30,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2022\u201323[36]', 'League Division': 'La Liga', 'League Apps': 30, 'League Goals': 2, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'Europe[b] Apps': '12', 'Europe[b] Goals': '0', 'Other Apps': '5[k]', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 2}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Real Madrid",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2023\u201324[36]', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 1, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Europe[b] Apps': '12', 'Europe[b] Goals': '0', 'Other Apps': '2[j]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 306,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 306, 'League Goals': 22, 'National cup[a] Apps': '23', 'National cup[a] Goals': '0', 'Europe[b] Apps': '110', 'Europe[b] Goals': '5', 'Other Apps': '26', 'Other Goals': '1', 'Total Apps': 465, 'Total Goals': 28}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 492,
+      "league_goals": 49,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 492, 'League Goals': 49, 'National cup[a] Apps': '49', 'National cup[a] Goals': '4', 'Europe[b] Apps': '159', 'Europe[b] Goals': '13', 'Other Apps': '31', 'Other Goals': '1', 'Total Apps': 731, 'Total Goals': 67}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Toni Kroos - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"46c5b73b-7d1a-4e4b-863e-a7684c42bd89\",\"wgC",
+  "season_id": "2014",
+  "award_year": 2014
+}

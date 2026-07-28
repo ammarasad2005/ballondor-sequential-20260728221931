@@ -1,0 +1,145 @@
+{
+  "player_name_raw": "George Weah",
+  "fetch_status": "ok",
+  "wikipedia_title": "George_Weah",
+  "url": "https://en.wikipedia.org/wiki/George_Weah",
+  "position": "Striker",
+  "birth_year": 1966,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1988\u201389",
+      "club": "Monaco",
+      "league_apps": 23,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': '1988\u201389', 'League Division': 'Division 1', 'League Apps': 23, 'League Goals': 14, 'National cup[a] Apps': '10', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '5[c]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 17}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Monaco",
+      "league_apps": 17,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': '1989\u201390', 'League Division': 'Division 1', 'League Apps': 17, 'League Goals': 5, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '7[d]', 'Europe Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 8}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Monaco",
+      "league_apps": 29,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': '1990\u201391', 'League Division': 'Division 1', 'League Apps': 29, 'League Goals': 10, 'National cup[a] Apps': '6', 'National cup[a] Goals': '5', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '5[e]', 'Europe Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 18}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Monaco",
+      "league_apps": 34,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': '1991\u201392', 'League Division': 'Division 1', 'League Apps': 34, 'League Goals': 18, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '9[d]', 'Europe Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 23}"
+    },
+    {
+      "season": "Total",
+      "club": "Monaco",
+      "league_apps": 103,
+      "league_goals": 47,
+      "raw": "{'Club Club': 'Monaco', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 103, 'League Goals': 47, 'National cup[a] Apps': '20', 'National cup[a] Goals': '7', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '26', 'Europe Goals': '12', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 149, 'Total Goals': 66}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Paris Saint-Germain",
+      "league_apps": 30,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1992\u201393', 'League Division': 'Division 1', 'League Apps': 30, 'League Goals': 14, 'National cup[a] Apps': '6', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '9[e]', 'Europe Goals': '7', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 23}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Paris Saint-Germain",
+      "league_apps": 32,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1993\u201394', 'League Division': 'Division 1', 'League Apps': 32, 'League Goals': 11, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '5[d]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 14}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Paris Saint-Germain",
+      "league_apps": 34,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '1994\u201395', 'League Division': 'Division 1', 'League Apps': 34, 'League Goals': 7, 'National cup[a] Apps': '5', 'National cup[a] Goals': '2', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Europe Apps': '11[f]', 'Europe Goals': '8', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 53, 'Total Goals': 18}"
+    },
+    {
+      "season": "Total",
+      "club": "Paris Saint-Germain",
+      "league_apps": 96,
+      "league_goals": 32,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 96, 'League Goals': 32, 'National cup[a] Apps': '14', 'National cup[a] Goals': '6', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Europe Apps': '25', 'Europe Goals': '16', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 138, 'Total Goals': 55}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "AC Milan",
+      "league_apps": 26,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 11, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '6[e]', 'Europe Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 15}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "AC Milan",
+      "league_apps": 28,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1996\u201397', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 13, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '5[f]', 'Europe Goals': '3', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 36, 'Total Goals': 16}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "AC Milan",
+      "league_apps": 24,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 24, 'League Goals': 10, 'National cup[a] Apps': '8', 'National cup[a] Goals': '3', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 13}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "AC Milan",
+      "league_apps": 26,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 8, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 9}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "AC Milan",
+      "league_apps": 10,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 10, 'League Goals': 4, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '1[f]', 'Europe Goals': '1', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': 14, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 114,
+      "league_goals": 46,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 114, 'League Goals': 46, 'National cup[a] Apps': '19', 'National cup[a] Goals': '5', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '12', 'Europe Goals': '7', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 147, 'Total Goals': 58}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Chelsea (loan)",
+      "league_apps": 11,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Chelsea (loan)', 'Season Season': '1999\u20132000[66]', 'League Division': 'Premier League', 'League Apps': 11, 'League Goals': 3, 'National cup[a] Apps': '4', 'National cup[a] Goals': '2', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 15, 'Total Goals': 5}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Manchester City",
+      "league_apps": 7,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Manchester City', 'Season Season': '2000\u201301[67]', 'League Division': 'Premier League', 'League Apps': 7, 'League Goals': 1, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '2', 'League cup[b] Goals': '3', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 4}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Marseille",
+      "league_apps": 19,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Marseille', 'Season Season': '2000\u201301', 'League Division': 'Division 1', 'League Apps': 19, 'League Goals': 5, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 20, 'Total Goals': 5}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 350,
+      "league_goals": 134,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 350, 'League Goals': 134, 'National cup[a] Apps': '58', 'National cup[a] Goals': '20', 'League cup[b] Apps': '5', 'League cup[b] Goals': '4', 'Europe Apps': '63', 'Europe Goals': '35', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 478, 'Total Goals': 193}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>George Weah - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"6102e48f-a02c-4582-a95c-e7dd8c2e55e1\",\"wg"
+}

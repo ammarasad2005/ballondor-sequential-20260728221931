@@ -1,0 +1,147 @@
+{
+  "player_name_raw": "Milan Gali\u0107",
+  "fetch_status": "ok",
+  "wikipedia_title": "Milan_Gali\u0107",
+  "url": "https://en.wikipedia.org/wiki/Milan_Gali\u0107",
+  "position": "Striker",
+  "birth_year": 1938,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1958\u201359",
+      "club": "Partizan",
+      "league_apps": 10,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1958\u201359', 'League Division': 'Yugoslav First League', 'League Apps': 10, 'League Goals': 7, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 10, 'Total Goals': 7}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "Partizan",
+      "league_apps": 22,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1959\u201360', 'League Division': 'Yugoslav First League', 'League Apps': 22, 'League Goals': 10, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 22, 'Total Goals': 10}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Partizan",
+      "league_apps": 21,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1960\u201361', 'League Division': 'Yugoslav First League', 'League Apps': 21, 'League Goals': 14, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 21, 'Total Goals': 14}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Partizan",
+      "league_apps": 21,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1961\u201362', 'League Division': 'Yugoslav First League', 'League Apps': 21, 'League Goals': 7, 'Continental Apps': 4, 'Continental Goals': 0, 'Total Apps': 25, 'Total Goals': 7}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Partizan",
+      "league_apps": 25,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1962\u201363', 'League Division': 'Yugoslav First League', 'League Apps': 25, 'League Goals': 16, 'Continental Apps': 1, 'Continental Goals': 1, 'Total Apps': 26, 'Total Goals': 17}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Partizan",
+      "league_apps": 20,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1963\u201364', 'League Division': 'Yugoslav First League', 'League Apps': 20, 'League Goals': 4, 'Continental Apps': 6, 'Continental Goals': 4, 'Total Apps': 26, 'Total Goals': 8}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Partizan",
+      "league_apps": 24,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1964\u201365', 'League Division': 'Yugoslav First League', 'League Apps': 24, 'League Goals': 15, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 24, 'Total Goals': 15}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Partizan",
+      "league_apps": 5,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': '1965\u201366', 'League Division': 'Yugoslav First League', 'League Apps': 5, 'League Goals': 1, 'Continental Apps': 3, 'Continental Goals': 2, 'Total Apps': 8, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Partizan",
+      "league_apps": 148,
+      "league_goals": 74,
+      "raw": "{'Club Club': 'Partizan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 148, 'League Goals': 74, 'Continental Apps': 14, 'Continental Goals': 7, 'Total Apps': 162, 'Total Goals': 81}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 22,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1966\u201367', 'League Division': 'Belgian First Division', 'League Apps': 22, 'League Goals': 9, 'Continental Apps': 5, 'Continental Goals': 2, 'Total Apps': 27, 'Total Goals': 11}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 14,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1967\u201368', 'League Division': 'Belgian First Division', 'League Apps': 14, 'League Goals': 2, 'Continental Apps': 4, 'Continental Goals': 0, 'Total Apps': 18, 'Total Goals': 2}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 23,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1968\u201369', 'League Division': 'Belgian First Division', 'League Apps': 23, 'League Goals': 5, 'Continental Apps': 1, 'Continental Goals': 1, 'Total Apps': 24, 'Total Goals': 6}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 25,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': '1969\u201370', 'League Division': 'Belgian First Division', 'League Apps': 25, 'League Goals': 17, 'Continental Apps': 6, 'Continental Goals': 2, 'Total Apps': 31, 'Total Goals': 19}"
+    },
+    {
+      "season": "Total",
+      "club": "Standard Li\u00e8ge",
+      "league_apps": 84,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Standard Li\u00e8ge', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 84, 'League Goals': 33, 'Continental Apps': 16, 'Continental Goals': 5, 'Total Apps': 100, 'Total Goals': 38}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Reims",
+      "league_apps": 36,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Reims', 'Season Season': '1970\u201371', 'League Division': 'French Division 1', 'League Apps': 36, 'League Goals': 14, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 36, 'Total Goals': 14}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Reims",
+      "league_apps": 16,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Reims', 'Season Season': '1971\u201372', 'League Division': 'French Division 1', 'League Apps': 16, 'League Goals': 3, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 16, 'Total Goals': 3}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Reims",
+      "league_apps": 3,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Reims', 'Season Season': '1972\u201373', 'League Division': 'French Division 1', 'League Apps': 3, 'League Goals': 1, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 3, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Reims",
+      "league_apps": 55,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Reims', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 55, 'League Goals': 18, 'Continental Apps': 0, 'Continental Goals': 0, 'Total Apps': 55, 'Total Goals': 18}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 287,
+      "league_goals": 125,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 287, 'League Goals': 125, 'Continental Apps': 30, 'Continental Goals': 12, 'Total Apps': 317, 'Total Goals': 137}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Milan Gali\u0107 - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"73071d53-f2fd-4864-b3ef-4ee6bd4b3b89\",\"wg",
+  "season_id": "1965",
+  "award_year": 1965
+}

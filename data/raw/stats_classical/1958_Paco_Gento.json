@@ -1,0 +1,161 @@
+{
+  "player_name_raw": "Paco Gento",
+  "fetch_status": "ok",
+  "wikipedia_title": "Paco_Gento",
+  "url": "https://en.wikipedia.org/wiki/Paco_Gento",
+  "position": "Outside left",
+  "birth_year": 1933,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1952\u201353",
+      "club": "Racing Santander",
+      "league_apps": 10,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Racing Santander', 'Season Season': '1952\u201353', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 10, 'League Goals': 2, 'Copa del Rey Apps': 4, 'Copa del Rey Goals': 1, 'Europe[a] Apps': '\u2014', 'Europe[a] Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 14, 'Total Goals': 3}"
+    },
+    {
+      "season": "1953\u201354",
+      "club": "Real Madrid",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1953\u201354', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 17, 'League Goals': 0, 'Copa del Rey Apps': 4, 'Copa del Rey Goals': 0, 'Europe[a] Apps': '\u2014', 'Europe[a] Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 21, 'Total Goals': 0}"
+    },
+    {
+      "season": "1954\u201355",
+      "club": "Real Madrid",
+      "league_apps": 24,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1954\u201355', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 24, 'League Goals': 6, 'Copa del Rey Apps': 3, 'Copa del Rey Goals': 0, 'Europe[a] Apps': '\u2014', 'Europe[a] Goals': '\u2014', 'Other Apps': '2[b]', 'Other Goals': '0', 'Total Apps': 29, 'Total Goals': 6}"
+    },
+    {
+      "season": "1955\u201356",
+      "club": "Real Madrid",
+      "league_apps": 29,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1955\u201356', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 29, 'League Goals': 7, 'Copa del Rey Apps': 6, 'Copa del Rey Goals': 3, 'Europe[a] Apps': '7', 'Europe[a] Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 11}"
+    },
+    {
+      "season": "1956\u201357",
+      "club": "Real Madrid",
+      "league_apps": 27,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1956\u201357', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 27, 'League Goals': 7, 'Copa del Rey Apps': 3, 'Copa del Rey Goals': 0, 'Europe[a] Apps': '8', 'Europe[a] Goals': '1', 'Other Apps': '2[b]', 'Other Goals': '3', 'Total Apps': 40, 'Total Goals': 11}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "Real Madrid",
+      "league_apps": 28,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1957\u201358', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 28, 'League Goals': 7, 'Copa del Rey Apps': 5, 'Copa del Rey Goals': 1, 'Europe[a] Apps': '6', 'Europe[a] Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 11}"
+    },
+    {
+      "season": "1958\u201359",
+      "club": "Real Madrid",
+      "league_apps": 21,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1958\u201359', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 21, 'League Goals': 7, 'Copa del Rey Apps': 4, 'Copa del Rey Goals': 2, 'Europe[a] Apps': '8', 'Europe[a] Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 10}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "Real Madrid",
+      "league_apps": 27,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1959\u201360', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 27, 'League Goals': 15, 'Copa del Rey Apps': 5, 'Copa del Rey Goals': 3, 'Europe[a] Apps': '6', 'Europe[a] Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 20}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Real Madrid",
+      "league_apps": 28,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1960\u201361', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 28, 'League Goals': 9, 'Copa del Rey Apps': 8, 'Copa del Rey Goals': 3, 'Europe[a] Apps': '2', 'Europe[a] Goals': '1', 'Other Apps': '1[c]', 'Other Goals': '1', 'Total Apps': 39, 'Total Goals': 14}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Real Madrid",
+      "league_apps": 25,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1961\u201362', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 25, 'League Goals': 6, 'Copa del Rey Apps': 9, 'Copa del Rey Goals': 4, 'Europe[a] Apps': '10', 'Europe[a] Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 12}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Real Madrid",
+      "league_apps": 25,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1962\u201363', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 25, 'League Goals': 7, 'Copa del Rey Apps': 4, 'Copa del Rey Goals': 1, 'Europe[a] Apps': '2', 'Europe[a] Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 9}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Real Madrid",
+      "league_apps": 24,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1963\u201364', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 24, 'League Goals': 12, 'Copa del Rey Apps': 2, 'Copa del Rey Goals': 0, 'Europe[a] Apps': '9', 'Europe[a] Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 15}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Real Madrid",
+      "league_apps": 23,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1964\u201365', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 23, 'League Goals': 4, 'Copa del Rey Apps': 3, 'Copa del Rey Goals': 0, 'Europe[a] Apps': '6', 'Europe[a] Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 9}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Real Madrid",
+      "league_apps": 28,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1965\u201366', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 28, 'League Goals': 10, 'Copa del Rey Apps': 3, 'Copa del Rey Goals': 2, 'Europe[a] Apps': '9', 'Europe[a] Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 15}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Real Madrid",
+      "league_apps": 20,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1966\u201367', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 20, 'League Goals': 11, 'Copa del Rey Apps': 5, 'Copa del Rey Goals': 0, 'Europe[a] Apps': '4', 'Europe[a] Goals': '0', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 30, 'Total Goals': 11}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Real Madrid",
+      "league_apps": 24,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1967\u201368', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 24, 'League Goals': 8, 'Copa del Rey Apps': 1, 'Copa del Rey Goals': 0, 'Europe[a] Apps': '7', 'Europe[a] Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 13}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Real Madrid",
+      "league_apps": 26,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1968\u201369', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 26, 'League Goals': 8, 'Copa del Rey Apps': 2, 'Copa del Rey Goals': 1, 'Europe[a] Apps': '2', 'Europe[a] Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 9}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Real Madrid",
+      "league_apps": 24,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1969\u201370', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 24, 'League Goals': 3, 'Copa del Rey Apps': 4, 'Copa del Rey Goals': 1, 'Europe[a] Apps': '3', 'Europe[a] Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 6}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Real Madrid",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1970\u201371', 'League Division': 'Primera Divisi\u00f3n', 'League Apps': 7, 'League Goals': 0, 'Copa del Rey Apps': 2, 'Copa del Rey Goals': 0, 'Europe[a] Apps': '6[d]', 'Europe[a] Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 15, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 427,
+      "league_goals": 127,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 427, 'League Goals': 127, 'Copa del Rey Apps': 73, 'Copa del Rey Goals': 21, 'Europe[a] Apps': '95', 'Europe[a] Goals': '30', 'Other Apps': '6', 'Other Goals': '4', 'Total Apps': 601, 'Total Goals': 182}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 437,
+      "league_goals": 129,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 437, 'League Goals': 129, 'Copa del Rey Apps': 77, 'Copa del Rey Goals': 22, 'Europe[a] Apps': '95', 'Europe[a] Goals': '30', 'Other Apps': '6', 'Other Goals': '4', 'Total Apps': 615, 'Total Goals': 185}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Paco Gento - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ff2a2c16-0c5c-4e39-ba18-eaf4a8502873\",\"wgC",
+  "season_id": "1958",
+  "award_year": 1958
+}

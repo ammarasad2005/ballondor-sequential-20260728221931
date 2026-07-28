@@ -1,0 +1,147 @@
+{
+  "player_name_raw": "Iv\u00e1n Helguera",
+  "fetch_status": "ok",
+  "wikipedia_title": "Iv\u00e1n_Helguera",
+  "url": "https://en.wikipedia.org/wiki/Iv\u00e1n_Helguera",
+  "position": "Centre-back defensive midfielder",
+  "birth_year": 1975,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1995\u201396",
+      "club": "Manchego",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Manchego', 'Season Season': '1995\u201396', 'League Division': nan, 'League Apps': 0, 'League Goals': 0, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Manchego",
+      "league_apps": 13,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Manchego', 'Season Season': '1996\u201397', 'League Division': nan, 'League Apps': 13, 'League Goals': 2, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 13, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Manchego",
+      "league_apps": 13,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Manchego', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 13, 'League Goals': 2, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 13, 'Total Goals': 2}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Albacete",
+      "league_apps": 14,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Albacete', 'Season Season': '1996\u201397', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 14, 'League Goals': 2, 'Cup Apps': nan, 'Cup Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Total Apps': 14, 'Total Goals': 2}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Roma",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 8, 'League Goals': 0, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Espanyol",
+      "league_apps": 37,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Espanyol', 'Season Season': '1998\u201399', 'League Division': 'La Liga', 'League Apps': 37, 'League Goals': 2, 'Cup Apps': 3.0, 'Cup Goals': 0.0, 'Continental Apps': 0.0, 'Continental Goals': 0.0, 'Total Apps': 40, 'Total Goals': 2}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Real Madrid",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '1999\u20132000', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 0, 'Cup Apps': 6.0, 'Cup Goals': 0.0, 'Continental Apps': 15.0, 'Continental Goals': 2.0, 'Total Apps': 54, 'Total Goals': 2}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Real Madrid",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2000\u201301', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 5, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': 16.0, 'Continental Goals': 6.0, 'Total Apps': 49, 'Total Goals': 11}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Real Madrid",
+      "league_apps": 26,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2001\u201302', 'League Division': 'La Liga', 'League Apps': 26, 'League Goals': 2, 'Cup Apps': 6.0, 'Cup Goals': 0.0, 'Continental Apps': 12.0, 'Continental Goals': 3.0, 'Total Apps': 44, 'Total Goals': 5}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Real Madrid",
+      "league_apps": 33,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2002\u201303', 'League Division': 'La Liga', 'League Apps': 33, 'League Goals': 6, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': 17.0, 'Continental Goals': 0.0, 'Total Apps': 51, 'Total Goals': 6}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Real Madrid",
+      "league_apps": 29,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2003\u201304', 'League Division': 'La Liga', 'League Apps': 29, 'League Goals': 1, 'Cup Apps': 6.0, 'Cup Goals': 0.0, 'Continental Apps': 8.0, 'Continental Goals': 2.0, 'Total Apps': 43, 'Total Goals': 3}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Real Madrid",
+      "league_apps": 34,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2004\u201305', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 3, 'Cup Apps': 1.0, 'Cup Goals': 0.0, 'Continental Apps': 10.0, 'Continental Goals': 1.0, 'Total Apps': 45, 'Total Goals': 4}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Real Madrid",
+      "league_apps": 19,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2005\u201306', 'League Division': 'La Liga', 'League Apps': 19, 'League Goals': 0, 'Cup Apps': 4.0, 'Cup Goals': 0.0, 'Continental Apps': 4.0, 'Continental Goals': 1.0, 'Total Apps': 27, 'Total Goals': 1}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Real Madrid",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2006\u201307', 'League Division': 'La Liga', 'League Apps': 23, 'League Goals': 1, 'Cup Apps': 2.0, 'Cup Goals': 0.0, 'Continental Apps': 5.0, 'Continental Goals': 0.0, 'Total Apps': 30, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 229,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 229, 'League Goals': 18, 'Cup Apps': 27.0, 'Cup Goals': 0.0, 'Continental Apps': 87.0, 'Continental Goals': 15.0, 'Total Apps': 343, 'Total Goals': 33}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Valencia",
+      "league_apps": 24,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '2007\u201308', 'League Division': 'La Liga', 'League Apps': 24, 'League Goals': 1, 'Cup Apps': 6.0, 'Cup Goals': 0.0, 'Continental Apps': 7.0, 'Continental Goals': 1.0, 'Total Apps': 37, 'Total Goals': 2}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Valencia",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': '2008\u201309', 'League Division': 'La Liga', 'League Apps': 1, 'League Goals': 0, 'Cup Apps': 2.0, 'Cup Goals': 0.0, 'Continental Apps': 3.0, 'Continental Goals': 0.0, 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Valencia",
+      "league_apps": 25,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Valencia', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 25, 'League Goals': 1, 'Cup Apps': 8.0, 'Cup Goals': 0.0, 'Continental Apps': 10.0, 'Continental Goals': 1.0, 'Total Apps': 43, 'Total Goals': 2}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 326,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 326, 'League Goals': 25, 'Cup Apps': 39.0, 'Cup Goals': 0.0, 'Continental Apps': 97.0, 'Continental Goals': 16.0, 'Total Apps': 462, 'Total Goals': 41}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Iv\u00e1n Helguera - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"661d618a-9e36-4060-a6f2-ac4be59d67f3\",\"",
+  "season_id": "2001",
+  "award_year": 2001
+}

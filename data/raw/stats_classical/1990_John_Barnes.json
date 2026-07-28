@@ -1,0 +1,175 @@
+{
+  "player_name_raw": "John Barnes",
+  "fetch_status": "ok",
+  "wikipedia_title": "John_Barnes",
+  "url": "https://en.wikipedia.org/wiki/John_Barnes",
+  "position": "Left winger",
+  "birth_year": 1963,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1981\u201382",
+      "club": "Watford",
+      "league_apps": 36,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Watford', 'Season Season': '1981\u201382', 'League Division': 'Second Division', 'League Apps': 36, 'League Goals': 13, 'FA Cup Apps': 3, 'FA Cup Goals': 0, 'League Cup Apps': 5, 'League Cup Goals': 1, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 44, 'Total Goals': 14}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Watford",
+      "league_apps": 42,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Watford', 'Season Season': '1982\u201383', 'League Division': 'First Division', 'League Apps': 42, 'League Goals': 10, 'FA Cup Apps': 4, 'FA Cup Goals': 1, 'League Cup Apps': 3, 'League Cup Goals': 0, 'Europe Apps': 4, 'Europe Goals': 2, 'Total Apps': 53, 'Total Goals': 13}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Watford",
+      "league_apps": 39,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Watford', 'Season Season': '1983\u201384', 'League Division': 'First Division', 'League Apps': 39, 'League Goals': 11, 'FA Cup Apps': 7, 'FA Cup Goals': 4, 'League Cup Apps': 2, 'League Cup Goals': 1, 'Europe Apps': 6, 'Europe Goals': 0, 'Total Apps': 54, 'Total Goals': 16}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Watford",
+      "league_apps": 40,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Watford', 'Season Season': '1984\u201385', 'League Division': 'First Division', 'League Apps': 40, 'League Goals': 12, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'League Cup Apps': 5, 'League Cup Goals': 3, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 47, 'Total Goals': 15}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Watford",
+      "league_apps": 39,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Watford', 'Season Season': '1985\u201386', 'League Division': 'First Division', 'League Apps': 39, 'League Goals': 9, 'FA Cup Apps': 8, 'FA Cup Goals': 3, 'League Cup Apps': 3, 'League Cup Goals': 1, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 50, 'Total Goals': 13}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Watford",
+      "league_apps": 37,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Watford', 'Season Season': '1986\u201387', 'League Division': 'First Division', 'League Apps': 37, 'League Goals': 10, 'FA Cup Apps': 7, 'FA Cup Goals': 3, 'League Cup Apps': 3, 'League Cup Goals': 1, 'Europe Apps': 1, 'Europe Goals': 0, 'Total Apps': 48, 'Total Goals': 14}"
+    },
+    {
+      "season": "Total",
+      "club": "Watford",
+      "league_apps": 233,
+      "league_goals": 65,
+      "raw": "{'Club Club': 'Watford', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 233, 'League Goals': 65, 'FA Cup Apps': 31, 'FA Cup Goals': 11, 'League Cup Apps': 21, 'League Cup Goals': 7, 'Europe Apps': 11, 'Europe Goals': 2, 'Total Apps': 296, 'Total Goals': 85}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Liverpool",
+      "league_apps": 38,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1987\u201388', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 15, 'FA Cup Apps': 7, 'FA Cup Goals': 2, 'League Cup Apps': 3, 'League Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 48, 'Total Goals': 17}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Liverpool",
+      "league_apps": 33,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1988\u201389', 'League Division': 'First Division', 'League Apps': 33, 'League Goals': 8, 'FA Cup Apps': 6, 'FA Cup Goals': 3, 'League Cup Apps': 3, 'League Cup Goals': 2, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 42, 'Total Goals': 13}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Liverpool",
+      "league_apps": 34,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1989\u201390', 'League Division': 'First Division', 'League Apps': 34, 'League Goals': 22, 'FA Cup Apps': 8, 'FA Cup Goals': 5, 'League Cup Apps': 2, 'League Cup Goals': 1, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 44, 'Total Goals': 28}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Liverpool",
+      "league_apps": 35,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1990\u201391', 'League Division': 'First Division', 'League Apps': 35, 'League Goals': 16, 'FA Cup Apps': 7, 'FA Cup Goals': 1, 'League Cup Apps': 2, 'League Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 44, 'Total Goals': 17}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Liverpool",
+      "league_apps": 12,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1991\u201392', 'League Division': 'First Division', 'League Apps': 12, 'League Goals': 1, 'FA Cup Apps': 4, 'FA Cup Goals': 3, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Europe Apps': 1, 'Europe Goals': 0, 'Total Apps': 17, 'Total Goals': 4}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Liverpool",
+      "league_apps": 27,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1992\u201393', 'League Division': 'Premier League', 'League Apps': 27, 'League Goals': 5, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'League Cup Apps': 2, 'League Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 31, 'Total Goals': 5}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Liverpool",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1993\u201394', 'League Division': 'Premier League', 'League Apps': 26, 'League Goals': 3, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'League Cup Apps': 2, 'League Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 30, 'Total Goals': 3}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Liverpool",
+      "league_apps": 38,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1994\u201395', 'League Division': 'Premier League', 'League Apps': 38, 'League Goals': 7, 'FA Cup Apps': 6, 'FA Cup Goals': 2, 'League Cup Apps': 6, 'League Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 50, 'Total Goals': 9}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Liverpool",
+      "league_apps": 36,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1995\u201396', 'League Division': 'Premier League', 'League Apps': 36, 'League Goals': 3, 'FA Cup Apps': 7, 'FA Cup Goals': 0, 'League Cup Apps': 3, 'League Cup Goals': 0, 'Europe Apps': 4, 'Europe Goals': 0, 'Total Apps': 50, 'Total Goals': 3}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Liverpool",
+      "league_apps": 35,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': '1996\u201397', 'League Division': 'Premier League', 'League Apps': 35, 'League Goals': 4, 'FA Cup Apps': 2, 'FA Cup Goals': 0, 'League Cup Apps': 3, 'League Cup Goals': 0, 'Europe Apps': 7, 'Europe Goals': 3, 'Total Apps': 47, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Liverpool",
+      "league_apps": 314,
+      "league_goals": 84,
+      "raw": "{'Club Club': 'Liverpool', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 314, 'League Goals': 84, 'FA Cup Apps': 51, 'FA Cup Goals': 16, 'League Cup Apps': 26, 'League Cup Goals': 3, 'Europe Apps': 12, 'Europe Goals': 3, 'Total Apps': 403, 'Total Goals': 106}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Newcastle United",
+      "league_apps": 26,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '1997\u201398', 'League Division': 'Premier League', 'League Apps': 26, 'League Goals': 6, 'FA Cup Apps': 5, 'FA Cup Goals': 0, 'League Cup Apps': 3, 'League Cup Goals': 0, 'Europe Apps': 5, 'Europe Goals': 1, 'Total Apps': 39, 'Total Goals': 7}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Newcastle United",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': '1998\u201399', 'League Division': 'Premier League', 'League Apps': 1, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Newcastle United",
+      "league_apps": 27,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Newcastle United', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 27, 'League Goals': 6, 'FA Cup Apps': 5, 'FA Cup Goals': 0, 'League Cup Apps': 3, 'League Cup Goals': 0, 'Europe Apps': 5, 'Europe Goals': 1, 'Total Apps': 40, 'Total Goals': 7}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Charlton Athletic",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Charlton Athletic', 'Season Season': '1998\u201399', 'League Division': 'Premier League', 'League Apps': 12, 'League Goals': 0, 'FA Cup Apps': 0, 'FA Cup Goals': 0, 'League Cup Apps': 0, 'League Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Total Apps': 12, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 586,
+      "league_goals": 155,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 586, 'League Goals': 155, 'FA Cup Apps': 87, 'FA Cup Goals': 27, 'League Cup Apps': 50, 'League Cup Goals': 10, 'Europe Apps': 28, 'Europe Goals': 6, 'Total Apps': 751, 'Total Goals': 198}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>John Barnes - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"0114e49c-4069-4dc0-a8b9-d6999a5ec33c\",\"wg",
+  "season_id": "1990",
+  "award_year": 1990
+}

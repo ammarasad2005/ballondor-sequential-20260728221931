@@ -1,0 +1,175 @@
+{
+  "player_name_raw": "Olaf Thon",
+  "fetch_status": "ok",
+  "wikipedia_title": "Olaf_Thon",
+  "url": "https://en.wikipedia.org/wiki/Olaf_Thon",
+  "position": "Midfielder defender",
+  "birth_year": 1966,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1983\u201384",
+      "club": "Schalke 04",
+      "league_apps": 38,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1983\u201384', 'League Division': '2. Bundesliga', 'League Apps': 38, 'League Goals': 14, 'Cup Apps': 7, 'Cup Goals': 4, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 18}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Schalke 04",
+      "league_apps": 34,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1984\u201385', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 10, 'Cup Apps': 4, 'Cup Goals': 2, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 12}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Schalke 04",
+      "league_apps": 34,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1985\u201386', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 10, 'Cup Apps': 4, 'Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 10}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Schalke 04",
+      "league_apps": 33,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1986\u201387', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 8, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 8}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Schalke 04",
+      "league_apps": 28,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1987\u201388', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 14, 'Cup Apps': 1, 'Cup Goals': 2, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 16}"
+    },
+    {
+      "season": "Total",
+      "club": "Schalke 04",
+      "league_apps": 167,
+      "league_goals": 56,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 167, 'League Goals': 56, 'Cup Apps': 17, 'Cup Goals': 8, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 184, 'Total Goals': 64}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1988\u201389', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 8, 'Cup Apps': 2, 'Cup Goals': 5, 'Europe Apps': '8', 'Europe Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 18}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Bayern Munich",
+      "league_apps": 20,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1989\u201390', 'League Division': 'Bundesliga', 'League Apps': 20, 'League Goals': 8, 'Cup Apps': 2, 'Cup Goals': 0, 'Europe Apps': '4', 'Europe Goals': '1', 'Other Apps': '1[a]', 'Other Goals': '0', 'Total Apps': 27, 'Total Goals': 9}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Bayern Munich",
+      "league_apps": 25,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1990\u201391', 'League Division': 'Bundesliga', 'League Apps': 25, 'League Goals': 6, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': '6', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 6}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Bayern Munich",
+      "league_apps": 24,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1991\u201392', 'League Division': 'Bundesliga', 'League Apps': 24, 'League Goals': 2, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 2}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1992\u201393', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 5, 'Cup Apps': 2, 'Cup Goals': 1, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 6}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Bayern Munich",
+      "league_apps": 15,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1993\u201394', 'League Division': 'Bundesliga', 'League Apps': 15, 'League Goals': 1, 'Cup Apps': 2, 'Cup Goals': 0, 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 17, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 148,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 148, 'League Goals': 30, 'Cup Apps': 8, 'Cup Goals': 6, 'Europe Apps': '20', 'Europe Goals': '6', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 177, 'Total Goals': 42}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Schalke 04",
+      "league_apps": 26,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1994\u201395', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 1, 'Cup Apps': 3, 'Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 1}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Schalke 04",
+      "league_apps": 30,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1995\u201396', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 3, 'Cup Apps': 3, 'Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 3}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Schalke 04",
+      "league_apps": 33,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1996\u201397', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 2, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': '12', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 2}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Schalke 04",
+      "league_apps": 29,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1997\u201398', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 1, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': '6', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 2}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Schalke 04",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1998\u201399', 'League Division': 'Bundesliga', 'League Apps': 16, 'League Goals': 2, 'Cup Apps': 2, 'Cup Goals': 0, 'Europe Apps': '1', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 2}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Schalke 04",
+      "league_apps": 23,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '1999\u20132000', 'League Division': 'Bundesliga', 'League Apps': 23, 'League Goals': 1, 'Cup Apps': 2, 'Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 1}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Schalke 04",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '2000\u201301', 'League Division': 'Bundesliga', 'League Apps': 4, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Schalke 04",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': '2001\u201302', 'League Division': 'Bundesliga', 'League Apps': 5, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': '3', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Schalke 04",
+      "league_apps": 166,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Schalke 04', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 166, 'League Goals': 10, 'Cup Apps': 12, 'Cup Goals': 0, 'Europe Apps': '22', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 200, 'Total Goals': 11}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 481,
+      "league_goals": 96,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 481, 'League Goals': 96, 'Cup Apps': 37, 'Cup Goals': 14, 'Europe Apps': '42', 'Europe Goals': '7', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 561, 'Total Goals': 117}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Olaf Thon - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"662b5815-401d-4d69-b995-0ed40f20b197\",\"wgCa",
+  "season_id": "1997",
+  "award_year": 1997
+}

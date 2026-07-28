@@ -1,0 +1,182 @@
+{
+  "player_name_raw": "Oliver Kahn",
+  "fetch_status": "ok",
+  "wikipedia_title": "Oliver_Kahn",
+  "url": "https://en.wikipedia.org/wiki/Oliver_Kahn",
+  "position": "Goalkeeper",
+  "birth_year": 1969,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1987\u201388",
+      "club": "Karlsruher SC",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Karlsruher SC', 'Season Season': '1987\u201388', 'League Division': 'Bundesliga', 'League Apps': 2, 'League Goals': 0, 'DFB-Pokal Apps': 0, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '\u2014', 'DFL-Ligapokal Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Karlsruher SC",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Karlsruher SC', 'Season Season': '1988\u201389', 'League Division': 'Bundesliga', 'League Apps': 2, 'League Goals': 0, 'DFB-Pokal Apps': 0, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '\u2014', 'DFL-Ligapokal Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Karlsruher SC",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Karlsruher SC', 'Season Season': '1989\u201390', 'League Division': 'Bundesliga', 'League Apps': 0, 'League Goals': 0, 'DFB-Pokal Apps': 0, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '\u2014', 'DFL-Ligapokal Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Karlsruher SC",
+      "league_apps": 22,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Karlsruher SC', 'Season Season': '1990\u201391', 'League Division': 'Bundesliga', 'League Apps': 22, 'League Goals': 0, 'DFB-Pokal Apps': 0, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '\u2014', 'DFL-Ligapokal Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Karlsruher SC",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Karlsruher SC', 'Season Season': '1991\u201392', 'League Division': 'Bundesliga', 'League Apps': 37, 'League Goals': 0, 'DFB-Pokal Apps': 2, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '\u2014', 'DFL-Ligapokal Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 0}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Karlsruher SC",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Karlsruher SC', 'Season Season': '1992\u201393', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': 5, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '\u2014', 'DFL-Ligapokal Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Karlsruher SC",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Karlsruher SC', 'Season Season': '1993\u201394', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 0, 'DFB-Pokal Apps': 3, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '\u2014', 'DFL-Ligapokal Goals': '\u2014', 'Europe Apps': '10[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Karlsruher SC",
+      "league_apps": 128,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Karlsruher SC', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 128, 'League Goals': 0, 'DFB-Pokal Apps': 10, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '\u2014', 'DFL-Ligapokal Goals': '\u2014', 'Europe Apps': '10', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 148, 'Total Goals': 0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Bayern Munich",
+      "league_apps": 23,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1994\u201395', 'League Division': 'Bundesliga', 'League Apps': 23, 'League Goals': 0, 'DFB-Pokal Apps': 1, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '\u2014', 'DFL-Ligapokal Goals': '\u2014', 'Europe Apps': '5[b]', 'Europe Goals': '0', 'Other Apps': '1[c]', 'Other Goals': '0', 'Total Apps': 30, 'Total Goals': 0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1995\u201396', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 0, 'DFB-Pokal Apps': 2, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '\u2014', 'DFL-Ligapokal Goals': '\u2014', 'Europe Apps': '12[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1996\u201397', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 0, 'DFB-Pokal Apps': 4, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '\u2014', 'DFL-Ligapokal Goals': '\u2014', 'Europe Apps': '2[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1997\u201398', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 0, 'DFB-Pokal Apps': 6, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '2', 'DFL-Ligapokal Goals': '0', 'Europe Apps': '8[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Bayern Munich",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1998\u201399', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 0, 'DFB-Pokal Apps': 6, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '2', 'DFL-Ligapokal Goals': '0', 'Europe Apps': '13[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 51, 'Total Goals': 0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Bayern Munich",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1999\u20132000', 'League Division': 'Bundesliga', 'League Apps': 27, 'League Goals': 0, 'DFB-Pokal Apps': 5, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '0', 'DFL-Ligapokal Goals': '0', 'Europe Apps': '13[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2000\u201301', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 0, 'DFB-Pokal Apps': 2, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '2', 'DFL-Ligapokal Goals': '0', 'Europe Apps': '16[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 52, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2001\u201302', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 0, 'DFB-Pokal Apps': 4, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '1', 'DFL-Ligapokal Goals': '0', 'Europe Apps': '12[b]', 'Europe Goals': '0', 'Other Apps': '2[d]', 'Other Goals': '0', 'Total Apps': 51, 'Total Goals': 0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Bayern Munich",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2002\u201303', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 0, 'DFB-Pokal Apps': 6, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '0', 'DFL-Ligapokal Goals': '0', 'Europe Apps': '6[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Bayern Munich",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2003\u201304', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 0, 'DFB-Pokal Apps': 4, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '1', 'DFL-Ligapokal Goals': '0', 'Europe Apps': '8[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2004\u201305', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 0, 'DFB-Pokal Apps': 5, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '2', 'DFL-Ligapokal Goals': '0', 'Europe Apps': '10[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 49, 'Total Goals': 0}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Bayern Munich",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2005\u201306', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 0, 'DFB-Pokal Apps': 6, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '0', 'DFL-Ligapokal Goals': '0', 'Europe Apps': '7[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2006\u201307', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 0, 'DFB-Pokal Apps': 1, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '1', 'DFL-Ligapokal Goals': '0', 'Europe Apps': '9[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 0}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Bayern Munich",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2007\u201308', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 0, 'DFB-Pokal Apps': 5, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '2', 'DFL-Ligapokal Goals': '0', 'Europe Apps': '9[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 429,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 429, 'League Goals': 0, 'DFB-Pokal Apps': 57, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '13', 'DFL-Ligapokal Goals': '0', 'Europe Apps': '130', 'Europe Goals': '0', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 632, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 557,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 557, 'League Goals': 0, 'DFB-Pokal Apps': 67, 'DFB-Pokal Goals': 0, 'DFL-Ligapokal Apps': '13', 'DFL-Ligapokal Goals': '0', 'Europe Apps': '140', 'Europe Goals': '0', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': 780, 'Total Goals': 0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Oliver Kahn - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"7a7fd770-6dd7-470b-9828-c8846b689965\",\"wg",
+  "season_id": "2001",
+  "award_year": 2001
+}

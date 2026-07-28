@@ -1,0 +1,189 @@
+{
+  "player_name_raw": "Mario Mand\u017euki\u0107",
+  "fetch_status": "ok",
+  "wikipedia_title": "Mario_Mand\u017euki\u0107",
+  "url": "https://en.wikipedia.org/wiki/Mario_Mand\u017euki\u0107",
+  "position": "Striker",
+  "birth_year": 1986,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2004\u201305",
+      "club": "Marsonia",
+      "league_apps": 23,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Marsonia', 'Season Season': '2004\u201305', 'League Division': 'Druga HNL', 'League Apps': '23', 'League Goals': '14', 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 14}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "NK Zagreb",
+      "league_apps": 28,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'NK Zagreb', 'Season Season': '2005\u201306', 'League Division': 'Prva HNL', 'League Apps': '28', 'League Goals': '3', 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 3}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "NK Zagreb",
+      "league_apps": 23,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'NK Zagreb', 'Season Season': '2006\u201307', 'League Division': 'Prva HNL', 'League Apps': '23', 'League Goals': '11', 'National cup Apps': '4', 'National cup Goals': '3', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 14}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "NK Zagreb",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'NK Zagreb', 'Season Season': '2007\u201308', 'League Division': 'Prva HNL', 'League Apps': '\u2014', 'League Goals': '\u2014', 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "NK Zagreb",
+      "league_apps": 51,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'NK Zagreb', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '51', 'League Goals': '14', 'National cup Apps': '4', 'National cup Goals': '3', 'Continental Apps': '2', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 57, 'Total Goals': 17}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Dinamo Zagreb",
+      "league_apps": 29,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '2007\u201308', 'League Division': 'Prva HNL', 'League Apps': '29', 'League Goals': '12', 'National cup Apps': '8', 'National cup Goals': '5', 'Continental Apps': '10', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 20}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Dinamo Zagreb",
+      "league_apps": 28,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '2008\u201309', 'League Division': 'Prva HNL', 'League Apps': '28', 'League Goals': '16', 'National cup Apps': '5', 'National cup Goals': '5', 'Continental Apps': '10', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 43, 'Total Goals': 24}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Dinamo Zagreb",
+      "league_apps": 24,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '2009\u201310', 'League Division': 'Prva HNL', 'League Apps': '24', 'League Goals': '14', 'National cup Apps': '3', 'National cup Goals': '0', 'Continental Apps': '10', 'Continental Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 17}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Dinamo Zagreb",
+      "league_apps": null,
+      "league_goals": null,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': '2010\u201311', 'League Division': 'Prva HNL', 'League Apps': '\u2014', 'League Goals': '\u2014', 'National cup Apps': '\u2014', 'National cup Goals': '\u2014', 'Continental Apps': '1', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Dinamo Zagreb",
+      "league_apps": 81,
+      "league_goals": 42,
+      "raw": "{'Club Club': 'Dinamo Zagreb', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '81', 'League Goals': '42', 'National cup Apps': '16', 'National cup Goals': '10', 'Continental Apps': '31', 'Continental Goals': '11', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 128, 'Total Goals': 63}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "VfL Wolfsburg",
+      "league_apps": 24,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'VfL Wolfsburg', 'Season Season': '2010\u201311', 'League Division': 'Bundesliga', 'League Apps': '24', 'League Goals': '8', 'National cup Apps': '3', 'National cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 8}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "VfL Wolfsburg",
+      "league_apps": 32,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'VfL Wolfsburg', 'Season Season': '2011\u201312', 'League Division': 'Bundesliga', 'League Apps': '32', 'League Goals': '12', 'National cup Apps': '1', 'National cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 12}"
+    },
+    {
+      "season": "Total",
+      "club": "VfL Wolfsburg",
+      "league_apps": 56,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'VfL Wolfsburg', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '56', 'League Goals': '20', 'National cup Apps': '4', 'National cup Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 60, 'Total Goals': 20}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Bayern Munich",
+      "league_apps": 24,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2012\u201313', 'League Division': 'Bundesliga', 'League Apps': '24', 'League Goals': '15', 'National cup Apps': '5', 'National cup Goals': '3', 'Continental Apps': '10', 'Continental Goals': '3', 'Other Apps': '1[a]', 'Other Goals': '1', 'Total Apps': 40, 'Total Goals': 22}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Bayern Munich",
+      "league_apps": 30,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '2013\u201314', 'League Division': 'Bundesliga', 'League Apps': '30', 'League Goals': '18', 'National cup Apps': '4', 'National cup Goals': '4', 'Continental Apps': '10', 'Continental Goals': '3', 'Other Apps': '4[b]', 'Other Goals': '1', 'Total Apps': 48, 'Total Goals': 26}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 54,
+      "league_goals": 33,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '54', 'League Goals': '33', 'National cup Apps': '9', 'National cup Goals': '7', 'Continental Apps': '20', 'Continental Goals': '6', 'Other Apps': '5', 'Other Goals': '2', 'Total Apps': 88, 'Total Goals': 48}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Atl\u00e9tico Madrid",
+      "league_apps": 28,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Atl\u00e9tico Madrid', 'Season Season': '2014\u201315', 'League Division': 'La Liga', 'League Apps': '28', 'League Goals': '12', 'National cup Apps': '3', 'National cup Goals': '2', 'Continental Apps': '10', 'Continental Goals': '5', 'Other Apps': '2[c]', 'Other Goals': '1', 'Total Apps': 43, 'Total Goals': 20}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Juventus",
+      "league_apps": 27,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2015\u201316', 'League Division': 'Serie A', 'League Apps': '27', 'League Goals': '10', 'National cup Apps': '3', 'National cup Goals': '0', 'Continental Apps': '5', 'Continental Goals': '2', 'Other Apps': '1[d]', 'Other Goals': '1', 'Total Apps': 36, 'Total Goals': 13}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Juventus",
+      "league_apps": 34,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2016\u201317', 'League Division': 'Serie A', 'League Apps': '34', 'League Goals': '7', 'National cup Apps': '4', 'National cup Goals': '1', 'Continental Apps': '11', 'Continental Goals': '3', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 50, 'Total Goals': 11}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Juventus",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2017\u201318', 'League Division': 'Serie A', 'League Apps': '32', 'League Goals': '5', 'National cup Apps': '4', 'National cup Goals': '1', 'Continental Apps': '6', 'Continental Goals': '4', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 10}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Juventus",
+      "league_apps": 25,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2018\u201319', 'League Division': 'Serie A', 'League Apps': '25', 'League Goals': '9', 'National cup Apps': '0', 'National cup Goals': '0', 'Continental Apps': '8', 'Continental Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 33, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 118,
+      "league_goals": 31,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': '118', 'League Goals': '31', 'National cup Apps': '11', 'National cup Goals': '2', 'Continental Apps': '30', 'Continental Goals': '10', 'Other Apps': '3', 'Other Goals': '1', 'Total Apps': 162, 'Total Goals': 44}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Al-Duhail",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Al-Duhail', 'Season Season': '2019\u201320', 'League Division': 'Qatar Stars League', 'League Apps': '5', 'League Goals': '0', 'National cup Apps': '1', 'National cup Goals': '0', 'Continental Apps': '2', 'Continental Goals': '1', 'Other Apps': '2[e]', 'Other Goals': '1', 'Total Apps': 10, 'Total Goals': 2}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "AC Milan",
+      "league_apps": 10,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2020\u201321', 'League Division': 'Serie A', 'League Apps': '10', 'League Goals': '0', 'National cup Apps': '0', 'National cup Goals': '0', 'Continental Apps': '1', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 426,
+      "league_goals": 166,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': '426', 'League Goals': '166', 'National cup Apps': '48', 'National cup Goals': '24', 'Continental Apps': '96', 'Continental Goals': '33', 'Other Apps': '12', 'Other Goals': '5', 'Total Apps': 582, 'Total Goals': 228}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Mario Mand\u017euki\u0107 - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"48a4ecb1-5541-4412-a455-5a187462951c\"",
+  "season_id": "2018",
+  "award_year": 2018
+}

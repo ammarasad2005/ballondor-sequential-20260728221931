@@ -1,0 +1,154 @@
+{
+  "player_name_raw": "Ramaz Shengelia",
+  "fetch_status": "ok",
+  "wikipedia_title": "Ramaz_Shengelia",
+  "url": "https://en.wikipedia.org/wiki/Ramaz_Shengelia",
+  "position": "Striker",
+  "birth_year": 1957,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1973",
+      "club": "Torpedo Kutaisi",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Torpedo Kutaisi', 'Season Season': '1973', 'League Apps': 1, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe[a] Apps': '\u2013', 'Europe[a] Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1974",
+      "club": "Torpedo Kutaisi",
+      "league_apps": 14,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Torpedo Kutaisi', 'Season Season': '1974', 'League Apps': 14, 'League Goals': 2, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe[a] Apps': '\u2013', 'Europe[a] Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 14, 'Total Goals': 2}"
+    },
+    {
+      "season": "1975",
+      "club": "Torpedo Kutaisi",
+      "league_apps": 33,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Torpedo Kutaisi', 'Season Season': '1975', 'League Apps': 33, 'League Goals': 15, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe[a] Apps': '\u2013', 'Europe[a] Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 15}"
+    },
+    {
+      "season": "1976",
+      "club": "Torpedo Kutaisi",
+      "league_apps": 27,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Torpedo Kutaisi', 'Season Season': '1976', 'League Apps': 27, 'League Goals': 12, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe[a] Apps': '\u2013', 'Europe[a] Goals': '\u2013', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 27, 'Total Goals': 12}"
+    },
+    {
+      "season": "Total",
+      "club": "Torpedo Kutaisi",
+      "league_apps": 75,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Torpedo Kutaisi', 'Season Season': 'Total', 'League Apps': 75, 'League Goals': 29, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe[a] Apps': '\u2212', 'Europe[a] Goals': '\u2212', 'Other[b] Apps': '\u2212', 'Other[b] Goals': '\u2212', 'Total Apps': 76, 'Total Goals': 29}"
+    },
+    {
+      "season": "1977",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 24,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': '1977', 'League Apps': 24, 'League Goals': 5, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe[a] Apps': '5', 'Europe[a] Goals': '2', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 29, 'Total Goals': 7}"
+    },
+    {
+      "season": "1978",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 28,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': '1978', 'League Apps': 28, 'League Goals': 15, 'Cup Apps': 6, 'Cup Goals': 1, 'Europe[a] Apps': '4', 'Europe[a] Goals': '2', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 18}"
+    },
+    {
+      "season": "1979",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 29,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': '1979', 'League Apps': 29, 'League Goals': 8, 'Cup Apps': 8, 'Cup Goals': 3, 'Europe[a] Apps': '4', 'Europe[a] Goals': '1', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 41, 'Total Goals': 12}"
+    },
+    {
+      "season": "1980",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 32,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': '1980', 'League Apps': 32, 'League Goals': 17, 'Cup Apps': 6, 'Cup Goals': 1, 'Europe[a] Apps': '4', 'Europe[a] Goals': '2', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 42, 'Total Goals': 20}"
+    },
+    {
+      "season": "1981",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 31,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': '1981', 'League Apps': 31, 'League Goals': 23, 'Cup Apps': 1, 'Cup Goals': 1, 'Europe[a] Apps': '9', 'Europe[a] Goals': '7', 'Other[b] Apps': '2', 'Other[b] Goals': '4', 'Total Apps': 43, 'Total Goals': 36}"
+    },
+    {
+      "season": "1982",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 26,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': '1982', 'League Apps': 26, 'League Goals': 16, 'Cup Apps': 2, 'Cup Goals': 1, 'Europe[a] Apps': '6', 'Europe[a] Goals': '2', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 19}"
+    },
+    {
+      "season": "1983",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 27,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': '1983', 'League Apps': 27, 'League Goals': 11, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe[a] Apps': '0', 'Europe[a] Goals': '0', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 11}"
+    },
+    {
+      "season": "1984",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': '1984', 'League Apps': 29, 'League Goals': 9, 'Cup Apps': 3, 'Cup Goals': 2, 'Europe[a] Apps': '0', 'Europe[a] Goals': '0', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 11}"
+    },
+    {
+      "season": "1985",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 22,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': '1985', 'League Apps': 22, 'League Goals': 6, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe[a] Apps': '0', 'Europe[a] Goals': '0', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 23, 'Total Goals': 6}"
+    },
+    {
+      "season": "1986",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': '1986', 'League Apps': 3, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe[a] Apps': '0', 'Europe[a] Goals': '0', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "1987",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 27,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': '1987', 'League Apps': 27, 'League Goals': 9, 'Cup Apps': 4, 'Cup Goals': 3, 'Europe[a] Apps': '6', 'Europe[a] Goals': '3', 'Other[b] Apps': '2', 'Other[b] Goals': '1', 'Total Apps': 39, 'Total Goals': 16}"
+    },
+    {
+      "season": "1988",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 5,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': '1988', 'League Apps': 5, 'League Goals': 1, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe[a] Apps': '0', 'Europe[a] Goals': '0', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 6, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Dinamo Tbilisi",
+      "league_apps": 283,
+      "league_goals": 120,
+      "raw": "{'Club Club': 'Dinamo Tbilisi', 'Season Season': 'Total', 'League Apps': 283, 'League Goals': 120, 'Cup Apps': 34, 'Cup Goals': 12, 'Europe[a] Apps': '38', 'Europe[a] Goals': '19', 'Other[b] Apps': '2', 'Other[b] Goals': '1', 'Total Apps': 357, 'Total Goals': 156}"
+    },
+    {
+      "season": "1989",
+      "club": "Holmsund",
+      "league_apps": 13,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Holmsund', 'Season Season': '1989', 'League Apps': 13, 'League Goals': 2, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe[a] Apps': '0', 'Europe[a] Goals': '0', 'Other[b] Apps': '\u2013', 'Other[b] Goals': '\u2013', 'Total Apps': 13, 'Total Goals': 2}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 371,
+      "league_goals": 151,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Apps': 371, 'League Goals': 151, 'Cup Apps': 35, 'Cup Goals': 12, 'Europe[a] Apps': '37', 'Europe[a] Goals': '20', 'Other[b] Apps': '2', 'Other[b] Goals': '1', 'Total Apps': 445, 'Total Goals': 188}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Ramaz Shengelia - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"bcf5b18f-46fb-4000-a837-d0704b1d0397\"",
+  "season_id": "1981",
+  "award_year": 1981
+}

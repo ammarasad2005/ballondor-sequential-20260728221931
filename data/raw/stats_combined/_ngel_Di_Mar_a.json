@@ -1,0 +1,222 @@
+{
+  "player_name_raw": "\u00c1ngel Di Mar\u00eda",
+  "fetch_status": "ok",
+  "wikipedia_title": "\u00c1ngel_Di_Mar\u00eda",
+  "url": "https://en.wikipedia.org/wiki/\u00c1ngel_Di_Mar\u00eda",
+  "position": "Winger attacking midfielder",
+  "birth_year": 1988,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2005\u201306",
+      "club": "Rosario Central",
+      "league_apps": 10,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rosario Central', 'Season Season': '2005\u201306', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 10, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '4[c]', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 14, 'Total Goals': 0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Rosario Central",
+      "league_apps": 25,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Rosario Central', 'Season Season': '2006\u201307', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 25, 'League Goals': 6, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 25, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Rosario Central",
+      "league_apps": 35,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Rosario Central', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 35, 'League Goals': 6, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '4', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 39, 'Total Goals': 6}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Benfica",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '2007\u201308', 'League Division': 'Primeira Liga', 'League Apps': 26, 'League Goals': 0, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Continental Apps': '11[d]', 'Continental Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 1}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Benfica",
+      "league_apps": 24,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '2008\u201309', 'League Division': 'Primeira Liga', 'League Apps': 24, 'League Goals': 2, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '5', 'League cup[b] Goals': '1', 'Continental Apps': '5[e]', 'Continental Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 35, 'Total Goals': 4}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Benfica",
+      "league_apps": 26,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '2009\u201310', 'League Division': 'Primeira Liga', 'League Apps': 26, 'League Goals': 5, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '1', 'Continental Apps': '14[f]', 'Continental Goals': '4', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Benfica",
+      "league_apps": 76,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 76, 'League Goals': 7, 'National cup[a] Apps': '7', 'National cup[a] Goals': '0', 'League cup[b] Apps': '12', 'League cup[b] Goals': '2', 'Continental Apps': '30', 'Continental Goals': '6', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 125, 'Total Goals': 15}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Real Madrid",
+      "league_apps": 35,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2010\u201311', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 6, 'National cup[a] Apps': '8', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '10[g]', 'Continental Goals': '3', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 53, 'Total Goals': 9}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Real Madrid",
+      "league_apps": 23,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2011\u201312', 'League Division': 'La Liga', 'League Apps': 23, 'League Goals': 5, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '7[g]', 'Continental Goals': '2', 'Other Apps': '2[h]', 'Other Goals': '0', 'Total Apps': 32, 'Total Goals': 7}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Real Madrid",
+      "league_apps": 32,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2012\u201313', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 7, 'National cup[a] Apps': '7', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '11[g]', 'Continental Goals': '0', 'Other Apps': '2[h]', 'Other Goals': '1', 'Total Apps': 52, 'Total Goals': 9}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Real Madrid",
+      "league_apps": 34,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2013\u201314', 'League Division': 'La Liga', 'League Apps': 34, 'League Goals': 4, 'National cup[a] Apps': '7', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '11[g]', 'Continental Goals': '3', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 11}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Real Madrid",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': '2014\u201315', 'League Division': 'La Liga', 'League Apps': 0, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '1[h]', 'Other Goals': '0', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Real Madrid",
+      "league_apps": 124,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Real Madrid', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 124, 'League Goals': 22, 'National cup[a] Apps': '22', 'National cup[a] Goals': '5', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '39', 'Continental Goals': '8', 'Other Apps': '5', 'Other Goals': '1', 'Total Apps': 190, 'Total Goals': 36}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Manchester United",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Manchester United', 'Season Season': '2014\u201315', 'League Division': 'Premier League', 'League Apps': 27, 'League Goals': 3, 'National cup[a] Apps': '5', 'National cup[a] Goals': '1', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 4}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Paris Saint-Germain",
+      "league_apps": 29,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2015\u201316', 'League Division': 'Ligue 1', 'League Apps': 29, 'League Goals': 10, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '2', 'Continental Apps': '10[g]', 'Continental Goals': '3', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 47, 'Total Goals': 15}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Paris Saint-Germain",
+      "league_apps": 29,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2016\u201317', 'League Division': 'Ligue 1', 'League Apps': 29, 'League Goals': 6, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '3', 'League cup[b] Goals': '3', 'Continental Apps': '7[g]', 'Continental Goals': '4', 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 14}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Paris Saint-Germain",
+      "league_apps": 30,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2017\u201318', 'League Division': 'Ligue 1', 'League Apps': 30, 'League Goals': 11, 'National cup[a] Apps': '6', 'National cup[a] Goals': '7', 'League cup[b] Apps': '4', 'League cup[b] Goals': '2', 'Continental Apps': '5[g]', 'Continental Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 45, 'Total Goals': 21}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Paris Saint-Germain",
+      "league_apps": 30,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2018\u201319', 'League Division': 'Ligue 1', 'League Apps': 30, 'League Goals': 12, 'National cup[a] Apps': '4', 'National cup[a] Goals': '3', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '8[g]', 'Continental Goals': '2', 'Other Apps': '1[i]', 'Other Goals': '2', 'Total Apps': 45, 'Total Goals': 19}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "Paris Saint-Germain",
+      "league_apps": 26,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2019\u201320', 'League Division': 'Ligue 1', 'League Apps': 26, 'League Goals': 8, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Continental Apps': '9[g]', 'Continental Goals': '3', 'Other Apps': '1[i]', 'Other Goals': '1', 'Total Apps': 41, 'Total Goals': 13}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "Paris Saint-Germain",
+      "league_apps": 27,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2020\u201321', 'League Division': 'Ligue 1', 'League Apps': 27, 'League Goals': 4, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '10[g]', 'Continental Goals': '1', 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 43, 'Total Goals': 5}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "Paris Saint-Germain",
+      "league_apps": 26,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2021\u201322', 'League Division': 'Ligue 1', 'League Apps': 26, 'League Goals': 5, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '5[g]', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 31, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Paris Saint-Germain",
+      "league_apps": 197,
+      "league_goals": 56,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 197, 'League Goals': 56, 'National cup[a] Apps': '24', 'National cup[a] Goals': '11', 'League cup[b] Apps': '16', 'League cup[b] Goals': '8', 'Continental Apps': '54', 'Continental Goals': '14', 'Other Apps': '4', 'Other Goals': '3', 'Total Apps': 295, 'Total Goals': 92}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "Juventus",
+      "league_apps": 26,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '2022\u201323', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 4, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '10[j]', 'Continental Goals': '4', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 8}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Benfica",
+      "league_apps": 28,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '2023\u201324', 'League Division': 'Primeira Liga', 'League Apps': 28, 'League Goals': 9, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '2', 'Continental Apps': '11[k]', 'Continental Goals': '5', 'Other Apps': '1[l]', 'Other Goals': '1', 'Total Apps': 48, 'Total Goals': 17}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Benfica",
+      "league_apps": 25,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': '2024\u201325', 'League Division': 'Primeira Liga', 'League Apps': 25, 'League Goals': 8, 'National cup[a] Apps': '3', 'National cup[a] Goals': '3', 'League cup[b] Apps': '3', 'League cup[b] Goals': '3', 'Continental Apps': '9[g]', 'Continental Goals': '1', 'Other Apps': '4[m]', 'Other Goals': '4', 'Total Apps': 44, 'Total Goals': 19}"
+    },
+    {
+      "season": "Total",
+      "club": "Benfica",
+      "league_apps": 53,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Benfica', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 53, 'League Goals': 17, 'National cup[a] Apps': '8', 'National cup[a] Goals': '3', 'League cup[b] Apps': '6', 'League cup[b] Goals': '5', 'Continental Apps': '20', 'Continental Goals': '6', 'Other Apps': '5', 'Other Goals': '5', 'Total Apps': 92, 'Total Goals': 36}"
+    },
+    {
+      "season": "2025",
+      "club": "Rosario Central",
+      "league_apps": 16,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Rosario Central', 'Season Season': '2025', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 16, 'League Goals': 7, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 16, 'Total Goals': 7}"
+    },
+    {
+      "season": "2026",
+      "club": "Rosario Central",
+      "league_apps": 15,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Rosario Central', 'Season Season': '2026', 'League Division': 'Argentine Primera Divisi\u00f3n', 'League Apps': 15, 'League Goals': 5, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '5[c]', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Rosario Central",
+      "league_apps": 31,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Rosario Central', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 31, 'League Goals': 12, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '5', 'Continental Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 14}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 560,
+      "league_goals": 127,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 560, 'League Goals': 127, 'National cup[a] Apps': '72', 'National cup[a] Goals': '20', 'League cup[b] Apps': '34', 'League cup[b] Goals': '15', 'Continental Apps': '162', 'Continental Goals': '40', 'Other Apps': '13', 'Other Goals': '8', 'Total Apps': 851, 'Total Goals': 211}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>\u00c1ngel Di Mar\u00eda - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"e339871c-5af3-493a-bf2b-048c02cf1c08\","
+}

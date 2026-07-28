@@ -1,0 +1,138 @@
+{
+  "player_name_raw": "Georgi Asparuhov",
+  "fetch_status": "ok",
+  "wikipedia_title": "Georgi_Asparuhov",
+  "url": "https://en.wikipedia.org/wiki/Georgi_Asparuhov",
+  "position": "Striker",
+  "birth_year": 1943,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1959\u201360",
+      "club": "Levski Sofia",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Levski Sofia', 'Season Season': '1959\u201360', 'League Apps': 2, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Levski Sofia",
+      "league_apps": 14,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Levski Sofia', 'Season Season': '1960\u201361', 'League Apps': 14, 'League Goals': 3, 'Cup Apps': 1, 'Cup Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 15, 'Total Goals': 3}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Levski Sofia",
+      "league_apps": 7,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Levski Sofia', 'Season Season': '1961\u201362', 'League Apps': 7, 'League Goals': 4, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 7, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Levski Sofia",
+      "league_apps": 23,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Levski Sofia', 'Season Season': 'Total', 'League Apps': 23, 'League Goals': 7, 'Cup Apps': 1, 'Cup Goals': 0, 'Continental Apps': '0', 'Continental Goals': '0', 'Total Apps': 24, 'Total Goals': 7}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Botev Plovdiv",
+      "league_apps": 14,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Botev Plovdiv', 'Season Season': '1961\u201362', 'League Apps': 14, 'League Goals': 5, 'Cup Apps': 2, 'Cup Goals': 1, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 16, 'Total Goals': 6}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Botev Plovdiv",
+      "league_apps": 27,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'Botev Plovdiv', 'Season Season': '1962\u201363', 'League Apps': 27, 'League Goals': 16, 'Cup Apps': 6, 'Cup Goals': 3, 'Continental Apps': '6', 'Continental Goals': '6', 'Total Apps': 39, 'Total Goals': 25}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Botev Plovdiv",
+      "league_apps": 6,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Botev Plovdiv', 'Season Season': '1963\u201364', 'League Apps': 6, 'League Goals': 4, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 6, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Botev Plovdiv",
+      "league_apps": 47,
+      "league_goals": 25,
+      "raw": "{'Club Club': 'Botev Plovdiv', 'Season Season': 'Total', 'League Apps': 47, 'League Goals': 25, 'Cup Apps': 8, 'Cup Goals': 4, 'Continental Apps': '6', 'Continental Goals': '6', 'Total Apps': 61, 'Total Goals': 35}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Levski Sofia",
+      "league_apps": 22,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Levski Sofia', 'Season Season': '1963\u201364', 'League Apps': 22, 'League Goals': 15, 'Cup Apps': 5, 'Cup Goals': 6, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 21}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Levski Sofia",
+      "league_apps": 29,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Levski Sofia', 'Season Season': '1964\u201365', 'League Apps': 29, 'League Goals': 27, 'Cup Apps': 6, 'Cup Goals': 3, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 35, 'Total Goals': 30}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Levski Sofia",
+      "league_apps": 22,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Levski Sofia', 'Season Season': '1965\u201366', 'League Apps': 22, 'League Goals': 13, 'Cup Apps': 0, 'Cup Goals': 0, 'Continental Apps': '4', 'Continental Goals': '5', 'Total Apps': 26, 'Total Goals': 18}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Levski Sofia",
+      "league_apps": 11,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Levski Sofia', 'Season Season': '1966\u201367', 'League Apps': 11, 'League Goals': 7, 'Cup Apps': 5, 'Cup Goals': 3, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 16, 'Total Goals': 10}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Levski Sofia",
+      "league_apps": 25,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Levski Sofia', 'Season Season': '1967\u201368', 'League Apps': 25, 'League Goals': 14, 'Cup Apps': 2, 'Cup Goals': 1, 'Continental Apps': '2', 'Continental Goals': '2', 'Total Apps': 29, 'Total Goals': 17}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Levski Sofia",
+      "league_apps": 27,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Levski Sofia', 'Season Season': '1968\u201369', 'League Apps': 27, 'League Goals': 22, 'Cup Apps': 3, 'Cup Goals': 1, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 23}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Levski Sofia",
+      "league_apps": 24,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Levski Sofia', 'Season Season': '1969\u201370', 'League Apps': 24, 'League Goals': 12, 'Cup Apps': 3, 'Cup Goals': 2, 'Continental Apps': '4', 'Continental Goals': '3', 'Total Apps': 31, 'Total Goals': 17}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Levski Sofia",
+      "league_apps": 16,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Levski Sofia', 'Season Season': '1970\u201371', 'League Apps': 16, 'League Goals': 8, 'Cup Apps': 2, 'Cup Goals': 0, 'Continental Apps': '2', 'Continental Goals': '2', 'Total Apps': 20, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Levski Sofia",
+      "league_apps": 176,
+      "league_goals": 118,
+      "raw": "{'Club Club': 'Levski Sofia', 'Season Season': 'Total', 'League Apps': 176, 'League Goals': 118, 'Cup Apps': 26, 'Cup Goals': 16, 'Continental Apps': '12', 'Continental Goals': '12', 'Total Apps': 214, 'Total Goals': 146}"
+    },
+    {
+      "season": "Career statistics",
+      "club": "Career statistics",
+      "league_apps": 246,
+      "league_goals": 150,
+      "raw": "{'Club Club': 'Career statistics', 'Season Season': 'Career statistics', 'League Apps': 246, 'League Goals': 150, 'Cup Apps': 35, 'Cup Goals': 20, 'Continental Apps': '18', 'Continental Goals': '18', 'Total Apps': 299, 'Total Goals': 188}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Georgi Asparuhov - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"a28b9641-fb25-404b-b69a-f0c581d98495"
+}

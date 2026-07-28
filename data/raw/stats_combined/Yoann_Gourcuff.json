@@ -1,0 +1,173 @@
+{
+  "player_name_raw": "Yoann Gourcuff",
+  "fetch_status": "ok",
+  "wikipedia_title": "Yoann_Gourcuff",
+  "url": "https://en.wikipedia.org/wiki/Yoann_Gourcuff",
+  "position": "Attacking midfielder",
+  "birth_year": 1986,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2003\u201304",
+      "club": "Rennes",
+      "league_apps": 9,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rennes', 'Season Season': '2003\u201304', 'League Division': 'Ligue 1', 'League Apps': 9, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe[c] Apps': '\u2014', 'Europe[c] Goals': '\u2014', 'Other[d] Apps': '\u2014', 'Other[d] Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Rennes",
+      "league_apps": 21,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Rennes', 'Season Season': '2004\u201305', 'League Division': 'Ligue 1', 'League Apps': 21, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe[c] Apps': '\u2014', 'Europe[c] Goals': '\u2014', 'Other[d] Apps': '\u2014', 'Other[d] Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 0}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Rennes",
+      "league_apps": 36,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Rennes', 'Season Season': '2005\u201306', 'League Division': 'Ligue 1', 'League Apps': 36, 'League Goals': 6, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe[c] Apps': '5', 'Europe[c] Goals': '0', 'Other[d] Apps': '\u2014', 'Other[d] Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Rennes",
+      "league_apps": 66,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Rennes', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 66, 'League Goals': 6, 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe[c] Apps': '5', 'Europe[c] Goals': '0', 'Other[d] Apps': '0', 'Other[d] Goals': '0', 'Total Apps': 79, 'Total Goals': 6}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "AC Milan",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2006\u201307', 'League Division': 'Serie A', 'League Apps': 21, 'League Goals': 1, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe[c] Apps': '9', 'Europe[c] Goals': '1', 'Other[d] Apps': '\u2014', 'Other[d] Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 2}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "AC Milan",
+      "league_apps": 15,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2007\u201308', 'League Division': 'Serie A', 'League Apps': 15, 'League Goals': 1, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe[c] Apps': '3', 'Europe[c] Goals': '0', 'Other[d] Apps': '0', 'Other[d] Goals': '0', 'Total Apps': 20, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 36,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 36, 'League Goals': 2, 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe[c] Apps': '12', 'Europe[c] Goals': '1', 'Other[d] Apps': '0', 'Other[d] Goals': '0', 'Total Apps': 54, 'Total Goals': 3}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Bordeaux (loan)",
+      "league_apps": 37,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Bordeaux (loan)', 'Season Season': '2008\u201309', 'League Division': 'Ligue 1', 'League Apps': 37, 'League Goals': 12, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Europe[c] Apps': '7', 'Europe[c] Goals': '2', 'Other[d] Apps': '1', 'Other[d] Goals': '0', 'Total Apps': 49, 'Total Goals': 15}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Bordeaux",
+      "league_apps": 29,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': '2009\u201310', 'League Division': 'Ligue 1', 'League Apps': 29, 'League Goals': 6, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Europe[c] Apps': '8', 'Europe[c] Goals': '2', 'Other[d] Apps': '1', 'Other[d] Goals': '0', 'Total Apps': 43, 'Total Goals': 9}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Bordeaux",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': '2010\u201311', 'League Division': 'Ligue 1', 'League Apps': 3, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe[c] Apps': '\u2014', 'Europe[c] Goals': '\u2014', 'Other[d] Apps': '\u2014', 'Other[d] Goals': '\u2014', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Bordeaux",
+      "league_apps": 32,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Bordeaux', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 32, 'League Goals': 6, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '1', 'Europe[c] Apps': '8', 'Europe[c] Goals': '2', 'Other[d] Apps': '1', 'Other[d] Goals': '0', 'Total Apps': 46, 'Total Goals': 9}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Lyon",
+      "league_apps": 24,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '2010\u201311', 'League Division': 'Ligue 1', 'League Apps': 24, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe[c] Apps': '7', 'Europe[c] Goals': '1', 'Other[d] Apps': '\u2014', 'Other[d] Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 4}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Lyon",
+      "league_apps": 13,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '2011\u201312', 'League Division': 'Ligue 1', 'League Apps': 13, 'League Goals': 2, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe[c] Apps': '5', 'Europe[c] Goals': '0', 'Other[d] Apps': '\u2014', 'Other[d] Goals': '\u2014', 'Total Apps': 23, 'Total Goals': 2}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Lyon",
+      "league_apps": 18,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '2012\u201313', 'League Division': 'Ligue 1', 'League Apps': 18, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe[c] Apps': '3', 'Europe[c] Goals': '1', 'Other[d] Apps': '1', 'Other[d] Goals': '0', 'Total Apps': 23, 'Total Goals': 4}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Lyon",
+      "league_apps": 18,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '2013\u201314', 'League Division': 'Ligue 1', 'League Apps': 18, 'League Goals': 3, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '2', 'League cup[b] Goals': '2', 'Europe[c] Apps': '8', 'Europe[c] Goals': '0', 'Other[d] Apps': '\u2014', 'Other[d] Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 6}"
+    },
+    {
+      "season": "2014\u201315",
+      "club": "Lyon",
+      "league_apps": 17,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': '2014\u201315', 'League Division': 'Ligue 1', 'League Apps': 17, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe[c] Apps': '0', 'Europe[c] Goals': '0', 'Other[d] Apps': '\u2014', 'Other[d] Goals': '\u2014', 'Total Apps': 19, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Lyon",
+      "league_apps": 90,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Lyon', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 90, 'League Goals': 14, 'National cup[a] Apps': '8', 'National cup[a] Goals': '1', 'League cup[b] Apps': '6', 'League cup[b] Goals': '2', 'Europe[c] Apps': '23', 'Europe[c] Goals': '2', 'Other[d] Apps': '1', 'Other[d] Goals': '0', 'Total Apps': 128, 'Total Goals': 19}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Rennes",
+      "league_apps": 12,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Rennes', 'Season Season': '2015\u201316', 'League Division': 'Ligue 1', 'League Apps': 12, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe[c] Apps': '\u2014', 'Europe[c] Goals': '\u2014', 'Other[d] Apps': '\u2014', 'Other[d] Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 2}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Rennes",
+      "league_apps": 27,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Rennes', 'Season Season': '2016\u201317', 'League Division': 'Ligue 1', 'League Apps': 27, 'League Goals': 4, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe[c] Apps': '\u2014', 'Europe[c] Goals': '\u2014', 'Other[d] Apps': '\u2014', 'Other[d] Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 4}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Rennes",
+      "league_apps": 10,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Rennes', 'Season Season': '2017\u201318', 'League Division': 'Ligue 1', 'League Apps': 10, 'League Goals': 1, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe[c] Apps': '\u2014', 'Europe[c] Goals': '\u2014', 'Other[d] Apps': '\u2014', 'Other[d] Goals': '\u2014', 'Total Apps': 13, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Rennes",
+      "league_apps": 49,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Rennes', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 49, 'League Goals': 7, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Europe[c] Apps': '0', 'Europe[c] Goals': '0', 'Other[d] Apps': '0', 'Other[d] Goals': '0', 'Total Apps': 53, 'Total Goals': 7}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Dijon",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Dijon', 'Season Season': '2018\u201319', 'League Division': 'Ligue 1', 'League Apps': 8, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe[c] Apps': '\u2014', 'Europe[c] Goals': '\u2014', 'Other[d] Apps': '\u2014', 'Other[d] Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 318,
+      "league_goals": 47,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 318, 'League Goals': 47, 'National cup[a] Apps': '23', 'National cup[a] Goals': '1', 'League cup[b] Apps': '18', 'League cup[b] Goals': '4', 'Europe[c] Apps': '55', 'Europe[c] Goals': '7', 'Other[d] Apps': '3', 'Other[d] Goals': '0', 'Total Apps': 427, 'Total Goals': 59}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Yoann Gourcuff - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"d9346b59-4272-49b3-8c2d-5769da6587db\","
+}

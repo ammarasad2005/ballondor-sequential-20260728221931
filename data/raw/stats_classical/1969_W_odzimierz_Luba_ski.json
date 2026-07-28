@@ -1,0 +1,210 @@
+{
+  "player_name_raw": "W\u0142odzimierz Luba\u0144ski",
+  "fetch_status": "ok",
+  "wikipedia_title": "W\u0142odzimierz_Luba\u0144ski",
+  "url": "https://en.wikipedia.org/wiki/W\u0142odzimierz_Luba\u0144ski",
+  "position": "Forward",
+  "birth_year": 1947,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1962\u201363",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 8,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': '1962\u201363', 'League Division': 'Ekstraklasa', 'League Apps': 8, 'League Goals': 4, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 4}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 23,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': '1963\u201364', 'League Division': 'Ekstraklasa', 'League Apps': 23, 'League Goals': 12, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Continental Apps': '4', 'Continental Goals': '1', 'Total Apps': 28, 'Total Goals': 13}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 13,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': '1964\u201365', 'League Division': 'Ekstraklasa', 'League Apps': 13, 'League Goals': 9, 'National cup[a] Apps': '2', 'National cup[a] Goals': '3', 'Continental Apps': '3', 'Continental Goals': '1', 'Total Apps': 18, 'Total Goals': 13}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 18,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': '1965\u201366', 'League Division': 'Ekstraklasa', 'League Apps': 18, 'League Goals': 23, 'National cup[a] Apps': '5', 'National cup[a] Goals': '7', 'Continental Apps': '2', 'Continental Goals': '3', 'Total Apps': 25, 'Total Goals': 33}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 25,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': '1966\u201367', 'League Division': 'Ekstraklasa', 'League Apps': 25, 'League Goals': 18, 'National cup[a] Apps': '1', 'National cup[a] Goals': '1', 'Continental Apps': '5', 'Continental Goals': '3', 'Total Apps': 31, 'Total Goals': 22}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 24,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': '1967\u201368', 'League Division': 'Ekstraklasa', 'League Apps': 24, 'League Goals': 24, 'National cup[a] Apps': '4', 'National cup[a] Goals': '6', 'Continental Apps': '6', 'Continental Goals': '4', 'Total Apps': 34, 'Total Goals': 34}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 23,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': '1968\u201369', 'League Division': 'Ekstraklasa', 'League Apps': 23, 'League Goals': 22, 'National cup[a] Apps': '7', 'National cup[a] Goals': '7', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 29}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 23,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': '1969\u201370', 'League Division': 'Ekstraklasa', 'League Apps': 23, 'League Goals': 12, 'National cup[a] Apps': '5', 'National cup[a] Goals': '4', 'Continental Apps': '10', 'Continental Goals': '7', 'Total Apps': 38, 'Total Goals': 23}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 21,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': '1970\u201371', 'League Division': 'Ekstraklasa', 'League Apps': 21, 'League Goals': 10, 'National cup[a] Apps': '4', 'National cup[a] Goals': '6', 'Continental Apps': '7', 'Continental Goals': '8', 'Total Apps': 32, 'Total Goals': 24}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 25,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': '1971\u201372', 'League Division': 'Ekstraklasa', 'League Apps': 25, 'League Goals': 14, 'National cup[a] Apps': '5', 'National cup[a] Goals': '6', 'Continental Apps': '2', 'Continental Goals': '1', 'Total Apps': 32, 'Total Goals': 21}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 18,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': '1972\u201373', 'League Division': 'Ekstraklasa', 'League Apps': 18, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '4', 'Continental Goals': '5', 'Total Apps': 22, 'Total Goals': 7}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': '1973\u201374', 'League Division': 'Ekstraklasa', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 12,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': '1974\u201375', 'League Division': 'Ekstraklasa', 'League Apps': 12, 'League Goals': 5, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "G\u00f3rnik Zabrze",
+      "league_apps": 234,
+      "league_goals": 155,
+      "raw": "{'Club Club': 'G\u00f3rnik Zabrze', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 234, 'League Goals': 155, 'National cup[a] Apps': '35', 'National cup[a] Goals': '40', 'Continental Apps': '43', 'Continental Goals': '34', 'Total Apps': 312, 'Total Goals': 225}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Lokeren",
+      "league_apps": 34,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Lokeren', 'Season Season': '1975\u201376', 'League Division': 'Belgian First Division', 'League Apps': 34, 'League Goals': 17, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 18}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Lokeren",
+      "league_apps": 29,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Lokeren', 'Season Season': '1976\u201377', 'League Division': 'Belgian First Division', 'League Apps': 29, 'League Goals': 11, 'National cup[a] Apps': '3', 'National cup[a] Goals': '2', 'Continental Apps': '3', 'Continental Goals': '1', 'Total Apps': 32, 'Total Goals': 14}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Lokeren",
+      "league_apps": 31,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Lokeren', 'Season Season': '1977\u201378', 'League Division': 'Belgian First Division', 'League Apps': 31, 'League Goals': 15, 'National cup[a] Apps': '5', 'National cup[a] Goals': '4', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 19}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Lokeren",
+      "league_apps": 32,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Lokeren', 'Season Season': '1978\u201379', 'League Division': 'Belgian First Division', 'League Apps': 32, 'League Goals': 12, 'National cup[a] Apps': '4', 'National cup[a] Goals': '4', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 16}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Lokeren",
+      "league_apps": 28,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Lokeren', 'Season Season': '1979\u201380', 'League Division': 'Belgian First Division', 'League Apps': 28, 'League Goals': 15, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 16}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Lokeren",
+      "league_apps": 24,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Lokeren', 'Season Season': '1980\u201381', 'League Division': 'Belgian First Division', 'League Apps': 24, 'League Goals': 8, 'National cup[a] Apps': '2', 'National cup[a] Goals': '2', 'Continental Apps': '5', 'Continental Goals': '0', 'Total Apps': 31, 'Total Goals': 10}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Lokeren",
+      "league_apps": 18,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Lokeren', 'Season Season': '1981\u201382', 'League Division': 'Belgian First Division', 'League Apps': 18, 'League Goals': 4, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'Continental Apps': '1', 'Continental Goals': '0', 'Total Apps': 20, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Lokeren",
+      "league_apps": 196,
+      "league_goals": 82,
+      "raw": "{'Club Club': 'Lokeren', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 196, 'League Goals': 82, 'National cup[a] Apps': '20', 'National cup[a] Goals': '14', 'Continental Apps': '9', 'Continental Goals': '1', 'Total Apps': 225, 'Total Goals': 97}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Valenciennes",
+      "league_apps": 31,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Valenciennes', 'Season Season': '1982\u201383', 'League Division': 'Division 2', 'League Apps': 31, 'League Goals': 28, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 28}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Quimper",
+      "league_apps": 33,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Quimper', 'Season Season': '1983\u201384', 'League Division': 'Division 2', 'League Apps': 33, 'League Goals': 7, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 7}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Quimper",
+      "league_apps": 25,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Quimper', 'Season Season': '1984\u201385', 'League Division': 'Division 2', 'League Apps': 25, 'League Goals': 7, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 25, 'Total Goals': 7}"
+    },
+    {
+      "season": "Total",
+      "club": "Quimper",
+      "league_apps": 58,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Quimper', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 58, 'League Goals': 14, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 58, 'Total Goals': 14}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Mechelen",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Mechelen', 'Season Season': '1985\u201386', 'League Division': 'Belgian Second Division', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 520,
+      "league_goals": 279,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 520, 'League Goals': 279, 'National cup[a] Apps': '55', 'National cup[a] Goals': '54', 'Continental Apps': '52', 'Continental Goals': '34', 'Total Apps': 627, 'Total Goals': 367}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>W\u0142odzimierz Luba\u0144ski - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"0e53d94a-123e-45d1-9285-d3ed60bf",
+  "season_id": "1969",
+  "award_year": 1969
+}

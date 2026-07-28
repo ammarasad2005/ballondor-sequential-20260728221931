@@ -1,0 +1,264 @@
+{
+  "player_name_raw": "Steve Archibald",
+  "fetch_status": "ok",
+  "wikipedia_title": "Steve_Archibald",
+  "url": "https://en.wikipedia.org/wiki/Steve_Archibald",
+  "position": "Striker",
+  "birth_year": 1956,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1973\u201374",
+      "club": "East Stirlingshire (trial)",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'East Stirlingshire (trial)', 'Season Season': '1973\u201374', 'League Division': 'Scottish Division Two', 'League Apps': 1, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '1', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "Clyde",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Clyde', 'Season Season': '1974\u201375', 'League Division': 'Scottish Division One', 'League Apps': 4, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '4', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Clyde",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Clyde', 'Season Season': '1975\u201376', 'League Division': 'Scottish First Division', 'League Apps': 16, 'League Goals': 2, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '2', 'League cup Goals': '0', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '20', 'Total Goals': '2'}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Clyde",
+      "league_apps": 31,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Clyde', 'Season Season': '1976\u201377', 'League Division': 'Scottish Second Division', 'League Apps': 31, 'League Goals': 3, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '6', 'League cup Goals': '0', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '38', 'Total Goals': '3'}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Clyde",
+      "league_apps": 14,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Clyde', 'Season Season': '1977\u201378', 'League Division': 'Scottish Second Division', 'League Apps': 14, 'League Goals': 2, 'National cup Apps': '2', 'National cup Goals': '0', 'League cup Apps': '2', 'League cup Goals': '0', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '18', 'Total Goals': '2'}"
+    },
+    {
+      "season": "Total",
+      "club": "Clyde",
+      "league_apps": 65,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Clyde', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 65, 'League Goals': 7, 'National cup Apps': '5', 'National cup Goals': '0', 'League cup Apps': '10', 'League cup Goals': '0', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '80', 'Total Goals': '7'}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Aberdeen",
+      "league_apps": 10,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Aberdeen', 'Season Season': '1977\u201378', 'League Division': 'Scottish Premier Division', 'League Apps': 10, 'League Goals': 5, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '10', 'Total Goals': '5'}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Aberdeen",
+      "league_apps": 32,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Aberdeen', 'Season Season': '1978\u201379', 'League Division': 'Scottish Premier Division', 'League Apps': 32, 'League Goals': 13, 'National cup Apps': '5', 'National cup Goals': '4', 'League cup Apps': '7', 'League cup Goals': '3', 'Europe Apps': '4', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '48', 'Total Goals': '20'}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Aberdeen",
+      "league_apps": 34,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Aberdeen', 'Season Season': '1979\u201380', 'League Division': 'Scottish Premier Division', 'League Apps': 34, 'League Goals': 12, 'National cup Apps': '5', 'National cup Goals': '7', 'League cup Apps': '11', 'League cup Goals': '3', 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '52', 'Total Goals': '22'}"
+    },
+    {
+      "season": "Total",
+      "club": "Aberdeen",
+      "league_apps": 76,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Aberdeen', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 76, 'League Goals': 30, 'National cup Apps': '10', 'National cup Goals': '11', 'League cup Apps': '18', 'League cup Goals': '6', 'Europe Apps': '6', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '110', 'Total Goals': '47'}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Tottenham Hotspur",
+      "league_apps": 41,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1980\u201381', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 20, 'National cup Apps': '-', 'National cup Goals': '3', 'League cup Apps': '-', 'League cup Goals': '2', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '41+', 'Total Goals': '25'}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Tottenham Hotspur",
+      "league_apps": 27,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1981\u201382', 'League Division': 'First Division', 'League Apps': 27, 'League Goals': 6, 'National cup Apps': '-', 'National cup Goals': '1', 'League cup Apps': '-', 'League cup Goals': '2', 'Europe Apps': '-', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '27+', 'Total Goals': '9'}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Tottenham Hotspur",
+      "league_apps": 31,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1982\u201383', 'League Division': 'First Division', 'League Apps': 31, 'League Goals': 11, 'National cup Apps': '-', 'National cup Goals': '0', 'League cup Apps': '-', 'League cup Goals': '2', 'Europe Apps': '-', 'Europe Goals': '2', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '31+', 'Total Goals': '15'}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Tottenham Hotspur",
+      "league_apps": 32,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': '1983\u201384', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 21, 'National cup Apps': '-', 'National cup Goals': '1', 'League cup Apps': '-', 'League cup Goals': '1', 'Europe Apps': '-', 'Europe Goals': '5', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '32+', 'Total Goals': '28'}"
+    },
+    {
+      "season": "Total",
+      "club": "Tottenham Hotspur",
+      "league_apps": 131,
+      "league_goals": 58,
+      "raw": "{'Club Club': 'Tottenham Hotspur', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 131, 'League Goals': 58, 'National cup Apps': '18', 'National cup Goals': '5', 'League cup Apps': '18', 'League cup Goals': '7', 'Europe Apps': '22', 'Europe Goals': '7', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '189', 'Total Goals': '77'}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Barcelona",
+      "league_apps": 32,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1984\u201385', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 15, 'National cup Apps': '8', 'National cup Goals': '3', 'League cup Apps': '4', 'League cup Goals': '1', 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '46', 'Total Goals': '19'}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Barcelona",
+      "league_apps": 13,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1985\u201386', 'League Division': 'La Liga', 'League Apps': 13, 'League Goals': 4, 'National cup Apps': '3', 'National cup Goals': '1', 'League cup Apps': '1', 'League cup Goals': '1', 'Europe Apps': '4', 'Europe Goals': '2', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': '22', 'Total Goals': '8'}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Barcelona",
+      "league_apps": 10,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1986\u201387', 'League Division': 'La Liga', 'League Apps': 10, 'League Goals': 5, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': '12', 'Total Goals': '5'}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Barcelona",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1987\u201388', 'League Division': 'La Liga', 'League Apps': 0, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '0', 'Total Goals': '0'}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 55,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 55, 'League Goals': 24, 'National cup Apps': '11', 'National cup Goals': '4', 'League cup Apps': '5', 'League cup Goals': '2', 'Europe Apps': '6', 'Europe Goals': '2', 'Other Apps': '3', 'Other Goals': '0', 'Total Apps': '80', 'Total Goals': '32'}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Blackburn Rovers (loan)",
+      "league_apps": 20,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Blackburn Rovers (loan)', 'Season Season': '1987\u201388', 'League Division': 'Second Division', 'League Apps': 20, 'League Goals': 6, 'National cup Apps': '-', 'National cup Goals': '-', 'League cup Apps': '-', 'League cup Goals': '-', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '20+', 'Total Goals': '6+'}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Hibernian",
+      "league_apps": 31,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Hibernian', 'Season Season': '1988\u201389', 'League Division': 'Scottish Premier Division', 'League Apps': 31, 'League Goals': 13, 'National cup Apps': '4', 'National cup Goals': '1', 'League cup Apps': '3', 'League cup Goals': '2', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '38', 'Total Goals': '16'}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Hibernian",
+      "league_apps": 13,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Hibernian', 'Season Season': '1989\u201390', 'League Division': 'Scottish Premier Division', 'League Apps': 13, 'League Goals': 2, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '15', 'Total Goals': '2'}"
+    },
+    {
+      "season": "Total",
+      "club": "Hibernian",
+      "league_apps": 44,
+      "league_goals": 15,
+      "raw": "{'Club Club': 'Hibernian', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 44, 'League Goals': 15, 'National cup Apps': '4', 'National cup Goals': '1', 'League cup Apps': '3', 'League cup Goals': '2', 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '53', 'Total Goals': '18'}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Espanyol",
+      "league_apps": 15,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Espanyol', 'Season Season': '1989\u201390', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 15, 'League Goals': 5, 'National cup Apps': '-', 'National cup Goals': '-', 'League cup Apps': '-', 'League cup Goals': '-', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '15+', 'Total Goals': '5+'}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "St Mirren",
+      "league_apps": 16,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'St Mirren', 'Season Season': '1990\u201391', 'League Division': 'Scottish Premier Division', 'League Apps': 16, 'League Goals': 2, 'National cup Apps': '1', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '17', 'Total Goals': '2'}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Clyde",
+      "league_apps": 4,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Clyde', 'Season Season': '1991\u201392', 'League Division': 'Scottish Second Division', 'League Apps': 4, 'League Goals': 2, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '4', 'Total Goals': '2'}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Reading",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Reading', 'Season Season': '1991\u201392', 'League Division': 'Third Division', 'League Apps': 1, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '1', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Ayr United",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Ayr United', 'Season Season': '1991\u201392', 'League Division': 'Scottish First Division', 'League Apps': 1, 'League Goals': 0, 'National cup Apps': '-', 'National cup Goals': '-', 'League cup Apps': '-', 'League cup Goals': '-', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '1+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Fulham",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '1992\u201393', 'League Division': 'Second Division', 'League Apps': 2, 'League Goals': 0, 'National cup Apps': '0', 'National cup Goals': '0', 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '2', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "East Fife",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'East Fife', 'Season Season': '1994\u201395', 'League Division': 'Scottish Second Division', 'League Apps': 13, 'League Goals': 1, 'National cup Apps': '-', 'National cup Goals': '-', 'League cup Apps': '-', 'League cup Goals': '-', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '13+', 'Total Goals': '1+'}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "East Fife",
+      "league_apps": 31,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'East Fife', 'Season Season': '1995\u201396', 'League Division': 'Scottish Second Division', 'League Apps': 31, 'League Goals': 6, 'National cup Apps': '-', 'National cup Goals': '-', 'League cup Apps': '-', 'League cup Goals': '-', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '31+', 'Total Goals': '6+'}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "East Fife",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'East Fife', 'Season Season': '1996\u201397', 'League Division': 'Scottish First Division', 'League Apps': 5, 'League Goals': 0, 'National cup Apps': '-', 'National cup Goals': '-', 'League cup Apps': '-', 'League cup Goals': '-', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '5+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "Total",
+      "club": "East Fife",
+      "league_apps": 49,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'East Fife', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 49, 'League Goals': 7, 'National cup Apps': '-', 'National cup Goals': '-', 'League cup Apps': '-', 'League cup Goals': '-', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '49+', 'Total Goals': '7+'}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Home Farm Everton",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Home Farm Everton', 'Season Season': '1996\u201397', 'League Division': nan, 'League Apps': 1, 'League Goals': 0, 'National cup Apps': '-', 'National cup Goals': '-', 'League cup Apps': '-', 'League cup Goals': '-', 'Europe Apps': '-', 'Europe Goals': '-', 'Other Apps': '-', 'Other Goals': '-', 'Total Apps': '1+', 'Total Goals': '0+'}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 483,
+      "league_goals": 156,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 483, 'League Goals': 156, 'National cup Apps': '49+', 'National cup Goals': '21+', 'League cup Apps': '54+', 'League cup Goals': '17+', 'Europe Apps': '36', 'Europe Goals': '9', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': '623+', 'Total Goals': '203+'}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Steve Archibald - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"45a00c9c-cf04-4db4-b49e-dfd184bfcc59\""
+}

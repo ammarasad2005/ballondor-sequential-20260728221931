@@ -1,0 +1,166 @@
+{
+  "player_name_raw": "Papa Bouba Diop",
+  "fetch_status": "ok",
+  "wikipedia_title": "Papa_Bouba_Diop",
+  "url": "https://en.wikipedia.org/wiki/Papa_Bouba_Diop",
+  "position": "Defensive midfielder centre back",
+  "birth_year": 1978,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1999\u20132000",
+      "club": "Vevey",
+      "league_apps": 35,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Vevey', 'Season Season': '1999\u20132000[52]', 'League Division': '1. Liga Classic', 'League Apps': 35, 'League Goals': 1, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 35, 'Total Goals': 1}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Neuch\u00e2tel Xamax",
+      "league_apps": 19,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Neuch\u00e2tel Xamax', 'Season Season': '2000\u201301[29]', 'League Division': 'Ligue Nationale A', 'League Apps': 19, 'League Goals': 4, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 19, 'Total Goals': 4}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Grasshoppers",
+      "league_apps": 11,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Grasshoppers', 'Season Season': '2000\u201301[29]', 'League Division': 'Ligue Nationale A', 'League Apps': 11, 'League Goals': 1, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 11, 'Total Goals': 1}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Grasshoppers",
+      "league_apps": 18,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Grasshoppers', 'Season Season': '2001\u201302[9][29]', 'League Division': 'Ligue Nationale A', 'League Apps': 18, 'League Goals': 4, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': '7[a]', 'Europe Goals': '0', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 25, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Grasshoppers",
+      "league_apps": 83,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Grasshoppers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 83, 'League Goals': 10, 'National cup Apps': nan, 'National cup Goals': nan, 'League cup Apps': nan, 'League cup Goals': nan, 'Europe Apps': '7', 'Europe Goals': '0', 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': 90, 'Total Goals': 10}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Lens",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Lens', 'Season Season': '2001\u201302[60]', 'League Division': 'Ligue 1', 'League Apps': 5, 'League Goals': 0, 'National cup Apps': 0.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 5, 'Total Goals': 0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Lens",
+      "league_apps": 16,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Lens', 'Season Season': '2002\u201303[60]', 'League Division': 'Ligue 1', 'League Apps': 16, 'League Goals': 3, 'National cup Apps': 0.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '4[b]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 20, 'Total Goals': 3}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Lens",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Lens', 'Season Season': '2003\u201304[60]', 'League Division': 'Ligue 1', 'League Apps': 26, 'League Goals': 3, 'National cup Apps': 0.0, 'National cup Goals': 0.0, 'League cup Apps': '2', 'League cup Goals': '0', 'Europe Apps': '6[c]', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 5}"
+    },
+    {
+      "season": "Total",
+      "club": "Lens",
+      "league_apps": 47,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Lens', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 47, 'League Goals': 6, 'National cup Apps': 0.0, 'National cup Goals': 0.0, 'League cup Apps': '2', 'League cup Goals': '0', 'Europe Apps': '10', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 59, 'Total Goals': 8}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Fulham",
+      "league_apps": 29,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '2004\u201305[13]', 'League Division': 'Premier League', 'League Apps': 29, 'League Goals': 6, 'National cup Apps': 3.0, 'National cup Goals': 1.0, 'League cup Apps': '3', 'League cup Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 35, 'Total Goals': 7}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Fulham",
+      "league_apps": 22,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '2005\u201306[61]', 'League Division': 'Premier League', 'League Apps': 22, 'League Goals': 2, 'National cup Apps': 0.0, 'National cup Goals': 0.0, 'League cup Apps': '1', 'League cup Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 23, 'Total Goals': 2}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Fulham",
+      "league_apps": 23,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '2006\u201307[62]', 'League Division': 'Premier League', 'League Apps': 23, 'League Goals': 0, 'National cup Apps': 1.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 24, 'Total Goals': 0}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Fulham",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': '2007\u201308[22]', 'League Division': 'Premier League', 'League Apps': 2, 'League Goals': 0, 'National cup Apps': 0.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Fulham",
+      "league_apps": 76,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Fulham', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 76, 'League Goals': 8, 'National cup Apps': 4.0, 'National cup Goals': 1.0, 'League cup Apps': '4', 'League cup Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 84, 'Total Goals': 9}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Portsmouth",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Portsmouth', 'Season Season': '2007\u201308[22]', 'League Division': 'Premier League', 'League Apps': 25, 'League Goals': 0, 'National cup Apps': 5.0, 'National cup Goals': 0.0, 'League cup Apps': '2', 'League cup Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 0}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Portsmouth",
+      "league_apps": 16,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Portsmouth', 'Season Season': '2008\u201309[63]', 'League Division': 'Premier League', 'League Apps': 16, 'League Goals': 0, 'National cup Apps': 0.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 21, 'Total Goals': 0}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Portsmouth",
+      "league_apps": 12,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Portsmouth', 'Season Season': '2009\u201310[64]', 'League Division': 'Premier League', 'League Apps': 12, 'League Goals': 0, 'National cup Apps': 7.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 19, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Portsmouth",
+      "league_apps": 53,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Portsmouth', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 53, 'League Goals': 0, 'National cup Apps': 12.0, 'National cup Goals': 0.0, 'League cup Apps': '2', 'League cup Goals': '0', 'Europe Apps': '4', 'Europe Goals': '0', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 72, 'Total Goals': 0}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "AEK Athens",
+      "league_apps": 19,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AEK Athens', 'Season Season': '2010\u201311[29][65][66]', 'League Division': 'Super League Greece', 'League Apps': 19, 'League Goals': 1, 'National cup Apps': 6.0, 'National cup Goals': 0.0, 'League cup Apps': '\u2013', 'League cup Goals': '\u2013', 'Europe Apps': '5[e]', 'Europe Goals': '2', 'Other Apps': '7[f]', 'Other Goals': '1', 'Total Apps': 37, 'Total Goals': 4}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "West Ham United",
+      "league_apps": 16,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'West Ham United', 'Season Season': '2011\u201312[67]', 'League Division': 'Championship', 'League Apps': 16, 'League Goals': 1, 'National cup Apps': 0.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 16, 'Total Goals': 1}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Birmingham City",
+      "league_apps": 2,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Birmingham City', 'Season Season': '2012\u201313[68]', 'League Division': 'Championship', 'League Apps': 2, 'League Goals': 1, 'National cup Apps': 0.0, 'National cup Goals': 0.0, 'League cup Apps': '0', 'League cup Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 2, 'Total Goals': 1}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 296,
+      "league_goals": 27,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 296, 'League Goals': 27, 'National cup Apps': 22.0, 'National cup Goals': 1.0, 'League cup Apps': '8', 'League cup Goals': '0', 'Europe Apps': '26', 'Europe Goals': '4', 'Other Apps': '8', 'Other Goals': '1', 'Total Apps': 360, 'Total Goals': 33}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Papa Bouba Diop - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"c8e3ca11-0338-4b29-b91c-ae30d63dc14e\""
+}

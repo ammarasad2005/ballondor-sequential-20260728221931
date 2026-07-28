@@ -1,0 +1,201 @@
+{
+  "player_name_raw": "Cafu",
+  "fetch_status": "ok",
+  "wikipedia_title": "Cafu",
+  "url": "https://en.wikipedia.org/wiki/Cafu",
+  "position": "Right-back",
+  "birth_year": 1970,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1989",
+      "club": "S\u00e3o Paulo",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'S\u00e3o Paulo', 'Season Season': '1989', 'League Division': 'S\u00e9rie A', 'League Apps': 3, 'League Goals': 0, 'State league[a] Apps': '0', 'State league[a] Goals': '0', 'National cup[b] Apps': 0.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '3', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1990",
+      "club": "S\u00e3o Paulo",
+      "league_apps": 20,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'S\u00e3o Paulo', 'Season Season': '1990', 'League Division': 'S\u00e9rie A', 'League Apps': 20, 'League Goals': 1, 'State league[a] Apps': '21', 'State league[a] Goals': '3', 'National cup[b] Apps': 4.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': '45', 'Total Goals': '5'}"
+    },
+    {
+      "season": "1991",
+      "club": "S\u00e3o Paulo",
+      "league_apps": 20,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'S\u00e3o Paulo', 'Season Season': '1991', 'League Division': 'S\u00e9rie A', 'League Apps': 20, 'League Goals': 1, 'State league[a] Apps': '31', 'State league[a] Goals': '3', 'National cup[b] Apps': 0.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '0', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '52', 'Total Goals': '4'}"
+    },
+    {
+      "season": "1992",
+      "club": "S\u00e3o Paulo",
+      "league_apps": 21,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'S\u00e3o Paulo', 'Season Season': '1992', 'League Division': 'S\u00e9rie A', 'League Apps': 21, 'League Goals': 1, 'State league[a] Apps': '22', 'State league[a] Goals': '4', 'National cup[b] Apps': 0.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '16', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '59', 'Total Goals': '5'}"
+    },
+    {
+      "season": "1993",
+      "club": "S\u00e3o Paulo",
+      "league_apps": 18,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'S\u00e3o Paulo', 'Season Season': '1993', 'League Division': 'S\u00e9rie A', 'League Apps': 18, 'League Goals': 1, 'State league[a] Apps': '27', 'State league[a] Goals': '14', 'National cup[b] Apps': 2.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '19', 'Continental Goals': '3', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': '68', 'Total Goals': '19'}"
+    },
+    {
+      "season": "1994",
+      "club": "S\u00e3o Paulo",
+      "league_apps": 16,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'S\u00e3o Paulo', 'Season Season': '1994', 'League Division': 'S\u00e9rie A', 'League Apps': 16, 'League Goals': 3, 'State league[a] Apps': '17', 'State league[a] Goals': '2', 'National cup[b] Apps': 0.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '12', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '45', 'Total Goals': '5'}"
+    },
+    {
+      "season": "Total",
+      "club": "S\u00e3o Paulo",
+      "league_apps": 98,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'S\u00e3o Paulo', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 98, 'League Goals': 7, 'State league[a] Apps': '118', 'State league[a] Goals': '26', 'National cup[b] Apps': 6.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '47', 'Continental Goals': '3', 'Other Apps': '3', 'Other Goals': '2', 'Total Apps': '272[49]', 'Total Goals': '38[49]'}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Zaragoza",
+      "league_apps": 16,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Zaragoza', 'Season Season': '1994\u201395', 'League Division': 'La Liga', 'League Apps': 16, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 2.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '1[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '19', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1995",
+      "club": "Juventude",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Juventude', 'Season Season': '1995', 'League Division': 'S\u00e9rie A', 'League Apps': 0, 'League Goals': 0, 'State league[a] Apps': '2', 'State league[a] Goals': '0', 'National cup[b] Apps': nan, 'National cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': '2', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1995",
+      "club": "Palmeiras",
+      "league_apps": 19,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Palmeiras', 'Season Season': '1995', 'League Division': 'S\u00e9rie A', 'League Apps': 19, 'League Goals': 0, 'State league[a] Apps': nan, 'State league[a] Goals': nan, 'National cup[b] Apps': nan, 'National cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': '19', 'Total Goals': '0'}"
+    },
+    {
+      "season": "1996",
+      "club": "Palmeiras",
+      "league_apps": 22,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Palmeiras', 'Season Season': '1996', 'League Division': 'S\u00e9rie A', 'League Apps': 22, 'League Goals': 2, 'State league[a] Apps': nan, 'State league[a] Goals': nan, 'National cup[b] Apps': 7.0, 'National cup[b] Goals': 2.0, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': '29', 'Total Goals': '4'}"
+    },
+    {
+      "season": "1997",
+      "club": "Palmeiras",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Palmeiras', 'Season Season': '1997', 'League Division': 'S\u00e9rie A', 'League Apps': 0, 'League Goals': 0, 'State league[a] Apps': nan, 'State league[a] Goals': nan, 'National cup[b] Apps': nan, 'National cup[b] Goals': nan, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': '0', 'Total Goals': '0'}"
+    },
+    {
+      "season": "Total",
+      "club": "Palmeiras",
+      "league_apps": 41,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Palmeiras', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 41, 'League Goals': 2, 'State league[a] Apps': nan, 'State league[a] Goals': nan, 'National cup[b] Apps': 7.0, 'National cup[b] Goals': 2.0, 'Continental Apps': nan, 'Continental Goals': nan, 'Other Apps': nan, 'Other Goals': nan, 'Total Apps': '48', 'Total Goals': '4'}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Roma",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '1997\u201398', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 1, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 5.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '36', 'Total Goals': '1'}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Roma",
+      "league_apps": 20,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '1998\u201399', 'League Division': 'Serie A', 'League Apps': 20, 'League Goals': 1, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 0.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '5[d]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '25', 'Total Goals': '1'}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Roma",
+      "league_apps": 28,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '1999\u20132000', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 2, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 4.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '5[d]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '37', 'Total Goals': '2'}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Roma",
+      "league_apps": 31,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '2000\u201301', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 1, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 2.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '7[d]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '40', 'Total Goals': '1'}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Roma",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '2001\u201302', 'League Division': 'Serie A', 'League Apps': 27, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 1.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '10[e]', 'Continental Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '38', 'Total Goals': '2'}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Roma",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Roma', 'Season Season': '2002\u201303', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 3.0, 'National cup[b] Goals': 1.0, 'Continental Apps': '12[e]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '41', 'Total Goals': '1'}"
+    },
+    {
+      "season": "Total",
+      "club": "Roma",
+      "league_apps": 163,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Roma', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 163, 'League Goals': 5, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 15.0, 'National cup[b] Goals': 1.0, 'Continental Apps': '39', 'Continental Goals': '2', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': '217', 'Total Goals': '8'}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "AC Milan",
+      "league_apps": 28,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2003\u201304', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 1, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 1.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '9[e]', 'Continental Goals': '0', 'Other Apps': '3[f]', 'Other Goals': '0', 'Total Apps': '41', 'Total Goals': '1'}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "AC Milan",
+      "league_apps": 33,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2004\u201305', 'League Division': 'Serie A', 'League Apps': 33, 'League Goals': 1, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 0.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '12[e]', 'Continental Goals': '0', 'Other Apps': '1[g]', 'Other Goals': '0', 'Total Apps': '46', 'Total Goals': '1'}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "AC Milan",
+      "league_apps": 19,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2005\u201306', 'League Division': 'Serie A', 'League Apps': 19, 'League Goals': 1, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 1.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '5[e]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '25', 'Total Goals': '1'}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "AC Milan",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2006\u201307', 'League Division': 'Serie A', 'League Apps': 24, 'League Goals': 0, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 3.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '8[e]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': '35', 'Total Goals': '0'}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "AC Milan",
+      "league_apps": 15,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2007\u201308', 'League Division': 'Serie A', 'League Apps': 15, 'League Goals': 1, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 2.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '1[e]', 'Continental Goals': '0', 'Other Apps': '1[h]', 'Other Goals': '0', 'Total Apps': '19', 'Total Goals': '1'}"
+    },
+    {
+      "season": "Total",
+      "club": "AC Milan",
+      "league_apps": 119,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 119, 'League Goals': 4, 'State league[a] Apps': '\u2014', 'State league[a] Goals': '\u2014', 'National cup[b] Apps': 7.0, 'National cup[b] Goals': 0.0, 'Continental Apps': '35', 'Continental Goals': '0', 'Other Apps': '5', 'Other Goals': '0', 'Total Apps': '166', 'Total Goals': '4'}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 437,
+      "league_goals": 18,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 437, 'League Goals': 18, 'State league[a] Apps': '120', 'State league[a] Goals': '26', 'National cup[b] Apps': 37.0, 'National cup[b] Goals': 3.0, 'Continental Apps': '122', 'Continental Goals': '5', 'Other Apps': '8', 'Other Goals': '2', 'Total Apps': '724', 'Total Goals': '54'}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Cafu - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"176e338d-a421-4e27-8391-15d56e786bbd\",\"wgCanonic"
+}

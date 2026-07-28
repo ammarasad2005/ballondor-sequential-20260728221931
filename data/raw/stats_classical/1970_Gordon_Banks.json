@@ -1,0 +1,189 @@
+{
+  "player_name_raw": "Gordon Banks",
+  "fetch_status": "ok",
+  "wikipedia_title": "Gordon_Banks",
+  "url": "https://en.wikipedia.org/wiki/Gordon_Banks",
+  "position": "Goalkeeper",
+  "birth_year": 1937,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1958\u201359",
+      "club": "Chesterfield",
+      "league_apps": 23,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Chesterfield', 'Season Season': '1958\u201359', 'League Division': 'Third Division', 'League Apps': 23, 'League Goals': 0, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 26, 'Total Goals': 0}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "Leicester City",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1959\u201360', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 0, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 0}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Leicester City",
+      "league_apps": 40,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1960\u201361', 'League Division': 'First Division', 'League Apps': 40, 'League Goals': 0, 'National cup[a] Apps': '10', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 51, 'Total Goals': 0}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Leicester City",
+      "league_apps": 41,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1961\u201362', 'League Division': 'First Division', 'League Apps': 41, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '4[c]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Leicester City",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1962\u201363', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 0, 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Leicester City",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1963\u201364', 'League Division': 'First Division', 'League Apps': 36, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '8', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Leicester City",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1964\u201365', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 0, 'National cup[a] Apps': '6', 'National cup[a] Goals': '0', 'League cup[b] Apps': '9', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 53, 'Total Goals': 0}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Leicester City",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1965\u201366', 'League Division': 'First Division', 'League Apps': 32, 'League Goals': 0, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 37, 'Total Goals': 0}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Leicester City",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': '1966\u201367', 'League Division': 'First Division', 'League Apps': 36, 'League Goals': 0, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Leicester City",
+      "league_apps": 293,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Leicester City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 293, 'League Goals': 0, 'National cup[a] Apps': '34', 'National cup[a] Goals': '0', 'League cup[b] Apps': '25', 'League cup[b] Goals': '0', 'Continental Apps': '4', 'Continental Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 356, 'Total Goals': 0}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Stoke City",
+      "league_apps": 4,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1966\u201367', 'League Division': 'First Division', 'League Apps': 4, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 0}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Stoke City",
+      "league_apps": 39,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1967\u201368', 'League Division': 'First Division', 'League Apps': 39, 'League Goals': 0, 'National cup[a] Apps': '2', 'National cup[a] Goals': '0', 'League cup[b] Apps': '4', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Stoke City",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1968\u201369', 'League Division': 'First Division', 'League Apps': 30, 'League Goals': 0, 'National cup[a] Apps': '4', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 34, 'Total Goals': 0}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Stoke City",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1969\u201370', 'League Division': 'First Division', 'League Apps': 38, 'League Goals': 0, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Stoke City",
+      "league_apps": 39,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1970\u201371', 'League Division': 'First Division', 'League Apps': 39, 'League Goals': 0, 'National cup[a] Apps': '10', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '5[d]', 'Other Goals': '0', 'Total Apps': 55, 'Total Goals': 0}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Stoke City",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1971\u201372', 'League Division': 'First Division', 'League Apps': 36, 'League Goals': 0, 'National cup[a] Apps': '8', 'National cup[a] Goals': '0', 'League cup[b] Apps': '11', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '4[e]', 'Other Goals': '0', 'Total Apps': 59, 'Total Goals': 0}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "Stoke City",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': '1972\u201373', 'League Division': 'First Division', 'League Apps': 8, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Continental Apps': '1[f]', 'Continental Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Stoke City",
+      "league_apps": 194,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Stoke City', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 194, 'League Goals': 0, 'National cup[a] Apps': '27', 'National cup[a] Goals': '0', 'League cup[b] Apps': '19', 'League cup[b] Goals': '0', 'Continental Apps': '1', 'Continental Goals': '0', 'Other Apps': '9', 'Other Goals': '0', 'Total Apps': 250, 'Total Goals': 0}"
+    },
+    {
+      "season": "1967",
+      "club": "Cleveland Stokers (loan)",
+      "league_apps": 7,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Cleveland Stokers (loan)', 'Season Season': '1967', 'League Division': 'United Soccer Association', 'League Apps': 7, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 7, 'Total Goals': 0}"
+    },
+    {
+      "season": "1971",
+      "club": "Hellenic (loan)",
+      "league_apps": 3,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Hellenic (loan)', 'Season Season': '1971', 'League Division': 'National Football League', 'League Apps': 3, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "1977",
+      "club": "Fort Lauderdale Strikers",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fort Lauderdale Strikers', 'Season Season': '1977', 'League Division': 'North American Soccer League', 'League Apps': 26, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '2[g]', 'Other Goals': '0', 'Total Apps': 28, 'Total Goals': 0}"
+    },
+    {
+      "season": "1978",
+      "club": "Fort Lauderdale Strikers",
+      "league_apps": 11,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fort Lauderdale Strikers', 'Season Season': '1978', 'League Division': 'North American Soccer League', 'League Apps': 11, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 11, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Fort Lauderdale Strikers",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Fort Lauderdale Strikers', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 37, 'League Goals': 0, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '2', 'Other Goals': '0', 'Total Apps': 39, 'Total Goals': 0}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "St Patrick's Athletic (loan)",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': \"St Patrick's Athletic (loan)\", 'Season Season': '1977\u201378', 'League Division': 'League of Ireland', 'League Apps': 1, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Continental Apps': '\u2014', 'Continental Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 558,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 558, 'League Goals': 0, 'National cup[a] Apps': '64', 'National cup[a] Goals': '0', 'League cup[b] Apps': '44', 'League cup[b] Goals': '0', 'Continental Apps': '5', 'Continental Goals': '0', 'Other Apps': '11', 'Other Goals': '0', 'Total Apps': 682, 'Total Goals': 0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Gordon Banks - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"ff734a52-8174-4258-bda4-916f6db1c860\",\"w",
+  "season_id": "1970",
+  "award_year": 1970
+}

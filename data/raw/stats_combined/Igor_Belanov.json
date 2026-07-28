@@ -1,0 +1,201 @@
+{
+  "player_name_raw": "Igor Belanov",
+  "fetch_status": "ok",
+  "wikipedia_title": "Igor_Belanov",
+  "url": "https://en.wikipedia.org/wiki/Igor_Belanov",
+  "position": "Striker",
+  "birth_year": 1960,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1979",
+      "club": "SKA Odesa",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'SKA Odesa', 'Season Season': '1979', 'League Division': 'Soviet First League', 'League Apps': 32, 'League Goals': 5, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 32, 'Total Goals': 5}"
+    },
+    {
+      "season": "1980",
+      "club": "SKA Odesa",
+      "league_apps": 36,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'SKA Odesa', 'Season Season': '1980', 'League Division': 'Soviet First League', 'League Apps': 36, 'League Goals': 11, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 11}"
+    },
+    {
+      "season": "Total",
+      "club": "SKA Odesa",
+      "league_apps": 68,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'SKA Odesa', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 68, 'League Goals': 16, 'Cup[a] Apps': '0', 'Cup[a] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 68, 'Total Goals': 16}"
+    },
+    {
+      "season": "1981",
+      "club": "Chornomorets Odesa",
+      "league_apps": 27,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Chornomorets Odesa', 'Season Season': '1981', 'League Division': 'Soviet Top League', 'League Apps': 27, 'League Goals': 6, 'Cup[a] Apps': '2', 'Cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 29, 'Total Goals': 6}"
+    },
+    {
+      "season": "1982",
+      "club": "Chornomorets Odesa",
+      "league_apps": 29,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Chornomorets Odesa', 'Season Season': '1982', 'League Division': 'Soviet Top League', 'League Apps': 29, 'League Goals': 2, 'Cup[a] Apps': '4', 'Cup[a] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 33, 'Total Goals': 3}"
+    },
+    {
+      "season": "1983",
+      "club": "Chornomorets Odesa",
+      "league_apps": 27,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'Chornomorets Odesa', 'Season Season': '1983', 'League Division': 'Soviet Top League', 'League Apps': 27, 'League Goals': 7, 'Cup[a] Apps': '1', 'Cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 7}"
+    },
+    {
+      "season": "1984",
+      "club": "Chornomorets Odesa",
+      "league_apps": 33,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Chornomorets Odesa', 'Season Season': '1984', 'League Division': 'Soviet Top League', 'League Apps': 33, 'League Goals': 11, 'Cup[a] Apps': '5', 'Cup[a] Goals': '3', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 14}"
+    },
+    {
+      "season": "Total",
+      "club": "Chornomorets Odesa",
+      "league_apps": 116,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Chornomorets Odesa', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 116, 'League Goals': 26, 'Cup[a] Apps': '12', 'Cup[a] Goals': '4', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 128, 'Total Goals': 30}"
+    },
+    {
+      "season": "1985",
+      "club": "Dynamo Kyiv",
+      "league_apps": 31,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1985', 'League Division': 'Soviet Top League', 'League Apps': 31, 'League Goals': 10, 'Cup[a] Apps': '4', 'Cup[a] Goals': '2', 'Europe Apps': '4[b]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 13}"
+    },
+    {
+      "season": "1986",
+      "club": "Dynamo Kyiv",
+      "league_apps": 22,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1986', 'League Division': 'Soviet Top League', 'League Apps': 22, 'League Goals': 10, 'Cup[a] Apps': '1', 'Cup[a] Goals': '0', 'Europe Apps': '8[c]', 'Europe Goals': '4', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 32, 'Total Goals': 14}"
+    },
+    {
+      "season": "1987",
+      "club": "Dynamo Kyiv",
+      "league_apps": 23,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1987', 'League Division': 'Soviet Top League', 'League Apps': 23, 'League Goals': 8, 'Cup[a] Apps': '6', 'Cup[a] Goals': '3', 'Europe Apps': '5[e]', 'Europe Goals': '1', 'Other Apps': '3[f]', 'Other Goals': '1', 'Total Apps': 37, 'Total Goals': 13}"
+    },
+    {
+      "season": "1988",
+      "club": "Dynamo Kyiv",
+      "league_apps": 27,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1988', 'League Division': 'Soviet Top League', 'League Apps': 27, 'League Goals': 9, 'Cup[a] Apps': '4', 'Cup[a] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 31, 'Total Goals': 10}"
+    },
+    {
+      "season": "1989",
+      "club": "Dynamo Kyiv",
+      "league_apps": 18,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': '1989', 'League Division': 'Soviet Top League', 'League Apps': 18, 'League Goals': 3, 'Cup[a] Apps': '4', 'Cup[a] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 22, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Dynamo Kyiv",
+      "league_apps": 121,
+      "league_goals": 40,
+      "raw": "{'Club Club': 'Dynamo Kyiv', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 121, 'League Goals': 40, 'Cup[a] Apps': '19', 'Cup[a] Goals': '7', 'Europe Apps': '17', 'Europe Goals': '6', 'Other Apps': '4', 'Other Goals': '1', 'Total Apps': 161, 'Total Goals': 54}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 14,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1989\u201390', 'League Division': 'Bundesliga', 'League Apps': 14, 'League Goals': 4, 'Cup[a] Apps': '1', 'Cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 15, 'Total Goals': 4}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 10,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': '1990\u201391', 'League Division': 'Bundesliga', 'League Apps': 10, 'League Goals': 0, 'Cup[a] Apps': '2', 'Cup[a] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 12, 'Total Goals': 1}"
+    },
+    {
+      "season": "Total",
+      "club": "Borussia M\u00f6nchengladbach",
+      "league_apps": 24,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Borussia M\u00f6nchengladbach', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 24, 'League Goals': 4, 'Cup[a] Apps': '3', 'Cup[a] Goals': '1', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 27, 'Total Goals': 5}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Eintracht Braunschweig",
+      "league_apps": 9,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Eintracht Braunschweig', 'Season Season': '1990\u201391', 'League Division': '2. Bundesliga', 'League Apps': 9, 'League Goals': 3, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 3}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Eintracht Braunschweig",
+      "league_apps": 29,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Eintracht Braunschweig', 'Season Season': '1991\u201392', 'League Division': '2. Bundesliga', 'League Apps': 29, 'League Goals': 10, 'Cup[a] Apps': '1', 'Cup[a] Goals': '1', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 30, 'Total Goals': 11}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Eintracht Braunschweig",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Eintracht Braunschweig', 'Season Season': '1992\u201393', 'League Division': '2. Bundesliga', 'League Apps': 0, 'League Goals': 0, 'Cup[a] Apps': '0', 'Cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Eintracht Braunschweig",
+      "league_apps": 26,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Eintracht Braunschweig', 'Season Season': '1993\u201394', 'League Division': 'Oberliga Nord', 'League Apps': 26, 'League Goals': 8, 'Cup[a] Apps': '1', 'Cup[a] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '4[g]', 'Other Goals': '0', 'Total Apps': 31, 'Total Goals': 8}"
+    },
+    {
+      "season": "Total",
+      "club": "Eintracht Braunschweig",
+      "league_apps": 64,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Eintracht Braunschweig', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 64, 'League Goals': 21, 'Cup[a] Apps': '2', 'Cup[a] Goals': '1', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '4', 'Other Goals': '0', 'Total Apps': 70, 'Total Goals': 22}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Chornomorets Odesa",
+      "league_apps": 3,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chornomorets Odesa', 'Season Season': '1995\u201396', 'League Division': 'Vyshcha Liha', 'League Apps': 3, 'League Goals': 1, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 3, 'Total Goals': 1}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Metalurh Mariupol",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Metalurh Mariupol', 'Season Season': '1995\u201396', 'League Division': 'Ukrainian Second League', 'League Apps': 1, 'League Goals': 0, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Metalurh Mariupol",
+      "league_apps": 4,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Metalurh Mariupol', 'Season Season': '1996\u201397', 'League Division': 'Ukrainian First League', 'League Apps': 4, 'League Goals': 4, 'Cup[a] Apps': '\u2014', 'Cup[a] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 4, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Metalurh Mariupol",
+      "league_apps": 5,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Metalurh Mariupol', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 5, 'League Goals': 4, 'Cup[a] Apps': '0', 'Cup[a] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 5, 'Total Goals': 4}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 401,
+      "league_goals": 112,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 401, 'League Goals': 112, 'Cup[a] Apps': '36', 'Cup[a] Goals': '13', 'Europe Apps': '17', 'Europe Goals': '6', 'Other Apps': '8', 'Other Goals': '1', 'Total Apps': 462, 'Total Goals': 132}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Igor Belanov - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"186fcc0d-a3d3-41e8-a202-453947abc1a4\",\"w"
+}

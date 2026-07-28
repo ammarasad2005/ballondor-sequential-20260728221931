@@ -1,0 +1,161 @@
+{
+  "player_name_raw": "Uwe Seeler",
+  "fetch_status": "ok",
+  "wikipedia_title": "Uwe_Seeler",
+  "url": "https://en.wikipedia.org/wiki/Uwe_Seeler",
+  "position": "Striker",
+  "birth_year": 1936,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1954\u201355",
+      "club": "Hamburger SV",
+      "league_apps": 26,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1954\u201355', 'League Division': 'Oberliga Nord', 'League Apps': 26, 'League Goals': 28, 'German Championship[a] Apps': '5', 'German Championship[a] Goals': '1', 'DFB-Pokal Apps': '1', 'DFB-Pokal Goals': '2', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 31}"
+    },
+    {
+      "season": "1955\u201356",
+      "club": "Hamburger SV",
+      "league_apps": 29,
+      "league_goals": 32,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1955\u201356', 'League Division': 'Oberliga Nord', 'League Apps': 29, 'League Goals': 32, 'German Championship[a] Apps': '5', 'German Championship[a] Goals': '4', 'DFB-Pokal Apps': '2', 'DFB-Pokal Goals': '2', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 36, 'Total Goals': 37}"
+    },
+    {
+      "season": "1956\u201357",
+      "club": "Hamburger SV",
+      "league_apps": 26,
+      "league_goals": 31,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1956\u201357', 'League Division': 'Oberliga Nord', 'League Apps': 26, 'League Goals': 31, 'German Championship[a] Apps': '4', 'German Championship[a] Goals': '2', 'DFB-Pokal Apps': '1', 'DFB-Pokal Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 31, 'Total Goals': 33}"
+    },
+    {
+      "season": "1957\u201358",
+      "club": "Hamburger SV",
+      "league_apps": 24,
+      "league_goals": 22,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1957\u201358', 'League Division': 'Oberliga Nord', 'League Apps': 24, 'League Goals': 22, 'German Championship[a] Apps': '4', 'German Championship[a] Goals': '2', 'DFB-Pokal Apps': '\u2013', 'DFB-Pokal Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 26}"
+    },
+    {
+      "season": "1958\u201359",
+      "club": "Hamburger SV",
+      "league_apps": 27,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1958\u201359', 'League Division': 'Oberliga Nord', 'League Apps': 27, 'League Goals': 29, 'German Championship[a] Apps': '4', 'German Championship[a] Goals': '5', 'DFB-Pokal Apps': '1', 'DFB-Pokal Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 34}"
+    },
+    {
+      "season": "1959\u201360",
+      "club": "Hamburger SV",
+      "league_apps": 26,
+      "league_goals": 36,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1959\u201360', 'League Division': 'Oberliga Nord', 'League Apps': 26, 'League Goals': 36, 'German Championship[a] Apps': '7', 'German Championship[a] Goals': '13', 'DFB-Pokal Apps': '1', 'DFB-Pokal Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 49}"
+    },
+    {
+      "season": "1960\u201361",
+      "club": "Hamburger SV",
+      "league_apps": 23,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1960\u201361', 'League Division': 'Oberliga Nord', 'League Apps': 23, 'League Goals': 29, 'German Championship[a] Apps': '6', 'German Championship[a] Goals': '8', 'DFB-Pokal Apps': '\u2013', 'DFB-Pokal Goals': '\u2013', 'Europe Apps': '7[b]', 'Europe Goals': '5', 'Total Apps': 36, 'Total Goals': 42}"
+    },
+    {
+      "season": "1961\u201362",
+      "club": "Hamburger SV",
+      "league_apps": 28,
+      "league_goals": 28,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1961\u201362', 'League Division': 'Oberliga Nord', 'League Apps': 28, 'League Goals': 28, 'German Championship[a] Apps': '2', 'German Championship[a] Goals': '4', 'DFB-Pokal Apps': '\u2013', 'DFB-Pokal Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 32}"
+    },
+    {
+      "season": "1962\u201363",
+      "club": "Hamburger SV",
+      "league_apps": 28,
+      "league_goals": 32,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1962\u201363', 'League Division': 'Oberliga Nord', 'League Apps': 28, 'League Goals': 32, 'German Championship[a] Apps': '6', 'German Championship[a] Goals': '2', 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '6', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 38, 'Total Goals': 40}"
+    },
+    {
+      "season": "1963\u201364",
+      "club": "Hamburger SV",
+      "league_apps": 30,
+      "league_goals": 30,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1963\u201364', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 30, 'German Championship[a] Apps': '\u2013', 'German Championship[a] Goals': '\u2013', 'DFB-Pokal Apps': '2', 'DFB-Pokal Goals': '2', 'Europe Apps': '6[c]', 'Europe Goals': '5', 'Total Apps': 38, 'Total Goals': 37}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "Hamburger SV",
+      "league_apps": 19,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1964\u201365', 'League Division': 'Bundesliga', 'League Apps': 19, 'League Goals': 14, 'German Championship[a] Apps': '\u2013', 'German Championship[a] Goals': '\u2013', 'DFB-Pokal Apps': '1', 'DFB-Pokal Goals': '1', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 20, 'Total Goals': 15}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "Hamburger SV",
+      "league_apps": 23,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1965\u201366', 'League Division': 'Bundesliga', 'League Apps': 23, 'League Goals': 11, 'German Championship[a] Apps': '\u2013', 'German Championship[a] Goals': '\u2013', 'DFB-Pokal Apps': '2', 'DFB-Pokal Goals': '1', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 25, 'Total Goals': 12}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "Hamburger SV",
+      "league_apps": 23,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1966\u201367', 'League Division': 'Bundesliga', 'League Apps': 23, 'League Goals': 10, 'German Championship[a] Apps': '\u2013', 'German Championship[a] Goals': '\u2013', 'DFB-Pokal Apps': '5', 'DFB-Pokal Goals': '3', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 28, 'Total Goals': 13}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "Hamburger SV",
+      "league_apps": 30,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1967\u201368', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 12, 'German Championship[a] Apps': '\u2013', 'German Championship[a] Goals': '\u2013', 'DFB-Pokal Apps': '1', 'DFB-Pokal Goals': '0', 'Europe Apps': '9[c]', 'Europe Goals': '8', 'Total Apps': 40, 'Total Goals': 20}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "Hamburger SV",
+      "league_apps": 33,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1968\u201369', 'League Division': 'Bundesliga', 'League Apps': 33, 'League Goals': 23, 'German Championship[a] Apps': '\u2013', 'German Championship[a] Goals': '\u2013', 'DFB-Pokal Apps': '3', 'DFB-Pokal Goals': '1', 'Europe Apps': '4[d]', 'Europe Goals': '3', 'Total Apps': 40, 'Total Goals': 27}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "Hamburger SV",
+      "league_apps": 30,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1969\u201370', 'League Division': 'Bundesliga', 'League Apps': 30, 'League Goals': 17, 'German Championship[a] Apps': '\u2013', 'German Championship[a] Goals': '\u2013', 'DFB-Pokal Apps': '2', 'DFB-Pokal Goals': '0', 'Europe Apps': '2[d]', 'Europe Goals': '0', 'Total Apps': 34, 'Total Goals': 17}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "Hamburger SV",
+      "league_apps": 25,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1970\u201371', 'League Division': 'Bundesliga', 'League Apps': 25, 'League Goals': 9, 'German Championship[a] Apps': '\u2013', 'German Championship[a] Goals': '\u2013', 'DFB-Pokal Apps': '2', 'DFB-Pokal Goals': '3', 'Europe Apps': '1[d]', 'Europe Goals': '0', 'Total Apps': 28, 'Total Goals': 12}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "Hamburger SV",
+      "league_apps": 26,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': '1971\u201372', 'League Division': 'Bundesliga', 'League Apps': 26, 'League Goals': 11, 'German Championship[a] Apps': '\u2013', 'German Championship[a] Goals': '\u2013', 'DFB-Pokal Apps': '4', 'DFB-Pokal Goals': '3', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 30, 'Total Goals': 14}"
+    },
+    {
+      "season": "Total",
+      "club": "Hamburger SV",
+      "league_apps": 476,
+      "league_goals": 404,
+      "raw": "{'Club Club': 'Hamburger SV', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 476, 'League Goals': 404, 'German Championship[a] Apps': '43', 'German Championship[a] Goals': '41', 'DFB-Pokal Apps': '32', 'DFB-Pokal Goals': '24', 'Europe Apps': '29', 'Europe Goals': '21', 'Total Apps': 580, 'Total Goals': 490}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Cork Celtic",
+      "league_apps": 1,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Cork Celtic', 'Season Season': '1977\u201378', 'League Division': 'League of Ireland', 'League Apps': 1, 'League Goals': 2, 'German Championship[a] Apps': '\u2013', 'German Championship[a] Goals': '\u2013', 'DFB-Pokal Apps': '\u2013', 'DFB-Pokal Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Total Apps': 1, 'Total Goals': 2}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 477,
+      "league_goals": 406,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 477, 'League Goals': 406, 'German Championship[a] Apps': '43', 'German Championship[a] Goals': '41', 'DFB-Pokal Apps': '32', 'DFB-Pokal Goals': '24', 'Europe Apps': '29', 'Europe Goals': '21', 'Total Apps': 581, 'Total Goals': 492}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Uwe Seeler - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"619e03f3-f9f3-4e1b-a653-c8a4a89c64e5\",\"wgC",
+  "season_id": "1963",
+  "award_year": 1963
+}

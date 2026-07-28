@@ -1,0 +1,182 @@
+{
+  "player_name_raw": "Gianluca Vialli",
+  "fetch_status": "ok",
+  "wikipedia_title": "Gianluca_Vialli",
+  "url": "https://en.wikipedia.org/wiki/Gianluca_Vialli",
+  "position": "Striker",
+  "birth_year": 1964,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1980\u201381",
+      "club": "Cremonese",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Cremonese', 'Season Season': '1980\u201381', 'League Division': 'Serie C1', 'League Apps': 2, 'League Goals': 0, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 2, 'Total Goals': 0}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Cremonese",
+      "league_apps": 31,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Cremonese', 'Season Season': '1981\u201382', 'League Division': 'Serie B', 'League Apps': 31, 'League Goals': 5, 'National cup[a] Apps': 1, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 32, 'Total Goals': 5}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Cremonese",
+      "league_apps": 35,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Cremonese', 'Season Season': '1982\u201383', 'League Division': 'Serie B', 'League Apps': 35, 'League Goals': 8, 'National cup[a] Apps': 2, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 37, 'Total Goals': 8}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Cremonese",
+      "league_apps": 37,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Cremonese', 'Season Season': '1983\u201384', 'League Division': 'Serie B', 'League Apps': 37, 'League Goals': 10, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 42, 'Total Goals': 12}"
+    },
+    {
+      "season": "Total",
+      "club": "Cremonese",
+      "league_apps": 105,
+      "league_goals": 23,
+      "raw": "{'Club Club': 'Cremonese', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 105, 'League Goals': 23, 'National cup[a] Apps': 8, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 113, 'Total Goals': 25}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Sampdoria",
+      "league_apps": 28,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1984\u201385', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 3, 'National cup[a] Apps': 13, 'National cup[a] Goals': 6, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 41, 'Total Goals': 9}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Sampdoria",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1985\u201386', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 6, 'National cup[a] Apps': 7, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '4[c]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 39, 'Total Goals': 8}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Sampdoria",
+      "league_apps": 28,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1986\u201387', 'League Division': 'Serie A', 'League Apps': 28, 'League Goals': 12, 'National cup[a] Apps': 5, 'National cup[a] Goals': 4, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 33, 'Total Goals': 16}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Sampdoria",
+      "league_apps": 30,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1987\u201388', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 10, 'National cup[a] Apps': 13, 'National cup[a] Goals': 3, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 43, 'Total Goals': 13}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Sampdoria",
+      "league_apps": 30,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1988\u201389', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 14, 'National cup[a] Apps': 14, 'National cup[a] Goals': 13, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '7[c]', 'Europe Goals': '5', 'Other Apps': '1[d]', 'Other Goals': '1', 'Total Apps': 52, 'Total Goals': 33}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Sampdoria",
+      "league_apps": 22,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1989\u201390', 'League Division': 'Serie A', 'League Apps': 22, 'League Goals': 10, 'National cup[a] Apps': 2, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '8[c]', 'Europe Goals': '7', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 33, 'Total Goals': 19}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Sampdoria",
+      "league_apps": 26,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1990\u201391', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 19, 'National cup[a] Apps': 7, 'National cup[a] Goals': 3, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '4[c]', 'Europe Goals': '1', 'Other Apps': '1[e]', 'Other Goals': '0', 'Total Apps': 38, 'Total Goals': 23}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Sampdoria",
+      "league_apps": 31,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': '1991\u201392', 'League Division': 'Serie A', 'League Apps': 31, 'League Goals': 11, 'National cup[a] Apps': 6, 'National cup[a] Goals': 3, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '11[f]', 'Europe Goals': '6', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 49, 'Total Goals': 20}"
+    },
+    {
+      "season": "Total",
+      "club": "Sampdoria",
+      "league_apps": 223,
+      "league_goals": 85,
+      "raw": "{'Club Club': 'Sampdoria', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 223, 'League Goals': 85, 'National cup[a] Apps': 67, 'National cup[a] Goals': 36, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '34', 'Europe Goals': '19', 'Other Apps': '4', 'Other Goals': '1', 'Total Apps': 328, 'Total Goals': 141}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Juventus",
+      "league_apps": 32,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1992\u201393', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 6, 'National cup[a] Apps': 7, 'National cup[a] Goals': 2, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '10[g]', 'Europe Goals': '5', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 49, 'Total Goals': 13}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Juventus",
+      "league_apps": 10,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1993\u201394', 'League Division': 'Serie A', 'League Apps': 10, 'League Goals': 4, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '2[g]', 'Europe Goals': '0', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 12, 'Total Goals': 4}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 17,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1994\u201395', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 17, 'National cup[a] Apps': 7, 'National cup[a] Goals': 3, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '9[g]', 'Europe Goals': '2', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 46, 'Total Goals': 22}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Juventus",
+      "league_apps": 30,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': '1995\u201396', 'League Division': 'Serie A', 'League Apps': 30, 'League Goals': 11, 'National cup[a] Apps': 0, 'National cup[a] Goals': 0, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '7[h]', 'Europe Goals': '2', 'Other Apps': '1[d]', 'Other Goals': '1', 'Total Apps': 38, 'Total Goals': 14}"
+    },
+    {
+      "season": "Total",
+      "club": "Juventus",
+      "league_apps": 102,
+      "league_goals": 38,
+      "raw": "{'Club Club': 'Juventus', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 102, 'League Goals': 38, 'National cup[a] Apps': 14, 'National cup[a] Goals': 5, 'League cup[b] Apps': '\u2013', 'League cup[b] Goals': '\u2013', 'Europe Apps': '28', 'Europe Goals': '9', 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': 145, 'Total Goals': 53}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Chelsea",
+      "league_apps": 28,
+      "league_goals": 9,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '1996\u201397', 'League Division': 'Premier League', 'League Apps': 28, 'League Goals': 9, 'National cup[a] Apps': 5, 'National cup[a] Goals': 2, 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '\u2013', 'Europe Goals': '\u2013', 'Other Apps': '\u2013', 'Other Goals': '\u2013', 'Total Apps': 34, 'Total Goals': 11}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Chelsea",
+      "league_apps": 21,
+      "league_goals": 11,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '1997\u201398', 'League Division': 'Premier League', 'League Apps': 21, 'League Goals': 11, 'National cup[a] Apps': 1, 'National cup[a] Goals': 2, 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '8[c]', 'Europe Goals': '6', 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 34, 'Total Goals': 19}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Chelsea",
+      "league_apps": 9,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '1998\u201399', 'League Division': 'Premier League', 'League Apps': 9, 'League Goals': 1, 'National cup[a] Apps': 3, 'National cup[a] Goals': 2, 'League cup[b] Apps': '3', 'League cup[b] Goals': '6', 'Europe Apps': '5[c]', 'Europe Goals': '1', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 20, 'Total Goals': 10}"
+    },
+    {
+      "season": "Total",
+      "club": "Chelsea",
+      "league_apps": 58,
+      "league_goals": 21,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 58, 'League Goals': 21, 'National cup[a] Apps': 9, 'National cup[a] Goals': 6, 'League cup[b] Apps': '7', 'League cup[b] Goals': '6', 'Europe Apps': '13', 'Europe Goals': '7', 'Other Apps': '1', 'Other Goals': '0', 'Total Apps': 88, 'Total Goals': 40}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 488,
+      "league_goals": 167,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 488, 'League Goals': 167, 'National cup[a] Apps': 98, 'National cup[a] Goals': 49, 'League cup[b] Apps': '7', 'League cup[b] Goals': '6', 'Europe Apps': '75', 'Europe Goals': '35', 'Other Apps': '6', 'Other Goals': '2', 'Total Apps': 674, 'Total Goals': 259}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Gianluca Vialli - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"dc41d5f0-8e02-403a-9681-f70c4e85afdc\"",
+  "season_id": "1988",
+  "award_year": 1988
+}

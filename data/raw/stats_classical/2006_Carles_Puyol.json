@@ -1,0 +1,175 @@
+{
+  "player_name_raw": "Carles Puyol",
+  "fetch_status": "ok",
+  "wikipedia_title": "Carles_Puyol",
+  "url": "https://en.wikipedia.org/wiki/Carles_Puyol",
+  "position": "Centre-back",
+  "birth_year": 1978,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1995\u201396",
+      "club": "Barcelona C",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona C', 'Season Season': '1995\u201396', 'League Division': 'Segunda Divisi\u00f3n B', 'League Apps': 1, 'League Goals': 0, 'Copa del Rey Apps': '\u2014', 'Copa del Rey Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Barcelona B",
+      "league_apps": 1,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Barcelona B', 'Season Season': '1996\u201397', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 1, 'League Goals': 1, 'Copa del Rey Apps': '\u2014', 'Copa del Rey Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 1, 'Total Goals': 1}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Barcelona B",
+      "league_apps": 42,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Barcelona B', 'Season Season': '1997\u201398', 'League Division': 'Segunda Divisi\u00f3n B', 'League Apps': 42, 'League Goals': 3, 'Copa del Rey Apps': '\u2014', 'Copa del Rey Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 3}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Barcelona B",
+      "league_apps": 38,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Barcelona B', 'Season Season': '1998\u201399', 'League Division': 'Segunda Divisi\u00f3n', 'League Apps': 38, 'League Goals': 2, 'Copa del Rey Apps': '\u2014', 'Copa del Rey Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 2}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Barcelona B",
+      "league_apps": 8,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona B', 'Season Season': '1999\u20132000', 'League Division': 'Segunda Divisi\u00f3n B', 'League Apps': 8, 'League Goals': 0, 'Copa del Rey Apps': '\u2014', 'Copa del Rey Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 8, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona B",
+      "league_apps": 89,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Barcelona B', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 89, 'League Goals': 6, 'Copa del Rey Apps': '\u2014', 'Copa del Rey Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 89, 'Total Goals': 6}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Barcelona",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1999\u20132000', 'League Division': 'La Liga', 'League Apps': 24, 'League Goals': 0, 'Copa del Rey Apps': '5', 'Copa del Rey Goals': '0', 'Europe Apps': '8[a]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 37, 'Total Goals': 0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Barcelona",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2000\u201301', 'League Division': 'La Liga', 'League Apps': 17, 'League Goals': 0, 'Copa del Rey Apps': '2', 'Copa del Rey Goals': '0', 'Europe Apps': '5[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Barcelona",
+      "league_apps": 35,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2001\u201302', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 2, 'Copa del Rey Apps': '1', 'Copa del Rey Goals': '0', 'Europe Apps': '15[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 51, 'Total Goals': 2}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Barcelona",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2002\u201303', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 0, 'Copa del Rey Apps': '0', 'Copa del Rey Goals': '0', 'Europe Apps': '14[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 46, 'Total Goals': 0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Barcelona",
+      "league_apps": 27,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2003\u201304', 'League Division': 'La Liga', 'League Apps': 27, 'League Goals': 0, 'Copa del Rey Apps': '4', 'Copa del Rey Goals': '0', 'Europe Apps': '7[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Barcelona",
+      "league_apps": 36,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2004\u201305', 'League Division': 'La Liga', 'League Apps': 36, 'League Goals': 0, 'Copa del Rey Apps': '1', 'Copa del Rey Goals': '0', 'Europe Apps': '8[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Barcelona",
+      "league_apps": 35,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2005\u201306', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 1, 'Copa del Rey Apps': '3', 'Copa del Rey Goals': '0', 'Europe Apps': '12[a]', 'Europe Goals': '0', 'Other Apps': '2[d]', 'Other Goals': '0', 'Total Apps': 52, 'Total Goals': 1}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Barcelona",
+      "league_apps": 35,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2006\u201307', 'League Division': 'La Liga', 'League Apps': 35, 'League Goals': 2, 'Copa del Rey Apps': '7', 'Copa del Rey Goals': '0', 'Europe Apps': '9[e]', 'Europe Goals': '1', 'Other Apps': '4[f]', 'Other Goals': '0', 'Total Apps': 55, 'Total Goals': 2}"
+    },
+    {
+      "season": "2007\u201308",
+      "club": "Barcelona",
+      "league_apps": 30,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2007\u201308', 'League Division': 'La Liga', 'League Apps': 30, 'League Goals': 0, 'Copa del Rey Apps': '7', 'Copa del Rey Goals': '0', 'Europe Apps': '10[a]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 1}"
+    },
+    {
+      "season": "2008\u201309",
+      "club": "Barcelona",
+      "league_apps": 28,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2008\u201309', 'League Division': 'La Liga', 'League Apps': 28, 'League Goals': 1, 'Copa del Rey Apps': '6', 'Copa del Rey Goals': '0', 'Europe Apps': '11[a]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 1}"
+    },
+    {
+      "season": "2009\u201310",
+      "club": "Barcelona",
+      "league_apps": 32,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2009\u201310', 'League Division': 'La Liga', 'League Apps': 32, 'League Goals': 1, 'Copa del Rey Apps': '2', 'Copa del Rey Goals': '0', 'Europe Apps': '10[g]', 'Europe Goals': '0', 'Other Apps': '4[h]', 'Other Goals': '0', 'Total Apps': 48, 'Total Goals': 1}"
+    },
+    {
+      "season": "2010\u201311",
+      "club": "Barcelona",
+      "league_apps": 17,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2010\u201311', 'League Division': 'La Liga', 'League Apps': 17, 'League Goals': 1, 'Copa del Rey Apps': '2', 'Copa del Rey Goals': '0', 'Europe Apps': '8[a]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 27, 'Total Goals': 1}"
+    },
+    {
+      "season": "2011\u201312",
+      "club": "Barcelona",
+      "league_apps": 26,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2011\u201312', 'League Division': 'La Liga', 'League Apps': 26, 'League Goals': 3, 'Copa del Rey Apps': '7', 'Copa del Rey Goals': '2', 'Europe Apps': '9[a]', 'Europe Goals': '0', 'Other Apps': '2[i]', 'Other Goals': '0', 'Total Apps': 44, 'Total Goals': 5}"
+    },
+    {
+      "season": "2012\u201313",
+      "club": "Barcelona",
+      "league_apps": 13,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2012\u201313', 'League Division': 'La Liga', 'League Apps': 13, 'League Goals': 1, 'Copa del Rey Apps': '5', 'Copa del Rey Goals': '1', 'Europe Apps': '4[a]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 22, 'Total Goals': 2}"
+    },
+    {
+      "season": "2013\u201314",
+      "club": "Barcelona",
+      "league_apps": 5,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '2013\u201314', 'League Division': 'La Liga', 'League Apps': 5, 'League Goals': 1, 'Copa del Rey Apps': '6', 'Copa del Rey Goals': '1', 'Europe Apps': '1[a]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 12, 'Total Goals': 2}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 392,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 392, 'League Goals': 13, 'Copa del Rey Apps': '58', 'Copa del Rey Goals': '4', 'Europe Apps': '131', 'Europe Goals': '2', 'Other Apps': '12', 'Other Goals': '0', 'Total Apps': 593, 'Total Goals': 18}"
+    },
+    {
+      "season": "Career totals",
+      "club": "Career totals",
+      "league_apps": 482,
+      "league_goals": 19,
+      "raw": "{'Club Club': 'Career totals', 'Season Season': 'Career totals', 'League Division': 'Career totals', 'League Apps': 482, 'League Goals': 19, 'Copa del Rey Apps': '58', 'Copa del Rey Goals': '4', 'Europe Apps': '131', 'Europe Goals': '2', 'Other Apps': '12', 'Other Goals': '0', 'Total Apps': 683, 'Total Goals': 24}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Carles Puyol - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"5e46af91-cd43-495d-a6a8-39c12f9182ff\",\"w",
+  "season_id": "2006",
+  "award_year": 2006
+}

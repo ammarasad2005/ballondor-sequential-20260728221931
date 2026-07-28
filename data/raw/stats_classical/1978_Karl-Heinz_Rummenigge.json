@@ -1,0 +1,147 @@
+{
+  "player_name_raw": "Karl-Heinz Rummenigge",
+  "fetch_status": "ok",
+  "wikipedia_title": "Karl-Heinz_Rummenigge",
+  "url": "https://en.wikipedia.org/wiki/Karl-Heinz_Rummenigge",
+  "position": "Forward",
+  "birth_year": 1955,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1974\u201375",
+      "club": "Bayern Munich",
+      "league_apps": 21,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1974\u201375', 'League Division': 'Bundesliga', 'League Apps': 21, 'League Goals': 5, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 1.0, 'Europe Apps': '4[b]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 6}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1975\u201376', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 8, 'National cup[a] Apps': 7.0, 'National cup[a] Goals': 2.0, 'Europe Apps': '9[b]', 'Europe Goals': '3', 'Other Apps': '2[c]', 'Other Goals': '0', 'Total Apps': 50, 'Total Goals': 13}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "Bayern Munich",
+      "league_apps": 31,
+      "league_goals": 12,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1976\u201377', 'League Division': 'Bundesliga', 'League Apps': 31, 'League Goals': 12, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 2.0, 'Europe Apps': '6[b]', 'Europe Goals': '1', 'Other Apps': '4[d]', 'Other Goals': '0', 'Total Apps': 46, 'Total Goals': 15}"
+    },
+    {
+      "season": "1977\u201378",
+      "club": "Bayern Munich",
+      "league_apps": 29,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1977\u201378', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 8, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 0.0, 'Europe Apps': '6[e]', 'Europe Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 38, 'Total Goals': 14}"
+    },
+    {
+      "season": "1978\u201379",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1978\u201379', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 14, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 0.0, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 14}"
+    },
+    {
+      "season": "1979\u201380",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1979\u201380', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 26, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 5.0, 'Europe Apps': '10[e]', 'Europe Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 47, 'Total Goals': 36}"
+    },
+    {
+      "season": "1980\u201381",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 29,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1980\u201381', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 29, 'National cup[a] Apps': 3.0, 'National cup[a] Goals': 4.0, 'Europe Apps': '8[b]', 'Europe Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 45, 'Total Goals': 39}"
+    },
+    {
+      "season": "1981\u201382",
+      "club": "Bayern Munich",
+      "league_apps": 32,
+      "league_goals": 14,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1981\u201382', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 14, 'National cup[a] Apps': 7.0, 'National cup[a] Goals': 7.0, 'Europe Apps': '9[b]', 'Europe Goals': '6', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 48, 'Total Goals': 27}"
+    },
+    {
+      "season": "1982\u201383",
+      "club": "Bayern Munich",
+      "league_apps": 34,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1982\u201383', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 20, 'National cup[a] Apps': 2.0, 'National cup[a] Goals': 0.0, 'Europe Apps': '6[f]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 21}"
+    },
+    {
+      "season": "1983\u201384",
+      "club": "Bayern Munich",
+      "league_apps": 29,
+      "league_goals": 26,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': '1983\u201384', 'League Division': 'Bundesliga', 'League Apps': 29, 'League Goals': 26, 'National cup[a] Apps': 7.0, 'National cup[a] Goals': 4.0, 'Europe Apps': '6[e]', 'Europe Goals': '2', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 42, 'Total Goals': 32}"
+    },
+    {
+      "season": "Total",
+      "club": "Bayern Munich",
+      "league_apps": 310,
+      "league_goals": 162,
+      "raw": "{'Club Club': 'Bayern Munich', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 310, 'League Goals': 162, 'National cup[a] Apps': 42.0, 'National cup[a] Goals': 25.0, 'Europe Apps': '64', 'Europe Goals': '30', 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': 422, 'Total Goals': 217}"
+    },
+    {
+      "season": "1984\u201385",
+      "club": "Inter Milan",
+      "league_apps": 26,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1984\u201385', 'League Division': 'Serie A', 'League Apps': 26, 'League Goals': 8, 'National cup[a] Apps': 9.0, 'National cup[a] Goals': 5.0, 'Europe Apps': '9[e]', 'Europe Goals': '5', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 18}"
+    },
+    {
+      "season": "1985\u201386",
+      "club": "Inter Milan",
+      "league_apps": 24,
+      "league_goals": 13,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1985\u201386', 'League Division': 'Serie A', 'League Apps': 24, 'League Goals': 13, 'National cup[a] Apps': 6.0, 'National cup[a] Goals': 2.0, 'Europe Apps': '9[e]', 'Europe Goals': '3', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 39, 'Total Goals': 18}"
+    },
+    {
+      "season": "1986\u201387",
+      "club": "Inter Milan",
+      "league_apps": 14,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': '1986\u201387', 'League Division': 'Serie A', 'League Apps': 14, 'League Goals': 3, 'National cup[a] Apps': 5.0, 'National cup[a] Goals': 2.0, 'Europe Apps': '5[e]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 24, 'Total Goals': 6}"
+    },
+    {
+      "season": "Total",
+      "club": "Inter Milan",
+      "league_apps": 64,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Inter Milan', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 64, 'League Goals': 24, 'National cup[a] Apps': 20.0, 'National cup[a] Goals': 9.0, 'Europe Apps': '23', 'Europe Goals': '9', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 107, 'Total Goals': 42}"
+    },
+    {
+      "season": "1987\u201388",
+      "club": "Servette",
+      "league_apps": 28,
+      "league_goals": 10,
+      "raw": "{'Club Club': 'Servette', 'Season Season': '1987\u201388', 'League Division': 'Nationalliga A', 'League Apps': 28, 'League Goals': 10, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 28, 'Total Goals': 10}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Servette",
+      "league_apps": 32,
+      "league_goals": 24,
+      "raw": "{'Club Club': 'Servette', 'Season Season': '1988\u201389', 'League Division': 'Nationalliga A', 'League Apps': 32, 'League Goals': 24, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Europe Apps': '4[e]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 36, 'Total Goals': 24}"
+    },
+    {
+      "season": "Total",
+      "club": "Servette",
+      "league_apps": 60,
+      "league_goals": 34,
+      "raw": "{'Club Club': 'Servette', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 60, 'League Goals': 34, 'National cup[a] Apps': nan, 'National cup[a] Goals': nan, 'Europe Apps': '4', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 64, 'Total Goals': 34}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 434,
+      "league_goals": 220,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 434, 'League Goals': 220, 'National cup[a] Apps': 62.0, 'National cup[a] Goals': 34.0, 'Europe Apps': '91', 'Europe Goals': '39', 'Other Apps': '6', 'Other Goals': '0', 'Total Apps': 593, 'Total Goals': 293}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Karl-Heinz Rummenigge - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"8414e64c-4091-42e6-a1af-76d9fe3",
+  "season_id": "1978",
+  "award_year": 1978
+}

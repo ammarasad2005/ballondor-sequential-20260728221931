@@ -1,0 +1,124 @@
+{
+  "player_name_raw": "Wolfgang Overath",
+  "fetch_status": "ok",
+  "wikipedia_title": "Wolfgang_Overath",
+  "url": "https://en.wikipedia.org/wiki/Wolfgang_Overath",
+  "position": "Attacking midfielder",
+  "birth_year": 1943,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1963\u201364",
+      "club": "1963\u201364",
+      "league_apps": 30,
+      "league_goals": 8,
+      "raw": "{'Club performance Season Germany': '1963\u201364', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 30, 'League Goals League': 8}"
+    },
+    {
+      "season": "1964\u201365",
+      "club": "1964\u201365",
+      "league_apps": 27,
+      "league_goals": 9,
+      "raw": "{'Club performance Season Germany': '1964\u201365', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 27, 'League Goals League': 9}"
+    },
+    {
+      "season": "1965\u201366",
+      "club": "1965\u201366",
+      "league_apps": 30,
+      "league_goals": 3,
+      "raw": "{'Club performance Season Germany': '1965\u201366', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 30, 'League Goals League': 3}"
+    },
+    {
+      "season": "1966\u201367",
+      "club": "1966\u201367",
+      "league_apps": 33,
+      "league_goals": 6,
+      "raw": "{'Club performance Season Germany': '1966\u201367', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 33, 'League Goals League': 6}"
+    },
+    {
+      "season": "1967\u201368",
+      "club": "1967\u201368",
+      "league_apps": 29,
+      "league_goals": 9,
+      "raw": "{'Club performance Season Germany': '1967\u201368', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 29, 'League Goals League': 9}"
+    },
+    {
+      "season": "1968\u201369",
+      "club": "1968\u201369",
+      "league_apps": 34,
+      "league_goals": 6,
+      "raw": "{'Club performance Season Germany': '1968\u201369', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 34, 'League Goals League': 6}"
+    },
+    {
+      "season": "1969\u201370",
+      "club": "1969\u201370",
+      "league_apps": 29,
+      "league_goals": 12,
+      "raw": "{'Club performance Season Germany': '1969\u201370', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 29, 'League Goals League': 12}"
+    },
+    {
+      "season": "1970\u201371",
+      "club": "1970\u201371",
+      "league_apps": 26,
+      "league_goals": 4,
+      "raw": "{'Club performance Season Germany': '1970\u201371', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 26, 'League Goals League': 4}"
+    },
+    {
+      "season": "1971\u201372",
+      "club": "1971\u201372",
+      "league_apps": 25,
+      "league_goals": 6,
+      "raw": "{'Club performance Season Germany': '1971\u201372', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 25, 'League Goals League': 6}"
+    },
+    {
+      "season": "1972\u201373",
+      "club": "1972\u201373",
+      "league_apps": 30,
+      "league_goals": 3,
+      "raw": "{'Club performance Season Germany': '1972\u201373', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 30, 'League Goals League': 3}"
+    },
+    {
+      "season": "1973\u201374",
+      "club": "1973\u201374",
+      "league_apps": 31,
+      "league_goals": 5,
+      "raw": "{'Club performance Season Germany': '1973\u201374', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 31, 'League Goals League': 5}"
+    },
+    {
+      "season": "1974\u201375",
+      "club": "1974\u201375",
+      "league_apps": 34,
+      "league_goals": 4,
+      "raw": "{'Club performance Season Germany': '1974\u201375', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 34, 'League Goals League': 4}"
+    },
+    {
+      "season": "1975\u201376",
+      "club": "1975\u201376",
+      "league_apps": 27,
+      "league_goals": 2,
+      "raw": "{'Club performance Season Germany': '1975\u201376', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 27, 'League Goals League': 2}"
+    },
+    {
+      "season": "1976\u201377",
+      "club": "1976\u201377",
+      "league_apps": 24,
+      "league_goals": 6,
+      "raw": "{'Club performance Season Germany': '1976\u201377', 'Club performance Club Germany': '1. FC K\u00f6ln', 'Club performance League Germany': 'Bundesliga', 'League Apps League': 24, 'League Goals League': 6}"
+    },
+    {
+      "season": "Country",
+      "club": "Country",
+      "league_apps": 409,
+      "league_goals": 83,
+      "raw": "{'Club performance Season Germany': 'Country', 'Club performance Club Germany': 'Germany', 'Club performance League Germany': 'Germany', 'League Apps League': 409, 'League Goals League': 83}"
+    },
+    {
+      "season": "Total",
+      "club": "Total",
+      "league_apps": 409,
+      "league_goals": 83,
+      "raw": "{'Club performance Season Germany': 'Total', 'Club performance Club Germany': 'Total', 'Club performance League Germany': 'Total', 'League Apps League': 409, 'League Goals League': 83}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Wolfgang Overath - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"039c42fd-d30b-4b94-ac3c-d67425acf19e"
+}

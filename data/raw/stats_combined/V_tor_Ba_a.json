@@ -1,0 +1,180 @@
+{
+  "player_name_raw": "V\u00edtor Ba\u00eda",
+  "fetch_status": "ok",
+  "wikipedia_title": "V\u00edtor_Ba\u00eda",
+  "url": "https://en.wikipedia.org/wiki/V\u00edtor_Ba\u00eda",
+  "position": "Goalkeeper",
+  "birth_year": 1969,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "1987\u201388",
+      "club": "Porto",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1987\u201388', 'League Division': 'Primeira Liga', 'League Apps': 0, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "1988\u201389",
+      "club": "Porto",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1988\u201389', 'League Division': 'Primeira Liga', 'League Apps': 15, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 15, 'Total Goals': 0}"
+    },
+    {
+      "season": "1989\u201390",
+      "club": "Porto",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1989\u201390', 'League Division': 'Primeira Liga', 'League Apps': 34, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 6, 'Europe Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "1990\u201391",
+      "club": "Porto",
+      "league_apps": 38,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1990\u201391', 'League Division': 'Primeira Liga', 'League Apps': 38, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': 6, 'Europe Goals': 0, 'Other[a] Apps': 3, 'Other[a] Goals': 0, 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1991\u201392",
+      "club": "Porto",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1991\u201392', 'League Division': 'Primeira Liga', 'League Apps': 34, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': 4, 'Europe Goals': 0, 'Other[a] Apps': 2, 'Other[a] Goals': 0, 'Total Apps': 41, 'Total Goals': 0}"
+    },
+    {
+      "season": "1992\u201393",
+      "club": "Porto",
+      "league_apps": 34,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1992\u201393', 'League Division': 'Primeira Liga', 'League Apps': 34, 'League Goals': 0, 'Cup Apps': 2, 'Cup Goals': 0, 'Europe Apps': 10, 'Europe Goals': 0, 'Other[a] Apps': 2, 'Other[a] Goals': 0, 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1993\u201394",
+      "club": "Porto",
+      "league_apps": 32,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1993\u201394', 'League Division': 'Primeira Liga', 'League Apps': 32, 'League Goals': 0, 'Cup Apps': 2, 'Cup Goals': 0, 'Europe Apps': 11, 'Europe Goals': 0, 'Other[a] Apps': 3, 'Other[a] Goals': 0, 'Total Apps': 48, 'Total Goals': 0}"
+    },
+    {
+      "season": "1994\u201395",
+      "club": "Porto",
+      "league_apps": 33,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1994\u201395', 'League Division': 'Primeira Liga', 'League Apps': 33, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 6, 'Europe Goals': 0, 'Other[a] Apps': 3, 'Other[a] Goals': 0, 'Total Apps': 42, 'Total Goals': 0}"
+    },
+    {
+      "season": "1995\u201396",
+      "club": "Porto",
+      "league_apps": 26,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1995\u201396', 'League Division': 'Primeira Liga', 'League Apps': 26, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 6, 'Europe Goals': 0, 'Other[a] Apps': 1, 'Other[a] Goals': 0, 'Total Apps': 33, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Porto",
+      "league_apps": 246,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 246, 'League Goals': 0, 'Cup Apps': 6, 'Cup Goals': 0, 'Europe Apps': 49, 'Europe Goals': 0, 'Other[a] Apps': 14, 'Other[a] Goals': 0, 'Total Apps': 315, 'Total Goals': 0}"
+    },
+    {
+      "season": "1996\u201397",
+      "club": "Barcelona",
+      "league_apps": 37,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1996\u201397', 'League Division': 'La Liga', 'League Apps': 37, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': 8, 'Europe Goals': 0, 'Other[a] Apps': 1, 'Other[a] Goals': 0, 'Total Apps': 47, 'Total Goals': 0}"
+    },
+    {
+      "season": "1997\u201398",
+      "club": "Barcelona",
+      "league_apps": 2,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': '1997\u201398', 'League Division': 'La Liga', 'League Apps': 2, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 1, 'Europe Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 3, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Barcelona",
+      "league_apps": 39,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Barcelona', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 39, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': 9, 'Europe Goals': 0, 'Other[a] Apps': 1, 'Other[a] Goals': 0, 'Total Apps': 50, 'Total Goals': 0}"
+    },
+    {
+      "season": "1998\u201399",
+      "club": "Porto",
+      "league_apps": 16,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1998\u201399', 'League Division': 'Primeira Liga', 'League Apps': 16, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 16, 'Total Goals': 0}"
+    },
+    {
+      "season": "1999\u20132000",
+      "club": "Porto",
+      "league_apps": 15,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '1999\u20132000', 'League Division': 'Primeira Liga', 'League Apps': 15, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': 9, 'Europe Goals': 0, 'Other[a] Apps': 2, 'Other[a] Goals': 0, 'Total Apps': 27, 'Total Goals': 0}"
+    },
+    {
+      "season": "2000\u201301",
+      "club": "Porto",
+      "league_apps": 0,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '2000\u201301', 'League Division': 'Primeira Liga', 'League Apps': 0, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 0, 'Total Goals': 0}"
+    },
+    {
+      "season": "2001\u201302",
+      "club": "Porto",
+      "league_apps": 17,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '2001\u201302', 'League Division': 'Primeira Liga', 'League Apps': 17, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 2, 'Europe Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 19, 'Total Goals': 0}"
+    },
+    {
+      "season": "2002\u201303",
+      "club": "Porto",
+      "league_apps": 25,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '2002\u201303', 'League Division': 'Primeira Liga', 'League Apps': 25, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': 11, 'Europe Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 31, 'Total Goals': 0}"
+    },
+    {
+      "season": "2003\u201304",
+      "club": "Porto",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '2003\u201304', 'League Division': 'Primeira Liga', 'League Apps': 31, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 13, 'Europe Goals': 0, 'Other[a] Apps': 1, 'Other[a] Goals': 0, 'Total Apps': 45, 'Total Goals': 0}"
+    },
+    {
+      "season": "2004\u201305",
+      "club": "Porto",
+      "league_apps": 31,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '2004\u201305', 'League Division': 'Primeira Liga', 'League Apps': 31, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 6, 'Europe Goals': 0, 'Other[a] Apps': 3, 'Other[a] Goals': 0, 'Total Apps': 40, 'Total Goals': 0}"
+    },
+    {
+      "season": "2005\u201306",
+      "club": "Porto",
+      "league_apps": 24,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '2005\u201306', 'League Division': 'Primeira Liga', 'League Apps': 24, 'League Goals': 0, 'Cup Apps': 1, 'Cup Goals': 0, 'Europe Apps': 6, 'Europe Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 31, 'Total Goals': 0}"
+    },
+    {
+      "season": "2006\u201307",
+      "club": "Porto",
+      "league_apps": 1,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': '2006\u201307', 'League Division': 'Primeira Liga', 'League Apps': 1, 'League Goals': 0, 'Cup Apps': 0, 'Cup Goals': 0, 'Europe Apps': 0, 'Europe Goals': 0, 'Other[a] Apps': 0, 'Other[a] Goals': 0, 'Total Apps': 1, 'Total Goals': 0}"
+    },
+    {
+      "season": "Total",
+      "club": "Porto",
+      "league_apps": 160,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Porto', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 160, 'League Goals': 0, 'Cup Apps': 3, 'Cup Goals': 0, 'Europe Apps': 47, 'Europe Goals': 0, 'Other[a] Apps': 6, 'Other[a] Goals': 0, 'Total Apps': 210, 'Total Goals': 0}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 445,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 445, 'League Goals': 0, 'Cup Apps': 10, 'Cup Goals': 0, 'Europe Apps': 105, 'Europe Goals': 0, 'Other[a] Apps': 21, 'Other[a] Goals': 0, 'Total Apps': 575, 'Total Goals': 0}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>V\u00edtor Ba\u00eda - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"fdad62f4-02d7-4b70-ba9e-461c8ce6c660\",\"wgC"
+}

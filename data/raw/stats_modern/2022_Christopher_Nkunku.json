@@ -1,0 +1,140 @@
+{
+  "player_name_raw": "Christopher Nkunku",
+  "fetch_status": "ok",
+  "wikipedia_title": "Christopher_Nkunku",
+  "url": "https://en.wikipedia.org/wiki/Christopher_Nkunku",
+  "position": "Forward attacking midfielder winger",
+  "birth_year": 1997,
+  "career_stats_raw_tables_count": 1,
+  "career_stats": [
+    {
+      "season": "2015\u201316",
+      "club": "Paris Saint-Germain B",
+      "league_apps": 18,
+      "league_goals": 2,
+      "raw": "{'Club Club': 'Paris Saint-Germain B', 'Season Season': '2015\u201316', 'League Division': 'CFA', 'League Apps': 18, 'League Goals': 2, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 18, 'Total Goals': 2}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Paris Saint-Germain B",
+      "league_apps": 9,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Paris Saint-Germain B', 'Season Season': '2016\u201317', 'League Division': 'CFA', 'League Apps': 9, 'League Goals': 3, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 9, 'Total Goals': 3}"
+    },
+    {
+      "season": "Total",
+      "club": "Paris Saint-Germain B",
+      "league_apps": 27,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'Paris Saint-Germain B', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 27, 'League Goals': 5, 'National cup[a] Apps': '\u2014', 'National cup[a] Goals': '\u2014', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 27, 'Total Goals': 5}"
+    },
+    {
+      "season": "2015\u201316",
+      "club": "Paris Saint-Germain",
+      "league_apps": 5,
+      "league_goals": 0,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2015\u201316', 'League Division': 'Ligue 1', 'League Apps': 5, 'League Goals': 0, 'National cup[a] Apps': '0', 'National cup[a] Goals': '0', 'League cup[b] Apps': '0', 'League cup[b] Goals': '0', 'Europe Apps': '1[c]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 6, 'Total Goals': 0}"
+    },
+    {
+      "season": "2016\u201317",
+      "club": "Paris Saint-Germain",
+      "league_apps": 8,
+      "league_goals": 1,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2016\u201317', 'League Division': 'Ligue 1', 'League Apps': 8, 'League Goals': 1, 'National cup[a] Apps': '4', 'National cup[a] Goals': '1', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '1[c]', 'Europe Goals': '0', 'Other Apps': '0', 'Other Goals': '0', 'Total Apps': 16, 'Total Goals': 2}"
+    },
+    {
+      "season": "2017\u201318",
+      "club": "Paris Saint-Germain",
+      "league_apps": 20,
+      "league_goals": 4,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2017\u201318', 'League Division': 'Ligue 1', 'League Apps': 20, 'League Goals': 4, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '3', 'League cup[b] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '0', 'Total Apps': 27, 'Total Goals': 5}"
+    },
+    {
+      "season": "2018\u201319",
+      "club": "Paris Saint-Germain",
+      "league_apps": 22,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': '2018\u201319', 'League Division': 'Ligue 1', 'League Apps': 22, 'League Goals': 3, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '1', 'League cup[b] Goals': '0', 'Europe Apps': '0', 'Europe Goals': '0', 'Other Apps': '1[d]', 'Other Goals': '1', 'Total Apps': 29, 'Total Goals': 4}"
+    },
+    {
+      "season": "Total",
+      "club": "Paris Saint-Germain",
+      "league_apps": 55,
+      "league_goals": 8,
+      "raw": "{'Club Club': 'Paris Saint-Germain', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 55, 'League Goals': 8, 'National cup[a] Apps': '12', 'National cup[a] Goals': '2', 'League cup[b] Apps': '7', 'League cup[b] Goals': '0', 'Europe Apps': '2', 'Europe Goals': '0', 'Other Apps': '2', 'Other Goals': '1', 'Total Apps': 78, 'Total Goals': 11}"
+    },
+    {
+      "season": "2019\u201320",
+      "club": "RB Leipzig",
+      "league_apps": 32,
+      "league_goals": 5,
+      "raw": "{'Club Club': 'RB Leipzig', 'Season Season': '2019\u201320', 'League Division': 'Bundesliga', 'League Apps': 32, 'League Goals': 5, 'National cup[a] Apps': '3', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '9[c]', 'Europe Goals': '0', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 44, 'Total Goals': 5}"
+    },
+    {
+      "season": "2020\u201321",
+      "club": "RB Leipzig",
+      "league_apps": 28,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'RB Leipzig', 'Season Season': '2020\u201321', 'League Division': 'Bundesliga', 'League Apps': 28, 'League Goals': 6, 'National cup[a] Apps': '5', 'National cup[a] Goals': '0', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '7[c]', 'Europe Goals': '1', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 40, 'Total Goals': 7}"
+    },
+    {
+      "season": "2021\u201322",
+      "club": "RB Leipzig",
+      "league_apps": 34,
+      "league_goals": 20,
+      "raw": "{'Club Club': 'RB Leipzig', 'Season Season': '2021\u201322', 'League Division': 'Bundesliga', 'League Apps': 34, 'League Goals': 20, 'National cup[a] Apps': '6', 'National cup[a] Goals': '4', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '12[e]', 'Europe Goals': '11', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 52, 'Total Goals': 35}"
+    },
+    {
+      "season": "2022\u201323",
+      "club": "RB Leipzig",
+      "league_apps": 25,
+      "league_goals": 16,
+      "raw": "{'Club Club': 'RB Leipzig', 'Season Season': '2022\u201323', 'League Division': 'Bundesliga', 'League Apps': 25, 'League Goals': 16, 'National cup[a] Apps': '3', 'National cup[a] Goals': '3', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '7[c]', 'Europe Goals': '3', 'Other Apps': '1[f]', 'Other Goals': '1', 'Total Apps': 36, 'Total Goals': 23}"
+    },
+    {
+      "season": "Total",
+      "club": "RB Leipzig",
+      "league_apps": 119,
+      "league_goals": 47,
+      "raw": "{'Club Club': 'RB Leipzig', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 119, 'League Goals': 47, 'National cup[a] Apps': '17', 'National cup[a] Goals': '7', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '35', 'Europe Goals': '15', 'Other Apps': '1', 'Other Goals': '1', 'Total Apps': 172, 'Total Goals': 70}"
+    },
+    {
+      "season": "2023\u201324",
+      "club": "Chelsea",
+      "league_apps": 11,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2023\u201324', 'League Division': 'Premier League', 'League Apps': 11, 'League Goals': 3, 'National cup[a] Apps': '1', 'National cup[a] Goals': '0', 'League cup[b] Apps': '2', 'League cup[b] Goals': '0', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '\u2014', 'Other Goals': '\u2014', 'Total Apps': 14, 'Total Goals': 3}"
+    },
+    {
+      "season": "2024\u201325",
+      "club": "Chelsea",
+      "league_apps": 27,
+      "league_goals": 3,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': '2024\u201325', 'League Division': 'Premier League', 'League Apps': 27, 'League Goals': 3, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '2', 'League cup[b] Goals': '3', 'Europe Apps': '11[g]', 'Europe Goals': '7', 'Other Apps': '6[h]', 'Other Goals': '1', 'Total Apps': 48, 'Total Goals': 15}"
+    },
+    {
+      "season": "Total",
+      "club": "Chelsea",
+      "league_apps": 38,
+      "league_goals": 6,
+      "raw": "{'Club Club': 'Chelsea', 'Season Season': 'Total', 'League Division': 'Total', 'League Apps': 38, 'League Goals': 6, 'National cup[a] Apps': '3', 'National cup[a] Goals': '1', 'League cup[b] Apps': '4', 'League cup[b] Goals': '3', 'Europe Apps': '11', 'Europe Goals': '7', 'Other Apps': '6', 'Other Goals': '1', 'Total Apps': 62, 'Total Goals': 18}"
+    },
+    {
+      "season": "2025\u201326",
+      "club": "AC Milan",
+      "league_apps": 32,
+      "league_goals": 7,
+      "raw": "{'Club Club': 'AC Milan', 'Season Season': '2025\u201326', 'League Division': 'Serie A', 'League Apps': 32, 'League Goals': 7, 'National cup[a] Apps': '2', 'National cup[a] Goals': '1', 'League cup[b] Apps': '\u2014', 'League cup[b] Goals': '\u2014', 'Europe Apps': '\u2014', 'Europe Goals': '\u2014', 'Other Apps': '1[i]', 'Other Goals': '0', 'Total Apps': 35, 'Total Goals': 8}"
+    },
+    {
+      "season": "Career total",
+      "club": "Career total",
+      "league_apps": 271,
+      "league_goals": 73,
+      "raw": "{'Club Club': 'Career total', 'Season Season': 'Career total', 'League Division': 'Career total', 'League Apps': 271, 'League Goals': 73, 'National cup[a] Apps': '34', 'National cup[a] Goals': '11', 'League cup[b] Apps': '11', 'League cup[b] Goals': '3', 'Europe Apps': '48', 'Europe Goals': '22', 'Other Apps': '10', 'Other Goals': '3', 'Total Apps': 374, 'Total Goals': 112}"
+    }
+  ],
+  "html_snippet": "<!DOCTYPE html>\n<html class=\"client-nojs vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\" lang=\"en\" dir=\"ltr\">\n<head>\n<meta charset=\"UTF-8\">\n<title>Christopher Nkunku - Wikipedia</title>\n<script>(function(){var className=\"client-js vector-feature-language-in-header-enabled vector-feature-language-in-main-menu-disabled vector-feature-language-in-main-page-header-disabled vector-feature-page-tools-pinned-disabled vector-feature-toc-pinned-clientpref-1 vector-feature-main-menu-pinned-disabled vector-feature-limited-width-clientpref-1 vector-feature-limited-width-content-enabled vector-feature-custom-font-size-clientpref-1 vector-feature-appearance-pinned-clientpref-1 skin-theme-clientpref-day vector-feature-navigation-update-disabled vector-sticky-header-enabled vector-toc-available skin-thumbsize-clientpref-standard\";var cookie=document.cookie.match(/(?:^|; )enwikimwclientpreferences=([^;]+)/);if(cookie){cookie[1].split('%2C').forEach(function(pref){className=className.replace(new RegExp('(^| )'+pref.replace(/-clientpref-\\w+$|[^\\w-]+/g,'')+'-clientpref-\\\\w+( |$)'),'$1'+pref+'$2');});}document.documentElement.className=className;}());RLCONF={\"wgBreakFrames\":false,\"wgSeparatorTransformTable\":[\"\",\"\"],\"wgDigitTransformTable\":[\"\",\"\"],\"wgDefaultDateFormat\":\"dmy\",\"wgMonthNames\":[\"\",\"January\",\"February\",\"March\",\"April\",\"May\",\"June\",\"July\",\"August\",\"September\",\"October\",\"November\",\"December\"],\"wgRequestId\":\"6fe9722f-80b5-429b-9d2e-2d51fdd8f2",
+  "season_id": "2022",
+  "award_year": 2022
+}
