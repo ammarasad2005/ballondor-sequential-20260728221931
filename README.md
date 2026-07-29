@@ -24,7 +24,7 @@ BallonIQ predicts the Ballon d'Or ranking for a given season and explains each c
 - **Features:** 64 cols (45 after imputation, 64 with Understat advanced), 33 declared in registry. Missing 27.1% → 0% after median per era+position imputation (flags retained). Modern era xG/xA coverage 85.1% via Understat (FBRef blocked by Cloudflare even with undetected-chromedriver).
 - **Models:**
   - **Tier A Baseline** weighted-sum (manually reasoned): Top1 31.9% all-time, 16.7% held-out, Spearman 0.494
-  - **Tier B Pairwise Linear Ranker** (logistic regression on 53k within-season pairs, 13 features, L2 C=0.5) — **SELECTED**: Train Top1 34.9%, **Held-out Top1 33.3% (2/6: 2021 Messi + 2022 Benzema)**, Top3 66.7%, Spearman 0.471 (best). Coefficients sensible: goals_percentile +0.503, ucl_winner +0.28, prestige +0.27, nation_won_any +0.207, xA +0.111, signature +0.102
+  - **Tier B Pairwise Linear Ranker** (logistic regression on 53k within-season pairs, 24 features incl. abstract factors, L2 C=0.5) — **SELECTED**: Train Top1 38.1%, **Held-out Top1 50.0% (3/6: 2019 Messi + 2021 Messi + 2022 Benzema)**, Top3 66.7%, Spearman 0.528. Coefficients: goals_percentile +0.455, years_since_last_nom -0.415 (recent nomination boost), ucl_winner +0.304, nation_won_any +0.226, fair_play +0.072, is_breakthrough_young, is_veteran_last_chance, is_comeback_narrative, xG_overperformance (clinical finishing)
   - **Tier C GBM Ranker** (XGBoost rank:ndcg, max_depth 3, eta 0.05, lambda 10, alpha 5): early stopping iter 0 → overfitting, Train Top1 22.2%, Held-out Top1 16.7%, Spearman 0.425 — not selected per P3
 - **Validation (per Blueprint §4.6):**
   - **LOSO CV** (63 training seasons): A Top1 27.0% Top3 44.4% Spearman 0.322, B Top1 25.4% Top3 49.2% Top5 68.3% Spearman 0.361
