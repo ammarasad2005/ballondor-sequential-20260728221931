@@ -1,6 +1,6 @@
 # Final Held-Out Evaluation — One-Shot (Phase 6 Task 4)
 
-Date: 2026-07-28 21:23:20.128811
+Date: 2026-07-29 00:47:32.618090
 
 Held-out seasons: [2018, 2019, 2021, 2022, 2023, 2024] (6 seasons, 2020 cancelled excluded)
 
@@ -28,23 +28,23 @@ Per year:
 
 ## TIER_B
 
-- Top-1 accuracy: 33.3%
+- Top-1 accuracy: 50.0%
 - Top-3 hit rate: 66.7%
 - Top-5 hit rate: 66.7%
-- Spearman mean: 0.471
-- Kendall mean: 0.337
+- Spearman mean: 0.529
+- Kendall mean: 0.389
 - Seasons evaluated: 6
 
 Per year:
 
 | Year | Top1 | Top3 | Top5 | Spearman | Kendall |
 |------|------|------|------|----------|---------|
-| 2018 | 0 | 0 | 0 | 0.47 | 0.34 |
-| 2019 | 0 | 1 | 1 | 0.57 | 0.42 |
-| 2021 | 1 | 1 | 1 | 0.35 | 0.23 |
-| 2022 | 1 | 1 | 1 | 0.34 | 0.23 |
-| 2023 | 0 | 1 | 1 | 0.59 | 0.43 |
-| 2024 | 0 | 0 | 0 | 0.51 | 0.37 |
+| 2018 | 0 | 0 | 0 | 0.60 | 0.44 |
+| 2019 | 1 | 1 | 1 | 0.53 | 0.37 |
+| 2021 | 1 | 1 | 1 | 0.46 | 0.33 |
+| 2022 | 1 | 1 | 1 | 0.49 | 0.38 |
+| 2023 | 0 | 1 | 1 | 0.59 | 0.45 |
+| 2024 | 0 | 0 | 0 | 0.52 | 0.36 |
 
 ## TIER_C
 

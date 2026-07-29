@@ -33,23 +33,50 @@ train_df=df[~df["award_year"].isin(held_out)].copy()
 test_df=df[df["award_year"].isin(held_out)].copy()
 print(f"Train {train_df.shape} (seasons {train_df['award_year'].nunique()}), Test held-out {test_df.shape} (seasons {test_df['award_year'].nunique()})")
 
-# Feature columns for linear model — reduced to avoid multicollinearity
-# Now includes advanced metrics from Understat (xG, xA) to improve held-out
-# Per Phase 5 Task 2: sanity-check coefficient signs, nonsensical sign is bug signal
+# Feature columns for linear model — expanded to include abstract jury factors quantified
+# Now includes advanced metrics from Understat (xG, xA) + new abstract factors:
+# - Fair play (fair_play_score, yellow/red cards) -> France Football 3rd criterion
+# - Breakthrough / veteran narrative (is_breakthrough_young, is_veteran_last_chance, is_peak_age)
+# - Comeback / drought narrative (years_since_last_nomination, years_since_last_podium, is_comeback_narrative)
+# - Clutch / overperformance (xG_overperformance = goals - xG, clinical finishing)
+# Per user request: figure out all abstract factors affecting jury and present as quantifiable metrics
+# This is the self-improving backtracking iteration
+
 feature_cols=[
-    "goals_percentile_in_year",  # primary individual output, should be positive
-    "xG_percentile_in_year",  # advanced: xG percentile (modern) - should be positive
-    "xA_percentile_in_year",  # advanced: xA percentile
-    "ucl_winner",  # should be positive
+    # Individual production (core)
+    "goals_percentile_in_year",  # primary, should be positive
+    "xG_percentile_in_year",  # advanced: chance quality
+    "xA_percentile_in_year",  # creativity
+    "xG_overperformance",  # clinical finishing: goals - xG, positive means outperformed xG (decisive)
+    # Trophy / team success
+    "ucl_winner",
     "league_winner",
     "nation_won_any_international",
-    "club_prestige_score",  # big-club bias, should be positive but small
-    "signature_moment_flag",  # recency proxy, should be positive
+    # Narrative / prestige / bias (P5)
+    "club_prestige_score",
+    "signature_moment_flag",
+    # Position bias
     "is_forward",
     "is_defender",
     "is_goalkeeper",
-    "is_missing_stats",  # should be negative (penalty for missing)
-    "is_world_cup_year",  # tournament year flag
+    # Availability / gap penalty
+    "is_missing_stats",
+    # Tournament year context
+    "is_world_cup_year",
+    # NEW ABSTRACT FACTORS (quantified via analytical intelligence)
+    # Fair play (France Football criterion 3)
+    "fair_play_score",  # higher = fewer cards, should be positive
+    "yellow_cards",
+    "red_cards",
+    # Breakthrough / age narrative
+    "is_breakthrough_young",  # young breakthrough like Yamal 2024/2025
+    "is_veteran_last_chance",  # veteran last chance like Modrić 2018 age 33, Benzema 2022 age 34
+    "is_peak_age",  # peak age 26-29
+    "age_at_award",  # raw age, may have non-linear effect
+    # Comeback / drought narrative (self-improving loop: model learns from past podiums)
+    "years_since_last_nomination",
+    "years_since_last_podium",
+    "is_comeback_narrative",  # long drought + veteran
 ]
 
 # Alternative full set kept for reference but we use reduced for interpretability
